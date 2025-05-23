@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.24.201.246
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736794857174
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736795148332
+  login: 1736794190801
+money: '0'
+last-account-name: EmpZieTTV
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -3672.8990963292213
+  y: 79.0
+  z: 4984.237295271605
+  yaw: -97.0625
+  pitch: 27.899953842163086
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -30.608630524891684
+  y: 112.0
+  z: -69.90410296405696
+  yaw: -68.5555419921875
+  pitch: 24.750356674194336

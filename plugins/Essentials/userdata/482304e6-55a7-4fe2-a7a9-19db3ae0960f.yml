@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.196.217.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744721509645
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744721682400
+  login: 1744721252150
+money: '0'
+last-account-name: ThePotato3
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: -2907.942865498824
+  y: 88.79673560066871
+  z: -2960.2362488652584
+  yaw: -158.4935760498047
+  pitch: 17.780681610107422
+logoutlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: -2907.942865498824
+  y: 88.79673560066871
+  z: -2960.2362488652584
+  yaw: -158.4935760498047
+  pitch: 17.780681610107422

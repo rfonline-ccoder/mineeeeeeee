@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 200.91.130.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737774846708
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737778054102
+  login: 1737777086177
+money: '0'
+last-account-name: Frijolitov2
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -6.9551294971723
+  y: 100.0
+  z: 14.931355906018075
+  yaw: 78.38995361328125
+  pitch: 3.7499799728393555
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -20.69999998807907
+  y: 98.0
+  z: 26.69999998807907
+  yaw: -80.59210968017578
+  pitch: 4.950096130371094

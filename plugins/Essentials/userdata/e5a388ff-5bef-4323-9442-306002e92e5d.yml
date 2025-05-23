@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 59.10.234.165
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736686331992
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736686425157
+  login: 1736686297044
+money: '5.93'
+last-account-name: ChocoBear_
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -3123.145026779193
+  y: 38.0
+  z: 4862.351778584652
+  yaw: -82.44377899169922
+  pitch: 45.5706901550293
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 4.408390481040295
+  y: 99.5
+  z: 3.699757164365096
+  yaw: -127.81120300292969
+  pitch: 13.823531150817871

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.80.125.66
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742131717738
+  login: 1742131636286
+money: '0'
+last-account-name: Mistter_
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 6.724455443339932
+  y: 99.5
+  z: 0.6762561438597001
+  yaw: -93.64251708984375
+  pitch: -14.099896430969238
+logoutlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 2411.1843792962945
+  y: 79.0
+  z: 2237.7307518739003
+  yaw: 73.00808715820312
+  pitch: 11.250090599060059

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.189.208.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744747158904
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744747462202
+  login: 1744746949822
+money: '0'
+last-account-name: NotKyru
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -6.5
+  y: 100.0
+  z: -8.5
+  yaw: -84.34256744384766
+  pitch: 12.600111961364746
+logoutlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: -4997.177970707603
+  y: 64.0
+  z: -4793.699999988079
+  yaw: -172.9929656982422
+  pitch: 23.25001335144043

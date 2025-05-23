@@ -1,0 +1,19 @@
+name: alfredd_VT
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - ranks;22/04/2025
+    - jobs;22/04/2025
+    - guide;22/04/2025
+    - help;22/04/2025
+    - kits;22/04/2025
+    - quests;22/04/2025
+    - emotes;22/04/2025
+    - skills;22/04/2025
+    - auctionhouse;22/04/2025
+    - shop;22/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;22/04/2025

@@ -1,0 +1,15 @@
+name: SolatarX
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - kits;16/03/2025
+    - shop;16/03/2025
+    - skills;16/03/2025
+    - quests;16/03/2025
+    - guide;16/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;16/03/2025
+    - survival;16/03/2025

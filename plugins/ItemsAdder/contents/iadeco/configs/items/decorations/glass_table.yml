@@ -1,0 +1,15 @@
+info:
+  namespace: iadeco
+items:
+  glass_table:
+    enabled: true
+    display_name: Glass Table
+    permission: iadeco.decorations.glass_table
+    resource:
+      material: PAPER
+      generate: false
+      model_path: glass_table
+    behaviours:
+      furniture:
+        small: true
+        solid: true

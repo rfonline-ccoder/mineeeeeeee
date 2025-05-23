@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.62.116.225
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746000155254
+  login: 1746000059053
+money: '0'
+last-account-name: Duusi
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 3717.0943069224813
+  y: 103.0
+  z: -1219.9321522624457
+  yaw: -157.09205627441406
+  pitch: 3.9000978469848633
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.48305001616648297
+  y: 100.0
+  z: 0.48121179469108083
+  yaw: 116.80781555175781
+  pitch: -9.89989185333252

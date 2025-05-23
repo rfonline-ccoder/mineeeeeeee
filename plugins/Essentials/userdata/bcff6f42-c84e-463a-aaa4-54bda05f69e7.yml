@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 101.94.248.18
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742642856989
+  login: 1742642031589
+money: '0'
+last-account-name: AP_Bluecat
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -1522.2730182549292
+  y: 138.0
+  z: -2093.738780580561
+  yaw: -34.542694091796875
+  pitch: 27.91176986694336
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.6621757802911845
+  y: 99.5
+  z: -5.2879395926253405
+  yaw: -57.56597900390625
+  pitch: 29.705015182495117

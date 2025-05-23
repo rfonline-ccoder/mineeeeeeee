@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.67.232.218
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743138674802
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744174810731
+  login: 1744173866461
+money: '0'
+last-account-name: Neferite
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -4292.919051870463
+  y: 119.0
+  z: -148.24276608616924
+  yaw: -114.66184997558594
+  pitch: 46.20021438598633
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -4.500946735116094
+  y: 99.5
+  z: 0.5988015182989198
+  yaw: 107.65756225585938
+  pitch: -5.099842071533203
+past-usernames:
+- Niaeva

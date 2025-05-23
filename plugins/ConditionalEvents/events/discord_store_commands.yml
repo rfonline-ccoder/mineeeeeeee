@@ -1,0 +1,33 @@
+Events:
+  discord_command:
+    type: player_command
+    conditions:
+    - "%command% equals /discord"
+    actions:
+      default:
+      - "message: "
+      - "centered_message: &3● &lᴅɪꜱᴄᴏʀᴅ &3●"
+      - "centered_message: "
+      - "message: "
+      - "centered_message: &fᴊᴏɪɴ ᴏᴜʀ &3ᴅɪꜱᴄᴏʀᴅ ꜱᴇʀᴠᴇʀ &fʙʏ ᴄʟɪᴄᴋɪɴɢ ᴛʜᴇ &3ʟɪɴᴋ &fʙᴇʟᴏᴡ:"
+      - "centered_message: "
+      - "centered_message: &b&nhttps://discord.gg/yzTscjM45N"
+      - "centered_message: "
+      - "centered_message: "
+      - "playsound: BLOCK_AMETHYST_BLOCK_PLACE;10;0.1"   
+  store_command:
+    type: player_command
+    conditions:
+    - "%command% equals /store"
+    actions:
+      default:
+      - "message: "
+      - "centered_message: &6● &lꜱᴛᴏʀᴇ &6●"
+      - "centered_message: "
+      - "message: "
+      - "centered_message: &fᴠɪꜱɪᴛ ᴏᴜʀ &6ꜱᴛᴏʀᴇ &fᴛᴏ ɢᴇᴛ &6ʀᴀɴᴋꜱ &fᴀɴᴅ ᴅɪꜰꜰᴇʀᴇɴᴛ &6ᴘᴇʀᴋꜱ&f:"
+      - "centered_message: "
+      - "centered_message: &6&nhttps://hyperdev.craftingstore.net/"
+      - "centered_message: "
+      - "centered_message: "
+      - "playsound: BLOCK_AMETHYST_BLOCK_PLACE;10;0.1" 

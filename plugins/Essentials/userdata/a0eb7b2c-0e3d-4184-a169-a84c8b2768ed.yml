@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.102.10.133
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1741563391619
+  login: 1741563385316
+money: '0'
+last-account-name: Servetim
+lastlocation:
+  world: 876b0e4d-60b2-410c-ad36-47acf21c0c26
+  world-name: world
+  x: 24.495096130772772
+  y: 91.0
+  z: -23.52882885160071
+  yaw: 0.4499977231025696
+  pitch: -1.6500009298324585
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 2.355947506065864
+  y: 99.5
+  z: 3.972976125152036
+  yaw: -108.64199829101562
+  pitch: 23.54991912841797

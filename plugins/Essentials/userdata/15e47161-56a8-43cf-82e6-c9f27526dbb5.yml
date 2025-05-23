@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.168.80.19
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1738772865982
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739035468004
+  login: 1739035363575
+money: '0'
+last-account-name: Joris92
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 2135.4161005087612
+  y: 61.3447089655197
+  z: 4960.697282359169
+  yaw: 59.056640625
+  pitch: -5.700016498565674
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -70.28335233658585
+  y: 116.0
+  z: 6.557090776061292
+  yaw: -9.4918212890625
+  pitch: 22.5001163482666

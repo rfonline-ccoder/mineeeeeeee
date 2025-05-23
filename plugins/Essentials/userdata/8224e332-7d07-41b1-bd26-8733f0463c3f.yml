@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 62.194.14.202
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734948878091
+  login: 1734948410466
+money: '0'
+last-account-name: LiLCut
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 8.873660549040721
+  y: 100.0
+  z: 0.5002194017867625
+  yaw: -89.59223937988281
+  pitch: 9.600107192993164
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -2125.2033032362133
+  y: 67.5753455594904
+  z: 1179.1105333933833
+  yaw: -1.0940643548965454
+  pitch: 42.14997100830078

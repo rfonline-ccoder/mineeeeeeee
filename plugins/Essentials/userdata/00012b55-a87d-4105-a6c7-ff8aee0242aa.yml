@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.230.91.6
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732714633349
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732726391466
+  login: 1732726382808
+money: '0'
+last-account-name: Ens_5734
+lastlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: 3899.0459939250622
+  y: 57.0
+  z: -1096.7924255568676
+  yaw: 176.1044464111328
+  pitch: 0.9704422950744629
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 14.300000011920929
+  y: 115.0
+  z: 49.11443775944533
+  yaw: 5.282222270965576
+  pitch: 20.048240661621094

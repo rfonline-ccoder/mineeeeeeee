@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.67.199.211
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1740767677423
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740767809383
+  login: 1740767369148
+money: '0'
+last-account-name: Th30R
+lastlocation:
+  world: 29e86ec3-e2a8-4d06-a2c0-31fbf5a34881
+  world-name: parkour
+  x: 8.668026618139493
+  y: 140.0
+  z: 5.304786296682484
+  yaw: -72.45001983642578
+  pitch: 21.300010681152344
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -0.3127165803447333
+  y: 100.0
+  z: 17.15108244647964
+  yaw: -15.642145156860352
+  pitch: 3.4501123428344727

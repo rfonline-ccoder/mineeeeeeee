@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.163.15.154
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743269610147
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743269672497
+  login: 1743269214596
+money: '0'
+last-account-name: CawoGrexik
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -9.047952765232516
+  y: 100.0
+  z: -4.521083213520129
+  yaw: 49.45941162109375
+  pitch: 6.4501118659973145
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -12.923241179192038
+  y: 100.0
+  z: 11.519551306768697
+  yaw: -106.83843231201172
+  pitch: 13.050091743469238
+homes:
+  home:
+    world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+    world-name: survival
+    x: -3438.534380937753
+    y: 63.0
+    z: -747.6999999880791
+    yaw: -155.89352416992188
+    pitch: 11.250123977661133

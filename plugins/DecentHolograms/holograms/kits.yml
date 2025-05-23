@@ -1,0 +1,18 @@
+location: Spawn:-4.517:104.000:-11.509
+enabled: true
+display-range: 96
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&#f77800&lKITS &f%img_npc_tag%'
+    height: 0.3
+  - content: '&#EBEBEBᴄʟᴀɪᴍ ᴏʀ ᴘʀᴇᴠɪᴇᴡ ᴛʜᴇ ᴋɪᴛꜱ'
+    height: 0.3
+  - content: '&f%img_rclick_icon% ᴛᴏ ᴏᴘᴇɴ'
+    height: 0.3
+  - content: ''
+    height: 0.3
+  actions: {}

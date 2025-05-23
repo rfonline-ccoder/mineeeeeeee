@@ -1,0 +1,19 @@
+name: kvmie
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - skills;26/04/2025
+    - emotes;26/04/2025
+    - kits;26/04/2025
+    - ranks;26/04/2025
+    - shop;26/04/2025
+    - auctionhouse;26/04/2025
+    - jobs;26/04/2025
+    - quests;26/04/2025
+    - help;26/04/2025
+    - guide;26/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;26/04/2025

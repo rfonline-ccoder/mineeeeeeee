@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 140.177.116.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730148791827
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731775529689
+  login: 1731774599778
+money: '0'
+last-account-name: KingJP3x
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 2.653456899475383
+  y: 100.0
+  z: -0.4124621042703965
+  yaw: -97.54224395751953
+  pitch: -2.549891471862793
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -22.69999998807907
+  y: 98.0
+  z: 24.69999998807907
+  yaw: 46.60675048828125
+  pitch: -35.700008392333984

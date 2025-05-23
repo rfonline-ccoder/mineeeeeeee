@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  vyderlight_sword:
+    enabled: true
+    display_name: Vyderlight Sword
+    permission: iasurvival.special.vyderlight_sword
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+        - item/swords/vyderlight_sword

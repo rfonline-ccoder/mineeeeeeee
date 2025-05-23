@@ -1,0 +1,58 @@
+info:
+  namespace: extra_food_pack
+categories:
+  extra_food_pack:
+    enabled: true
+    name: "Extra Food Pack"
+    title: ""
+    icon: extra_food_pack:hamburger
+    items:
+      - extra_food_pack:acorn
+      - extra_food_pack:bacon
+      - extra_food_pack:banana
+      - extra_food_pack:beer
+      - extra_food_pack:boba
+      - extra_food_pack:bread
+      - extra_food_pack:broccoli
+      - extra_food_pack:burrito
+      - extra_food_pack:pie
+      - extra_food_pack:cheese
+      - extra_food_pack:schokolade
+      - extra_food_pack:coca-cola
+      - extra_food_pack:coconut
+      - extra_food_pack:cookie-donut
+      - extra_food_pack:cotton-candy
+      - extra_food_pack:donut
+      - extra_food_pack:fanta
+      - extra_food_pack:fry-egg
+      - extra_food_pack:ham
+      - extra_food_pack:hamburger
+      - extra_food_pack:honey
+      - extra_food_pack:hotdog
+      - extra_food_pack:strawberry-icecream
+      - extra_food_pack:icecream
+      - extra_food_pack:jelly-candy
+      - extra_food_pack:mango
+      - extra_food_pack:muffin
+      - extra_food_pack:nutella
+      - extra_food_pack:onion
+      - extra_food_pack:oreo
+      - extra_food_pack:peach
+      - extra_food_pack:pear
+      - extra_food_pack:pepsi-cola
+      - extra_food_pack:pie
+      - extra_food_pack:pie-slice
+      - extra_food_pack:pizza
+      - extra_food_pack:plumet
+      - extra_food_pack:popcorn
+      - extra_food_pack:pumpkin
+      - extra_food_pack:sprite
+      - extra_food_pack:strawberry
+      - extra_food_pack:strawberry-jam
+      - extra_food_pack:taco
+      - extra_food_pack:toast
+      - extra_food_pack:tofu
+      - extra_food_pack:tomato
+      - extra_food_pack:waffle
+
+

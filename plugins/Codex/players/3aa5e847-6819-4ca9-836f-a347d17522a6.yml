@@ -1,0 +1,13 @@
+name: ja_toxly
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - emotes;25/03/2025
+    - auctionhouse;25/03/2025
+    - shop;25/03/2025
+    - ranks;25/03/2025
+    - jobs;25/03/2025
+    - guide;25/03/2025
+    - help;25/03/2025
+    - quests;25/03/2025

@@ -1,0 +1,32 @@
+# default config.yml for ConsoleSpamFixReborn
+# config version 1.11.2
+
+#Add here the messages you want to hide from your console and logs.
+#Each line represents a new message.
+#NOTE! You dont need to add the full message!
+#The plugin will hide all messages that contain the text added below.
+#  EXAMPLE:
+#
+#    Messages-To-Hide-Filter:
+#    - 'No new version available'
+#
+#  All messages that will appear in the server console that contain these words 'WARNING: unlocalizedName' will be hidden and they will not appear on logs or console.
+#  If you have large errors you dont have to type the full error. But the more words you add the more accurate will be and will not hide other messages that may contain the words added in the filter.
+
+Messages-To-Hide-Filter:
+- 'Value changed!'
+- 'Recoverable errors when loading section'
+- 'Recoverable errors when loading section'
+- 'Could not pass event PrepareItemCraftEvent to ItemsAdder v4.0.2-beta-release-12'
+- 'Tried to load invalid item:'
+- 'Player has bypass permission. Value NOT changed'
+- 'Sending class statistics to bStats. You can ignore this'
+- 'gprotector'
+
+
+#Chat messages with color and format codes support.
+#Minecraft Color and Format Codes: http://minecraft.gamepedia.com/Formatting_codes    
+ChatMessages:
+    NoPermission: '[System] You don''t have permission!'
+    CmdHelp: '[System] &cAvailable commands:&6 /csf reload'
+    CmdReload: '[System] Config reload complete!'

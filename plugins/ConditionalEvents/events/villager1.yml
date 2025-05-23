@@ -1,0 +1,23 @@
+Events:
+  villager_1: #LOYD
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 27"
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.npc.interacting true"
+      - "message: "
+      - "message: %img_villager%  Hey, are you %player%?"
+      - "message:                     When did you arrive?"
+      - "message: &7(1/2)"
+      - "message: "
+      - "wait: 6"
+      - "message: "
+      - "message: %img_villager%  Nevermind, enjoy the town, and if you"
+      - "message:                     see my brother &bJeremy&f, tell him"
+      - "message:                     that I'm still waiting for him to return"
+      - "message:                     the axe he borrowed from my things..."
+      - "message: &7(2/2)"
+      - "message: "
+      - "console_command: lp user %player% permission unset conditionalevents.npc.interacting"            

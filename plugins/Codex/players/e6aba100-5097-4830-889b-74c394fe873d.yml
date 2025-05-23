@@ -1,0 +1,14 @@
+name: alexandru_1725
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - skills;25/04/2025
+    - emotes;25/04/2025
+    - quests;25/04/2025
+    - kits;25/04/2025
+    - help;25/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;25/04/2025

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 138.84.54.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737573489763
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737573522240
+  login: 1737572930317
+money: '0'
+last-account-name: SoyFrozed
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -1014.7389709433195
+  y: 105.0
+  z: 3714.1488946133736
+  yaw: -84.79241180419922
+  pitch: 12.300159454345703
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 5.5
+  y: 100.0
+  z: 10.5
+  yaw: 7.007875919342041
+  pitch: 54.000118255615234

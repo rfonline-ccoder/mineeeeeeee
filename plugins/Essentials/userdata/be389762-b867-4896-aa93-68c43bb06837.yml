@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.57.28.243
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739489171995
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740572592587
+  login: 1740572575569
+money: '0'
+last-account-name: qRias
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -44.39897641297403
+  y: 108.0
+  z: 33.53953529185686
+  yaw: 35.033935546875
+  pitch: -0.9866154789924622
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -38.09460001936255
+  y: 103.0
+  z: 12.76312961871665
+  yaw: -79.56390380859375
+  pitch: 11.903610229492188

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.190.125.53
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735751077556
+  login: 1735751057121
+money: '0'
+last-account-name: Nooaah17
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 1763.7425847073634
+  y: 69.0
+  z: 1380.8232568921387
+  yaw: 133.34478759765625
+  pitch: -0.5400155782699585
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -273.82681653617226
+  y: 72.0
+  z: 4195.435829062294
+  yaw: -137.5399169921875
+  pitch: 17.107728958129883

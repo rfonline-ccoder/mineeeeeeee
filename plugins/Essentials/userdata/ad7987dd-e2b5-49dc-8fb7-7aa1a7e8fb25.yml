@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.253.162.164
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1742684416318
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742684586890
+  login: 1742684213658
+money: '0'
+last-account-name: MrPixis
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 7.996889555029164
+  y: 99.5
+  z: 0.8024948389151396
+  yaw: 47.730316162109375
+  pitch: 30.312454223632812
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 942.5197266069333
+  y: 68.0
+  z: -339.69999998807907
+  yaw: -151.17613220214844
+  pitch: 5.67258358001709

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.14.68.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744697739475
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744793447300
+  login: 1744791922300
+money: '0'
+last-account-name: zombieslayr420
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 29.978434323764805
+  y: -312.0118161929901
+  z: -4.1881925940923885
+  yaw: -33.04512405395508
+  pitch: 25.73922348022461
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.38583491762478495
+  y: 100.0
+  z: 9.804198145385863
+  yaw: -170.85350036621094
+  pitch: 19.157489776611328

@@ -1,0 +1,12 @@
+info:
+  namespace: iaweapons
+items:
+  clip:
+    enabled: true
+    display_name: Clip
+    permission: iaweapons.items.clip
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - clip

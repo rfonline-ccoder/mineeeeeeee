@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.30.173.168
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731880517717
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731880879975
+  login: 1731880470152
+money: '300'
+last-account-name: Datobyy
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -2.0839177325635476
+  y: 99.5
+  z: 7.953888575708651
+  yaw: 8.50640869140625
+  pitch: 9.600050926208496
+homes:
+  home:
+    world: 733355ae-a633-4848-98f1-34580544aec0
+    world-name: survival
+    x: 2819.864033234465
+    y: 93.0
+    z: 1449.2354721624185
+    yaw: 75.1107177734375
+    pitch: 9.600358963012695
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -2.892283103296043
+  y: 99.5
+  z: 3.1552685029313907
+  yaw: -12.641190528869629
+  pitch: 9.900093078613281

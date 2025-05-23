@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.72.39.60
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735745987823
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735746471749
+  login: 1735745980531
+money: '0'
+last-account-name: Zarroc79
+lastlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: 3285.37063677484
+  y: 57.0
+  z: -3708.921287582186
+  yaw: 169.29234313964844
+  pitch: 41.134979248046875
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -25.905588304570376
+  y: 101.0
+  z: 25.513024705761037
+  yaw: -174.77391052246094
+  pitch: 17.98233985900879

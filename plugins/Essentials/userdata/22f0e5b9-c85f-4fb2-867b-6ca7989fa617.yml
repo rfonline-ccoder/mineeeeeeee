@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 74.211.48.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1738456980548
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738457533593
+  login: 1738456442159
+money: '0'
+last-account-name: Vilsike_
+lastlocation:
+  world: ebbea3ca-f758-4f6c-b528-077c36b9914e
+  world-name: world_nether
+  x: 44.5
+  y: 45.0
+  z: -24.5
+  yaw: 4.207139015197754
+  pitch: -2.770310878753662
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 6.568298961209377
+  y: 99.5
+  z: 0.9111771902728492
+  yaw: -87.79224395751953
+  pitch: -5.8499064445495605

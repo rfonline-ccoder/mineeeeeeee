@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.119.92.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730716634622
+  login: 1730716494128
+money: '0'
+last-account-name: ginetzz
+lastlocation:
+  world: 876b0e4d-60b2-410c-ad36-47acf21c0c26
+  world-name: world
+  x: 24.495096130772772
+  y: 91.0
+  z: -23.52882885160071
+  yaw: 0.4499977231025696
+  pitch: -1.6500009298324585
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 1.3392370274870893
+  y: 99.5
+  z: -4.206115252341086
+  yaw: 131.20880126953125
+  pitch: -7.949817657470703

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.251.242.118
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745778128449
+  login: 1745777721934
+money: '0'
+last-account-name: MarsKoenker
+lastlocation:
+  world: 0cc3f169-8b79-4ee7-b551-63565fb90a0e
+  world-name: world
+  x: 24.495096130772772
+  y: 91.0
+  z: -23.52882885160071
+  yaw: 0.4499977231025696
+  pitch: -1.6500009298324585
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.9701026085001572
+  y: 99.5
+  z: -2.5304926707868276
+  yaw: -46.24176025390625
+  pitch: 16.977529525756836

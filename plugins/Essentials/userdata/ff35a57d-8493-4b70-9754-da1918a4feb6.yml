@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.150.165.242
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737244866862
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737303522188
+  login: 1737303142960
+money: '0'
+last-account-name: gkhaavik
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -8.061587829144841
+  y: 99.5
+  z: 0.501068838245547
+  yaw: 89.20797729492188
+  pitch: -7.499890327453613
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -0.6419993850522504
+  y: 100.5
+  z: 12.10021204942198
+  yaw: -39.959815979003906
+  pitch: -4.950023651123047

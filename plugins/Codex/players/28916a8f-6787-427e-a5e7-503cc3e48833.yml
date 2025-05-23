@@ -1,0 +1,19 @@
+name: Damien111
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - quests;01/03/2025
+    - jobs;01/03/2025
+    - ranks;01/03/2025
+    - shop;01/03/2025
+    - auctionhouse;01/03/2025
+    - skills;01/03/2025
+    - emotes;01/03/2025
+    - guide;01/03/2025
+    - kits;01/03/2025
+    - help;02/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;01/03/2025

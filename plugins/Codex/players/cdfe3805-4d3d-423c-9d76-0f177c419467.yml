@@ -1,0 +1,13 @@
+name: Test124
+categories:
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;19/04/2025
+  npc:
+    completed: false
+    discoveries:
+    - auctionhouse;19/04/2025
+    - shop;19/04/2025
+    - jobs;19/04/2025
+    - guide;19/04/2025

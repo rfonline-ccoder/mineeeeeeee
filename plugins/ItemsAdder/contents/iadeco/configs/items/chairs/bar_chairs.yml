@@ -1,0 +1,243 @@
+info:
+  namespace: iadeco
+items:
+  white_bar_chair:
+    enabled: true
+    display_name: White Bar Chair
+    permission: iadeco.chairs.bar_chairs.white_bar_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: white_bar_chair
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+      furniture_sit:
+        sit_height: 0.9
+  orange_bar_chair:
+    enabled: true
+    display_name: Orange Bar Chair
+    permission: iadeco.chairs.bar_chairs.orange_bar_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: orange_bar_chair
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+      furniture_sit:
+        sit_height: 0.9
+  magenta_bar_chair:
+    enabled: true
+    display_name: Magenta Bar Chair
+    permission: iadeco.chairs.bar_chairs.magenta_bar_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: magenta_bar_chair
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+      furniture_sit:
+        sit_height: 0.9
+  light_blue_bar_chair:
+    enabled: true
+    display_name: Light Blue Bar Chair
+    permission: iadeco.chairs.bar_chairs.light_blue_bar_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: light_blue_bar_chair
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+      furniture_sit:
+        sit_height: 0.9
+  yellow_bar_chair:
+    enabled: true
+    display_name: Yellow Bar Chair
+    permission: iadeco.chairs.bar_chairs.yellow_bar_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: yellow_bar_chair
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+      furniture_sit:
+        sit_height: 0.9
+  lime_bar_chair:
+    enabled: true
+    display_name: Lime Bar Chair
+    permission: iadeco.chairs.bar_chairs.lime_bar_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: lime_bar_chair
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+      furniture_sit:
+        sit_height: 0.9
+  pink_bar_chair:
+    enabled: true
+    display_name: Pink Bar Chair
+    permission: iadeco.chairs.bar_chairs.pink_bar_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: pink_bar_chair
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+      furniture_sit:
+        sit_height: 0.9
+  gray_bar_chair:
+    enabled: true
+    display_name: Gray Bar Chair
+    permission: iadeco.chairs.bar_chairs.gray_bar_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: gray_bar_chair
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+      furniture_sit:
+        sit_height: 0.9
+  light_gray_bar_chair:
+    enabled: true
+    display_name: Light Gray Bar Chair
+    permission: iadeco.chairs.bar_chairs.light_gray_bar_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: light_gray_bar_chair
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+      furniture_sit:
+        sit_height: 0.9
+  cyan_bar_chair:
+    enabled: true
+    display_name: Cyan Bar Chair
+    permission: iadeco.chairs.bar_chairs.cyan_bar_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: cyan_bar_chair
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+      furniture_sit:
+        sit_height: 0.9
+  purple_bar_chair:
+    enabled: true
+    display_name: Purple Bar Chair
+    permission: iadeco.chairs.bar_chairs.purple_bar_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: purple_bar_chair
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+      furniture_sit:
+        sit_height: 0.9
+  blue_bar_chair:
+    enabled: true
+    display_name: Blue Bar Chair
+    permission: iadeco.chairs.bar_chairs.blue_bar_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: blue_bar_chair
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+      furniture_sit:
+        sit_height: 0.9
+  brown_bar_chair:
+    enabled: true
+    display_name: Brown Bar Chair
+    permission: iadeco.chairs.bar_chairs.brown_bar_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: brown_bar_chair
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+      furniture_sit:
+        sit_height: 0.9
+  green_bar_chair:
+    enabled: true
+    display_name: Green Bar Chair
+    permission: iadeco.chairs.bar_chairs.green_bar_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: green_bar_chair
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+      furniture_sit:
+        sit_height: 0.9
+  red_bar_chair:
+    enabled: true
+    display_name: Red Bar Chair
+    permission: iadeco.chairs.bar_chairs.red_bar_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: red_bar_chair
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+      furniture_sit:
+        sit_height: 0.9
+  black_bar_chair:
+    enabled: true
+    display_name: Black Bar Chair
+    permission: iadeco.chairs.bar_chairs.black_bar_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: black_bar_chair
+    behaviours:
+      furniture:
+        gravity: false
+        fixed_rotation: false
+        small: true
+      furniture_sit:
+        sit_height: 0.9

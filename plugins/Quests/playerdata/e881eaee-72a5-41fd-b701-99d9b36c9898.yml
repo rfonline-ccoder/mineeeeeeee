@@ -1,0 +1,19 @@
+quest-progress:
+  miner1:
+    started: true
+    started-date: 1745887350463
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+  playtime1:
+    started: true
+    started-date: 1745888033804
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      playtime:
+        completed: false

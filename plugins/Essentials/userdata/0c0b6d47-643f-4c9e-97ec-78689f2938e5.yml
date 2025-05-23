@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.247.81.115
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1738787866038
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1741972578634
+  login: 1741972359774
+money: '0'
+last-account-name: Balthou
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -31.33360928026947
+  y: -300.192429267153
+  z: 81.15501238014983
+  yaw: -178.10462951660156
+  pitch: 50.25016784667969
+homes:
+  home:
+    world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+    world-name: resourceworld
+    x: -1846.5
+    y: 71.0
+    z: -400.5
+    yaw: 32.367088317871094
+    pitch: 16.200233459472656
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -86.3549250997893
+  y: 126.0
+  z: -66.30000001192093
+  yaw: -4.24261474609375
+  pitch: 33.75000762939453

@@ -1,0 +1,30 @@
+quest-progress:
+  miner1:
+    started: true
+    started-date: 1735836376469
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+        progress: 5
+  playtime1:
+    started: false
+    started-date: 1735899974203
+    completed: true
+    completed-before: true
+    completion-date: 1735899974203
+    task-progress:
+      playtime:
+        completed: false
+  playtime2:
+    started: true
+    started-date: 1735916075627
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      playtime:
+        completed: false
+        progress: 52

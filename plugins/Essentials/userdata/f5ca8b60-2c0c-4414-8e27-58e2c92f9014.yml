@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 47.145.102.36
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735671509516
+  login: 1735671377947
+money: '0'
+last-account-name: KeeksteronMc
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -1616.0481277300744
+  y: 114.0
+  z: 2972.3396523108504
+  yaw: -116.67770385742188
+  pitch: 35.971351623535156
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -1127.2572530914472
+  y: 111.0
+  z: 2481.9265294090833
+  yaw: 55.386722564697266
+  pitch: -21.032760620117188

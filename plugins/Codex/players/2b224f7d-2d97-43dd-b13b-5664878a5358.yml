@@ -1,0 +1,19 @@
+name: ByDesTrO
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - jobs;30/04/2025
+    - ranks;30/04/2025
+    - shop;30/04/2025
+    - auctionhouse;30/04/2025
+    - skills;30/04/2025
+    - emotes;30/04/2025
+    - quests;30/04/2025
+    - kits;30/04/2025
+    - help;30/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;30/04/2025
+    - survival;30/04/2025

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.51.62.166
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730730348332
+  login: 1730730068657
+money: '0'
+last-account-name: Mwoarten
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 7.845705014364184
+  y: 99.5
+  z: 0.9468911125963531
+  yaw: -87.49217987060547
+  pitch: -10.94975471496582
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -326.69999998807907
+  y: 72.0
+  z: -2892.6325849413483
+  yaw: 75.10604858398438
+  pitch: 16.499940872192383

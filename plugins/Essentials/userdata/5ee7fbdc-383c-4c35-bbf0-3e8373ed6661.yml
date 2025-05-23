@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.3.24.220
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730011860831
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730012253157
+  login: 1730011687887
+money: '0'
+last-account-name: LexDev
+lastlocation:
+  world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+  world-name: survival
+  x: 723.7245525976974
+  y: 106.0
+  z: 3963.832927902622
+  yaw: 49.08784866333008
+  pitch: 67.79985809326172
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -5.285471111295966
+  y: 99.5
+  z: -2.8475974838625047
+  yaw: 163.4580078125
+  pitch: 22.94999885559082

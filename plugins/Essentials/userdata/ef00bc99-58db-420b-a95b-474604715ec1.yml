@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 87.166.28.200
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739820482868
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744752638800
+  login: 1744752533792
+money: '0.0'
+last-account-name: berottii
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.0
+  y: -341.98129028597464
+  z: 0.0
+  yaw: -3.900003433227539
+  pitch: 12.00001049041748
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 2.1540111436823985
+  y: 99.5
+  z: -4.9286056356882
+  yaw: 143.8074951171875
+  pitch: 13.349964141845703

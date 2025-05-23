@@ -1,0 +1,14 @@
+name: _Jibz
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - shop;16/03/2025
+    - ranks;16/03/2025
+    - jobs;16/03/2025
+    - skills;16/03/2025
+    - guide;15/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;16/03/2025

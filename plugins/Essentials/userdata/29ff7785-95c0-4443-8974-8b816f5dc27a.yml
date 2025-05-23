@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.211.85.108
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742667924739
+  login: 1742667907938
+money: '0'
+last-account-name: Nico_221
+lastlocation:
+  world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+  world-name: survival
+  x: 1144.4950666215348
+  y: 71.0
+  z: 850.0149814949084
+  yaw: 162.9642333984375
+  pitch: 13.500251770019531
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -15.216211948656914
+  y: 100.0
+  z: -23.36338167547431
+  yaw: 153.8275604248047
+  pitch: 10.05004596710205

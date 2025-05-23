@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 87.244.217.145
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1741978192614
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1741978286138
+  login: 1741978167230
+money: '0'
+last-account-name: cr1m0
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 37.9529175563177
+  y: -236.08076106862015
+  z: -25.272124796767418
+  yaw: 44.35760498046875
+  pitch: -71.10000610351562
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 2.289999771312693
+  y: 99.5
+  z: 7.14619835065032
+  yaw: -66.79315185546875
+  pitch: 3.6000967025756836
+homes:
+  home:
+    world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+    world-name: survival
+    x: -1412.5767079539712
+    y: 80.0
+    z: -1975.5774640236282
+    yaw: -102.34033203125
+    pitch: 30.900148391723633

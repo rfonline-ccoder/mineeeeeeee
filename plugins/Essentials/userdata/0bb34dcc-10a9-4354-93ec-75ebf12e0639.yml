@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 58.237.188.161
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735889063204
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736087970033
+  login: 1736087776764
+money: '0'
+last-account-name: Zakbyeol__
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 4149.325200230659
+  y: 5.0
+  z: -3333.402884268731
+  yaw: 90.2530517578125
+  pitch: 13.769868850708008
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 5.226962151892746
+  y: 99.5
+  z: 0.5163828504652981
+  yaw: -85.39013671875
+  pitch: 17.511606216430664

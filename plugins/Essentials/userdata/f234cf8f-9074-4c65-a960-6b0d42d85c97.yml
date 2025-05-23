@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 146.158.126.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1741939176650
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1741939357785
+  login: 1741938900730
+money: '0'
+last-account-name: Dobrich
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -64.37439935900441
+  y: 112.0
+  z: 45.60884611186395
+  yaw: -99.64202880859375
+  pitch: 7.95031213760376
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -50.366644340966545
+  y: 111.0
+  z: 34.37117109515917
+  yaw: -164.28668212890625
+  pitch: 13.950174331665039

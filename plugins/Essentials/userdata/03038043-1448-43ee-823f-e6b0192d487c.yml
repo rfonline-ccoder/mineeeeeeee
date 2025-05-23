@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.113.13.164
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744129972439
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744129994516
+  login: 1744129742572
+money: '53'
+last-account-name: SamX_Official
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 812.0395167171283
+  y: 125.0
+  z: -2901.0811780606423
+  yaw: 156.10874938964844
+  pitch: 16.050077438354492
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -14.08405895199081
+  y: 100.0
+  z: -17.234081664249914
+  yaw: 81.85781860351562
+  pitch: 4.050112724304199

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.26.197.87
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743123472696
+  login: 1743123353329
+money: '0'
+last-account-name: Revoolt
+lastlocation:
+  world: 876b0e4d-60b2-410c-ad36-47acf21c0c26
+  world-name: world
+  x: 24.495096130772772
+  y: 91.0
+  z: -23.52882885160071
+  yaw: 0.4499977231025696
+  pitch: -1.6500009298324585
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 2.0885005566025856
+  y: 99.5
+  z: 3.565977351088976
+  yaw: -21.49322509765625
+  pitch: 12.000086784362793

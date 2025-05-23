@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 139.47.51.227
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743018069629
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743018274521
+  login: 1743017577551
+money: '0'
+last-account-name: Brigitte2
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -265.0583235872623
+  y: 82.0
+  z: 1903.8936333951483
+  yaw: -38.29197311401367
+  pitch: 2.3573637008666992E-5
+homes:
+  casa:
+    world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+    world-name: resourceworld
+    x: -2392.7356571289138
+    y: 103.0
+    z: -4162.129357395874
+    yaw: -42.64227294921875
+    pitch: 28.950090408325195
+logoutlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: 1568.7928000440932
+  y: 62.0
+  z: -1106.5141939616956
+  yaw: -75.64199829101562
+  pitch: 11.400004386901855

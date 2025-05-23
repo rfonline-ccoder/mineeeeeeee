@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.205.120.166
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1729780770827
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729781089940
+  login: 1729780480905
+money: '0'
+last-account-name: AFK550
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -9.022004778816141
+  y: 100.0
+  z: 0.6988181366969082
+  yaw: 77.50738525390625
+  pitch: 12.600058555603027
+homes:
+  home:
+    world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+    world-name: survival
+    x: -2942.772032125057
+    y: 143.0
+    z: 4126.758052020855
+    yaw: -87.19259643554688
+    pitch: 20.70001220703125
+  s:
+    world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+    world-name: survival
+    x: -2937.437867794218
+    y: 143.0
+    z: 4126.996947781255
+    yaw: -87.19259643554688
+    pitch: 20.70001220703125
+logoutlocation:
+  world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+  world-name: survival
+  x: -2977.731659514089
+  y: 133.0
+  z: 4185.3703644778
+  yaw: 130.9072265625
+  pitch: 62.10002517700195

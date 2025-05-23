@@ -1,0 +1,20 @@
+name: ThePotato3
+categories:
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;14/04/2025
+    - survival;15/04/2025
+  npc:
+    completed: true
+    discoveries:
+    - jobs;15/04/2025
+    - ranks;15/04/2025
+    - shop;15/04/2025
+    - auctionhouse;15/04/2025
+    - guide;15/04/2025
+    - help;15/04/2025
+    - kits;15/04/2025
+    - quests;15/04/2025
+    - emotes;15/04/2025
+    - skills;15/04/2025

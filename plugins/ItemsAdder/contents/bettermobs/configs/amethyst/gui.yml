@@ -1,0 +1,8 @@
+info:
+  namespace: bettermobs
+font_images:
+  amethystgui:
+    path: amethyst/gui/amethystgui
+    show_in_gui: false
+    suggest_in_command: false
+    y_position: 47

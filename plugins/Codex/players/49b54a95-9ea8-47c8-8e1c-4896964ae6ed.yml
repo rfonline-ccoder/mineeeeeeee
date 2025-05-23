@@ -1,0 +1,16 @@
+name: NotKyru
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - emotes;11/04/2025
+    - quests;11/04/2025
+    - kits;11/04/2025
+    - help;11/04/2025
+    - shop;11/04/2025
+    - skills;11/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;11/04/2025
+    - resourceworld;11/04/2025

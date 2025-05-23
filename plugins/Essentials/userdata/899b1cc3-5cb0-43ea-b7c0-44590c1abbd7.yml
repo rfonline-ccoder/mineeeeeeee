@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 173.79.19.203
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743292408127
+  login: 1743292350998
+money: '0'
+last-account-name: Temptated
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 6.783580162232967
+  y: 99.5
+  z: 0.5785787359453289
+  yaw: 80.80270385742188
+  pitch: -6.299139022827148
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -2551.5
+  y: 107.0
+  z: -530.5
+  yaw: 43.35990524291992
+  pitch: 19.16545867919922
+past-usernames:
+- Dimensiqnal

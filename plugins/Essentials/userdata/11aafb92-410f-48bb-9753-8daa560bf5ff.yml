@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 136.158.3.170
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733435793449
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733435930618
+  login: 1733435393027
+money: '0'
+last-account-name: eddylongneck
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 9.137499988079071
+  y: 100.0
+  z: 0.627161937849429
+  yaw: 96.66810607910156
+  pitch: -3.839043617248535
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 4449.750364646618
+  y: 90.0
+  z: -504.11108242410336
+  yaw: 107.90109252929688
+  pitch: 48.51755142211914

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.31.196.52
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1742033475988
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742033681386
+  login: 1742033128752
+money: '0'
+last-account-name: Nebulink
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 7.156943041177983
+  y: 99.5
+  z: 0.5014981472191472
+  yaw: -107.2923355102539
+  pitch: -10.64989185333252
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 1894.699999988079
+  y: 53.0
+  z: 1704.699999988079
+  yaw: -69.19548797607422
+  pitch: 42.00004959106445

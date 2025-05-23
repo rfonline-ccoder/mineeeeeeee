@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 69.21.97.243
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745885751906
+  login: 1745885560153
+money: '0'
+last-account-name: TLKSharky
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 7.447264232662251
+  y: 99.5
+  z: -0.34458372346782523
+  yaw: -76.42620849609375
+  pitch: -3.9757823944091797
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 637.3000000119209
+  y: 68.0
+  z: -453.0922035101878
+  yaw: 151.09637451171875
+  pitch: 16.174877166748047

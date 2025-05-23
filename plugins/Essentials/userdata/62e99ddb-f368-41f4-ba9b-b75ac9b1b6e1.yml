@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.111.139.45
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732578200070
+  login: 1732578005179
+money: '0'
+last-account-name: GhostWarriox
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 7.623146597343435
+  y: 99.5
+  z: 0.8329295076067652
+  yaw: -104.29212951660156
+  pitch: 15.60010051727295
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -1303.978195049155
+  y: 120.625
+  z: 803.9897618968939
+  yaw: 63.5576171875
+  pitch: 10.499998092651367

@@ -1,0 +1,15 @@
+name: CNLuminous
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - kits;18/03/2025
+    - quests;18/03/2025
+    - help;18/03/2025
+    - jobs;18/03/2025
+    - skills;22/03/2025
+    - emotes;22/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;18/03/2025

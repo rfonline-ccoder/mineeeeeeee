@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.161.104.188
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731928838733
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731928902557
+  login: 1731928518699
+money: '0'
+last-account-name: RevenTrr
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -3381.438707343911
+  y: 67.0
+  z: -4296.130531844932
+  yaw: 136.46949768066406
+  pitch: 14.250194549560547
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 3.5749807308518795
+  y: 99.5
+  z: 3.2870496904638027
+  yaw: 142.607666015625
+  pitch: 21.9000244140625

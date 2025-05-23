@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.74.94.174
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731257920999
+  login: 1731257796339
+money: '0'
+last-account-name: Ilyaku_
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -9.333493833056203
+  y: 100.0
+  z: -3.2041621877499225
+  yaw: 146.40655517578125
+  pitch: 1.6710433959960938
+logoutlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: -3649.558636128085
+  y: 68.0
+  z: -4608.942149521852
+  yaw: 35.57293701171875
+  pitch: 16.84597396850586

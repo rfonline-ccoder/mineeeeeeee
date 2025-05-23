@@ -1,0 +1,14 @@
+info:
+  namespace: iadeco
+items:
+  lamp:
+    enabled: true
+    display_name: Lamp
+    permission: iadeco.decorations.lamp
+    resource:
+      material: PAPER
+      generate: false
+      model_path: lamp
+    behaviours:
+      furniture:
+        light_level: 13

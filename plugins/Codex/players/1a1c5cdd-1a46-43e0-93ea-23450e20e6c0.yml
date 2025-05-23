@@ -1,0 +1,18 @@
+name: Meng_banci
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - ranks;07/03/2025
+    - guide;07/03/2025
+    - help;07/03/2025
+    - kits;07/03/2025
+    - quests;07/03/2025
+    - emotes;07/03/2025
+    - skills;07/03/2025
+    - auctionhouse;07/03/2025
+    - shop;07/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;07/03/2025

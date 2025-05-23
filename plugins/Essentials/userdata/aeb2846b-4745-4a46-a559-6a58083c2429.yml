@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 87.122.25.142
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732408811831
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732409439377
+  login: 1732408473866
+money: '0'
+last-account-name: Sixpack6
+lastlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: 4424.846211857472
+  y: 58.92159999847412
+  z: 4424.551857543004
+  yaw: -152.3080596923828
+  pitch: 0.4500225782394409
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 11.724552819929535
+  y: 109.0
+  z: 39.69999998807907
+  yaw: 49.15771484375
+  pitch: 10.800091743469238

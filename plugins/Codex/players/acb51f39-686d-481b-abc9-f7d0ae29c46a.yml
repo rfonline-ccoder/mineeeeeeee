@@ -1,0 +1,19 @@
+name: Bennybetr
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - auctionhouse;02/04/2025
+    - shop;02/04/2025
+    - ranks;02/04/2025
+    - jobs;02/04/2025
+    - guide;02/04/2025
+    - help;02/04/2025
+    - kits;02/04/2025
+    - quests;02/04/2025
+    - emotes;02/04/2025
+    - skills;02/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;02/04/2025

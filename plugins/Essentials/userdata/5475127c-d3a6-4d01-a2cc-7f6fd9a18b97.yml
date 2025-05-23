@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.81.90.21
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745740672224
+  login: 1745740142005
+money: '0'
+last-account-name: YT_lacjim168
+lastlocation:
+  world: 876b0e4d-60b2-410c-ad36-47acf21c0c26
+  world-name: world
+  x: 24.495096130772772
+  y: 91.0
+  z: -23.52882885160071
+  yaw: 0.4499977231025696
+  pitch: -1.6500009298324585
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -4.601412775197312
+  y: 101.0
+  z: -10.376926884632299
+  yaw: -88.65460205078125
+  pitch: 59.550113677978516
+past-usernames:
+- orLacjim168

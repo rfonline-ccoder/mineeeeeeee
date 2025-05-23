@@ -1,0 +1,136 @@
+quest-progress:
+  miner13:
+    started: false
+    started-date: 1737904841758
+    completed: true
+    completed-before: true
+    completion-date: 1737904841758
+    task-progress:
+      mining:
+        completed: false
+  miner12:
+    started: false
+    started-date: 1737904831611
+    completed: true
+    completed-before: true
+    completion-date: 1737904831611
+    task-progress:
+      mining:
+        completed: false
+  miner15:
+    started: false
+    started-date: 1737904838195
+    completed: true
+    completed-before: true
+    completion-date: 1737904838195
+    task-progress:
+      mining:
+        completed: false
+  miner14:
+    started: false
+    started-date: 1737904840586
+    completed: true
+    completed-before: true
+    completion-date: 1737904840586
+    task-progress:
+      mining:
+        completed: false
+  miner11:
+    started: false
+    started-date: 1737904824678
+    completed: true
+    completed-before: true
+    completion-date: 1737904824678
+    task-progress:
+      mining:
+        completed: false
+  miner10:
+    started: false
+    started-date: 1737904815931
+    completed: true
+    completed-before: true
+    completion-date: 1737904815931
+    task-progress:
+      mining:
+        completed: false
+  miner9:
+    started: false
+    started-date: 1737904802878
+    completed: true
+    completed-before: true
+    completion-date: 1737904802878
+    task-progress:
+      mining:
+        completed: false
+  miner8:
+    started: false
+    started-date: 1737904800703
+    completed: true
+    completed-before: true
+    completion-date: 1737904800703
+    task-progress:
+      mining:
+        completed: false
+  miner7:
+    started: false
+    started-date: 1737904798065
+    completed: true
+    completed-before: true
+    completion-date: 1737904798065
+    task-progress:
+      mining:
+        completed: false
+  miner2:
+    started: false
+    started-date: 1737904753091
+    completed: true
+    completed-before: true
+    completion-date: 1737904753091
+    task-progress:
+      mining:
+        completed: false
+  miner1:
+    started: false
+    started-date: 1737904747298
+    completed: true
+    completed-before: true
+    completion-date: 1737904747299
+    task-progress:
+      mining:
+        completed: false
+  miner6:
+    started: false
+    started-date: 1737904786065
+    completed: true
+    completed-before: true
+    completion-date: 1737904786065
+    task-progress:
+      mining:
+        completed: false
+  miner5:
+    started: false
+    started-date: 1737904773796
+    completed: true
+    completed-before: true
+    completion-date: 1737904773796
+    task-progress:
+      mining:
+        completed: false
+  miner4:
+    started: false
+    started-date: 1737904769786
+    completed: true
+    completed-before: true
+    completion-date: 1737904769786
+    task-progress:
+      mining:
+        completed: false
+  miner3:
+    started: false
+    started-date: 1737904756801
+    completed: true
+    completed-before: true
+    completion-date: 1737904756801
+    task-progress:
+      mining:
+        completed: false

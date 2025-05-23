@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 64.121.57.194
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1728501868244
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728501908189
+  login: 1728501731607
+money: '0'
+last-account-name: Miikie
+lastlocation:
+  world: 9bb8c1dc-9fb2-464a-90ee-84bb1aa1b99e
+  world-name: resourceworld
+  x: -3993.1181943331276
+  y: 68.0
+  z: -1511.449529495223
+  yaw: -58.27912139892578
+  pitch: 7.73905086517334
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 7.610064893166731
+  y: 100.0
+  z: -8.301028402431376
+  yaw: -102.28182983398438
+  pitch: -8.935330390930176

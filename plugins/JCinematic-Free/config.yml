@@ -1,0 +1,36 @@
+# JCinematic Configuration
+
+# Game mode to set players to after a cinematic ends
+end-game-mode: SURVIVAL
+
+# Speed of cinematic playback (lower = faster)
+# 1 = very fast, 5 = normal, 10 = slow
+cinematic-speed: 1
+
+# Show action bar with remaining time during recording/playback
+show-action-bar: false
+
+# Format for the action bar message
+action-bar-format: '§eTiempo restante: §a%seconds% segundos'
+
+# Hide other players during cinematic playback
+hide-other-players: true
+
+# Lock camera during cinematic playback
+lock-camera: true
+
+# Enable smooth transitions between points
+smooth-transitions: true
+
+# Number of interpolation points between each recorded location
+# Higher values = smoother movement but more resource intensive
+interpolation-points: 3
+
+# Use Bezier curves for smoother path interpolation
+use-bezier-curves: true
+
+# Use easing functions for smoother acceleration/deceleration
+use-easing: true
+
+# Default language (en, es, ru, ja, fr)
+default-language: en

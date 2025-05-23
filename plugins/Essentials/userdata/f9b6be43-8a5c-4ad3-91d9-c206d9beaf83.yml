@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.110.82.168
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740438056632
+  login: 1740437666427
+money: '0'
+last-account-name: BanishedPixel132
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 5.666967485828782
+  y: 99.5
+  z: 1.2025978003218245
+  yaw: -96.04269409179688
+  pitch: -44.0998420715332
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -4912.567641202039
+  y: 70.0
+  z: -1597.859250798701
+  yaw: -28.9920654296875
+  pitch: 4.20017147064209

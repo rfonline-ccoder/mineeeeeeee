@@ -1,0 +1,22 @@
+name: HyperDev_
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - emotes;21/02/2025
+    - jobs;21/02/2025
+    - ranks;21/02/2025
+    - shop;21/02/2025
+    - auctionhouse;21/02/2025
+    - skills;21/02/2025
+    - quests;21/02/2025
+    - kits;21/02/2025
+    - help;21/02/2025
+    - guide;21/02/2025
+  worlds:
+    completed: true
+    discoveries:
+    - survival;21/02/2025
+    - nether;21/02/2025
+    - resourceworld;21/02/2025
+    - end;21/02/2025

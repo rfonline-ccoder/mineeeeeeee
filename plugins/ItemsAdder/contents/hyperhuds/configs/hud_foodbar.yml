@@ -1,0 +1,47 @@
+info:
+  namespace: hyperhuds
+huds:
+  fp_hud:
+    enabled: true
+    show:
+      auto: true
+      creative: false
+    type: FRAMES
+    x_position_pixels: 93
+    value:
+      player_stat_name: fp
+      start: 20
+      min: 0
+      max: 20
+      triggers:
+        increment:
+          player_respawn:
+            amount: 20
+          food_level_change:
+            amount: 1
+        decrement:
+          food_level_change:
+            amount: 1              
+    images:
+      frames:
+      - hyperhuds:fp_hud_0
+      - hyperhuds:fp_hud_1
+      - hyperhuds:fp_hud_2
+      - hyperhuds:fp_hud_3
+      - hyperhuds:fp_hud_4
+      - hyperhuds:fp_hud_5
+      - hyperhuds:fp_hud_6
+      - hyperhuds:fp_hud_7
+      - hyperhuds:fp_hud_8
+      - hyperhuds:fp_hud_9
+      - hyperhuds:fp_hud_10
+      - hyperhuds:fp_hud_11
+      - hyperhuds:fp_hud_12
+      - hyperhuds:fp_hud_13      
+      - hyperhuds:fp_hud_14
+      - hyperhuds:fp_hud_15
+      - hyperhuds:fp_hud_16
+      - hyperhuds:fp_hud_17
+      - hyperhuds:fp_hud_18
+      - hyperhuds:fp_hud_19
+      - hyperhuds:fp_hud_20            

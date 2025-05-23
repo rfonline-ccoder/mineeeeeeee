@@ -1,0 +1,10 @@
+name: AP_Bluecat
+categories:
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;22/03/2025
+  npc:
+    completed: false
+    discoveries:
+    - emotes;22/03/2025

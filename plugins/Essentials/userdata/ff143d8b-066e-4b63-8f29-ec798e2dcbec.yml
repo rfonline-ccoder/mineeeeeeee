@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.206.214.231
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737363106696
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745862890254
+  login: 1745862712146
+money: '7309.9430000000000388'
+last-account-name: Endllees
+lastlocation:
+  world: 0cc3f169-8b79-4ee7-b551-63565fb90a0e
+  world-name: world
+  x: 24.495096130772772
+  y: 91.0
+  z: -23.52882885160071
+  yaw: 0.4499977231025696
+  pitch: -1.6500009298324585
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 2.0479024817959695
+  y: 99.5
+  z: -6.724271876734865
+  yaw: 10.33154296875
+  pitch: 7.018179416656494
+homes:
+  x:
+    world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+    world-name: survival
+    x: -1263.5867971642654
+    y: 71.0
+    z: -2764.0851038143715
+    yaw: -177.71559143066406
+    pitch: 14.324320793151855
+  farm:
+    world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+    world-name: survival
+    x: -1235.5761118296587
+    y: -4.0
+    z: -2858.394501951223
+    yaw: -4.126196384429932
+    pitch: 15.368215560913086

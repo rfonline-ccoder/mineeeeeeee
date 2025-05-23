@@ -1,0 +1,11 @@
+name: Migpe45
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - kits;26/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;26/03/2025
+    - nether;26/03/2025

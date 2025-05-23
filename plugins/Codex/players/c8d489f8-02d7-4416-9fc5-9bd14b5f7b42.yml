@@ -1,0 +1,17 @@
+name: MisterLogik
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - skills;19/04/2025
+    - ranks;19/04/2025
+    - shop;19/04/2025
+    - auctionhouse;19/04/2025
+    - jobs;19/04/2025
+    - guide;19/04/2025
+    - help;19/04/2025
+    - kits;19/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;19/04/2025

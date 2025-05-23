@@ -1,0 +1,20 @@
+quest-progress:
+  playtime1:
+    started: true
+    started-date: 1728851987434
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      playtime:
+        completed: false
+        progress: 1
+  farming1:
+    started: true
+    started-date: 1728851993430
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      farming:
+        completed: false

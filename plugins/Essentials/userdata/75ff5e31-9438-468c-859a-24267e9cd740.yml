@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.226.54.252
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743036616515
+  login: 1743036462827
+money: '0'
+last-account-name: Driveen
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 7.702540715286566
+  y: 99.5
+  z: -0.497750678416656
+  yaw: -58.14061737060547
+  pitch: 10.098220825195312
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 3735.1511906192354
+  y: 107.0
+  z: 2080.1597521926124
+  yaw: -60.45819091796875
+  pitch: 37.32960510253906

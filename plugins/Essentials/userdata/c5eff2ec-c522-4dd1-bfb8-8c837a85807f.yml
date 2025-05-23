@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 159.196.147.204
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732705064817
+  login: 1732705051245
+money: '0'
+last-account-name: uhMagic
+lastlocation:
+  world: 876b0e4d-60b2-410c-ad36-47acf21c0c26
+  world-name: world
+  x: 24.495096130772772
+  y: 91.0
+  z: -23.52882885160071
+  yaw: 0.4499977231025696
+  pitch: -1.6500009298324585
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.19279113946084242
+  y: 99.57969854367613
+  z: 9.209791179566873
+  yaw: -164.68402099609375
+  pitch: 16.744068145751953

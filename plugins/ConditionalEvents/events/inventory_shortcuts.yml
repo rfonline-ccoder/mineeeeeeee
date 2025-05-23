@@ -1,0 +1,46 @@
+Events:
+  crafting_shortcut:
+    type: player_click_inventory
+    conditions:
+    - "%inventory_type% == CRAFTING"
+    - "%slot_type% == CRAFTING"
+    - "%slot% == 1"
+    actions:
+      default:  
+      - "player_command: craft"
+  homes_shortcut:
+    type: player_click_inventory
+    conditions:
+    - "%inventory_type% == CRAFTING"
+    - "%slot_type% == CRAFTING"
+    - "%slot% == 2"
+    actions:
+      default:  
+      - "player_command: homes"
+  shop_shortcut:
+    type: player_click_inventory
+    conditions:
+    - "%inventory_type% == CRAFTING"
+    - "%slot_type% == CRAFTING"
+    - "%slot% == 3"
+    actions:
+      default:  
+      - "player_command: shop"
+  codex_shortcut:
+    type: player_click_inventory
+    conditions:
+    - "%inventory_type% == CRAFTING"
+    - "%slot_type% == CRAFTING"
+    - "%slot% == 4"
+    actions:
+      default:  
+      - "player_command: codex"
+  vault_shortcut:
+    type: player_click_inventory
+    conditions:
+    - "%inventory_type% == CRAFTING"
+    - "%slot_type% == RESULT"
+    - "%slot% == 0"
+    actions:
+      default:  
+      - "player_command: vault"

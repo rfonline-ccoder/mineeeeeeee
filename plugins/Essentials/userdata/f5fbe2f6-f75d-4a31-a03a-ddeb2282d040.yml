@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 213.244.61.4
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731355341407
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731355529316
+  login: 1731355295459
+money: '0'
+last-account-name: AviraSystem
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -8.932768280643353
+  y: 100.0
+  z: -2.9766511785657035
+  yaw: 114.93241119384766
+  pitch: 2.9886956214904785
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -7.8457743864459
+  y: 100.0
+  z: 11.582765477884605
+  yaw: -108.21139526367188
+  pitch: 14.249966621398926

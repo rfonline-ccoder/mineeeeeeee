@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 4.42.123.130
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1728789335818
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728789793558
+  login: 1728789061846
+money: '0'
+last-account-name: JXacz
+lastlocation:
+  world: aa512311-387b-4191-afd3-8dbde88bf5ae
+  world-name: world_nether
+  x: -4622.5
+  y: 35.0
+  z: -1880.699999988079
+  yaw: -87.19223022460938
+  pitch: 3.300110101699829
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.48305001616648297
+  y: 100.0
+  z: 0.48121179469108083
+  yaw: -90.04224395751953
+  pitch: -1.1998910903930664

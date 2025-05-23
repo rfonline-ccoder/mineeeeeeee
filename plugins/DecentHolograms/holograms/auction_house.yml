@@ -1,0 +1,18 @@
+location: Spawn:9.518:104.000:9.490
+enabled: true
+display-range: 96
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&#0094f7&lAUCTION HOUSE &f%img_npc_tag%'
+    height: 0.3
+  - content: '&#EBEBEBᴀᴜᴄᴛɪᴏɴ ᴏʀ ʙɪᴅ ꜰᴏʀ ɪᴛᴇᴍꜱ'
+    height: 0.3
+  - content: '&f%img_rclick_icon% ᴛᴏ ᴏᴘᴇɴ'
+    height: 0.3
+  - content: ''
+    height: 0.3
+  actions: {}

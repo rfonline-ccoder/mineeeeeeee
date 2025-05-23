@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 151.47.89.88
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743542287920
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743542693544
+  login: 1743541952279
+money: '0'
+last-account-name: Assuefatto
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: -4001.3687103144402
+  y: 110.0
+  z: -2724.9933133974755
+  yaw: -117.04275512695312
+  pitch: 10.499966621398926
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 3.275204629722102
+  y: 99.5
+  z: -5.7393545727242605
+  yaw: 125.65289306640625
+  pitch: -7.6500678062438965

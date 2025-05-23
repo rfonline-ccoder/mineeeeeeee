@@ -1,0 +1,57 @@
+info:
+  namespace: iasurvival
+items:
+  nest:
+    enabled: true
+    display_name: Nest
+    permission: iasurvival.items.other.nest
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/other/nest
+  eggs_nest:
+    enabled: true
+    display_name: Eggs Nest
+    permission: iasurvival.items.other.eggs_nest
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/other/eggs_nest
+  plastic:
+    enabled: true
+    display_name: Plastic
+    permission: iasurvival.items.other.plastic
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/other/plastic
+  plastic_plate:
+    enabled: true
+    display_name: Plastic Plate
+    permission: iasurvival.items.other.plastic_plate
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/other/plastic_plate
+  iron_plate:
+    enabled: true
+    display_name: Iron Plate
+    permission: iasurvival.items.other.iron_plate
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/other/iron_plate
+  tobacco:
+    enabled: true
+    display_name: Tobacco
+    permission: iasurvival.items.other.tobacco
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/other/tobacco

@@ -1,0 +1,12 @@
+name: Revoolt
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - skills;28/03/2025
+    - emotes;28/03/2025
+    - quests;28/03/2025
+    - kits;28/03/2025
+    - help;28/03/2025
+    - jobs;28/03/2025
+    - shop;28/03/2025

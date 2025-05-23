@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.19.155.135
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733158149907
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733158562226
+  login: 1733157824279
+money: '0'
+last-account-name: TipTrez
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -72.97348895237101
+  y: 116.0
+  z: 10.095706535815117
+  yaw: -148.24127197265625
+  pitch: 3.450138568878174
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -1095.9288257400017
+  y: 131.0
+  z: 414.0049986532338
+  yaw: -131.4405975341797
+  pitch: 19.499759674072266

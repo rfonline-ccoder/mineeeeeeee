@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.87.228.250
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745847116765
+  login: 1745846677970
+money: '0'
+last-account-name: Rass113
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 8.445794916270254
+  y: 100.0
+  z: 1.7360253207632304
+  yaw: 110.0706787109375
+  pitch: -33.907222747802734
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 389.47869366250956
+  y: 71.0
+  z: 2677.3567418047696
+  yaw: 175.8496856689453
+  pitch: 41.488059997558594

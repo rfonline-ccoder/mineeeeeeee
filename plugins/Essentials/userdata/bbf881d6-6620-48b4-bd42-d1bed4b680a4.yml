@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.64.216.196
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732714600589
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732714719317
+  login: 1732714707879
+money: '0'
+last-account-name: kerimxy
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.48305001616648297
+  y: 100.0
+  z: 0.48121179469108083
+  yaw: -90.04224395751953
+  pitch: -1.1998910903930664
+logoutlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: 4011.7511158683214
+  y: 63.0
+  z: -2091.8262673236845
+  yaw: 154.13858032226562
+  pitch: 18.250329971313477

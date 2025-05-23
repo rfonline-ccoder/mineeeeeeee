@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 47.231.176.65
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745887848128
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745888038004
+  login: 1745887281441
+money: '0'
+last-account-name: Scenotaph
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 2288.302434715133
+  y: 80.0
+  z: 3894.653130590287
+  yaw: -136.0624237060547
+  pitch: 7.40912389755249
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -12.262116144069866
+  y: 100.0
+  z: -17.21118527339922
+  yaw: 158.8008575439453
+  pitch: 13.487841606140137

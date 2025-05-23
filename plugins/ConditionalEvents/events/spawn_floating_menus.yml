@@ -1,0 +1,37 @@
+Events:
+  main_menu_sign:
+    type: block_interact
+    conditions:
+    - "%block_world% == Spawn"
+    - "%block% == MUD_BRICK_SLAB"
+    - "%action_type% == RIGHT_CLICK"
+    actions:
+      default:  
+      - "player_command: menu"
+      - "playsound: BLOCK_BAMBOO_WOOD_DOOR_OPEN;10;0.1"
+      - "wait: 3"
+      - "stopsound: BLOCK_BELL_USE"           
+  worlds_menu_sign1:
+    type: block_interact
+    conditions:
+    - "%block_world% == Spawn"
+    - "%block% == PURPLE_STAINED_GLASS_PANE"  
+    - "%action_type% == RIGHT_CLICK"
+    actions:
+      default:  
+      - "player_command: worlds"    
+      - "playsound: BLOCK_BEACON_ACTIVATE;10;0.1"
+      - "wait: 3"
+      - "stopsound: BLOCK_BEACON_ACTIVATE" 
+  worlds_menu_sign2:
+    type: block_interact
+    conditions:
+    - "%block_world% == Spawn"
+    - "%block% == MAGENTA_STAINED_GLASS_PANE"    
+    - '%action_type% == RIGHT_CLICK'
+    actions:
+      default:  
+      - "player_command: worlds"    
+      - "playsound: BLOCK_BEACON_ACTIVATE;10;0.1"
+      - "wait: 3"
+      - "stopsound: BLOCK_BEACON_ACTIVATE"      

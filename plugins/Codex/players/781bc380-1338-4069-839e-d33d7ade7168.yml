@@ -1,0 +1,12 @@
+name: MiniKing_
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - ranks;05/04/2025
+    - shop;05/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;05/04/2025
+    - resourceworld;05/04/2025

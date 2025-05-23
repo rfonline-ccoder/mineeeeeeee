@@ -1,0 +1,17 @@
+name: HerrFisch
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - quests;24/04/2025
+    - emotes;24/04/2025
+    - kits;24/04/2025
+    - help;24/04/2025
+    - jobs;24/04/2025
+    - ranks;24/04/2025
+    - shop;24/04/2025
+    - auctionhouse;24/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;24/04/2025

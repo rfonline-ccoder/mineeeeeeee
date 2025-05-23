@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.200.22.199
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739436081199
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739436294519
+  login: 1739435423201
+money: '0'
+last-account-name: Crituhcal
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -1308.740906106288
+  y: 61.0
+  z: 1561.382630764545
+  yaw: -133.75396728515625
+  pitch: 16.349702835083008
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -15.022037950382959
+  y: 100.0
+  z: -19.713153657862183
+  yaw: -167.5960693359375
+  pitch: 5.850082874298096

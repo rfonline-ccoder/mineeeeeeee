@@ -1,0 +1,20 @@
+quest-progress:
+  collect1:
+    started: true
+    started-date: 1746168017612
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      collect:
+        completed: false
+  playtime1:
+    started: true
+    started-date: 1746168011102
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      playtime:
+        completed: false
+        progress: 50

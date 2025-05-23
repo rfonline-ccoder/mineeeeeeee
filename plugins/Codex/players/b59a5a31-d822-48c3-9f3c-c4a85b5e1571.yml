@@ -1,0 +1,11 @@
+name: DarnComputer
+categories:
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;21/02/2025
+  npc:
+    completed: false
+    discoveries:
+    - jobs;21/02/2025
+    - ranks;21/02/2025

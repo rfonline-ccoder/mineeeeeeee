@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 95.70.168.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744490181625
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744490387087
+  login: 1744490079083
+money: '0'
+last-account-name: yakurastype
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 6.128284514763196
+  y: 99.5
+  z: 1.1032270758718374
+  yaw: -88.09227752685547
+  pitch: 8.700118064880371
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 866.280553807428
+  y: 55.29362262218395
+  z: 151.6135430358334
+  yaw: -35.742401123046875
+  pitch: -5.999973297119141

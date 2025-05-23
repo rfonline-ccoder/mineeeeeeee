@@ -1,0 +1,29 @@
+quest-progress:
+  enchanting1:
+    started: false
+    started-date: 1731717747795
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      enchanting:
+        completed: false
+  mobkilling1:
+    started: false
+    started-date: 1731717794339
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mobkilling:
+        completed: false
+  woodcutting1:
+    started: true
+    started-date: 1731717825023
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+        progress: 7

@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  cassiterite:
+    enabled: true
+    display_name: Cassiterite
+    permission: iasurvival.items.cassiterite
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/ores/cassiterite

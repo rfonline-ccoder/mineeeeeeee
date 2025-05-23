@@ -1,0 +1,5 @@
+Name: Common Key
+Virtual: false
+ItemData:
+  Type: VANILLA
+  ItemTag: '{components:{"minecraft:custom_model_data":{floats:[10049.0f]},"minecraft:custom_name":''{"extra":[{"color":"white","italic":false,"text":"Vote Key"}],"text":""}'',"minecraft:lore":[''{"extra":[{"color":"dark_gray","italic":false,"text":"ᴄʀᴀᴛᴇ ᴋᴇʏ ɪᴛᴇᴍ"}],"text":""}'',''{"extra":[{"color":"white","italic":false,"text":""}],"text":""}'',''{"extra":[{"color":"gray","italic":false,"text":"Use it at "},{"color":"green","italic":false,"text":"/warp crates"}],"text":""}'']},count:1,id:"minecraft:stick"}'

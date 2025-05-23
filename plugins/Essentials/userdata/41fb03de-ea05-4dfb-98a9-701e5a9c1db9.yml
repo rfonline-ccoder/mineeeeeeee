@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.81.124.94
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734911671463
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734912341746
+  login: 1734911254334
+money: '0'
+last-account-name: Ondra0741Cz
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -10.149329672241292
+  y: 100.0
+  z: -4.8914376548622975
+  yaw: 20.5194091796875
+  pitch: 8.182036399841309
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -12.636130503518437
+  y: 100.0
+  z: 5.438990002819734
+  yaw: -47.953369140625
+  pitch: 11.060223579406738

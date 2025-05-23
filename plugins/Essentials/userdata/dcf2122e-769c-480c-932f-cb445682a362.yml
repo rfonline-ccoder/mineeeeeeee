@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.151.34.202
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739614529874
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739614575190
+  login: 1739614360439
+money: '0'
+last-account-name: trildxd
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -1350.1803090611381
+  y: 92.0
+  z: 261.101899998778
+  yaw: 111.55236053466797
+  pitch: 1.5001778602600098
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -5.7498251050663995
+  y: 100.0
+  z: 9.999669136187482
+  yaw: -33.64267349243164
+  pitch: -0.8998587131500244

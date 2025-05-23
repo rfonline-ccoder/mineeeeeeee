@@ -1,0 +1,79 @@
+Events:
+#NPCS
+  auctionhouse_npc:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 33" 
+    actions:
+      default:  
+      - "player_command: ah" 
+  shop_npc:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 32" 
+    actions:
+      default:  
+      - "player_command: shop"      
+  ranks_npc:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 40" 
+    actions:
+      default:  
+      - "player_command: ranks"  
+  jobs_npc:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 34" 
+    actions:
+      default:  
+      - "console_command: dm open jobs %player%"    
+  help_npc:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 41" 
+    actions:
+      default:  
+      - "console_command: dm open info %player%"      
+  kits_npc:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 35" 
+    actions:
+      default:  
+      - "player_command: kits" 
+  quests_npc:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 39" 
+    actions:
+      default:  
+      - "player_command: quest"
+  emotes_npc:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 36" 
+    actions:
+      default:  
+      - "player_command: emotes"   
+  skills_npc:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 38" 
+    actions:
+      default:  
+      - "player_command: skills"
+  custom_items_npc:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 42" 
+    actions:
+      default:  
+      - "player_command: ia"      
+  class_npc:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 44" 
+    actions:
+      default:  
+      - "console_command: dm open class %player%"   

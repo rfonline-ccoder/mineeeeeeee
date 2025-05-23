@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.234.244.119
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730523015790
+  login: 1730522759892
+money: '0'
+last-account-name: CarlxsAM
+lastlocation:
+  world: 9bb8c1dc-9fb2-464a-90ee-84bb1aa1b99e
+  world-name: resourceworld
+  x: 1277.528716379451
+  y: 65.0
+  z: -2771.9288359375387
+  yaw: -50.725921630859375
+  pitch: 8.265265464782715
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.0689301827513888
+  y: 100.0
+  z: 1.3071235925672586
+  yaw: -128.49317932128906
+  pitch: 15.044248580932617

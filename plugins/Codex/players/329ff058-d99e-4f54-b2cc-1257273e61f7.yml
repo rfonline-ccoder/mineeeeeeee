@@ -1,0 +1,11 @@
+name: gabchambe
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - shop;23/04/2025
+    - jobs;23/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;23/04/2025

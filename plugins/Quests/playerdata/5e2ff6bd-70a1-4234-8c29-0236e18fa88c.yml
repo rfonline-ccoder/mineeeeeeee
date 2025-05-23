@@ -1,0 +1,10 @@
+quest-progress:
+  breeding1:
+    started: false
+    started-date: 1735558091223
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      breeding:
+        completed: false

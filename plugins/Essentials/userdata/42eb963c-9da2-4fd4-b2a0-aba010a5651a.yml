@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.16.70.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1729017064194
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729479795831
+  login: 1729479677975
+money: '0'
+last-account-name: Zinguin
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -0.6478112913454739
+  y: 99.5
+  z: -8.621873994569334
+  yaw: 108.8566665649414
+  pitch: 12.600150108337402
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -0.023601406436324697
+  y: 99.5
+  z: -6.105340062382575
+  yaw: -35.42950439453125
+  pitch: 20.399797439575195

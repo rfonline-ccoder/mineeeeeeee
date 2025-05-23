@@ -1,0 +1,18 @@
+name: XER0GRAVITY
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - help;23/04/2025
+    - kits;23/04/2025
+    - quests;23/04/2025
+    - emotes;23/04/2025
+    - skills;23/04/2025
+    - auctionhouse;23/04/2025
+    - shop;23/04/2025
+    - guide;23/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;23/04/2025
+    - resourceworld;23/04/2025

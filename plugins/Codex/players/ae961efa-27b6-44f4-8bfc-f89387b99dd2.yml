@@ -1,0 +1,13 @@
+name: Austitious
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - jobs;10/04/2025
+    - ranks;10/04/2025
+    - shop;10/04/2025
+    - skills;10/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;10/04/2025

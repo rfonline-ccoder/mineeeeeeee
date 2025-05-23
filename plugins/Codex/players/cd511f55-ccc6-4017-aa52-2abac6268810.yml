@@ -1,0 +1,18 @@
+name: CodigoPanda
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - shop;02/04/2025
+    - auctionhouse;02/04/2025
+    - ranks;02/04/2025
+    - jobs;02/04/2025
+    - guide;02/04/2025
+    - skills;02/04/2025
+    - emotes;02/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;02/04/2025
+    - survival;02/04/2025
+    - nether;02/04/2025

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.121.156.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734218729152
+  login: 1734218458370
+money: '0'
+last-account-name: k9afex
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -6.243957148434406
+  y: 99.5
+  z: 2.4248319301856966
+  yaw: -99.03741455078125
+  pitch: 12.300045013427734
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -4089.1344433495387
+  y: 91.0
+  z: -4827.316939961826
+  yaw: -88.98860931396484
+  pitch: 24.599815368652344

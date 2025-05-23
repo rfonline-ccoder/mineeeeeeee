@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.81.160.228
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734724796338
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734724960823
+  login: 1734724418616
+money: '0'
+last-account-name: TailiMTO
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 3936.7266055430446
+  y: 82.41999998688698
+  z: -953.4694889544795
+  yaw: -29.586633682250977
+  pitch: 30.72907066345215
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.48305001616648297
+  y: 100.0
+  z: 0.48121179469108083
+  yaw: 121.64352416992188
+  pitch: -1.325866937637329

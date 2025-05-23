@@ -1,0 +1,15 @@
+name: NemoGa1
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - emotes;13/04/2025
+    - quests;13/04/2025
+    - kits;13/04/2025
+    - help;13/04/2025
+    - skills;13/04/2025
+    - jobs;13/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;13/04/2025

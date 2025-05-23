@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.54.224.101
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1741892336620
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1741976807182
+  login: 1741970079070
+money: '0'
+last-account-name: MiguelFierro
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 6.035483146085968
+  y: 109.0
+  z: 1056.699999988079
+  yaw: 79.95761108398438
+  pitch: 43.8493766784668
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.6141332813573261
+  y: 99.5
+  z: 7.418948086855996
+  yaw: -123.9422607421875
+  pitch: 6.021770477294922

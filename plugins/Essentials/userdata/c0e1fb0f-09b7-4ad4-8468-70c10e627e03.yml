@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.241.184.229
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1740924321781
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1741123696460
+  login: 1741123444001
+money: '0'
+last-account-name: cody_raves
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 5.917837262188748
+  y: 99.5
+  z: 0.5079537358436311
+  yaw: -83.75283813476562
+  pitch: -2.6999943256378174
+logoutlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 1376.9800930789113
+  y: 66.0
+  z: -3110.1654968208104
+  yaw: 81.39584350585938
+  pitch: 11.700112342834473

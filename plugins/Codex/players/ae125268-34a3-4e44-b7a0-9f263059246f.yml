@@ -1,0 +1,10 @@
+name: Iummi
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - skills;30/03/2025
+    - emotes;30/03/2025
+    - quests;30/03/2025
+    - kits;30/03/2025
+    - help;30/03/2025

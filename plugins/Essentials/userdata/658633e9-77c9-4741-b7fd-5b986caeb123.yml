@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 184.22.248.190
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745492169119
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745492228818
+  login: 1745491910966
+money: '0'
+last-account-name: RIP_YNT
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -7.975304031017866
+  y: 99.5
+  z: 0.5086925032285301
+  yaw: 85.7607650756836
+  pitch: -12.1500244140625
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -41.331052993350426
+  y: 94.0
+  z: -38.07698928219934
+  yaw: -9.79211711883545
+  pitch: 23.700048446655273
+past-usernames:
+- truxy_

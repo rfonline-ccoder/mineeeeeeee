@@ -1,0 +1,79 @@
+menu_title: ':offset_-16::warps_menu:'
+open_command: 
+- warp
+- warps
+register_command: false
+size: 54
+items:
+    'spawn':
+        material: itemsadder-mcicons:icon_spawn
+        slot: 20
+        display_name: "&9&lSpawn"
+        lore: 
+        - "&8Command ▪ &f/spawn"
+        - ""
+        - "&#AAAAAACome back to the place"
+        - "&#AAAAAAwhere everything begins!"
+        - ""
+        - "&a► Left click to Teleport"
+        hide_attributes: true
+        left_click_commands:
+        - '[close]'
+        - '[player] spawn'
+    'item_shop':
+        material: itemsadder-mcicons:icon_shop
+        slot: 21
+        display_name: "&a&lItem shop"
+        lore: 
+        - "&8Command ▪ &f/shop"
+        - ""
+        - "&#AAAAAABuy or sell the in-game"
+        - "&#AAAAAAitems that you want!"
+        - ""
+        - "&a► Left click to Teleport"
+        left_click_commands:
+        - '[player] warp shop'
+    'homes':
+        material: itemsadder-mcicons:icon_home
+        slot: 22
+        display_name: "&a&lYour Homes"
+        lore: 
+        - "&8Command ▪ &f/homes"
+        - ""
+        - "&#AAAAAAOpen your homes menu!"
+        - ""
+        - "&a► Left click to Open"
+        left_click_commands:
+        - '[player] homes'        
+    'parkour':
+        material: itemsadder-mcicons:icon_parkour
+        slot: 23
+        display_name: "&e&lParkour"
+        lore:
+        - "&8Command ▪ &f/parkour"
+        - ""        
+        - "&#AAAAAAShow your jump skills"
+        - "&#AAAAAAat the platforms!"
+        - ""
+        - "&a► Left click to Open"
+        left_click_commands:
+        - '[player] parkour'
+    'crates':
+        material: itemsadder-mcicons:icon_crates
+        slot: 24
+        display_name: "&3&lCrates"
+        lore: 
+        - "&8Command ▪ &f/warp crates"
+        - ""
+        - "&#AAAAAAAn area to use the keys"
+        - "&#AAAAAAyou get by purchasing or voting"
+        - ""
+        - "&a► Left click to Teleport"
+        left_click_commands:
+        - '[player] warp crates'
+    'close':
+        material: itemsadder-mcicons:icon_cancel
+        slot: 40
+        display_name: "&cClose"
+        left_click_commands:
+        - '[close]'

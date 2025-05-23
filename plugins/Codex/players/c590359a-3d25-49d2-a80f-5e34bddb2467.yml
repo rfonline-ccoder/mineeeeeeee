@@ -1,0 +1,18 @@
+name: LeiConrad
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - guide;08/03/2025
+    - ranks;08/03/2025
+    - shop;08/03/2025
+    - auctionhouse;08/03/2025
+    - skills;08/03/2025
+    - emotes;08/03/2025
+    - quests;08/03/2025
+    - kits;08/03/2025
+    - help;08/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;08/03/2025

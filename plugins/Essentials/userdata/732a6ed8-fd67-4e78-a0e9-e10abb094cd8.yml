@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 98.97.153.226
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735782727539
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735785077430
+  login: 1735785010175
+money: '0'
+last-account-name: Luxryl
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 1512.106500329821
+  y: 65.0
+  z: -3073.0678904354672
+  yaw: -61.29229736328125
+  pitch: 29.44662857055664
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 13.982148462652841
+  y: 101.0
+  z: 23.365760183253162
+  yaw: 149.60958862304688
+  pitch: 6.924404144287109

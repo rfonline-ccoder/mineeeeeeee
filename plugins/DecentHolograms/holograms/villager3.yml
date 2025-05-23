@@ -1,0 +1,12 @@
+location: Spawn:-28.504:114.500:-64.498
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&#adb7c7&lWALDA &f%img_talk_icon%'
+    height: 0.3
+  actions: {}

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.165.106.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735445949782
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735458499020
+  login: 1735457411633
+money: '0'
+last-account-name: CAPTAINS_
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 7.222120257875298
+  y: 99.5
+  z: 0.7139222459212078
+  yaw: -95.75006103515625
+  pitch: -3.900040864944458
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 1566.9793005069232
+  y: 69.0
+  z: 3610.9661110723227
+  yaw: -178.85011291503906
+  pitch: 27.000036239624023

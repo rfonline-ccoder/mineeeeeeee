@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.116.67.99
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733252885888
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733253424583
+  login: 1733252800406
+money: '0'
+last-account-name: Trifuerza
+lastlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: 521.3068646685452
+  y: 61.0
+  z: 1774.2141936628375
+  yaw: -81.19160461425781
+  pitch: 34.200008392333984
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 9.645099318020295
+  y: 103.0
+  z: 24.753930045376677
+  yaw: -5.7392578125
+  pitch: 20.55013084411621

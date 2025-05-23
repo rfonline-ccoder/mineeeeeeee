@@ -1,0 +1,20 @@
+quest-progress:
+  walking1:
+    started: true
+    started-date: 1745016128511
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      walking:
+        completed: false
+        progress: 209
+  playtime1:
+    started: false
+    started-date: 1745016120823
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      playtime:
+        completed: false

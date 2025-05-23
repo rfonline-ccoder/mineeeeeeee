@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.37.24.180
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730395897293
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730395906340
+  login: 1730395134476
+money: '63.0225000000000006'
+last-account-name: sixPack94
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -18.83943867334183
+  y: 105.0
+  z: -31.011115272717763
+  yaw: -150.94093322753906
+  pitch: 3.000101089477539
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 3.2263726196680924
+  y: 100.0
+  z: 12.781607133353027
+  yaw: 20.339998245239258
+  pitch: -2.100008964538574

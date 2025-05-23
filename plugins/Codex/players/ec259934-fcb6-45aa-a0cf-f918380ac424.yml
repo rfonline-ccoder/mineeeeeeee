@@ -1,0 +1,13 @@
+name: JuYuYu
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - emotes;19/04/2025
+    - shop;19/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;19/04/2025
+    - resourceworld;19/04/2025
+    - end;19/04/2025

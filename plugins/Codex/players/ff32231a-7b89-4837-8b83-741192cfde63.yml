@@ -1,0 +1,13 @@
+name: wrust
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - jobs;28/04/2025
+    - ranks;28/04/2025
+    - shop;28/04/2025
+    - auctionhouse;28/04/2025
+    - skills;28/04/2025
+    - emotes;28/04/2025
+    - quests;28/04/2025
+    - kits;28/04/2025

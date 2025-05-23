@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 104.35.133.89
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1738806994210
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738887521785
+  login: 1738887499886
+money: '50.0'
+last-account-name: Joey10000000
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -15.699999988079071
+  y: 107.0
+  z: -46.1726181039262
+  yaw: -38.323486328125
+  pitch: 6.4661865234375
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -1198.9585837263764
+  y: 70.24918707874468
+  z: -12.780919390081278
+  yaw: -7.174041748046875
+  pitch: 13.857086181640625
+homes:
+  test:
+    world: 733355ae-a633-4848-98f1-34580544aec0
+    world-name: survival
+    x: 293.9935842722694
+    y: 63.0
+    z: -2256.961508050776
+    yaw: 91.4200439453125
+    pitch: 9.060062408447266

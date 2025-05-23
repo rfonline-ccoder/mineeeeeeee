@@ -1,0 +1,33 @@
+info:
+  namespace: bettermobs
+categories:
+  amethyst+:
+    enabled: true
+    name: "&d&lAmethystPlus"
+    title: ""
+    icon: bettermobs:amethyst_netherite_pickaxe
+    items:
+      - bettermobs:amethyst_netherite_sword
+      - bettermobs:amethyst_netherite_pickaxe
+      - bettermobs:amethyst_netherite_axe
+      - bettermobs:amethyst_netherite_helmet
+      - bettermobs:amethyst_netherite_chestplate
+      - bettermobs:amethyst_netherite_leggings
+      - bettermobs:amethyst_netherite_boots
+      - bettermobs:amethyst_diamond_sword
+      - bettermobs:amethyst_diamond_pickaxe
+      - bettermobs:amethyst_diamond_axe
+      - bettermobs:amethyst_diamond_helmet
+      - bettermobs:amethyst_diamond_chestplate
+      - bettermobs:amethyst_diamond_leggings
+      - bettermobs:amethyst_diamond_boots
+      - bettermobs:amethyst_iron_sword
+      - bettermobs:amethyst_iron_pickaxe
+      - bettermobs:amethyst_iron_axe
+      - bettermobs:amethyst_iron_helmet
+      - bettermobs:amethyst_iron_chestplate
+      - bettermobs:amethyst_iron_leggings
+      - bettermobs:amethyst_iron_boots
+    font_image:
+      name: "bettermobs:amethystgui"
+    

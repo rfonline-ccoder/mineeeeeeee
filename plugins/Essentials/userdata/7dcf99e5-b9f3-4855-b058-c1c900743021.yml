@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.140.89.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745457368068
+  login: 1745457185916
+money: '0'
+last-account-name: z_Marques
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 3257.621394427952
+  y: 86.0
+  z: -1310.095439642466
+  yaw: -4.843505859375
+  pitch: 64.35005950927734
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -10.329491529857055
+  y: 100.0
+  z: 1.0050855711172197
+  yaw: 99.86077880859375
+  pitch: 5.249996185302734

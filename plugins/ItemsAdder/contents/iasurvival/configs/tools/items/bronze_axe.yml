@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  bronze_axe:
+    enabled: true
+    display_name: Bronze Axe
+    permission: iasurvival.items.bronze_axe
+    resource:
+      material: DIAMOND_AXE
+      generate: true
+      textures:
+        - item/tools/bronze_axe

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.253.158.56
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733163849453
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735407731254
+  login: 1735407725954
+money: '0'
+last-account-name: Djicey121
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 5.591553908714095
+  y: 100.5
+  z: -9.740068878041688
+  yaw: -61.712921142578125
+  pitch: 16.334915161132812
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 24.07118946773496
+  y: 102.0
+  z: 26.303135840550272
+  yaw: 162.02418518066406
+  pitch: 5.398677825927734

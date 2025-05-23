@@ -1,0 +1,50 @@
+prefix: §6[JCinematic] §r
+recording:
+  started: Enregistrement démarré !
+  finished: Enregistrement terminé !
+  save_prompt: Utilisez §6/cinematic save <nom> §rpour sauvegarder la cinématique.
+  already_recording: Vous enregistrez déjà une cinématique.
+  duration_invalid: La durée doit être supérieure à 0 secondes.
+  countdown: Préparation de l'enregistrement...
+  paused: Enregistrement en pause.
+  resuming: Reprise dans...
+  resumed: Enregistrement repris.
+save:
+  no_recording: Il n'y a pas de cinématique enregistrée à sauvegarder.
+  exists: Une cinématique avec ce nom existe déjà.
+  success: 'Cinématique sauvegardée sous: §e%name%'
+  error: 'Erreur lors de la sauvegarde de la cinématique: %error%'
+play:
+  not_found: 'Cinématique non trouvée: §e%name%'
+  already_playing: Vous regardez déjà une cinématique.
+  started: 'Lecture de la cinématique: §e%name%'
+  finished: Cinématique terminée.
+  time_remaining: 'Temps restant: §a%seconds% secondes'
+stop:
+  none_active: Il n'y a pas de cinématique active à arrêter.
+  stopped: Cinématique arrêtée.
+  recording_stopped: Enregistrement arrêté.
+  all_stopped: Toutes les cinématiques ont été arrêtées.
+reload:
+  success: Configuration rechargée avec succès !
+  no_permission: Vous n'avez pas la permission de recharger le plugin.
+error:
+  player_only: Cette commande ne peut être utilisée que par des joueurs.
+  no_permission: Vous n'avez pas la permission d'utiliser cette commande.
+  no_permission_all: Vous n'avez pas la permission de jouer des cinématiques pour
+    tous les joueurs.
+  no_permission_stop_all: Vous n'avez pas la permission d'arrêter les cinématiques
+    des autres joueurs.
+  general: 'Une erreur s''est produite: %error%'
+help:
+  title: === Commandes Cinématiques ===
+  rec: §e/cinematic rec <durée> §7- Commencer l'enregistrement d'une cinématique
+  save: §e/cinematic save <nom> §7- Sauvegarder la cinématique enregistrée
+  play: §e/cinematic play <nom> [tous] §7- Jouer une cinématique
+  stop: §e/cinematic stop [tous] §7- Arrêter la cinématique actuelle
+  lang: §e/cinematic lang <langue> §7- Changer votre langue
+  reload: §e/cinematic reload §7- Recharger la configuration du plugin
+  footer: ===========================
+lang:
+  changed: Langue changée en Français.
+  not_found: 'Langue non trouvée. Langues disponibles: %languages%'

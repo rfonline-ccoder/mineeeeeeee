@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.87.163.61
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1741964939987
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1741965616234
+  login: 1741964592392
+money: '0'
+last-account-name: Kafkafpss
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -9.047320279240424
+  y: 100.0
+  z: -5.2075981898564825
+  yaw: -64.69195556640625
+  pitch: 9.75017261505127
+logoutlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: 770.9505673402622
+  y: 64.0
+  z: 4167.086256969643
+  yaw: -21.19183349609375
+  pitch: 38.40012741088867

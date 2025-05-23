@@ -1,0 +1,35 @@
+tasks:
+  collect:
+    type: "inventory"
+    item: LEATHER
+    remove-items-when-complete: true
+    amount: 128
+
+display:
+  name: "&aCollect XXIII"
+  lore-normal:
+    - "&8Medium Quest"
+    - ""
+    - "&6&lQUEST"
+    - "&fCollect &a128&f leathers."
+    - ""
+    - "&6&lREWARDS"
+    - "&b$1450"
+  lore-started:
+    - ""
+    - "&eProgress"
+    - "&a{collect:progress}/128"
+  type: "LEATHER"
+
+rewards:
+  - "eco give {player} 1450"
+
+options:
+  category: "collect"
+  repeatable: false
+  cooldown:
+    enabled: true
+    time: 1440
+  sort-order: 23
+  requires:
+   - "collect22"

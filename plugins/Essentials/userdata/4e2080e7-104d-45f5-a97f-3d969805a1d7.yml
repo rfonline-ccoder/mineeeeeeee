@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.43.176.113
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729476885598
+  login: 1729476337411
+money: '0'
+last-account-name: LightningDesign
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 2.505241625812199
+  y: 100.0
+  z: 0.6978833255111799
+  yaw: -96.0028076171875
+  pitch: -9.983098030090332
+logoutlocation:
+  world: 9bb8c1dc-9fb2-464a-90ee-84bb1aa1b99e
+  world-name: resourceworld
+  x: -3363.300000011921
+  y: 89.0
+  z: -4209.339134293024
+  yaw: -111.60696411132812
+  pitch: 3.6325788497924805

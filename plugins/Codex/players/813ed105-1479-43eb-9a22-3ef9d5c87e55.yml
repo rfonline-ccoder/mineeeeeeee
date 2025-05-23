@@ -1,0 +1,18 @@
+name: _Wolfdude
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - help;20/03/2025
+    - kits;20/03/2025
+    - quests;20/03/2025
+    - emotes;20/03/2025
+    - skills;20/03/2025
+    - auctionhouse;20/03/2025
+    - shop;20/03/2025
+    - ranks;20/03/2025
+    - jobs;20/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;20/03/2025

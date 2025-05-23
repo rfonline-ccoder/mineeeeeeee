@@ -1,0 +1,11 @@
+quest-progress:
+  dealdamage1:
+    started: true
+    started-date: 1728269791427
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      dealdamage:
+        completed: false
+        progress: 1.0

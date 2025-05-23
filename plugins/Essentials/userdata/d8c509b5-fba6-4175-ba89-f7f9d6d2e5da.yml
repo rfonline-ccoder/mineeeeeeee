@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.214.127.162
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736874036606
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740668204881
+  login: 1740668079966
+money: '736.0'
+last-account-name: fedajkin
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -1351.237500011921
+  y: 98.0
+  z: 4052.217239949633
+  yaw: 49.95013427734375
+  pitch: 8.400043487548828
+homes:
+  selo:
+    world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+    world-name: survival
+    x: -1356.272585768664
+    y: 92.0
+    z: 4024.3054355100844
+    yaw: 163.05029296875
+    pitch: 43.20002365112305
+  home:
+    world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+    world-name: survival
+    x: 4422.141455284268
+    y: 74.0
+    z: 3643.876624775432
+    yaw: -168.0368194580078
+    pitch: 14.850107192993164
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -2.049732344743914
+  y: 99.5
+  z: -3.9015614916556784
+  yaw: -178.093017578125
+  pitch: 2.400129795074463

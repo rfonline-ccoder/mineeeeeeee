@@ -1,0 +1,14 @@
+name: Strips_Tv
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - emotes;26/04/2025
+    - skills;26/04/2025
+    - quests;26/04/2025
+    - kits;26/04/2025
+    - help;26/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;26/04/2025

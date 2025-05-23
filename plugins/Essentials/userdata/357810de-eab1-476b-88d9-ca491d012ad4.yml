@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.174.30.6
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733698383831
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744298603603
+  login: 1744298575212
+money: '0'
+last-account-name: Zetlas_
+lastlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: 3274.0711780628817
+  y: 58.0
+  z: -3510.2436825034783
+  yaw: 70.4582290649414
+  pitch: 52.35012435913086
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 2.2140834426689904
+  y: 100.5
+  z: 11.852297146125167
+  yaw: 49.45695495605469
+  pitch: 1.350104570388794

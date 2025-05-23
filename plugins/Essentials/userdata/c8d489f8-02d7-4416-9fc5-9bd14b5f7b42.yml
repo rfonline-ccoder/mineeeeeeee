@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.150.42.53
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745101093467
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745101246405
+  login: 1745100763639
+money: '0'
+last-account-name: MisterLogik
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 1.1392808695083656
+  y: 101.0
+  z: 12.939068637584281
+  yaw: -95.5971908569336
+  pitch: 8.938189506530762
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -2.1913535476649058
+  y: 100.0
+  z: 1.6645656507945912
+  yaw: -104.10012817382812
+  pitch: 14.038193702697754

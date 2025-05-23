@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 174.168.230.173
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737235440287
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745527545968
+  login: 1745527487416
+money: '0'
+last-account-name: Craze_FactorYT
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 4068.499132348692
+  y: 69.0
+  z: -3328.6184015021213
+  yaw: 57.258209228515625
+  pitch: 0.600126326084137
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 1.3383962552409394
+  y: 99.5
+  z: -3.8718729685455613
+  yaw: 140.80746459960938
+  pitch: 16.650108337402344

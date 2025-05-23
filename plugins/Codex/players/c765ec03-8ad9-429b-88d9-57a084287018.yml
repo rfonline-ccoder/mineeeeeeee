@@ -1,0 +1,13 @@
+name: Ju4nML
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - quests;02/04/2025
+    - kits;02/04/2025
+    - skills;02/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - end;02/04/2025
+    - resourceworld;02/04/2025

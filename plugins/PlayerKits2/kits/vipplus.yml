@@ -1,0 +1,152 @@
+cooldown: 604800
+one_time: false
+auto_armor: false
+permission_required: true
+display:
+  default:
+    id: PAPER
+    name: '&f&r &9Kit'
+    amount: 1
+    lore:
+    - '&f&r &bClick to claim'
+    custom_model_data: 10179
+    nbt:
+    - itemsadder|{id:"icon_vipplus",namespace:"mcicons"}|compound
+  no_permission:
+    id: PAPER
+    name: '&f&r &9Kit'
+    amount: 1
+    lore:
+    - '&f&r &cYou need &f&r &crank'
+    - '&cto claim this kit'
+    custom_model_data: 10179
+    nbt:
+    - itemsadder|{id:"icon_vipplus",namespace:"mcicons"}|compound
+  cooldown:
+    id: PAPER
+    name: '&f&r &9Kit'
+    amount: 1
+    lore:
+    - '&f&r &eYou need to wait %time%'
+    - '&eto claim this kit again'
+    custom_model_data: 10179
+    nbt:
+    - itemsadder|{id:"icon_vipplus",namespace:"mcicons"}|compound
+items:
+  '1':
+    id: DIAMOND_SWORD
+    name: '&f&r &9Sword'
+    amount: 1
+    enchants:
+    - FIRE_ASPECT;1
+    - LOOT_BONUS_MOBS;1
+    - DAMAGE_ALL;3
+    - DURABILITY;2
+  '2':
+    id: DIAMOND_PICKAXE
+    name: '&f&r &9Pickaxe'
+    amount: 1
+    enchants:
+    - DIG_SPEED;3
+    - LOOT_BONUS_BLOCKS;1
+    - DURABILITY;2
+  '3':
+    id: DIAMOND_AXE
+    name: '&f&r &9Axe'
+    amount: 1
+    enchants:
+    - DIG_SPEED;3
+    - DURABILITY;2
+  '4':
+    id: DIAMOND_SHOVEL
+    name: '&f&r &9Shovel'
+    amount: 1
+    enchants:
+    - DIG_SPEED;3
+    - DURABILITY;2
+  '5':
+    id: BOW
+    name: '&f&r &9Bow'
+    amount: 1
+    enchants:
+    - ARROW_FIRE;1
+    - MENDING;1
+    - ARROW_DAMAGE;2
+    - DURABILITY;2
+  '6':
+    id: LEATHER_HELMET
+    name: '&f&r &9Helmet'
+    amount: 1
+    lore:
+    - '&7Durability: 475 / 475'
+    item_flags:
+    - HIDE_DYE
+    custom_model_data: 10000
+    color: 5441382
+    nbt:
+    - itemsadder|{custom_durability:475,fake_durability:55.0d,id:"dark_amethyst_helmet",max_custom_durability:475,namespace:"iasurvival"}|compound
+    attributes:
+    - GENERIC_ARMOR;ADD_NUMBER;4.0;6a63cdae-ea06-3b7b-8b0f-9756aa9ce4ea;HEAD;custom_name:itemsadder
+    - GENERIC_ARMOR_TOUGHNESS;ADD_NUMBER;1.0;40bc0c55-fad6-3bd4-970a-c755d15edb5c;HEAD;custom_name:itemsadder
+  '7':
+    id: LEATHER_CHESTPLATE
+    name: '&f&r &9Chestplate'
+    amount: 1
+    lore:
+    - '&7Durability: 675 / 675'
+    item_flags:
+    - HIDE_DYE
+    custom_model_data: 10000
+    color: 5441382
+    nbt:
+    - itemsadder|{custom_durability:675,fake_durability:80.0d,id:"dark_amethyst_chestplate",max_custom_durability:675,namespace:"iasurvival"}|compound
+    attributes:
+    - GENERIC_ARMOR;ADD_NUMBER;9.0;18bd5a03-405a-355c-a96d-0ee39309c023;CHEST;custom_name:itemsadder
+    - GENERIC_ARMOR_TOUGHNESS;ADD_NUMBER;1.0;f269729a-5199-3723-ab1f-8ba201e83007;CHEST;custom_name:itemsadder
+  '8':
+    id: LEATHER_LEGGINGS
+    name: '&f&r &9Leggings'
+    amount: 1
+    lore:
+    - '&7Durability: 575 / 575'
+    item_flags:
+    - HIDE_DYE
+    custom_model_data: 10000
+    color: 5441382
+    nbt:
+    - itemsadder|{custom_durability:575,fake_durability:75.0d,id:"dark_amethyst_leggings",max_custom_durability:575,namespace:"iasurvival"}|compound
+    attributes:
+    - GENERIC_ARMOR;ADD_NUMBER;5.0;bef0b281-318c-3fb8-813a-19080790d407;LEGS;custom_name:itemsadder
+    - GENERIC_ARMOR_TOUGHNESS;ADD_NUMBER;1.0;29f0ccfc-37ea-3848-bd5d-f16672d5828a;LEGS;custom_name:itemsadder
+  '9':
+    id: LEATHER_BOOTS
+    name: '&f&r &9Boots'
+    amount: 1
+    lore:
+    - '&7Durability: 529 / 529'
+    item_flags:
+    - HIDE_DYE
+    custom_model_data: 10000
+    color: 5441382
+    nbt:
+    - itemsadder|{custom_durability:529,fake_durability:65.0d,id:"dark_amethyst_boots",max_custom_durability:529,namespace:"iasurvival"}|compound
+    attributes:
+    - GENERIC_ARMOR;ADD_NUMBER;2.0;9d575af4-3738-37b5-8f8c-297118b67215;FEET;custom_name:itemsadder
+    - GENERIC_ARMOR_TOUGHNESS;ADD_NUMBER;1.0;aeee788e-035b-3e0a-ad34-0868bc51d844;FEET;custom_name:itemsadder
+  '10':
+    id: ARROW
+    amount: 64
+  '11':
+    id: ENCHANTED_GOLDEN_APPLE
+    amount: 1
+actions:
+  claim:
+    '1':
+      action: 'playsound: BLOCK_NOTE_BLOCK_PLING;10;2'
+      execute_before_items: false
+      count_as_item: false
+  error:
+    '1':
+      action: 'playsound: BLOCK_NOTE_BLOCK_PLING;10;0.1'
+      execute_before_items: false
+      count_as_item: false

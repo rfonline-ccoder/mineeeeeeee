@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.241.143.45
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735763700325
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735764512803
+  login: 1735763634372
+money: '0'
+last-account-name: DrakooDeveloper
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -2917.41451105551
+  y: 72.0
+  z: -4072.433034231959
+  yaw: -13.246516227722168
+  pitch: -1.003333568572998
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 3.0648527451886936
+  y: 100.5
+  z: 17.980606961381906
+  yaw: -83.73333740234375
+  pitch: 9.449780464172363

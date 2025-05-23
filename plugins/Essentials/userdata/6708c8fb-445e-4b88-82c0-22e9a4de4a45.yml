@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.81.88.63
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1741072780305
+  login: 1741072198992
+money: '0'
+last-account-name: MomoGotti
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: -4287.511361394724
+  y: 103.0
+  z: -3814.0761710629617
+  yaw: -46.99224853515625
+  pitch: 13.500297546386719
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 1.0753297364444507
+  y: 100.0
+  z: 3.173511672298206
+  yaw: -1.6927490234375
+  pitch: 19.650146484375

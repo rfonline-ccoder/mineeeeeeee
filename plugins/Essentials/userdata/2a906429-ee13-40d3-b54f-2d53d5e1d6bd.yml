@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.190.172.142
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1740370980774
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742108428282
+  login: 1742108424497
+money: '0'
+last-account-name: Sirability
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -8.968291275497235
+  y: 100.0
+  z: -0.09013815174218258
+  yaw: 79.7142105102539
+  pitch: -0.8100835084915161
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 1.9575634370519046
+  y: 99.5
+  z: 4.582534232284826
+  yaw: 171.70736694335938
+  pitch: 0.9001139998435974
+past-usernames:
+- Verzha

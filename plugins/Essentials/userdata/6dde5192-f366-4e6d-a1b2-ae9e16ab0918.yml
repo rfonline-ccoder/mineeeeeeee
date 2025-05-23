@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.31.117.95
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728933252799
+  login: 1728933059247
+money: '0'
+last-account-name: Drimderss
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.0
+  y: -308.00087782171397
+  z: 0.0
+  yaw: 2.700000286102295
+  pitch: -6.600001811981201
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.5349321975935204
+  y: 99.5
+  z: 6.705590111938693
+  yaw: -125.89241790771484
+  pitch: 10.650142669677734

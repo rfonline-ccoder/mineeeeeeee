@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 184.22.102.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734253843428
+  login: 1734253834447
+money: '0'
+last-account-name: _NICOTINEx
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -2677.9676932692323
+  y: 94.0
+  z: -4327.384863530448
+  yaw: -52.54240417480469
+  pitch: 35.85005569458008
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.48305001616648297
+  y: 100.0
+  z: 0.48121179469108083
+  yaw: -17.442235946655273
+  pitch: 22.20011329650879

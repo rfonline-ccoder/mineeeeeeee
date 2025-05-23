@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 201.218.159.214
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730786539832
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730787456354
+  login: 1730786201784
+money: '0'
+last-account-name: xGDragon
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 7.858151012439062
+  y: 99.5
+  z: 1.030290216570825
+  yaw: 99.0078125
+  pitch: 9.65457820892334
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -4869.699999988079
+  y: 78.0
+  z: 603.1002752797343
+  yaw: -157.19195556640625
+  pitch: -21.25298500061035

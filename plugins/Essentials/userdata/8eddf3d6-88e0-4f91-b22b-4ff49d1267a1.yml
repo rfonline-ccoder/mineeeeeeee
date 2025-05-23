@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 167.248.67.226
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734652303777
+  login: 1734651686219
+money: '0'
+last-account-name: AppDatty
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -1664.6979603106665
+  y: 68.0
+  z: 2408.9324884322145
+  yaw: 22.01544189453125
+  pitch: 21.003061294555664
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 4226.3467439840215
+  y: 87.0
+  z: 3082.3707673451054
+  yaw: 146.5441436767578
+  pitch: 30.860502243041992

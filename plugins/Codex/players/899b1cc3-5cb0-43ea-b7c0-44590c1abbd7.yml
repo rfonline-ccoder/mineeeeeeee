@@ -1,0 +1,10 @@
+name: Temptated
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - ranks;29/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;29/03/2025

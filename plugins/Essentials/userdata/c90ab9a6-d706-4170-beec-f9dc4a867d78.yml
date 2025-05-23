@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.241.28.237
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745660341619
+  login: 1745660135274
+money: '0'
+last-account-name: Strips_Tv
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -10.258900941592533
+  y: 101.0
+  z: -7.869052282497196
+  yaw: -91.56452941894531
+  pitch: -2.482935667037964
+logoutlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 4608.1287098801895
+  y: 67.0
+  z: 2897.567211300874
+  yaw: 83.0252685546875
+  pitch: -44.4830322265625

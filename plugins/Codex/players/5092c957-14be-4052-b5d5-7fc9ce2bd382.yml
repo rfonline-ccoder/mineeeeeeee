@@ -1,0 +1,19 @@
+name: autentificare
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - kits;15/03/2025
+    - help;15/03/2025
+    - ranks;15/03/2025
+    - guide;15/03/2025
+    - auctionhouse;15/03/2025
+    - shop;15/03/2025
+    - quests;15/03/2025
+    - emotes;15/03/2025
+    - skills;15/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;15/03/2025
+    - end;15/03/2025

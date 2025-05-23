@@ -1,0 +1,35 @@
+tasks:
+  collect:
+    type: "inventory"
+    item: ROTTEN_FLESH
+    remove-items-when-complete: true
+    amount: 16
+
+display:
+  name: "&aCollect VIII"
+  lore-normal:
+    - "&8Easy Quest"
+    - ""
+    - "&6&lQUEST"
+    - "&fCollect &a16&f rotten flesh."
+    - ""
+    - "&6&lREWARDS"
+    - "&b$550"
+  lore-started:
+    - ""
+    - "&eProgress"
+    - "&a{collect:progress}/16"
+  type: "ROTTEN_FLESH"
+
+rewards:
+  - "eco give {player} 550"
+
+options:
+  category: "collect"
+  repeatable: false
+  cooldown:
+    enabled: true
+    time: 1440
+  sort-order: 8
+  requires:
+   - "collect7"

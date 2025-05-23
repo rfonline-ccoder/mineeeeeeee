@@ -1,0 +1,20 @@
+name: iMrLuky
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - kits;11/03/2025
+    - quests;11/03/2025
+    - emotes;11/03/2025
+    - skills;11/03/2025
+    - shop;11/03/2025
+    - auctionhouse;11/03/2025
+    - ranks;11/03/2025
+    - jobs;11/03/2025
+    - guide;11/03/2025
+    - help;11/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;11/03/2025
+    - end;11/03/2025

@@ -1,0 +1,9 @@
+info:
+  namespace: "custom_death"
+font_images:
+  you_died:
+    path: "you_died.png"
+    y_position: 25
+    scale_ratio: 80
+    suggest_in_command: false
+    show_in_gui: false

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 67.11.179.94
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745892812105
+  login: 1745892737828
+money: '0'
+last-account-name: BusterIsValid
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 2365.0414277779046
+  y: 64.0
+  z: -1092.359069125118
+  yaw: -92.44212341308594
+  pitch: 1.1104345321655273E-4
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.0738513115697208
+  y: 99.5
+  z: -2.340018816588938
+  yaw: 95.95782470703125
+  pitch: -0.44989216327667236

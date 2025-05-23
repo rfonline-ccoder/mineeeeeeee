@@ -1,0 +1,20 @@
+name: ____Hellboy_____
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - emotes;27/04/2025
+    - skills;27/04/2025
+    - kits;27/04/2025
+    - help;27/04/2025
+    - jobs;27/04/2025
+    - ranks;27/04/2025
+    - shop;27/04/2025
+    - auctionhouse;27/04/2025
+    - quests;27/04/2025
+    - guide;27/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;27/04/2025
+    - resourceworld;27/04/2025

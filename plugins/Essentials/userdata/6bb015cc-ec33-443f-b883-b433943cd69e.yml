@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 125.160.102.212
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745834121131
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745837348604
+  login: 1745837281953
+money: '0'
+last-account-name: SulXz
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 3.6337971072368496
+  y: 99.5
+  z: 0.49954613730294695
+  yaw: -90.04224395751953
+  pitch: -1.1998910903930664
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 9.451202130169126
+  y: 100.0
+  z: 13.56028145671459
+  yaw: 104.96517944335938
+  pitch: 29.700050354003906

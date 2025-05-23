@@ -1,0 +1,19 @@
+name: SamX_Official
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - jobs;08/04/2025
+    - ranks;08/04/2025
+    - shop;08/04/2025
+    - auctionhouse;08/04/2025
+    - guide;08/04/2025
+    - help;08/04/2025
+    - kits;08/04/2025
+    - quests;08/04/2025
+    - emotes;08/04/2025
+    - skills;08/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;08/04/2025

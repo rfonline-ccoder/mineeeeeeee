@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 125.27.129.45
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731932643647
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745804734605
+  login: 1745804501625
+money: '0'
+last-account-name: KaRaKate1997
+lastlocation:
+  world: 0cc3f169-8b79-4ee7-b551-63565fb90a0e
+  world-name: world
+  x: 24.495096130772772
+  y: 91.0
+  z: -23.52882885160071
+  yaw: 0.4499977231025696
+  pitch: -1.6500009298324585
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -6.891117842023224
+  y: 99.5
+  z: 1.3450760900142356
+  yaw: 84.7079086303711
+  pitch: -25.499908447265625

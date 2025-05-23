@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.5.174.19
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733943484302
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746094386504
+  login: 1746094134771
+money: '0'
+last-account-name: ONMikusek
+lastlocation:
+  world: 0cc3f169-8b79-4ee7-b551-63565fb90a0e
+  world-name: world
+  x: 24.495096130772772
+  y: 91.0
+  z: -23.52882885160071
+  yaw: 0.4499977231025696
+  pitch: -1.6500009298324585
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -8.633191810385911
+  y: 99.5
+  z: 1.6540990968595604
+  yaw: 121.00776672363281
+  pitch: -14.24988842010498

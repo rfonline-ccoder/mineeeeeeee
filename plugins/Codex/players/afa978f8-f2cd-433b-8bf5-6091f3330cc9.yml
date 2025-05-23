@@ -1,0 +1,13 @@
+name: edgar36
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - kits;24/02/2025
+    - ranks;24/02/2025
+    - jobs;24/02/2025
+    - help;24/02/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;24/02/2025

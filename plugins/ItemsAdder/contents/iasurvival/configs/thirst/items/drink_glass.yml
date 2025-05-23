@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  drink_glass:
+    enabled: true
+    display_name: Drink Glass
+    permission: iasurvival.items.drink_glass
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/thirst/drink_glass

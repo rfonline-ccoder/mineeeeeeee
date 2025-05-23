@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 200.119.175.63
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743011945227
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743012616245
+  login: 1743011932243
+money: '0'
+last-account-name: CM228
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -22.934754109686747
+  y: 101.0
+  z: 29.618831280510847
+  yaw: -172.6925506591797
+  pitch: 33.45010757446289
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 22.815937198184553
+  y: 104.0
+  z: 29.826287321001264
+  yaw: 92.35847473144531
+  pitch: 20.100051879882812

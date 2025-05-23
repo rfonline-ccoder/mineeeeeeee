@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.205.233.48
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728435693637
+  login: 1728435528499
+money: '0'
+last-account-name: CopyrightXb
+lastlocation:
+  world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+  world-name: survival
+  x: -3001.889826495845
+  y: 88.0
+  z: 2164.8209335226434
+  yaw: -88.84213256835938
+  pitch: 46.05013656616211
+logoutlocation:
+  world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+  world-name: survival
+  x: -3001.889826495845
+  y: 88.0
+  z: 2164.8209335226434
+  yaw: -88.84213256835938
+  pitch: 46.05013656616211

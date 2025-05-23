@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 35.148.217.98
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735142513477
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735142643137
+  login: 1735142216126
+money: '0'
+last-account-name: SkipsPY
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 8.199999988079071
+  y: 99.5
+  z: 2.127162695683427
+  yaw: -89.95345306396484
+  pitch: 9.133803367614746
+logoutlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: 4141.699999988079
+  y: 57.0
+  z: -1644.558781089429
+  yaw: -35.5352783203125
+  pitch: 39.823944091796875

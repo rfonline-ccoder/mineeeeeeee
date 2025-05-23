@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.144.133.93
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737368275072
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737368586037
+  login: 1737367921567
+money: '0'
+last-account-name: OrbitzX
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -9.069068106539829
+  y: 100.0
+  z: 0.4624571807604928
+  yaw: 88.50797271728516
+  pitch: -24.28433609008789
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -0.8352585420232018
+  y: 103.0
+  z: -21.439078888107012
+  yaw: -176.426025390625
+  pitch: 10.385171890258789

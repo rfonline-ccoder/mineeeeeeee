@@ -1,0 +1,16 @@
+name: sincegod
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - skills;13/03/2025
+    - kits;13/03/2025
+    - guide;13/03/2025
+    - shop;13/03/2025
+    - jobs;13/03/2025
+    - auctionhouse;13/03/2025
+    - ranks;13/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;13/03/2025

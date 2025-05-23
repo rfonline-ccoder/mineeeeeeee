@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.163.218.240
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732542459271
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732542582371
+  login: 1732542373247
+money: '0'
+last-account-name: necodex
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 1709.2428254820295
+  y: 147.0
+  z: -4387.594590994717
+  yaw: 73.15565490722656
+  pitch: 30.5999755859375
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 9.146688347076656
+  y: 100.0
+  z: 20.496044458544546
+  yaw: 170.20745849609375
+  pitch: 3.750124931335449

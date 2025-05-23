@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.89.75.40
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1741925069264
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1741925807733
+  login: 1741925805480
+money: '0'
+last-account-name: KopaRealmRider
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -2220.6519852124497
+  y: 71.0
+  z: 1665.041699784379
+  yaw: 1.75909423828125
+  pitch: 43.34986114501953
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -6.0376690151371655
+  y: 99.5
+  z: -5.549573280748822
+  yaw: -26.292327880859375
+  pitch: 17.850099563598633

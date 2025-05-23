@@ -1,0 +1,6 @@
+name: TimeLimit
+kits:
+  starter:
+    cooldown: 1738188123081
+    one_time: false
+    bought: false

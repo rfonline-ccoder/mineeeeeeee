@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.116.135.187
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1738522461895
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738522489654
+  login: 1738521983799
+money: '0'
+last-account-name: F0CUS
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 2079.184881945826
+  y: 97.0
+  z: -1197.7435168544657
+  yaw: -116.31536865234375
+  pitch: 21.340452194213867
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 13.195204682651918
+  y: 100.0
+  z: -7.70171399938251
+  yaw: -8.99798583984375
+  pitch: 9.241287231445312

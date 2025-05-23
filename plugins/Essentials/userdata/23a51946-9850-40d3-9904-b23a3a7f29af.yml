@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 62.235.190.242
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734609926107
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734610062431
+  login: 1734609916868
+money: '0'
+last-account-name: Taku_13
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 929.9910471274462
+  y: 63.0
+  z: 1930.5973024765083
+  yaw: -137.59213256835938
+  pitch: 3.3000946044921875
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -2.078458366078232
+  y: 100.0
+  z: -10.911594750477846
+  yaw: -122.59223937988281
+  pitch: -4.949882984161377

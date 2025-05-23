@@ -1,0 +1,145 @@
+menu_title: 'Rank - :galactic:'
+open_command:
+size: 45
+items:
+  '1':
+    material: GOLD_INGOT
+    slot: 10
+    display_name: "&b&lMoney"
+    lore:
+    - "&7► %vault_eco_balance_fixed%$/150.000$"
+    nbt_int: CustomModelData:10000
+  '2':
+    material: EXPERIENCE_BOTTLE
+    slot: 12
+    display_name: "&b&lJobs level"
+    lore:
+    - "&7► %jobsr_user_totallevels%/80 Jobs levels"
+    nbt_int: CustomModelData:10001
+  '3':
+    material: EXPERIENCE_BOTTLE
+    slot: 13
+    display_name: "&b&lPlayer level"
+    lore:
+    - "&7► %player_level%/70 Player levels"
+    nbt_int: CustomModelData:10002
+  '6':
+    material: JUNGLE_LOG
+    slot: 14
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:JUNGLE_LOG%/384 Jungle logs"
+    amount: 64
+  '7':
+    material: JUNGLE_LEAVES
+    slot: 15
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:JUNGLE_LEAVES%/384 Jungle leaves"
+    amount: 64
+  '8':
+    material: NETHER_QUARTZ_ORE
+    slot: 16
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:NETHER_QUARTZ_ORE%/128 Nether quartz ores"
+    amount: 128
+  '9':
+    material: DIAMOND_BLOCK
+    slot: 19
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:DIAMOND_BLOCK%/64 Diamond blocks"
+    amount: 64
+  '10':
+    material: EMERALD_BLOCK
+    slot: 20
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:EMERALD_BLOCK%/32 Emerald blocks"
+    amount: 32
+  '11':
+    material: COD
+    slot: 32
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:COD%/256 Cods"
+    amount: 256
+  '12':
+    material: TROPICAL_FISH
+    slot: 30
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:TROPICAL_FISH%/128 Tropical fishes"
+    amount: 128
+  '13':
+    material: NAUTILUS_SHELL
+    slot: 31
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:NAUTILUS_SHELL%/32 Nautilus shells"
+    amount: 32
+  '14':
+    material: SHULKER_SHELL
+    slot: 28
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:SHULKER_SHELL%/64 Shulker shells"
+    amount: 64
+  '15':
+    material: WITHER_SKELETON_SKULL
+    slot: 29
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:WITHER_SKELETON_SKULL%/32 Wither skeletron skulls"
+    amount: 32
+  '16':
+    material: HEART_OF_THE_SEA
+    slot: 11
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:HEART_OF_THE_SEA%/2 Heart of the sea"
+    amount: 2
+  '17':
+    material: SPONGE
+    slot: 25
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:SPONGE%/64 Sponges"
+    amount: 64
+  '18':
+    material: DARK_PRISMARINE
+    slot: 24
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:DARK_PRISMARINE%/128 Sark prismarines"
+    amount: 128
+  '19':
+    material: TINTED_GLASS
+    slot: 23
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:TINTED_GLASS%/128 Tinted glasses"
+    amount: 128
+  '20':
+    material: CALCITE
+    slot: 22
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:CALCITE%/128 Calcites"
+    amount: 128
+  '21':
+    material: WAXED_WEATHERED_COPPER
+    slot: 21
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:WAXED_WEATHERED_COPPER%/64 Waxed weathered coppers"
+    amount: 64    
+ 
+#Format
+  'back':
+      material: itemsadder-mcicons:icon_refresh
+      slot: 40
+      display_name: "&cReturn"
+      left_click_commands:
+      - '[openguimenu] ranks'

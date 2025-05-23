@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.81.75.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1728979513225
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740684580181
+  login: 1740684488337
+money: '0'
+last-account-name: admn_
+lastlocation:
+  world: aa512311-387b-4191-afd3-8dbde88bf5ae
+  world-name: world_nether
+  x: 3798.172246003061
+  y: 85.0
+  z: -3840.9459623565203
+  yaw: 82.37191772460938
+  pitch: 19.874544143676758
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 6.19965814212765
+  y: 100.0
+  z: 9.940300225998161
+  yaw: -149.501220703125
+  pitch: -10.283291816711426

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 39.144.147.6
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745024988960
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745025171206
+  login: 1745024770563
+money: '0'
+last-account-name: JuYuYu
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 7.78150323037677
+  y: 99.5
+  z: 0.14813251474867298
+  yaw: -83.89220428466797
+  pitch: 12.00011920928955
+logoutlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: -1881.5
+  y: 58.0
+  z: -2953.5
+  yaw: -123.34217834472656
+  pitch: 25.05012321472168

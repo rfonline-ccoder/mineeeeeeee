@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.182.174.57
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1728833428786
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728833450098
+  login: 1728833310617
+money: '0'
+last-account-name: jimmy57000
+lastlocation:
+  world: 9bb8c1dc-9fb2-464a-90ee-84bb1aa1b99e
+  world-name: resourceworld
+  x: 3919.8163479740842
+  y: 65.0
+  z: -1076.826704437551
+  yaw: -4.541717529296875
+  pitch: 1.350119709968567
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -2.0554309785356217
+  y: 100.0
+  z: 9.82314977526425
+  yaw: 174.10763549804688
+  pitch: 2.85011625289917

@@ -1,0 +1,9 @@
+name: admn_
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - shop;27/02/2025
+    - ranks;27/02/2025
+    - jobs;27/02/2025
+    - help;27/02/2025

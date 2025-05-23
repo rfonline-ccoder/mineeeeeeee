@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 195.64.157.2
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737462105559
+  login: 1737462000551
+money: '0'
+last-account-name: MonSoli
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 8.460590826818795
+  y: 100.53584062504456
+  z: -6.450860173058353
+  yaw: 33.10907745361328
+  pitch: 9.000117301940918
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -4963.035183619093
+  y: 82.0
+  z: 117.35530678578958
+  yaw: 17.95917320251465
+  pitch: -0.2999391555786133

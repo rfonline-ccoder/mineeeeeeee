@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 101.56.25.134
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737399251182
+  login: 1737398961299
+money: '0'
+last-account-name: Verdetto2
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -9.84811932107375
+  y: 100.0
+  z: 0.4863676214203594
+  yaw: -97.39276123046875
+  pitch: 13.799964904785156
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 3992.709062650641
+  y: 88.0
+  z: 2773.3827378702613
+  yaw: -177.79273986816406
+  pitch: 14.100180625915527

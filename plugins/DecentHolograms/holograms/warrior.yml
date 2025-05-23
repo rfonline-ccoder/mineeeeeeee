@@ -1,0 +1,12 @@
+location: Spawn:2.511:106.500:54.509
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&#a3928e&lWARRIOR &f%img_talk_icon%'
+    height: 0.3
+  actions: {}

@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  dark_amethyst:
+    enabled: true
+    display_name: Dark Amethyst
+    permission: iasurvival.items.dark_amethyst
+    resource:
+      material: IRON_INGOT
+      generate: true
+      textures:
+        - item/ores/dark_amethyst

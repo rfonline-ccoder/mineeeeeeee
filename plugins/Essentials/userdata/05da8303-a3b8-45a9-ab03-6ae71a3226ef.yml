@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.93.99.0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736428087331
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736443418193
+  login: 1736443164465
+money: '0'
+last-account-name: AKSianka
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 4308.979910085439
+  y: 81.0
+  z: -2750.240296156119
+  yaw: -21.782968521118164
+  pitch: 22.650165557861328
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -5.466193348037392
+  y: 100.0
+  z: -9.496097246598026
+  yaw: -171.94476318359375
+  pitch: 24.750490188598633

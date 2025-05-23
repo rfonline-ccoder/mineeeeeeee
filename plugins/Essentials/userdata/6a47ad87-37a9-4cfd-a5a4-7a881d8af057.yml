@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 114.122.76.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728740448603
+  login: 1728740263104
+money: '0'
+last-account-name: Adhizero
+lastlocation:
+  world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+  world-name: survival
+  x: 89.31509151652045
+  y: 69.42527412219724
+  z: -4963.64023266249
+  yaw: -75.341796875
+  pitch: -5.249866008758545
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.5266797752994425
+  y: 100.0
+  z: 0.38406067187258885
+  yaw: -138.19207763671875
+  pitch: 11.550113677978516

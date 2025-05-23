@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.188.49.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745933919499
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745933923407
+  login: 1745933620152
+money: '0'
+last-account-name: Bludemond
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.5
+  y: 100.0
+  z: 15.5
+  yaw: 10.289892196655273
+  pitch: -26.400020599365234
+logoutlocation:
+  world: ebbea3ca-f758-4f6c-b528-077c36b9914e
+  world-name: world_nether
+  x: 44.69288406221762
+  y: 58.875
+  z: -22.944635984220735
+  yaw: -128.8428955078125
+  pitch: 43.279685974121094

@@ -1,0 +1,15 @@
+info:
+  namespace: iadeco
+items:
+  table:
+    enabled: true
+    display_name: Table
+    permission: iadeco.decorations.table
+    resource:
+      material: PAPER
+      generate: false
+      model_path: table
+    behaviours:
+      furniture:
+        small: true
+        solid: true

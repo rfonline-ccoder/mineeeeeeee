@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 23.157.48.108
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735661504398
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735875173226
+  login: 1735869436146
+money: '0'
+last-account-name: MountainAir
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 1532.6791734469066
+  y: 114.0
+  z: -180.3429604750257
+  yaw: 90.3968505859375
+  pitch: 76.04912567138672
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -0.7780394291696293
+  y: 100.0
+  z: -9.930930918610011
+  yaw: -4.3828125
+  pitch: -9.749858856201172

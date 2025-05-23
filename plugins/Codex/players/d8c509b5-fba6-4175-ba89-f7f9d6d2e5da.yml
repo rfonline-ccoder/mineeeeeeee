@@ -1,0 +1,11 @@
+name: fedajkin
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - emotes;25/02/2025
+    - quests;25/02/2025
+    - kits;25/02/2025
+    - ranks;25/02/2025
+    - help;27/02/2025
+    - guide;27/02/2025

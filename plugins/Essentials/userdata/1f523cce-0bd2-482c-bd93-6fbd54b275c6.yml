@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 47.225.230.99
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743367545044
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743367586298
+  login: 1743367415914
+money: '0'
+last-account-name: jakkkey
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.8210735143280194
+  y: 100.0
+  z: -1.168379006696125
+  yaw: -49.374755859375
+  pitch: 4.742186546325684
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 1.9605135074440927
+  y: 99.5
+  z: 8.938860649373153
+  yaw: -41.15346145629883
+  pitch: 7.294339179992676

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.201.153.187
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730508251050
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730508323306
+  login: 1730507935935
+money: '0'
+last-account-name: RetteDasPlanet_
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 27.215442695001755
+  y: 106.0
+  z: 35.65393335124185
+  yaw: 176.023193359375
+  pitch: 8.338506698608398
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.9458046384954732
+  y: 100.0
+  z: 1.4259488400682172
+  yaw: -84.2857666015625
+  pitch: 10.124571800231934

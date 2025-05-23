@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 68.13.185.21
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1740419178992
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740419188486
+  login: 1740419073483
+money: '0'
+last-account-name: InfantileOG
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 3.9628190305716986
+  y: 99.5
+  z: -0.8439050860664584
+  yaw: 4.607700347900391
+  pitch: 3.45011043548584
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 1.9495881294704582
+  y: 100.0
+  z: 9.714985882514037
+  yaw: -179.01010131835938
+  pitch: 11.699981689453125

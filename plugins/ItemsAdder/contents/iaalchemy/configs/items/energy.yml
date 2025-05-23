@@ -1,0 +1,30 @@
+info:
+  namespace: iaalchemy
+items:
+  energy_orb:
+    enabled: true
+    display_name: Energy Orb
+    permission: iaalchemy.items.energy.energy_orb
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/energy_orb
+  small_energy_capsule:
+    enabled: true
+    display_name: Small Energy Capsule
+    permission: iaalchemy.items.energy.small_energy_capsule
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/small_energy_capsule
+  energy_capsule:
+    enabled: true
+    display_name: Energy Capsule
+    permission: iaalchemy.items.energy.energy_capsule
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/energy_capsule

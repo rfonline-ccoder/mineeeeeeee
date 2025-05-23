@@ -1,0 +1,11 @@
+quest-progress:
+  walking1:
+    started: true
+    started-date: 1734218551286
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      walking:
+        completed: false
+        progress: 82

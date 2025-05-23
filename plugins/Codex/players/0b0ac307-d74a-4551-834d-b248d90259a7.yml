@@ -1,0 +1,14 @@
+name: QuDodo
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - guide;30/03/2025
+    - jobs;30/03/2025
+    - ranks;30/03/2025
+    - shop;30/03/2025
+    - auctionhouse;30/03/2025
+    - kits;30/03/2025
+    - quests;30/03/2025
+    - emotes;30/03/2025
+    - skills;30/03/2025

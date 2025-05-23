@@ -1,0 +1,14 @@
+name: RIP_YNT
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - shop;20/03/2025
+    - auctionhouse;20/03/2025
+    - ranks;20/03/2025
+    - jobs;20/03/2025
+    - help;20/03/2025
+    - kits;28/03/2025
+    - skills;24/04/2025
+    - emotes;24/04/2025
+    - quests;24/04/2025

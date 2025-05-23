@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.125.173.22
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734380326799
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734381163946
+  login: 1734379228026
+money: '0'
+last-account-name: Stick3rz
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 4442.15769791154
+  y: 71.0
+  z: 3571.9544740439214
+  yaw: -74.52970123291016
+  pitch: 20.81212043762207
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -3.233165949747104
+  y: 99.5
+  z: -6.0271106215479495
+  yaw: -5.172119140625
+  pitch: 10.050002098083496
+homes:
+  home:
+    world: 733355ae-a633-4848-98f1-34580544aec0
+    world-name: survival
+    x: 4440.783516317785
+    y: 71.0
+    z: 3571.7765820160303
+    yaw: -74.52970123291016
+    pitch: 20.81212043762207

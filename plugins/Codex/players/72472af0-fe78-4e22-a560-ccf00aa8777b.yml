@@ -1,0 +1,20 @@
+name: Cheesy_CT
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - skills;21/02/2025
+    - emotes;21/02/2025
+    - quests;21/02/2025
+    - kits;21/02/2025
+    - help;21/02/2025
+    - guide;21/02/2025
+    - jobs;21/02/2025
+    - ranks;21/02/2025
+    - shop;21/02/2025
+    - auctionhouse;21/02/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;21/02/2025
+    - resourceworld;21/02/2025

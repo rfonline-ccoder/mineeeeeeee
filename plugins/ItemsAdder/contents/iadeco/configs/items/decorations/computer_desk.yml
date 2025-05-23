@@ -1,0 +1,15 @@
+info:
+  namespace: iadeco
+items:
+  computer_desk:
+    enabled: true
+    display_name: Computer Desk
+    permission: iadeco.decorations.computer_desk
+    resource:
+      material: PAPER
+      generate: false
+      model_path: computer_desk
+    behaviours:
+      furniture:
+        small: true
+        solid: true

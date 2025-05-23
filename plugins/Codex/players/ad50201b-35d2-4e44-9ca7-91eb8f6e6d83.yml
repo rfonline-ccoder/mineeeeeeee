@@ -1,0 +1,12 @@
+name: alonehuntert
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - auctionhouse;10/03/2025
+    - skills;10/03/2025
+    - emotes;10/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;10/03/2025

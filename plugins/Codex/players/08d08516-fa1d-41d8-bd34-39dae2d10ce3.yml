@@ -1,0 +1,20 @@
+name: BitFlash_
+categories:
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;26/03/2025
+    - survival;26/03/2025
+  npc:
+    completed: true
+    discoveries:
+    - shop;26/03/2025
+    - auctionhouse;26/03/2025
+    - ranks;26/03/2025
+    - jobs;26/03/2025
+    - skills;26/03/2025
+    - emotes;26/03/2025
+    - quests;26/03/2025
+    - kits;26/03/2025
+    - help;26/03/2025
+    - guide;26/03/2025

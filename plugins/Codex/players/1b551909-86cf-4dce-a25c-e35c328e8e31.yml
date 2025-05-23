@@ -1,0 +1,14 @@
+name: KopaRealmRider
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - help;13/03/2025
+    - auctionhouse;14/03/2025
+    - shop;14/03/2025
+    - ranks;14/03/2025
+    - jobs;14/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;13/03/2025

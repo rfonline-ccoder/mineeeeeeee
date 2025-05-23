@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.163.102.29
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734128538478
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734128637015
+  login: 1734128307460
+money: '0.0'
+last-account-name: KILLER42_UA
+lastlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: 1929.7062650228909
+  y: 60.0
+  z: -1257.8215314082663
+  yaw: 57.1158447265625
+  pitch: 14.250268936157227
+logoutlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: -972.7726570654305
+  y: 58.0
+  z: 4426.782704509662
+  yaw: -86.58453369140625
+  pitch: 25.95028305053711

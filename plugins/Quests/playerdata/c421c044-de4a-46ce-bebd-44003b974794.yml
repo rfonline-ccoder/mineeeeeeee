@@ -1,0 +1,19 @@
+quest-progress:
+  brewing1:
+    started: true
+    started-date: 1736260699812
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      brewing:
+        completed: false
+  breeding1:
+    started: true
+    started-date: 1736760786034
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      breeding:
+        completed: false

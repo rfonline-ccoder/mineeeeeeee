@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.40.170.64
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735994669889
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736013170614
+  login: 1736012656192
+money: '0'
+last-account-name: PixelowyRycerz
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 6.5686206322944685
+  y: 99.5
+  z: 0.47946232809125594
+  yaw: 103.75772094726562
+  pitch: -9.599893569946289
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 3644.300000011921
+  y: 61.0
+  z: 3731.3397658172776
+  yaw: 143.0882568359375
+  pitch: 8.678409576416016

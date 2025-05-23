@@ -1,0 +1,11 @@
+quest-progress:
+  mobkilling1:
+    started: true
+    started-date: 1728740041560
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mobkilling:
+        completed: false
+        progress: 1

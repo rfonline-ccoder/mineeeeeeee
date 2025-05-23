@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.196.236.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737296270852
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737296436977
+  login: 1737296266890
+money: '0'
+last-account-name: BeyaZZenci
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 8.199999988079071
+  y: 99.5
+  z: 0.9187652458634549
+  yaw: 97.30462646484375
+  pitch: 3.9001646041870117
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 1872.5029400854246
+  y: 82.0
+  z: -1902.1083119541302
+  yaw: 49.908447265625
+  pitch: 19.500181198120117

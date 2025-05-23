@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 201.131.167.18
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743894469050
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743894567736
+  login: 1743893323441
+money: '0'
+last-account-name: MiniKing_
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: -787.881221964831
+  y: 99.0
+  z: 4475.7560226344785
+  yaw: 106.00959777832031
+  pitch: 18.74999237060547
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 4288.718266980892
+  y: 68.0
+  z: -4128.268852804265
+  yaw: 101.81092071533203
+  pitch: 2.250053882598877

@@ -1,0 +1,19 @@
+name: xARTYzx
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - auctionhouse;31/03/2025
+    - shop;31/03/2025
+    - ranks;31/03/2025
+    - jobs;31/03/2025
+    - guide;31/03/2025
+    - emotes;04/04/2025
+    - skills;04/04/2025
+    - quests;04/04/2025
+    - kits;04/04/2025
+    - help;22/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;09/04/2025

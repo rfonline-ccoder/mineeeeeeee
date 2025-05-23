@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 43.159.140.82
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735802993650
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735803262680
+  login: 1735802792803
+money: '0'
+last-account-name: PiesYT
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 4644.443775576613
+  y: 118.275125
+  z: -4989.913440046939
+  yaw: -155.2967071533203
+  pitch: 40.35013961791992
+logoutlocation:
+  world: 48df2a11-ef92-472b-a3d8-a36fd5e65ca6
+  world-name: parkour
+  x: 5.362427861065335
+  y: 140.0
+  z: 2.1766021747831688
+  yaw: -174.00025939941406
+  pitch: 35.10000228881836

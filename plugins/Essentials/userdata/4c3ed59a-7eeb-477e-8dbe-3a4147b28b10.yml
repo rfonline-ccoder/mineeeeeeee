@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.81.27.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739199086326
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739199622944
+  login: 1739198722001
+money: '0'
+last-account-name: _Syako_
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -542.1193816309117
+  y: 97.0
+  z: 4497.781175015252
+  yaw: 142.90850830078125
+  pitch: -2.2497832775115967
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 3.3451227124288345
+  y: 99.5
+  z: 2.999642598336606
+  yaw: -0.64215087890625
+  pitch: 3.450162887573242

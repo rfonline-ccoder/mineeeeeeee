@@ -1,0 +1,256 @@
+categories:
+  woodcutting:
+    display:
+      type: "GOLDEN_AXE"
+      name: "&aWoodcutting"
+      lore:
+         - '&8Easy Quests'
+         - ''
+         - '&6&lDESCRIPTION'
+         - '&7In this menu you can find '
+         - '&7all the &eWoodcutting&7 quests.'
+         - ''
+         - '&7&oTo complete these quests you'
+         - '&7&oneed to fell trees.'
+         - ''
+         - '&eRight Click to open this Category'
+  playtime:
+    display:
+      type: "PLAYER_HEAD"
+      name: "&aPlaytime"
+      lore:
+        - '&8Easy Quests'
+        - ''
+        - '&6&lDESCRIPTION'
+        - '&7In this menu you can find '
+        - '&7all the &ePlaytime&7 quests.'
+        - ''
+        - '&7&oTo complete these quests you'
+        - '&7&oneed to have a specific amount of playtime.'
+        - ''
+        - '&eRight Click to open this Category'
+  miner:
+    display:
+      type: "DIAMOND_PICKAXE"
+      name: "&aMiner"
+      lore:
+        - '&8Easy Quests'
+        - ''
+        - '&6&lDESCRIPTION'
+        - '&7In this menu you can find '
+        - '&7all the &eMiner&7 quests.'
+        - ''
+        - '&7&oTo complete these quests you'
+        - '&7&oneed to mine a specific amount of blocks.'
+        - ''
+        - '&eRight Click to open this Category'
+  mobkilling:
+    display:
+      type: "ZOMBIE_SPAWN_EGG"
+      name: "&aMobkilling"
+      lore:
+        - '&8Medium Quests'
+        - ''
+        - '&6&lDESCRIPTION'
+        - '&7In this menu you can find '
+        - '&7all the &eMobkilling&7 quests.'
+        - ''
+        - '&7&oTo complete these quests you'
+        - '&7&oneed to kill a specific amount of mobs.'
+        - ''
+        - '&eRight Click to open this Category'
+  breeding:
+    display:
+      type: "CARROT"
+      name: "&aBreeding"
+      lore:
+        - '&8Medium Quests'
+        - ''
+        - '&6&lDESCRIPTION'
+        - '&7In this menu you can find '
+        - '&7all the &eBreeding&7 quests.'
+        - ''
+        - '&7&oTo complete these quests you'
+        - '&7&oneed to breed a specific amount of animals.'
+        - ''
+        - '&eRight Click to open this Category'
+  farming:
+    display:
+      type: "WHEAT"
+      name: "&aFarming"
+      lore:
+        - '&8Easy Quests'
+        - ''
+        - '&6&lDESCRIPTION'
+        - '&7In this menu you can find '
+        - '&7all the &eFarming&7 quests.'
+        - ''
+        - '&7&oTo complete these quests you'
+        - '&7&oneed to farm a specific amount of items.'
+        - ''
+        - '&eRight Click to open this Category'
+  brewing:
+    display:
+      type: "POTION"
+      name: "&aBrewing"
+      lore:
+        - '&8Medium Quests'
+        - ''
+        - '&6&lDESCRIPTION'
+        - '&7In this menu you can find '
+        - '&7all the &eBrewing&7 quests.'
+        - ''
+        - '&7&oTo complete these quests you'
+        - '&7&oneed to brew a specific amount of potions.'
+        - ''
+        - '&eRight Click to open this Category'
+  damage:
+    display:
+      type: "NETHERITE_SWORD"
+      name: "&aDeal Damage"
+      lore:
+        - '&8Hard Quests'
+        - ''
+        - '&6&lDESCRIPTION'
+        - '&7In this menu you can find '
+        - '&7all the &eDeal Damage&7 quests.'
+        - ''
+        - '&7&oTo complete these quests you'
+        - '&7&oneed to deal a specific amount of damage.'
+        - ''
+        - '&eRight Click to open this Category'
+  expearn:
+    display:
+      type: "EXPERIENCE_BOTTLE"
+      name: "&aEarn Experience"
+      lore:
+        - '&8Medium Quests'
+        - ''
+        - '&6&lDESCRIPTION'
+        - '&7In this menu you can find '
+        - '&7all the &eEarn Experience&7 quests.'
+        - ''
+        - '&7&oTo complete these quests you'
+        - '&7&oneed to earn a specific amount of experience points.'
+        - ''
+        - '&eRight Click to open this Category'
+  fishing:
+    display:
+      type: "TROPICAL_FISH"
+      name: "&aFishing"
+      lore:
+        - '&8Hard Quests'
+        - ''
+        - '&6&lDESCRIPTION'
+        - '&7In this menu you can find '
+        - '&7all the &eFishing&7 quests.'
+        - ''
+        - '&7&oTo complete these quests you'
+        - '&7&oneed to fish a specific amount of fishes.'
+        - ''
+        - '&eRight Click to open this Category'
+  taming:
+    display:
+      type: "LEAD"
+      name: "&aTaming"
+      lore:
+        - '&8Medium Quests'
+        - ''
+        - '&6&lDESCRIPTION'
+        - '&7In this menu you can find '
+        - '&7all the &eTaming&7 quests.'
+        - ''
+        - '&7&oTo complete these quests you'
+        - '&7&oneed to tame a specific amount of animals.'
+        - ''
+        - '&eRight Click to open this Category'
+  enchanting:
+    display:
+      type: "ENCHANTING_TABLE"
+      name: "&aEnchanting"
+      lore:
+        - '&8Easy Quests'
+        - ''
+        - '&6&lDESCRIPTION'
+        - '&7In this menu you can find '
+        - '&7all the &eEnchanting&7 quests.'
+        - ''
+        - '&7&oTo complete these quests you'
+        - '&7&oneed to enchant a specific amount of items.'
+        - ''
+        - '&eRight Click to open this Category'
+  walking:
+    display:
+      type: "LEATHER_BOOTS"
+      name: "&aWalking"
+      lore:
+        - '&8Hard Quests'
+        - ''
+        - '&6&lDESCRIPTION'
+        - '&7In this menu you can find '
+        - '&7all the &eWalking&7 quests.'
+        - ''
+        - '&7&oTo complete these quests you'
+        - '&7&oneed to walk a specific amount of blocks.'
+        - ''
+        - '&eRight Click to open this Category'
+  milking:
+    display:
+      type: "MILK_BUCKET"
+      name: "&aMilking"
+      lore:
+        - '&8Medium Quests'
+        - ''
+        - '&6&lDESCRIPTION'
+        - '&7In this menu you can find '
+        - '&7all the &eMilking&7 quests.'
+        - ''
+        - '&7&oTo complete these quests you'
+        - '&7&oneed to milk a specific amount of cows.'
+        - ''
+        - '&eRight Click to open this Category'
+  consume:
+    display:
+      type: "PORKCHOP"
+      name: "&aConsume"
+      lore:
+        - '&8Medium Quests'
+        - ''
+        - '&6&lDESCRIPTION'
+        - '&7In this menu you can find '
+        - '&7all the &eConsume&7 quests.'
+        - ''
+        - '&7&oTo complete these quests you'
+        - '&7&oneed to consume a specific amount of food.'
+        - ''
+        - '&eRight Click to open this Category'
+  shearing:
+    display:
+      name: "&aShearing"
+      lore:
+        - '&8Medium Quests'
+        - ''
+        - '&6&lDESCRIPTION'
+        - '&7In this menu you can find '
+        - '&7all the &eShearing&7 quests.'
+        - ''
+        - '&7&oTo complete these quests you'
+        - '&7&oneed to shear a specific amount of sheeps.'
+        - ''
+        - '&eRight Click to open this Category'
+      type: "SHEARS"
+  collect:
+    display:
+      type: "CHEST"
+      name: "&aCollect"
+      lore:
+        - '&8Easy Quests'
+        - ''
+        - '&6&lDESCRIPTION'
+        - '&7In this menu you can find '
+        - '&7all the &eCollect&7 quests.'
+        - ''
+        - '&7&oTo complete these quests you'
+        - '&7&oneed to collect a specific amount of items.'
+        - ''
+        - '&eRight Click to open this Category'

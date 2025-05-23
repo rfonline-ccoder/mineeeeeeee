@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.120.142.94
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732894743589
+  login: 1732894518224
+money: '0'
+last-account-name: Pleyka
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 8.059354599052298
+  y: 99.5
+  z: 0.048192954591149244
+  yaw: -78.642333984375
+  pitch: -1.6498881578445435
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 3271.0480188956535
+  y: 60.569579518744774
+  z: 2531.1303867627043
+  yaw: 84.107666015625
+  pitch: 6.600111961364746

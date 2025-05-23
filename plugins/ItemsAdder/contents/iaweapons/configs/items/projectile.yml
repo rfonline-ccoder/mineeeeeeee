@@ -1,0 +1,12 @@
+info:
+  namespace: iaweapons
+items:
+  projectile:
+    enabled: true
+    display_name: Projectile
+    permission: iaweapons.items.projectile
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - projectile

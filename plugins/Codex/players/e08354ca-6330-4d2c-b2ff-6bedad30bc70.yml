@@ -1,0 +1,17 @@
+name: Vasst
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - guide;25/02/2025
+    - jobs;25/02/2025
+    - skills;25/02/2025
+    - emotes;25/02/2025
+    - quests;25/02/2025
+    - auctionhouse;25/02/2025
+    - help;25/02/2025
+  worlds:
+    completed: false
+    discoveries:
+    - end;25/02/2025
+    - resourceworld;25/02/2025

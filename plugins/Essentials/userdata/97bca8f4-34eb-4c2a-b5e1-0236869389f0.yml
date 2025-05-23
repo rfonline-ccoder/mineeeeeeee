@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.15.197.237
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729638028761
+  login: 1729637833019
+money: '0'
+last-account-name: sagadiinovec
+lastlocation:
+  world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+  world-name: survival
+  x: -3072.6669042695157
+  y: 65.0
+  z: 2861.461645979323
+  yaw: 85.00650024414062
+  pitch: 12.150178909301758
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 5.629811540708513
+  y: 100.0
+  z: 3.2077889221323086
+  yaw: -84.79224395751953
+  pitch: 13.200113296508789

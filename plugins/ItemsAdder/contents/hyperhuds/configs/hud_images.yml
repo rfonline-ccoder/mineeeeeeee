@@ -1,0 +1,214 @@
+info:
+  namespace: hyperhuds
+font_images:
+  hp_hud_0:
+    suggest_in_command: false
+    path: hp_hud/0.png
+    scale_ratio: 26   
+    y_position: -40
+  hp_hud_1:
+    suggest_in_command: false
+    path: hp_hud/1.png
+    scale_ratio: 26  
+    y_position: -40
+  hp_hud_2:
+    suggest_in_command: false
+    path: hp_hud/2.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_3:
+    suggest_in_command: false
+    path: hp_hud/3.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_4:
+    suggest_in_command: false
+    path: hp_hud/4.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_5:
+    suggest_in_command: false
+    path: hp_hud/5.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_6:
+    suggest_in_command: false
+    path: hp_hud/6.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_7:
+    suggest_in_command: false
+    path: hp_hud/7.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_8:
+    suggest_in_command: false
+    path: hp_hud/8.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_9:
+    suggest_in_command: false
+    path: hp_hud/9.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_10:
+    suggest_in_command: false
+    path: hp_hud/10.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_11:
+    suggest_in_command: false
+    path: hp_hud/11.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_12:
+    suggest_in_command: false
+    path: hp_hud/12.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_13:
+    suggest_in_command: false
+    path: hp_hud/13.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_14:
+    suggest_in_command: false
+    path: hp_hud/14.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_15:
+    suggest_in_command: false
+    path: hp_hud/15.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_16:
+    suggest_in_command: false
+    path: hp_hud/16.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_17:
+    suggest_in_command: false
+    path: hp_hud/17.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_18:
+    suggest_in_command: false
+    path: hp_hud/18.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_19:
+    suggest_in_command: false
+    path: hp_hud/19.png
+    scale_ratio: 26    
+    y_position: -40
+  hp_hud_20:
+    suggest_in_command: false
+    path: hp_hud/20.png
+    scale_ratio: 26
+    y_position: -40
+#FOOD BAR
+  fp_hud_0:
+    suggest_in_command: false
+    path: fp_hud/0.png
+    scale_ratio: 26   
+    y_position: -40
+  fp_hud_1:
+    suggest_in_command: false
+    path: fp_hud/1.png
+    scale_ratio: 26    
+    y_position: -40
+  fp_hud_2:
+    suggest_in_command: false
+    path: fp_hud/2.png
+    scale_ratio: 26    
+    y_position: -40
+  fp_hud_3:
+    suggest_in_command: false
+    path: fp_hud/3.png
+    scale_ratio: 26    
+    y_position: -40
+  fp_hud_4:
+    suggest_in_command: false
+    path: fp_hud/4.png
+    scale_ratio: 26    
+    y_position: -16
+  fp_hud_5:
+    suggest_in_command: false
+    path: fp_hud/5.png
+    scale_ratio: 26    
+    y_position: -40
+  fp_hud_6:
+    suggest_in_command: false
+    path: fp_hud/6.png
+    scale_ratio: 26    
+    y_position: -40
+  fp_hud_7:
+    suggest_in_command: false
+    path: fp_hud/7.png
+    scale_ratio: 26    
+    y_position: -40
+  fp_hud_8:
+    suggest_in_command: false
+    path: fp_hud/8.png
+    scale_ratio: 26    
+    y_position: -40
+  fp_hud_9:
+    suggest_in_command: false
+    path: fp_hud/9.png
+    scale_ratio: 26    
+    y_position: -40
+  fp_hud_10:
+    suggest_in_command: false
+    path: fp_hud/10.png
+    scale_ratio: 26    
+    y_position: -40
+  fp_hud_11:
+    suggest_in_command: false
+    path: fp_hud/11.png
+    scale_ratio: 26    
+    y_position: -40
+  fp_hud_12:
+    suggest_in_command: false
+    path: fp_hud/12.png
+    scale_ratio: 26    
+    y_position: -40
+  fp_hud_13:
+    suggest_in_command: false
+    path: fp_hud/13.png
+    scale_ratio: 26    
+    y_position: -40
+  fp_hud_14:
+    suggest_in_command: false
+    path: fp_hud/14.png
+    scale_ratio: 26    
+    y_position: -40
+  fp_hud_15:
+    suggest_in_command: false
+    path: fp_hud/15.png
+    scale_ratio: 26    
+    y_position: -40
+  fp_hud_16:
+    suggest_in_command: false
+    path: fp_hud/16.png
+    scale_ratio: 26    
+    y_position: -40
+  fp_hud_17:
+    suggest_in_command: false
+    path: fp_hud/17.png
+    scale_ratio: 26    
+    y_position: -40 
+  fp_hud_18:
+    suggest_in_command: false
+    path: fp_hud/18.png
+    scale_ratio: 26    
+    y_position: -40 
+  fp_hud_19:
+    suggest_in_command: false
+    path: fp_hud/19.png
+    scale_ratio: 26    
+    y_position: -40
+  fp_hud_20:
+    suggest_in_command: false
+    path: fp_hud/20.png
+    scale_ratio: 26    
+    y_position: -40

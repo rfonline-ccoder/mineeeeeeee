@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 140.177.149.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1741487998462
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1741488344468
+  login: 1741487003399
+money: '0'
+last-account-name: hypist
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 1893.1121843058447
+  y: 56.0
+  z: 4288.699999988079
+  yaw: 66.52520751953125
+  pitch: 27.402482986450195
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 8.62872293948051
+  y: 100.0
+  z: 11.762494411529415
+  yaw: -119.595947265625
+  pitch: 5.944422721862793

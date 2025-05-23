@@ -1,0 +1,14 @@
+info:
+  namespace: iadeco
+items:
+  monitor:
+    enabled: true
+    display_name: Monitor
+    permission: iadeco.decorations.monitor
+    resource:
+      material: PAPER
+      generate: false
+      model_path: monitor
+    behaviours:
+      furniture:
+        small: true

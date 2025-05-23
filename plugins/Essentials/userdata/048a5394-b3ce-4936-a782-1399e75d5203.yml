@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 114.122.108.109
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746018960906
+  login: 1746018884807
+money: '0'
+last-account-name: DayD24_
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 6.03179532806297
+  y: 99.5
+  z: 0.20348186075635472
+  yaw: 176.4942169189453
+  pitch: 10.634976387023926
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 1312.0891207747009
+  y: 71.0
+  z: -3948.8516612122885
+  yaw: -168.01095581054688
+  pitch: 38.82400131225586

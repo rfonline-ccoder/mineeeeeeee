@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.214.127.162
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739465540582
+  login: 1739465066685
+money: '0'
+last-account-name: FrediBGD
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 3938.0923830288316
+  y: 95.0
+  z: 4430.897206541157
+  yaw: 4.0067138671875
+  pitch: 5.69994592666626
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 3855.0079348047675
+  y: 71.0
+  z: 3231.9063837989784
+  yaw: -84.6431884765625
+  pitch: 14.699838638305664

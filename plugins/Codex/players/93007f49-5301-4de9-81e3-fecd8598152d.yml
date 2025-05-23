@@ -1,0 +1,13 @@
+name: Fakassj
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - jobs;03/04/2025
+    - guide;03/04/2025
+    - emotes;03/04/2025
+    - kits;03/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;03/04/2025

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 145.220.75.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744807222787
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744807318952
+  login: 1744807154304
+money: '0'
+last-account-name: LaidUp
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -7.929019878226063
+  y: 100.5
+  z: -7.073605507985666
+  yaw: -13.542192459106445
+  pitch: 20.08135986328125
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 5020.705888794918
+  y: 68.0
+  z: -2134.5588923011087
+  yaw: -92.25350952148438
+  pitch: 30.431358337402344

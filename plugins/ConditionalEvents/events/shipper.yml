@@ -1,0 +1,93 @@
+Events:   
+  shipper0: #ZYNDOR
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 43"
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    - "%luckperms_has_permission_conditionalevents.npc.shipper0% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.npc.interacting true"
+      - "message: "
+      - "message: %img_shipper%        Hey &6%player% &fI knew you would come"
+      - "message:                         to the Realm!"
+      - "message: "
+      - "message: &7(1/3)"
+      - "message: "
+      - "wait: 5"
+      - "message: "
+      - "message: %img_shipper%        Well, things are kinda different here since"
+      - "message:                         the new King is in power. But you know,"
+      - "message:                         it is still a quiet place to live."
+      - "message: &7(2/3)"
+      - "message: "
+      - "wait: 10"    
+      - "message: "      
+      - "message: %img_shipper%        Anyways... let me know, you did not decide"
+      - "message:                         your Class yet right?"
+      - "message:                         Do not worry! you can choose it now, take"
+      - "message:                         your time and talk to me when you are done."
+      - "message:                         You can select it later anyways!"
+      - "message: "
+      - "message: &7(3/3)"
+      - "message: "      
+      - "console_command: lp user %player% permission unset conditionalevents.npc.interacting"    
+      - "console_command: lp user %player% permission set conditionalevents.npc.shipper0 true"
+      - "wait: 5"
+      - "console_command: dm open class %player%"
+  shipper1:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 43"
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    - "%luckperms_has_permission_conditionalevents.npc.shipper0% == yes"
+    - "%luckperms_has_permission_conditionalevents.npc.shipper1% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.npc.interacting true"
+      - "message: "
+      - "message: %img_shipper%        Ahh I see that you are ready to begin..."
+      - "message:                         Fine! Go ahead, get on the hot air"
+      - "message:                         balloon and use the lever."
+      - "message: "
+      - "message: &7(1/1)"
+      - "message: "
+      - "wait: 5"
+      - "message: "
+      - "message: &6Get into the hot air balloon and use the lever."
+      - "message: "
+      - "console_command: lp user %player% permission unset conditionalevents.npc.interacting"
+      - "console_command: lp user %player% permission set conditionalevents.npc.shipper1 true"
+  shipper2:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 43"
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    - "%luckperms_has_permission_conditionalevents.npc.shipper1% == yes"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.npc.interacting true"
+      - "message: "
+      - "message: %img_shipper%        Nothing else to say, good luck!"
+      - "message: "
+      - "message: &7(1/1)"
+      - "message: "
+      - "wait: 5"
+      - "message: "
+      - "message: &6Get into the hot air balloon and use the lever."
+      - "message: "
+      - "console_command: lp user %player% permission unset conditionalevents.npc.interacting"
+      
+  balloon_trigger:
+    type: block_interact
+    conditions:
+    - "%block_y% == 126"
+    - "%block_world% == Spawn"
+    - "%block% == LEVER"
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    - "%luckperms_has_permission_conditionalevents.npc.shipper1% == yes"
+    actions:
+      default:
+      - "give_potion_effect: BLINDNESS;100;1;false"
+      - "wait: 4"
+      - "player_command: spawn"

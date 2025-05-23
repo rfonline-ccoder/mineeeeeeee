@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  bronze_hoe:
+    enabled: true
+    display_name: Bronze Hoe
+    permission: iasurvival.items.bronze_hoe
+    resource:
+      material: DIAMOND_HOE
+      generate: true
+      textures:
+        - item/tools/bronze_hoe

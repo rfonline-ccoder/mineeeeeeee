@@ -1,0 +1,185 @@
+Events:
+#CODEX ORES
+  ruby:
+    type: item_pickup
+    conditions:
+    - "%item% == IRON_INGOT"
+    - "%item_custom_model_data% == 10013"
+    - "%luckperms_has_permission_conditionalevents.discovered.ruby% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.discovered.ruby true"      
+      - "console_command: codex unlock %player% ores ruby false" 
+  spinel:
+    type: item_pickup
+    conditions:
+    - "%item% == IRON_INGOT"
+    - "%item_custom_model_data% == 10015"
+    - "%luckperms_has_permission_conditionalevents.discovered.spinel% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.discovered.spinel true"      
+      - "console_command: codex unlock %player% ores spinel false"  
+  turquoise:
+    type: item_pickup
+    conditions:
+    - "%item% == IRON_INGOT"
+    - "%item_custom_model_data% == 10005"
+    - "%luckperms_has_permission_conditionalevents.discovered.turquoise% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.discovered.turquoise true"      
+      - "console_command: codex unlock %player% ores turquoise false"    
+  aqua_aura:
+    type: item_pickup
+    conditions:
+    - "%item% == IRON_INGOT"
+    - "%item_custom_model_data% == 10011"
+    - "%luckperms_has_permission_conditionalevents.discovered.aqua_aura% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.discovered.aqua_aura true"      
+      - "console_command: codex unlock %player% ores aqua_aura false"      
+  dark_amethyst:
+    type: item_pickup
+    conditions:
+    - "%item% == IRON_INGOT"
+    - "%item_custom_model_data% == 10003"
+    - "%luckperms_has_permission_conditionalevents.discovered.dark_amethyst% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.discovered.dark_amethyst true"      
+      - "console_command: codex unlock %player% ores dark_amethyst false"      
+  cassiterite:
+    type: item_pickup
+    conditions:
+    - "%item% == IRON_INGOT"
+    - "%item_custom_model_data% == 10008"
+    - "%luckperms_has_permission_conditionalevents.discovered.cassiterite% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.discovered.cassiterite true"      
+      - "console_command: codex unlock %player% ores cassiterite false"  
+  mysterious_ore:
+    type: item_pickup
+    conditions:
+    - "%item% == IRON_INGOT"
+    - "%item_custom_model_data% == 10009"
+    - "%luckperms_has_permission_conditionalevents.discovered.mysterious_ore% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.discovered.mysterious_ore true"      
+      - "console_command: codex unlock %player% ores mysterious_ore false"  
+  nether_alchemy_ore:
+    type: item_pickup
+    conditions:
+    - "%item% == IRON_SWORD"
+    - "%item_custom_model_data% == 10004"
+    - "%luckperms_has_permission_conditionalevents.discovered.nether_alchemy_ore% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.discovered.nether_alchemy_ore true"      
+      - "console_command: codex unlock %player% ores nether_alchemy_ore false"    
+  end_ore:
+    type: item_pickup
+    conditions:
+    - "%item% == IRON_INGOT"
+    - "%item_custom_model_data% == 10006"
+    - "%luckperms_has_permission_conditionalevents.discovered.end_ore% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.discovered.end_ore true"      
+      - "console_command: codex unlock %player% ores end_ore false"       
+#CODEX WORLDS   
+  survival_world:
+    type: player_world_change
+    conditions:
+    - '%world_to% equals survival'    
+    actions:
+      default:
+      - "console_command: codex unlock %player% worlds survival false"
+  resource_world:
+    type: player_world_change
+    conditions:
+    - '%world_to% equals resourceworld'    
+    actions:
+      default:
+      - "console_command: codex unlock %player% worlds resourceworld false"
+  nether_world:
+    type: player_world_change
+    conditions:
+    - '%world_to% equals world_nether'    
+    actions:
+      default:
+      - "console_command: codex unlock %player% worlds nether false"   
+  end_world:
+    type: player_world_change
+    conditions:
+    - '%world_to% equals world_the_end'    
+    actions:
+      default:
+      - "console_command: codex unlock %player% worlds end false"          
+#CODEX NPCS
+  auctionhouse_codex:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 33" 
+    actions:
+      default:  
+      - "console_command: codex unlock %player% npc auctionhouse false"   
+  shop_codex:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 32" 
+    actions:
+      default:  
+      - "console_command: codex unlock %player% npc shop false"        
+  ranks_codex:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 40" 
+    actions:
+      default:  
+      - "console_command: codex unlock %player% npc ranks false"  
+  jobs_codex:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 34" 
+    actions:
+      default:  
+      - "console_command: codex unlock %player% npc jobs false"     
+  help_codex:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 41" 
+    actions:
+      default:  
+      - "console_command: codex unlock %player% npc help false"        
+  kits_codex:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 35" 
+    actions:
+      default:  
+      - "console_command: codex unlock %player% npc kits false"  
+  quests_codex:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 39" 
+    actions:
+      default:  
+      - "console_command: codex unlock %player% npc quests false"  
+  emotes_codex:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 36" 
+    actions:
+      default:  
+      - "console_command: codex unlock %player% npc emotes false"     
+  skills_codex:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 38" 
+    actions:
+      default:  
+      - "console_command: codex unlock %player% npc skills false"         

@@ -1,0 +1,141 @@
+menu_title: 'Rank - :legendary:'
+open_command:
+size: 45
+items:
+  '1':
+    material: GOLD_INGOT
+    slot: 10
+    display_name: "&b&lMoney"
+    lore:
+    - "&7► %vault_eco_balance_fixed%$/100.000$"
+    nbt_int: CustomModelData:10000
+  '2':
+    material: EXPERIENCE_BOTTLE
+    slot: 12
+    display_name: "&b&lJobs level"
+    lore:
+    - "&7► %jobsr_user_totallevels%/75 Jobs levels"
+    nbt_int: CustomModelData:10001
+  '3':
+    material: EXPERIENCE_BOTTLE
+    slot: 13
+    display_name: "&b&lPlayer level"
+    lore:
+    - "&7► %player_level%/65 Player levels"
+    nbt_int: CustomModelData:10002
+
+  '7':
+    material: WARPED_STEM
+    slot: 15
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:WARPED_STEM%/320 Warped stems"
+    amount: 64
+  '8':
+    material: WARPED_WART_BLOCK
+    slot: 16
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:WARPED_WART_BLOCK%/320 Warped wart blocks"
+    amount: 256
+
+  '12':
+    material: QUARTZ_BLOCK
+    slot: 19
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:QUARTZ_BLOCK%/320 Quartz blocks"
+    amount: 64
+  '13':
+    material: DIAMOND_BLOCK
+    slot: 20
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:DIAMOND_BLOCK%/32 Diamond blocks"
+    amount: 16
+  '14':
+    material: EMERALD_BLOCK
+    slot: 21
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:EMERALD_BLOCK%/16 Emerald blocks"
+    amount: 8
+
+  '16':
+    material: SALMON
+    slot: 28
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:SALMON%/128 Salmons"
+    amount: 128
+  '17':
+    material: PUFFERFISH
+    slot: 29
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:PUFFERFISH%/128 Pufferfishes"
+    amount: 128
+  '18':
+    material: GHAST_TEAR
+    slot: 31
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:GHAST_TEAR%/64 Ghast tear"
+    amount: 64
+  '19':
+    material: PHANTOM_MEMBRANE
+    slot: 11
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:PHANTOM_MEMBRANE%/32 Phantom membranes"
+    amount: 32
+  '20':
+    material: SPONGE
+    slot: 25
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:SPONGE%/16 Sponges"
+    amount: 16
+  '21':
+    material: SEA_LANTERN
+    slot: 24
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:SEA_LANTERN%/32 Sea lanterns"
+    amount: 32
+  '22':
+    material: CLOCK
+    slot: 14
+    display_name: "&b&lCompleted Quests"
+    lore:
+    - "&7► %quests_completed%/25 Quests"
+    amount: 25    
+  '24':
+    material: GLOW_INK_SAC
+    slot: 30
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:GLOW_INK_SAC%/128 Glow ink sacs"
+    amount: 64 
+  '25':
+    material: AMETHYST_CLUSTER
+    slot: 23
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:AMETHYST_CLUSTER%/128 Amethyst clusters"
+    amount: 64  
+  '26':
+    material: WAXED_COPPER_BLOCK
+    slot: 22
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:WAXED_COPPER_BLOCK%/64 Waxed copper blocks"
+    amount: 64    
+
+#Format
+  'back':
+      material: itemsadder-mcicons:icon_refresh
+      slot: 40
+      display_name: "&cReturn"
+      left_click_commands:
+      - '[openguimenu] ranks'

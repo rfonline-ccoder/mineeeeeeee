@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.235.102.18
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734576542673
+  login: 1734574705674
+money: '0'
+last-account-name: Kube
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -4380.700084884395
+  y: 72.0
+  z: 3626.3851503582787
+  yaw: 37.459110260009766
+  pitch: 38.55010223388672
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -7.077641202020801
+  y: 100.0
+  z: 8.006464083318662
+  yaw: 48.572265625
+  pitch: 24.450088500976562

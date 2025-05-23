@@ -1,0 +1,13 @@
+name: Froncia
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - kits;02/03/2025
+    - quests;02/03/2025
+    - ranks;02/03/2025
+    - guide;02/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;02/03/2025

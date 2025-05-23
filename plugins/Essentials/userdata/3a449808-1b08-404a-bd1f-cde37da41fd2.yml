@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.32.54.96
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745338956812
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745339169207
+  login: 1745338838818
+money: '0'
+last-account-name: OhAlee_
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -9.75949330706092
+  y: 100.0
+  z: -6.699999988079071
+  yaw: -166.5417022705078
+  pitch: -1.4998669624328613
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -35.38266105489252
+  y: 110.0
+  z: 36.973477970484936
+  yaw: 147.2552490234375
+  pitch: 11.099905967712402

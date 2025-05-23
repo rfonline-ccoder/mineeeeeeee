@@ -1,0 +1,11 @@
+quest-progress:
+  playtime1:
+    started: true
+    started-date: 1737070476820
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      playtime:
+        completed: false
+        progress: 6

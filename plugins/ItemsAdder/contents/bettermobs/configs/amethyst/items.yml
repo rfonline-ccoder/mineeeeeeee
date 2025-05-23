@@ -1,0 +1,1045 @@
+info:
+  namespace: bettermobs
+items:
+  amethyst_netherite_pickaxe:
+    display_name: "&d&lNetherite Pickaxe"
+    permission: bettermobs.amethyst_netherite_pickaxe
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 1000
+    resource:
+      generate: true
+      material: NETHERITE_PICKAXE
+      textures:
+        - amethyst/amethyst_netherite_pickaxe.png
+    events:
+      held:
+        potion_effect:
+          type: FAST_DIGGING
+          duration: 99999999
+          amplifier: 4
+      unheld:
+        remove_potion_effect:
+          type: FAST_DIGGING
+      drop:
+        remove_potion_effect:
+          type: FAST_DIGGING
+    item_flags:
+      - HIDE_DESTROYS
+
+  amethyst_netherite_axe:
+    display_name: "&d&lNetherite Axe"
+    permission: bettermobs.amethyst_netherite_axe
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 1500
+    resource:
+      generate: true
+      material: NETHERITE_AXE
+      textures:
+        - amethyst/amethyst_netherite_axe.png
+    events:
+      held:
+        potion_effect:
+          type: FAST_DIGGING
+          duration: 99999999
+          amplifier: 2
+      unheld:
+        remove_potion_effect:
+          type: FAST_DIGGING
+      drop:
+        remove_potion_effect:
+          type: FAST_DIGGING
+    item_flags:
+      - HIDE_DESTROYS
+
+  amethyst_netherite_sword:
+    display_name: "&d&lNetherite Sword"
+    permission: bettermobs.amethyst_netherite_sword
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 1500
+    resource:
+      generate: true
+      material: NETHERITE_SWORD
+      textures:
+        - amethyst/amethyst_netherite_sword.png
+    events:
+      held:
+        potion_effect:
+          type: INCREASE_DAMAGE
+          duration: 99999999
+          amplifier: 2
+      unheld:
+        remove_potion_effect:
+          type: INCREASE_DAMAGE
+      drop:
+        remove_potion_effect:
+          type: INCREASE_DAMAGE
+    item_flags:
+      - HIDE_DESTROYS
+
+    
+  amethyst_netherite_helmet:
+    display_name: "&d&lNetherite Helmet"
+    permission: bettermobs.amethyst_netherite_helmet
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 250
+    specific_properties:
+      armor:
+        slot: HEAD
+        custom_armor: amethyst_netherite
+    attribute_modifiers:
+      head:
+        maxHealth: 4
+        armor: 4
+        armorToughness: 4
+    resource:
+      generate: true
+      material: NETHERITE_HELMET
+      textures:
+        - amethyst/amethyst_netherite_helmet.png
+    events:
+      wear:
+        potion_effect:
+          type: LUCK
+          amplifier: 1
+          duration: 99999999
+      unwear:
+        remove_potion_effect:
+          type: LUCK
+    item_flags:
+      - HIDE_DESTROYS
+
+    
+  amethyst_netherite_chestplate:
+    display_name: "&d&lNetherite Chestplate"
+    permission: bettermobs.amethyst_netherite_chestplate
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 400
+    specific_properties:
+      armor:
+        slot: CHEST
+        custom_armor: amethyst_netherite
+    attribute_modifiers:
+      chest:
+        maxHealth: 4
+        armor: 9
+        armorToughness: 9
+    resource:
+      generate: true
+      material: NETHERITE_CHESTPLATE
+      textures:
+        - amethyst/amethyst_netherite_chestplate.png
+    events:
+      wear:
+        potion_effect:
+          type: REGENERATION
+          amplifier: 1
+          duration: 99999999
+      unwear:
+        remove_potion_effect:
+          type: REGENERATION
+    item_flags:
+      - HIDE_DESTROYS
+
+    
+  amethyst_netherite_leggings:
+    display_name: "&d&lNetherite Leggings"
+    permission: bettermobs.amethyst_netherite_leggings
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 350
+    specific_properties:
+      armor:
+        slot: LEGS
+        custom_armor: amethyst_netherite
+    attribute_modifiers:
+      legs:
+        maxHealth: 4
+        armor: 7
+        armorToughness: 7
+    resource:
+      generate: true
+      material: NETHERITE_LEGGINGS
+      textures:
+        - amethyst/amethyst_netherite_leggings.png
+    events:
+      wear:
+        potion_effect:
+          type: SPEED
+          amplifier: 2
+          duration: 99999999
+      unwear:
+        remove_potion_effect:
+          type: SPEED
+    item_flags:
+      - HIDE_DESTROYS
+
+  amethyst_netherite_boots:
+    display_name: "&d&lNetherite Boots"
+    permission: bettermobs.amethyst_netherite_boots
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 250
+    specific_properties:
+      armor:
+        slot: FEET
+        custom_armor: amethyst_netherite
+    attribute_modifiers:
+      feet:
+        maxHealth: 4
+        armor: 4
+        armorToughness: 4
+    resource:
+      generate: true
+      material: NETHERITE_BOOTS
+      textures:
+        - amethyst/amethyst_netherite_boots.png
+    events:
+      wear:
+        potion_effect:
+          type: JUMP
+          amplifier: 1
+          duration: 99999999
+      unwear:
+        remove_potion_effect:
+          type: JUMP
+    item_flags:
+      - HIDE_DESTROYS
+
+  amethyst_diamond_pickaxe:
+    display_name: "&d&lDiamond Pickaxe"
+    permission: bettermobs.amethyst_diamond_pickaxe
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 750
+    resource:
+      generate: true
+      material: DIAMOND_PICKAXE
+      textures:
+        - amethyst/amethyst_diamond_pickaxe.png
+    events:
+      held:
+        potion_effect:
+          type: FAST_DIGGING
+          duration: 99999999
+          amplifier: 3
+      unheld:
+        remove_potion_effect:
+          type: FAST_DIGGING
+      drop:
+        remove_potion_effect:
+          type: FAST_DIGGING
+    item_flags:
+      - HIDE_DESTROYS
+
+      
+  amethyst_diamond_axe:
+    display_name: "&d&lDiamond Axe"
+    permission: bettermobs.amethyst_diamond_axe
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 1000
+    resource:
+      generate: true
+      material: DIAMOND_AXE
+      textures:
+        - amethyst/amethyst_diamond_axe.png
+    events:
+      held:
+        potion_effect:
+          type: FAST_DIGGING
+          duration: 99999999
+          amplifier: 1
+      unheld:
+        remove_potion_effect:
+          type: FAST_DIGGING
+      drop:
+        remove_potion_effect:
+          type: FAST_DIGGING
+    item_flags:
+      - HIDE_DESTROYS
+
+  amethyst_diamond_sword:
+    display_name: "&d&lDiamond Sword"
+    permission: bettermobs.amethyst_diamond_sword
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 1000
+    resource:
+      generate: true
+      material: DIAMOND_SWORD
+      textures:
+        - amethyst/amethyst_diamond_sword.png
+    events:
+      held:
+        potion_effect:
+          type: INCREASE_DAMAGE
+          duration: 99999999
+          amplifier: 1
+      unheld:
+        remove_potion_effect:
+          type: INCREASE_DAMAGE
+      drop:
+        remove_potion_effect:
+          type: INCREASE_DAMAGE
+    item_flags:
+      - HIDE_DESTROYS
+
+
+  amethyst_diamond_helmet:
+    display_name: "&d&lDiamond Helmet"
+    permission: bettermobs.amethyst_diamond_helmet
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 200
+    specific_properties:
+      armor:
+        slot: HEAD
+        custom_armor: amethyst_diamond
+    attribute_modifiers:
+      head:
+        maxHealth: 3
+        armor: 4
+        armorToughness: 4
+    resource:
+      generate: true
+      material: NETHERITE_HELMET
+      textures:
+        - amethyst/amethyst_diamond_helmet.png
+    events:
+      wear:
+        potion_effect:
+          type: LUCK
+          amplifier: 0
+          duration: 99999999
+      unwear:
+        remove_potion_effect:
+          type: LUCK
+    item_flags:
+      - HIDE_DESTROYS
+
+    
+  amethyst_diamond_chestplate:
+    display_name: "&d&lDiamond Chestplate"
+    permission: bettermobs.amethyst_diamond_chestplate
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 350
+    specific_properties:
+      armor:
+        slot: CHEST
+        custom_armor: amethyst_diamond
+    attribute_modifiers:
+      chest:
+        maxHealth: 3
+        armor: 9
+        armorToughness: 9
+    resource:
+      generate: true
+      material: NETHERITE_CHESTPLATE
+      textures:
+        - amethyst/amethyst_diamond_chestplate.png
+    events:
+      wear:
+        potion_effect:
+          type: REGENERATION
+          amplifier: 0
+          duration: 99999999
+      unwear:
+        remove_potion_effect:
+          type: REGENERATION
+    item_flags:
+      - HIDE_DESTROYS
+
+    
+  amethyst_diamond_leggings:
+    display_name: "&d&lDiamond Leggings"
+    permission: bettermobs.amethyst_diamond_leggings
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 250
+    specific_properties:
+      armor:
+        slot: LEGS
+        custom_armor: amethyst_diamond
+    attribute_modifiers:
+      legs:
+        maxHealth: 3
+        armor: 7
+        armorToughness: 7
+    resource:
+      generate: true
+      material: NETHERITE_LEGGINGS
+      textures:
+        - amethyst/amethyst_diamond_leggings.png
+    events:
+      wear:
+        potion_effect:
+          type: SPEED
+          amplifier: 1
+          duration: 99999999
+      unwear:
+        remove_potion_effect:
+          type: SPEED
+    item_flags:
+      - HIDE_DESTROYS
+
+  amethyst_diamond_boots:
+    display_name: "&d&lDiamond Boots"
+    permission: bettermobs.amethyst_diamond_boots
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 200
+    specific_properties:
+      armor:
+        slot: FEET
+        custom_armor: amethyst_diamond
+    attribute_modifiers:
+      feet:
+        maxHealth: 3
+        armor: 4
+        armorToughness: 4
+    resource:
+      generate: true
+      material: NETHERITE_BOOTS
+      textures:
+        - amethyst/amethyst_diamond_boots.png
+    events:
+      wear:
+        potion_effect:
+          type: JUMP
+          amplifier: 0
+          duration: 99999999
+      unwear:
+        remove_potion_effect:
+          type: JUMP
+    item_flags:
+      - HIDE_DESTROYS
+
+  amethyst_iron_pickaxe:
+    display_name: "&d&lIron Pickaxe"
+    permission: bettermobs.amethyst_iron_pickaxe
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 150
+    resource:
+      generate: true
+      material: IRON_PICKAXE
+      textures:
+        - amethyst/amethyst_iron_pickaxe.png
+    events:
+      held:
+        potion_effect:
+          type: FAST_DIGGING
+          duration: 99999999
+          amplifier: 1
+      unheld:
+        remove_potion_effect:
+          type: FAST_DIGGING
+      drop:
+        remove_potion_effect:
+          type: FAST_DIGGING
+    item_flags:
+      - HIDE_DESTROYS
+
+  amethyst_iron_axe:
+    display_name: "&d&lIron Axe"
+    permission: bettermobs.amethyst_iron_axe
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 200
+    resource:
+      generate: true
+      material: IRON_AXE
+      textures:
+        - amethyst/amethyst_iron_axe.png
+    events:
+      held:
+        potion_effect:
+          type: FAST_DIGGING
+          duration: 99999999
+          amplifier: 0
+      unheld:
+        remove_potion_effect:
+          type: FAST_DIGGING
+      drop:
+        remove_potion_effect:
+          type: FAST_DIGGING
+    item_flags:
+      - HIDE_DESTROYS
+
+  amethyst_iron_sword:
+    display_name: "&d&lIron Sword"
+    permission: bettermobs.amethyst_iron_sword
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 200
+    resource:
+      generate: true
+      material: IRON_SWORD
+      textures:
+        - amethyst/amethyst_iron_sword.png
+    events:
+      held:
+        potion_effect:
+          type: INCREASE_DAMAGE
+          duration: 99999999
+          amplifier: 0
+      unheld:
+        remove_potion_effect:
+          type: INCREASE_DAMAGE
+      drop:
+        remove_potion_effect:
+          type: INCREASE_DAMAGE
+    item_flags:
+      - HIDE_DESTROYS
+
+
+  amethyst_iron_helmet:
+    display_name: "&d&lIron Helmet"
+    permission: bettermobs.amethyst_iron_helmet
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 50
+    specific_properties:
+      armor:
+        slot: HEAD
+        custom_armor: amethyst_iron
+    attribute_modifiers:
+      head:
+        maxHealth: 1
+        armor: 3
+        armorToughness: 3
+    resource:
+      generate: true
+      material: NETHERITE_HELMET
+      textures:
+        - amethyst/amethyst_iron_helmet.png
+    item_flags:
+      - HIDE_DESTROYS
+
+    
+  amethyst_iron_chestplate:
+    display_name: "&d&lIron Chestplate"
+    permission: bettermobs.amethyst_iron_chestplate
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 150
+    specific_properties:
+      armor:
+        slot: CHEST
+        custom_armor: amethyst_iron
+    attribute_modifiers:
+      chest:
+        maxHealth: 1
+        armor: 7
+        armorToughness: 7
+    resource:
+      generate: true
+      material: NETHERITE_CHESTPLATE
+      textures:
+        - amethyst/amethyst_iron_chestplate.png
+    item_flags:
+      - HIDE_DESTROYS
+
+    
+  amethyst_iron_leggings:
+    display_name: "&d&lIron Leggings"
+    permission: bettermobs.amethyst_iron_leggings
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 100
+    specific_properties:
+      armor:
+        slot: LEGS
+        custom_armor: amethyst_iron
+    attribute_modifiers:
+      legs:
+        maxHealth: 1
+        armor: 6
+        armorToughness: 6
+    resource:
+      generate: true
+      material: NETHERITE_LEGGINGS
+      textures:
+        - amethyst/amethyst_iron_leggings.png
+    events:
+      wear:
+        potion_effect:
+          type: SPEED
+          amplifier: 0
+          duration: 99999999
+      unwear:
+        remove_potion_effect:
+          type: SPEED
+    item_flags:
+      - HIDE_DESTROYS
+
+  amethyst_iron_boots:
+    display_name: "&d&lIron Boots"
+    permission: bettermobs.amethyst_iron_boots
+    lore:
+      - "&5&oInfused with Amethyst"
+    durability:
+       max_custom_durability: 50
+    specific_properties:
+      armor:
+        slot: FEET
+        custom_armor: amethyst_iron
+    attribute_modifiers:
+      feet:
+        maxHealth: 1
+        armor: 3
+        armorToughness: 3
+    resource:
+      generate: true
+      material: NETHERITE_BOOTS
+      textures:
+        - amethyst/amethyst_iron_boots.png
+    item_flags:
+      - HIDE_DESTROYS
+
+recipes:
+  crafting_table:
+    amethyst_netherite_pickaxe:
+      permission: bettermobs.amethyst_netherite_pickaxe.crafting
+      enabled: true
+      ingredients:
+        A: AMETHYST_SHARD
+        N: NETHERITE_INGOT
+        P: NETHERITE_PICKAXE
+      pattern:
+        - AAA
+        - NPN
+        - XAX
+      result:
+        item: bettermobs:amethyst_netherite_pickaxe
+        amount: 1
+
+    amethyst_netherite_axe:
+      permission: bettermobs.amethyst_netherite_axe.crafting
+      enabled: true
+      ingredients:
+        A: AMETHYST_SHARD
+        N: NETHERITE_INGOT
+        P: NETHERITE_AXE
+      pattern:
+        - XAA
+        - NPN
+        - XAX
+      pattern_1:
+        - AAX
+        - NPN
+        - XAX
+      result:
+        item: bettermobs:amethyst_netherite_axe
+        amount: 1
+        
+    amethyst_netherite_helmet:
+      permission: bettermobs.amethyst_netherite_helmet.crafting
+      enabled: true 
+      ingredients:
+        A: AMETHYST_SHARD
+        N: NETHERITE_INGOT
+        P: NETHERITE_HELMET
+      pattern:
+        - AAA
+        - NPN
+        - XXX
+      result:
+        item: bettermobs:amethyst_netherite_helmet
+        amount: 1
+        
+    amethyst_netherite_chestplate:
+      permission: bettermobs.amethyst_netherite_chestplate.crafting
+      enabled: true 
+      ingredients:
+        A: AMETHYST_SHARD
+        N: NETHERITE_INGOT
+        P: NETHERITE_CHESTPLATE
+      pattern:
+        - AXA
+        - NPN
+        - AAA
+      result:
+        item: bettermobs:amethyst_netherite_chestplate
+        amount: 1
+        
+    amethyst_netherite_leggings:
+      permission: bettermobs.amethyst_netherite_leggings.crafting
+      enabled: true 
+      ingredients:
+        A: AMETHYST_SHARD
+        N: NETHERITE_INGOT
+        P: NETHERITE_LEGGINGS
+      pattern:
+        - AAA
+        - NPN
+        - AXA
+      result:
+        item: bettermobs:amethyst_netherite_leggings
+        amount: 1
+        
+    amethyst_netherite_boots:
+      permission: bettermobs.amethyst_netherite_boots.crafting
+      enabled: true 
+      ingredients:
+        A: AMETHYST_SHARD
+        N: NETHERITE_INGOT
+        P: NETHERITE_BOOTS
+      pattern:
+        - AXA
+        - NPN
+        - XXX
+      result:
+        item: bettermobs:amethyst_netherite_boots
+        amount: 1
+
+    amethyst_diamond_pickaxe:
+      permission: bettermobs.amethyst_diamond_pickaxe.crafting
+      enabled: true
+      ingredients:
+        A: AMETHYST_SHARD
+        N: DIAMOND
+        P: DIAMOND_PICKAXE
+      pattern:
+        - AAA
+        - NPN
+        - XAX
+      result:
+        item: bettermobs:amethyst_diamond_pickaxe
+        amount: 1
+        
+    amethyst_diamond_axe:
+      permission: bettermobs.amethyst_diamond_axe.crafting
+      enabled: true
+      ingredients:
+        A: AMETHYST_SHARD
+        N: DIAMOND
+        P: DIAMOND_AXE
+      pattern:
+        - XAA
+        - NPN
+        - XAX
+      pattern_1:
+        - AAX
+        - NPN
+        - XAX
+      result:
+        item: bettermobs:amethyst_diamond_axe
+        amount: 1
+
+    amethyst_diamond_helmet:
+      permission: bettermobs.amethyst_diamond_helmet.crafting
+      enabled: true 
+      ingredients:
+        A: AMETHYST_SHARD
+        N: DIAMOND
+        P: DIAMOND_HELMET
+      pattern:
+        - AAA
+        - NPN
+        - XXX
+      result:
+        item: bettermobs:amethyst_diamond_helmet
+        amount: 1
+        
+    amethyst_diamond_chestplate:
+      permission: bettermobs.amethyst_diamond_chestplate.crafting
+      enabled: true 
+      ingredients:
+        A: AMETHYST_SHARD
+        N: DIAMOND
+        P: DIAMOND_CHESTPLATE
+      pattern:
+        - AXA
+        - NPN
+        - AAA
+      result:
+        item: bettermobs:amethyst_diamond_chestplate
+        amount: 1
+        
+    amethyst_diamond_leggings:
+      permission: bettermobs.amethyst_diamond_leggings.crafting
+      enabled: true 
+      ingredients:
+        A: AMETHYST_SHARD
+        N: DIAMOND
+        P: DIAMOND_LEGGINGS
+      pattern:
+        - AAA
+        - NPN
+        - AXA
+      result:
+        item: bettermobs:amethyst_diamond_leggings
+        amount: 1
+        
+    amethyst_diamond_boots:
+      permission: bettermobs.amethyst_diamond_boots.crafting
+      enabled: true 
+      ingredients:
+        A: AMETHYST_SHARD
+        N: DIAMOND
+        P: DIAMOND_BOOTS
+      pattern:
+        - AXA
+        - NPN
+        - XXX
+      result:
+        item: bettermobs:amethyst_diamond_boots
+        amount: 1
+
+    amethyst_iron_pickaxe:
+      permission: bettermobs.amethyst_iron_pickaxe.crafting
+      enabled: true
+      ingredients:
+        A: AMETHYST_SHARD
+        N: IRON_INGOT
+        P: IRON_PICKAXE
+      pattern:
+        - AAA
+        - NPN
+        - XAX
+      result:
+        item: bettermobs:amethyst_iron_pickaxe
+        amount: 1
+        
+    amethyst_iron_axe:
+      permission: bettermobs.amethyst_iron_axe.crafting
+      enabled: true
+      ingredients:
+        A: AMETHYST_SHARD
+        N: IRON_INGOT
+        P: IRON_AXE
+      pattern:
+        - XAA
+        - NPN
+        - XAX
+      pattern_1:
+        - AAX
+        - NPN
+        - XAX
+      result:
+        item: bettermobs:amethyst_iron_axe
+        amount: 1
+
+    amethyst_iron_helmet:
+      permission: bettermobs.amethyst_iron_helmet.crafting
+      enabled: true 
+      ingredients:
+        A: AMETHYST_SHARD
+        N: IRON_INGOT
+        P: IRON_HELMET
+      pattern:
+        - AAA
+        - NPN
+        - XXX
+      result:
+        item: bettermobs:amethyst_iron_helmet
+        amount: 1
+        
+    amethyst_iron_chestplate:
+      permission: bettermobs.amethyst_iron_chestplate.crafting
+      enabled: true 
+      ingredients:
+        A: AMETHYST_SHARD
+        N: IRON_INGOT
+        P: IRON_CHESTPLATE
+      pattern:
+        - AXA
+        - NPN
+        - AAA
+      result:
+        item: bettermobs:amethyst_iron_chestplate
+        amount: 1
+        
+    amethyst_iron_leggings:
+      permission: bettermobs.amethyst_iron_leggings.crafting
+      enabled: true 
+      ingredients:
+        A: AMETHYST_SHARD
+        N: IRON_INGOT
+        P: IRON_LEGGINGS
+      pattern:
+        - AAA
+        - NPN
+        - AXA
+      result:
+        item: bettermobs:amethyst_iron_leggings
+        amount: 1
+        
+    amethyst_iron_boots:
+      permission: bettermobs.amethyst_iron_boots.crafting
+      enabled: true 
+      ingredients:
+        A: AMETHYST_SHARD
+        N: IRON_INGOT
+        P: IRON_BOOTS
+      pattern:
+        - AXA
+        - NPN
+        - XXX
+      result:
+        item: bettermobs:amethyst_iron_boots
+        amount: 1
+
+  anvil_repair:
+    amethyst_netherite_pickaxe_repair:
+      permission: bettermobs.amethyst_netherite_pickaxe.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_netherite_pickaxe
+      
+    amethyst_netherite_axe_repair:
+      permission: bettermobs.amethyst_netherite_axe.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_netherite_axe
+
+    amethyst_netherite_helmet_repair:
+      permission: bettermobs.amethyst_netherite_helmet.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_netherite_helmet
+
+    amethyst_netherite_chestplate_repair:
+      permission: bettermobs.amethyst_netherite_chestplate.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_netherite_chestplate
+
+    amethyst_netherite_leggings_repair:
+      permission: bettermobs.amethyst_netherite_leggings.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_netherite_leggings
+
+    amethyst_netherite_boots_repair:
+      permission: bettermobs.amethyst_netherite_boots.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_netherite_boots
+
+    amethyst_diamond_pickaxe_repair:
+      permission: bettermobs.amethyst_diamond_pickaxe.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_diamond_pickaxe
+
+    amethyst_diamond_axe_repair:
+      permission: bettermobs.amethyst_diamond_axe.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_diamond_axe
+      
+    amethyst_diamond_helmet_repair:
+      permission: bettermobs.amethyst_diamond_helmet.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_diamond_helmet
+
+    amethyst_diamond_chestplate_repair:
+      permission: bettermobs.amethyst_diamond_chestplate.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_diamond_chestplate
+
+    amethyst_diamond_leggings_repair:
+      permission: bettermobs.amethyst_diamond_leggings.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_diamond_leggings
+
+    amethyst_diamond_boots_repair:
+      permission: bettermobs.amethyst_diamond_boots.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_diamond_boots
+
+    amethyst_iron_pickaxe_repair:
+      permission: bettermobs.amethyst_iron_pickaxe.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_iron_pickaxe
+
+    amethyst_iron_axe_repair:
+      permission: bettermobs.amethyst_iron_axe.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_iron_axe
+      
+    amethyst_iron_helmet_repair:
+      permission: bettermobs.amethyst_iron_helmet.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_iron_helmet
+
+    amethyst_iron_chestplate_repair:
+      permission: bettermobs.amethyst_iron_chestplate.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_iron_chestplate
+
+    amethyst_iron_leggings_repair:
+      permission: bettermobs.amethyst_iron_leggings.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_iron_leggings
+
+    amethyst_iron_boots_repair:
+      permission: bettermobs.amethyst_iron_boots.anvilrepair
+      enabled: true
+      ingredient: AMETHYST_SHARD
+      item: bettermobs:amethyst_iron_boots
+
+armors_rendering:
+  amethyst_netherite:
+    color: "#000001"
+    layer_1: amethyst/armor/amethyst_netherite_layer_1
+    layer_2: amethyst/armor/amethyst_netherite_layer_2
+    emissive_1: amethyst/armor/amethyst_layer_1_emmisive
+    emissive_2: amethyst/armor/amethyst_layer_2_emmisive
+    emissive_type: 2
+    use_color: false
+  
+  amethyst_diamond:
+    color: "#000002"
+    layer_1: amethyst/armor/amethyst_diamond_layer_1
+    layer_2: amethyst/armor/amethyst_diamond_layer_2
+    emissive_1: amethyst/armor/amethyst_layer_1_emmisive
+    emissive_2: amethyst/armor/amethyst_layer_2_emmisive
+    emissive_type: 2
+    use_color: false
+
+  amethyst_iron:
+    color: "#000003"
+    layer_1: amethyst/armor/amethyst_iron_layer_1
+    layer_2: amethyst/armor/amethyst_iron_layer_2
+    emissive_1: amethyst/armor/amethyst_layer_1_emmisive
+    emissive_2: amethyst/armor/amethyst_layer_2_emmisive
+    emissive_type: 2
+    use_color: false

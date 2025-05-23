@@ -1,0 +1,20 @@
+location: Spawn:-23.501:105.000:31.474
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: §f§r §f§r
+    height: 0.3
+  - content: §f§r §f§r
+    height: 0.3
+  - content: §f§r §f§r
+    height: 0.3
+  - content: §f§r §f§r
+    height: 0.3
+  - content: §f§r §f§r
+    height: 0.3
+  actions: {}

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 183.80.5.50
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1740118863578
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740119132036
+  login: 1740118719376
+money: '0'
+last-account-name: wenduer
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -8.397535522557009
+  y: 99.5
+  z: 0.7885282909667135
+  yaw: 162.2337646484375
+  pitch: 45.3001823425293
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -1164.4430116764693
+  y: 68.0
+  z: 4367.662771872843
+  yaw: -107.4691390991211
+  pitch: 15.450160026550293

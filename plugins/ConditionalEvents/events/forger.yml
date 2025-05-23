@@ -1,0 +1,30 @@
+Events: 
+  forger0: #GROD
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 23"
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    - "%luckperms_has_permission_conditionalevents.npc.forger0% == no"    
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.npc.interacting true"
+      - "message: "
+      - "message: %img_forger%        I don't really care who are you.."
+      - "message:                       To be honest...I don't even care about"
+      - "message:                       family or friends, but if you have some"
+      - "message:                       materials, I can forge some tools for you."
+      - "message: "
+      - "message:                       &bUse Ores and Materials to forge items."      
+      - "message: "
+      - "message: &7(1/1)"    
+      - "console_command: lp user %player% permission unset conditionalevents.npc.interacting"  
+      - "console_command: lp user %player% permission set conditionalevents.npc.forger0 true"  
+  forger1: 
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 23"
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    - "%luckperms_has_permission_conditionalevents.npc.forger0% == yes"
+    actions:
+      default:  
+      - "player_command: forge"     

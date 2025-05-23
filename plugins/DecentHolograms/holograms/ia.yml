@@ -1,0 +1,18 @@
+location: Spawn:-9.521:104.000:9.515
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&#5FED2D&lCUSTOM ITEMS &f%img_npc_tag%'
+    height: 0.3
+  - content: '&#EBEBEBᴅɪꜱᴄᴏᴠᴇʀ ɴᴇᴡ ɪᴛᴇᴍꜱ'
+    height: 0.3
+  - content: '&f%img_rclick_icon% ᴛᴏ ᴏᴘᴇɴ'
+    height: 0.3
+  - content: ''
+    height: 0.3
+  actions: {}

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 145.224.120.115
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732535675586
+  login: 1732535434304
+money: '0'
+last-account-name: slehacka_gang
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -7.5745016103200715
+  y: 99.5
+  z: -0.014839094860542613
+  yaw: 85.30795288085938
+  pitch: -1.499864935874939
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 3457.861898674078
+  y: 67.0
+  z: 993.4416333012753
+  yaw: 177.85765075683594
+  pitch: 24.60013771057129

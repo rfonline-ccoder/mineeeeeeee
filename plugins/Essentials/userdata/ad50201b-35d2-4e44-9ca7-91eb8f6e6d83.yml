@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.54.189.214
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737064496014
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1741641816221
+  login: 1741641716370
+money: '0'
+last-account-name: alonehuntert
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 9.137499988079071
+  y: 100.0
+  z: -0.5971061047988496
+  yaw: 54.104736328125
+  pitch: 12.300146102905273
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -3528.9942410026038
+  y: 68.0
+  z: -435.5529549024716
+  yaw: 140.5052032470703
+  pitch: 20.100122451782227

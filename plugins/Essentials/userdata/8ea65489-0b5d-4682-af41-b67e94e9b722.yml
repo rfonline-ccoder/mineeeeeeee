@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 104.6.129.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744846985998
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744847137550
+  login: 1744846697365
+money: '0'
+last-account-name: hunnito
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -9.008081539966145
+  y: 100.0
+  z: 0.5801482163225149
+  yaw: 89.50775146484375
+  pitch: -23.849836349487305
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 16.278684441497504
+  y: 98.39384459057848
+  z: 72.57795176465598
+  yaw: -9.96783447265625
+  pitch: 70.50006866455078

@@ -1,0 +1,107 @@
+config:
+  inventory_items:
+    category:
+      id: PAPER
+      custom_model_component_data:
+        floats: [10135.0f]
+      name: "&7Category: #feb96b&lNPC"
+      lore:
+      - "&eDiscover all the worlds"
+      - "&earound the Hyperverse."
+      - ""
+      - "&7Unlocked: %unlocked% &8&l(%progress_bar%&8&l) &7%percentage%"
+    discovery_unlocked:
+      id: PAPER
+      custom_model_component_data:
+        floats: [10118.0f]
+      name: "%name%"
+      lore:
+        - "%description%"
+        - ""
+        - "&8Discovered on %date%"
+    discovery_blocked:
+      id: PAPER
+      custom_model_component_data:
+        floats: [10117.0f]
+      name: "&c??"
+      lore:
+        - "&7You haven't unlocked this discovery yet."
+  rewards:
+    per_discovery:
+      - "centered_message: #feb96b&m00                                                 00"
+      - "centered_message: "
+      - "centered_message: #eeeeee&lCODEX UPDATED"
+      - "centered_message: &7NPC: %name%"
+      - "centered_message: "
+      - "centered_message: &7Check it now by using #eeeeee/codex"
+      - "centered_message: "
+      - "centered_message: &7Rewards: &a+50XP"
+      - "centered_message: "
+      - "centered_message: #feb96b&m00                                                 00"
+      - "title: 20;60;20;#eeeeee&lCODEX UPDATED;&7NPC: %name%"
+      - "playsound: BLOCK_GILDED_BLACKSTONE_STEP;10;0.1"
+      - "console_command: xp give %player% 50"
+    all_discoveries: []
+
+discoveries:
+  guide:
+    name: "&bJake the Guide"
+    description:
+      - "&7This guy will help you with"
+      - "&7your personal preferences."
+      - "&7You can toggle the server tips,"
+      - "&7check your codex and more!"
+  shop:
+    name: "&eItem Shop"
+    description:
+      - "&7Buy & sell your items at"
+      - "&7this shop."
+      - "&7Useful for those who are"
+      - "&7lazy to farm resources!"
+  auctionhouse:
+    name: "&bAuction House"
+    description:
+      - "&7Looking for some custom items?"
+      - "&7Check if another player is"
+      - "&7auctioning your dream's item,"
+      - "&7or sell yours!"
+  ranks:
+    name: "&aRanks"
+    description:
+      - "&7Satisfied with your current rank?"
+      - "&7No? Well go ahead and check the"
+      - "&7available ones to meet the"
+      - "&7requeriments and rank up!"
+  quests:
+    name: "&eQuests"
+    description:
+      - "&7Complete different missions"
+      - "&7with several tiers & get"
+      - "&7some rewards!" 
+  jobs:
+    name: "&bJobs"
+    description:
+      - "&7join your dream's job"
+      - "&7earn rewards & level up!"
+  skills:
+    name: "&dSkills"
+    description:
+      - "&7Improve your stats & skills"
+      - "&7by taking some risks!"
+  kits:
+    name: "&6Kits"
+    description:
+      - "&7With a great power comes a great" 
+      - "&7responsability, that's why with a"
+      - "&7great rank, comes a great gear kit too!"  
+  emotes:
+    name: "&eEmotes"
+    description:
+      - "&7Who doesn't love to dance?" 
+      - "&7Show your emotions to other"
+      - "&7players with lot of animations!"  
+  help:
+    name: "&bHelp"
+    description:
+      - "&7Don't you know where to start?"
+      - "&7Take a look at this menu."

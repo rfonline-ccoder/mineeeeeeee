@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 141.224.219.222
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734893654079
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734893669334
+  login: 1734893468682
+money: '0'
+last-account-name: Command19X
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 4019.6480257330286
+  y: 103.0
+  z: -2522.4665599108534
+  yaw: -83.29620361328125
+  pitch: 38.099998474121094
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -0.7082751652754965
+  y: 100.0
+  z: 0.9632015627620777
+  yaw: -80.59262084960938
+  pitch: 1.9501053094863892

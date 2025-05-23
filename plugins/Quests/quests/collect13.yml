@@ -1,0 +1,35 @@
+tasks:
+  collect:
+    type: "inventory"
+    item: BONE
+    remove-items-when-complete: true
+    amount: 5
+
+display:
+  name: "&aCollect XIII"
+  lore-normal:
+    - "&8Easy Quest"
+    - ""
+    - "&6&lQUEST"
+    - "&fCollect &a5&f bones."
+    - ""
+    - "&6&lREWARDS"
+    - "&b$350"
+  lore-started:
+    - ""
+    - "&eProgress"
+    - "&a{collect:progress}/5"
+  type: "BONE"
+
+rewards:
+  - "eco give {player} 350"
+
+options:
+  category: "collect"
+  repeatable: false
+  cooldown:
+    enabled: true
+    time: 1440
+  sort-order: 13
+  requires:
+   - "collect12"

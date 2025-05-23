@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.38.128.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740498908249
+  login: 1740498666634
+money: '0'
+last-account-name: opsun
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 3.7721588755470288
+  y: 99.5
+  z: -2.4760533190765885
+  yaw: 145.4578857421875
+  pitch: 4.800114631652832
+logoutlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 2738.639112057954
+  y: 60.0
+  z: 4921.482595221122
+  yaw: -141.94198608398438
+  pitch: 5.999992370605469

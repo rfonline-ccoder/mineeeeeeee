@@ -1,0 +1,33 @@
+# This GUI is fully customisable, you can display your levels and
+# rewards here. Please note this GUI is entirely cosmetic and does not
+# grant rewards upon levelling up, the plugin automatically does that for you!
+# You can use this GUI to give information to as what EXP is required and what
+# rewards are gained for levelling up.
+
+# Join the community discord for support, roles and other: https://discord.gg/4cV7Tu7ESu
+
+
+title: "&6Your Levels"
+size: 27
+items:
+  level-1:
+    slot: 12
+    material: "IRON_INGOT"
+    name: "&aLevel 1 Reward"
+    lore:
+      - "&e1,000 exp required to level up."
+      - "&7Rewards: 8 iron ingots."
+  level-2:
+    slot: 13
+    material: "DIAMOND"
+    name: "&aLevel 2 Reward"
+    lore:
+      - "&e3,000 exp required to level up"
+      - "&7Rewards: 4 diamonds."
+  level-3:
+    slot: 14
+    material: "NETHERITE_INGOT"
+    name: "&aLevel 3 Reward"
+    lore:
+      - "&e5,000 exp required to level up"
+      - "&7Rewards: 2 netherite ingots"

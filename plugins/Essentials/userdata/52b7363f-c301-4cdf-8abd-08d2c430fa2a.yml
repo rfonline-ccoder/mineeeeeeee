@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.232.165.186
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1740172341569
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740172413641
+  login: 1740172277105
+money: '0'
+last-account-name: LiningBeatle717
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: -1726.9856111421864
+  y: 63.0
+  z: -2688.1990398689745
+  yaw: -164.95811462402344
+  pitch: 25.915157318115234
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 1.1768675729670213
+  y: 99.5
+  z: 9.52381494130845
+  yaw: -31.506288528442383
+  pitch: 7.54682731628418

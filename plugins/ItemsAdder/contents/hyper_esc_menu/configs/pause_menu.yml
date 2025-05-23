@@ -1,0 +1,50 @@
+info:
+  namespace: hyper_esc_menu
+minecraft_lang_overwrite:
+  pause_menu_overwrite:
+    entries:
+      "menu.game": ":menu_game:"
+      "menu.returnToGame": ":offset_18:Keep Playing :menu_return:"
+      "menu.disconnect": "See you soon!"
+      "menu.options": ":offset_-36::menu_options: Options"
+      "menu.sendFeedback": "Give Feedback"
+      "gui.advancements": ":offset_-36: :menu_adv:Advancements"
+      "menu.reportBugs": ":offset_-27::menu_report: Report Bugs"
+    languages:
+      - ALL
+font_images:
+  menu_return:
+    path: "menu_return.png"
+    y_position: 23
+    permission: hyperdev.admin
+    show_in_gui: false
+    suggest_in_command: false
+    scale_ratio: 33
+  menu_adv:
+    path: "menu_adv.png"
+    y_position: 29
+    permission: hyperdev.admin
+    show_in_gui: false
+    suggest_in_command: false
+    scale_ratio: 44
+  menu_options:
+    path: "menu_options.png"
+    y_position: 23
+    permission: hyperdev.admin
+    show_in_gui: false
+    suggest_in_command: false
+    scale_ratio: 32
+  menu_report:
+    path: "menu_report.png"
+    y_position: 19
+    permission: hyperdev.admin
+    show_in_gui: false
+    suggest_in_command: false
+    scale_ratio: 32 
+  menu_game:
+    path: "menu_game.png"
+    y_position: 29
+    permission: hyperdev.admin
+    show_in_gui: false
+    suggest_in_command: false
+    scale_ratio: 256

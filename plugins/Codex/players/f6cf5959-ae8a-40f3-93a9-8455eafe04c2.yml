@@ -1,0 +1,20 @@
+name: Ghostyyyyy
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - help;09/04/2025
+    - skills;09/04/2025
+    - emotes;09/04/2025
+    - quests;09/04/2025
+    - kits;09/04/2025
+    - guide;09/04/2025
+    - jobs;09/04/2025
+    - ranks;09/04/2025
+    - shop;09/04/2025
+    - auctionhouse;09/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;09/04/2025
+    - survival;09/04/2025

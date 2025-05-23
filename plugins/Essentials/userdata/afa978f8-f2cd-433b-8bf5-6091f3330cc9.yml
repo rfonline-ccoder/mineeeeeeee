@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 169.155.235.59
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1742684449466
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742684483790
+  login: 1742684410794
+money: '0'
+last-account-name: edgar36
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 4121.892511885882
+  y: 67.0
+  z: 2972.6886539235024
+  yaw: 23.48468017578125
+  pitch: 7.199955940246582
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 1.1900696163112132
+  y: 100.0
+  z: 2.3394029000979923
+  yaw: -21.64349365234375
+  pitch: 0.15010930597782135
+homes:
+  home:
+    world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+    world-name: survival
+    x: 4121.959127505019
+    y: 67.0
+    z: 2972.5248288002517
+    yaw: 26.334564208984375
+    pitch: 5.999955177307129

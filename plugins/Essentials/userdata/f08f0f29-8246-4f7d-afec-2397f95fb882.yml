@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.81.113.69
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730922027079
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730922263017
+  login: 1730921667752
+money: '400'
+last-account-name: Akulla_
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -2070.8671502691045
+  y: 77.0
+  z: -1134.6763116359336
+  yaw: -9.4814453125
+  pitch: -9.900514602661133
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -3.401656918844385
+  y: 99.5
+  z: -7.359680618726246
+  yaw: -79.24214172363281
+  pitch: 10.800125122070312

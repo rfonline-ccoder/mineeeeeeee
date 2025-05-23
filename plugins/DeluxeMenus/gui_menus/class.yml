@@ -1,0 +1,209 @@
+size: 36
+menu_title: ':offset_-16::class_menu:'
+items: 
+  'info':
+    material: itemsadder-mcicons:icon_bp
+    slot: 4
+    display_name: '&2&lCLASS INFORMATION'
+    lore:
+    - "&8Info ▪ &fClasses Information"
+    - ""
+    - "&#AAAAAAEach class has its unique"
+    - "&#AAAAAAperks, abilities and weaknesses."
+    - "&#AAAAAASo choose wisely."
+    - ""
+    
+  '1':
+    material: itemsadder-mcicons:icon_fire_class
+    slot: 11
+    display_name: "&4&lFIRE CLASS"
+    lore:
+    - "&8Info ▪ Aggressive class"
+    - ""
+    - "&7&oMaster the flames and scorch your foes."
+    - "&7&oBring destruction with your fiery abilities."
+    - ""
+    - "&4&lMASTER ABILITY"
+    - "&8→&f Fire rage."
+    - ""
+    - "&4&lABILITIES"
+    - "&8→&f Fireball."
+    - "&8→&f Scorched earth."
+    - "&8→&f Fire shield."
+    - ""
+    - "&4&lSTRENGTHS"
+    - "&8→&f Permanent fire resistance."
+    - "&8→&f Strength when on fire."
+    - "&8→&f Regeneration when in lava."
+    - "&8→&f Permanent speed II when in the nether dimension."
+    - ""
+    - "&4&lWEAKNESSES"
+    - "&8→&f Weakness when in water."
+    - "&8→&f Slowness when in water."
+    - ""
+    left_click_commands:
+    - '[console] class-set %player_name% fire'
+    
+  '2':
+    material: itemsadder-mcicons:icon_blood_class
+    slot: 13
+    display_name: "&c&lBLOOD CLASS"
+    lore:
+    - "&8Info ▪ Strategic class"
+    - ""
+    - "&7&oBecome a master of blood. Test your"
+    - "&7&oability and dominate your opponents."
+    - ""
+    - "&c&lMASTER ABILITY"
+    - "&8→&f Blood frenzy."
+    - ""
+    - "&c&lABILITIES"
+    - "&8→&f Blood swipe."
+    - "&8→&f Blood lift."
+    - "&8→&f Blood shield."
+    - ""
+    - "&c&lSTRENGTHS"
+    - "&8→&f Swiftness II during night time."
+    - "&8→&f Strength during night time."
+    - "&8→&fPermanent regeneration I."
+    - "&8→&fPermanent night vision I."
+    - ""
+    - "&c&lWEAKNESSES"
+    - "&8→&f Slowness during day time."
+    - "&8→&f Weakness during day time." 
+    - ""
+    left_click_commands:
+    - '[console] class-set %player_name% blood'
+    
+  '3':
+    material: itemsadder-mcicons:icon_water_class
+    slot: 15
+    display_name: '&b&lWATER CLASS'
+    lore:
+    - "&8Info ▪ Defensive class"
+    - ""
+    - "&7&oHarness the power of the water."
+    - "&7&oBecome a force of the seas."
+    - ""
+    - "&b&lMASTER ABILITY"
+    - "&8→&f Aqua surge."
+    - ""
+    - "&b&lABILITIES"
+    - "&8→&f Water blast."
+    - "&8→&f Hydro dash."
+    - "&8→&f Water shield."
+    - ""
+    - "&b&lSTRENGTHS"
+    - "&8→&f Permanent water breathing I."
+    - "&8→&f Dolphins grace when in the water."
+    - "&8→&f Strength when in the water."
+    - ""
+    - "&b&lWEAKNESSES"
+    - "&8→&f Weakness when on land."
+    - "&8→&f Weakness when in the nether dimension."
+    - ""
+    left_click_commands:
+    - '[console] class-set %player_name% water'  
+    
+  '4':
+    material: itemsadder-mcicons:icon_soul_class
+    slot: 20
+    display_name: "&8&lSOUL CLASS"
+    lore:
+    - "&8Info ▪ Aggressive class"
+    - ""
+    - "&7&oEmbrace the shadows and command"
+    - "&7&othe power of all lost souls."
+    - ""
+    - "&8&lMASTER ABILITY"
+    - "&8→&f Soul crush."
+    - ""
+    - "&8&lABILITIES"
+    - "&8→&f Soul stab."
+    - "&8→&f Soul steal."
+    - "&8→&f Soul shield."
+    - ""
+    - "&8&lSTRENGTHS"
+    - "&8→&f Permanent resistance I."
+    - "&8→&f Strength during night time."
+    - "&8→&f Speed II on soul sand."
+    - "&8→&f Permanent speed II when in the end dimension."
+    - ""
+    - "&8&lWEAKNESSES"
+    - "&8→&f Weakness during day time."
+    - ""
+    left_click_commands:
+    - '[console] class-set %player_name% soul'
+
+  '5':
+    material: itemsadder-mcicons:icon_snow_class
+    slot: 22
+    display_name: "&f&lSNOW CLASS"
+    lore:
+    - "&8Info ▪ Strategic class"
+    - ""
+    - ""
+    - "&7&oFeel the frost, unleash its might."
+    - "&7&oImmobilise your enemies, then strike."
+    - ""
+    - "&f&lMASTER ABILITY"
+    - "&8→&f Snow blizzard."
+    - ""
+    - "&f&lABILITIES"
+    - "&8→&f Ice pick."
+    - "&8→&f Proximity freeze."
+    - "&8→&f Ice shield."
+    - ""
+    - "&f&lSTRENGTHS"
+    - "&8→&f Strength II when in snowy biomes."
+    - "&8→&f Speed II when in snowy biomes."
+    - "&8→&f Immune to powdered snow."
+    - ""
+    - "&f&lWEAKNESSES"
+    - "&8→&f Slowness when in the water."
+    - "&8→&f Weakness when on fire."
+    - "&8→&f Weakness when in the nether dimension."
+    - ""
+    left_click_commands:
+    - '[console] class-set %player_name% snow'
+    
+  '6':
+    material: itemsadder-mcicons:icon_lightning_class
+    slot: 24
+    display_name: "&e&lLIGHTNING CLASS"
+    lore:
+    - "&8Info ▪ Defensive class"
+    - ""
+    - "&7&oHarness the power of electricity. Bide your time,"
+    - "&7&ostrike when you can. Escape when you can."
+    - ""
+    - "&e&lMASTER ABILITY"
+    - "&8→&f Lightning storm."
+    - ""
+    - "&e&lABILITIES"
+    - "&8→&f Lightning strike."
+    - "&8→&f Lightning dash."
+    - "&8→&f Electric shield."
+    - ""
+    - "&e&lSTRENGTHS"
+    - "&8→&f Permanent haste I."
+    - "&8→&f Strength II during thunderstorms."
+    - "&8→&f Permanent speed II when on land."
+    - ""
+    - "&e&lWEAKNESSES"
+    - "&8→&f Weakness when in the water."
+    - ""
+    left_click_commands:
+    - '[console] class-set %player_name% lightning'
+    
+  'remove_class':
+    material: itemsadder-mcicons:icon_cancel
+    slot: 31
+    display_name: '&2&lREMOVE CLASS'
+    lore:
+    - "&8Info ▪ &fClasses Information"
+    - ""
+    - "&#AAAAAAClick to remove your current class."
+    - ""
+    left_click_commands:
+    - '[console] classremove %player_name%'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.49.79.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1742151685999
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742152282884
+  login: 1742151322432
+money: '300'
+last-account-name: AzazeliTV
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 6.167605904607367
+  y: 99.5
+  z: -0.3805826330663561
+  yaw: -85.69225311279297
+  pitch: -5.549890995025635
+logoutlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: -2522.2096040227775
+  y: 71.0
+  z: -3908.6197593656307
+  yaw: -2.73486328125
+  pitch: 16.500112533569336

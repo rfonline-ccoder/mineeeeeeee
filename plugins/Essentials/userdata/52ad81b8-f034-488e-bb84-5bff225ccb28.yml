@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.30.27.244
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739037269304
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739037702312
+  login: 1739035318824
+money: '0'
+last-account-name: Saturnei
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -7.905634047764211
+  y: 99.5
+  z: 0.11048096476507621
+  yaw: 86.50730895996094
+  pitch: -15.149948120117188
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 30.1708657025994
+  y: 100.0
+  z: -4.281478254401726
+  yaw: 38.95751953125
+  pitch: 29.40009117126465

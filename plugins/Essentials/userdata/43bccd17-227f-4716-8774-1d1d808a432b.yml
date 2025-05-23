@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 213.55.185.247
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731012762557
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731013043298
+  login: 1731012003869
+money: '0'
+last-account-name: sarscov2
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -2968.3930107642036
+  y: 77.0
+  z: 3219.699999988079
+  yaw: -90.94245910644531
+  pitch: 24.450069427490234
+homes:
+  home:
+    world: 733355ae-a633-4848-98f1-34580544aec0
+    world-name: survival
+    x: -2975.300000011921
+    y: 70.0
+    z: 3223.699999988079
+    yaw: -103.39246368408203
+    pitch: 31.95005989074707
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -40.615227311005555
+  y: 103.0
+  z: 13.710906742628136
+  yaw: -88.26039123535156
+  pitch: 9.899983406066895

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.223.58.92
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733576732316
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733576757533
+  login: 1733576470122
+money: '0'
+last-account-name: Sptempra
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -1482.6547808068171
+  y: 35.0
+  z: -1283.3086638445366
+  yaw: -83.65018463134766
+  pitch: 71.72146606445312
+logoutlocation:
+  world: 41e68b17-7ec9-4eed-a7de-3fe147f8321e
+  world-name: parkour
+  x: 9.5
+  y: 140.0
+  z: 5.5
+  yaw: -90.0
+  pitch: 0.0

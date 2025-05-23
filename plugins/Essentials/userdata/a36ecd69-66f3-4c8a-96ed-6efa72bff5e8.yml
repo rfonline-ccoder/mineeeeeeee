@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 118.179.89.193
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742675631392
+  login: 1742675595136
+money: '0'
+last-account-name: yahabibixos
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -2013.55841471901
+  y: 66.0
+  z: -4866.466366697189
+  yaw: 106.90852355957031
+  pitch: 1.5001980066299438
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -5.346704882363097
+  y: 99.5
+  z: 2.91232257006409
+  yaw: -160.8422088623047
+  pitch: -1.7998697757720947

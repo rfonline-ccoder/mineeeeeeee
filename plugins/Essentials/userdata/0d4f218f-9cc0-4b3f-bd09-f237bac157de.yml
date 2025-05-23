@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 217.104.11.46
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733164344414
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733164397599
+  login: 1733164191737
+money: '0.0'
+last-account-name: Itzlars_
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 4509.300000011921
+  y: 93.0
+  z: -2661.060120999061
+  yaw: -107.89232635498047
+  pitch: 51.450008392333984
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -6.09088622279617
+  y: 99.5
+  z: -3.5872641529525877
+  yaw: 123.70777893066406
+  pitch: 30.00011444091797

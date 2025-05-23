@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.135.190.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737070782174
+  login: 1737070266464
+money: '0'
+last-account-name: AG_SaZe
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -3027.2713507522103
+  y: 72.0
+  z: -3025.0402740751206
+  yaw: 26.312963485717773
+  pitch: 10.149723052978516
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 2391.603171293158
+  y: 103.0
+  z: -2387.393446994386
+  yaw: 57.212955474853516
+  pitch: 8.049711227416992

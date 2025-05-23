@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  chili_powder:
+    enabled: true
+    display_name: Chili Powder
+    permission: iasurvival.various.chili_powder
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/food/various/chili_powder

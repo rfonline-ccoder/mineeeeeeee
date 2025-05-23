@@ -1,0 +1,30 @@
+# This is a very basic configuration for the points shop. If you require any support
+# in configurating the points shop please join the community/support discord and use the
+# appropriate channel to ask for assistance.
+
+# Items are listed as "ITEM" - example: "STONE", "EMERALD_BLOCK" etc.
+# Commands do not use the forward slash "/" like they do within the game,
+# please do not use them when editing/adding commands as it will not work.
+
+# Join the community discord for support, roles and other: https://discord.gg/4cV7Tu7ESu
+
+shop:
+  title: "&aPoints Shop"
+  size: 27
+  items:
+    item1:
+      name: "&c&lCLASS REMOVAL"
+      slot: 13
+      material: "BARRIER"
+      cost: 10000
+      lore:
+        - ""
+        - "&a$ &7Price: 10,00"
+        - ""
+        - "You can write as many lines"
+        - "of lore as you want. Just make"
+        - "sure to include the price!"
+      commands:
+        - "classremove %player%"
+
+

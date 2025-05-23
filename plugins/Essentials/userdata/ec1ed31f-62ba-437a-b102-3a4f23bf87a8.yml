@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 65.18.216.189
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1746167165189
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746171044716
+  login: 1746166982343
+money: '0'
+last-account-name: SkinlessMaple
+lastlocation:
+  world: ebbea3ca-f758-4f6c-b528-077c36b9914e
+  world-name: world_nether
+  x: -3321.7392715418005
+  y: 28.715071341495978
+  z: -1554.9629912310309
+  yaw: -73.84323120117188
+  pitch: -26.850061416625977
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -20.108671263884148
+  y: 101.0
+  z: 20.24919711492845
+  yaw: 176.03579711914062
+  pitch: 11.550085067749023

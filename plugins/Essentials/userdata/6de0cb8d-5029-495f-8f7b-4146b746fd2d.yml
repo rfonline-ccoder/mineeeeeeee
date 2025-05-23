@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.253.148.35
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735172616990
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735172801156
+  login: 1735172463726
+money: '0'
+last-account-name: ron_aquino
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 1917.699999988079
+  y: 62.0
+  z: -3714.300000011921
+  yaw: -8.434450149536133
+  pitch: 18.75
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -0.286752845288663
+  y: 101.21589434553873
+  z: -14.763092883085253
+  yaw: -0.4927978515625
+  pitch: 10.500076293945312

@@ -1,0 +1,102 @@
+menu_title: 'Rank - :experienced:'
+open_command: Adventureravantage
+size: 45
+items:
+  '1':
+    material: GOLD_INGOT
+    slot: 10
+    display_name: "&b&lMoney"
+    lore:
+    - "&7► %vault_eco_balance_fixed%/500$"
+    nbt_int: CustomModelData:10000
+  '2':
+    material: EXPERIENCE_BOTTLE
+    slot: 12
+    display_name: "&b&lJobs level"
+    lore:
+    - "&7► %jobsr_user_totallevels%/10 Job levels"
+    nbt_int: CustomModelData:10001
+  '3':
+    material: EXPERIENCE_BOTTLE
+    slot: 13
+    display_name: "&b&lPlayer level"
+    lore:
+    - "&7► %player_level%/20 Player levels"
+    nbt_int: CustomModelData:10002
+  '4':
+    material: OAK_LOG
+    slot: 14
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:OAK_LOG%/64 Oak logs"
+    amount: 64
+  '5':
+    material: BIRCH_LOG
+    slot: 15
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:BIRCH_LOG%/64 Birch logs"
+    amount: 64
+  '6':
+    material: COAL_BLOCK
+    slot: 19
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:COAL_BLOCK%/16 Coal blocks"
+    amount: 16
+  '7':
+    material: IRON_INGOT
+    slot: 20
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:IRON_INGOT%/64 Iron ingots"
+    amount: 64
+  '8':
+    material: HAY_BLOCK
+    slot: 21
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:HAY_BLOCK%/64 Hay blocks"
+    amount: 64
+  '9':
+    material: COD
+    slot: 22
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:COD%/32 Cod"
+    amount: 32
+  '10':
+    material: SALMON
+    slot: 23
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:SALMON%/16 Salmons"
+    amount: 16
+  '11':
+    material: ROTTEN_FLESH
+    slot: 24
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:ROTTEN_FLESH%/64 Rotten fleshs"
+    amount: 64
+  '12':
+    material: SPIDER_EYE
+    slot: 11
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:SPIDER_EYE%/32 Spider eyes"
+    amount: 32
+  '13':
+    material: COBBLED_DEEPSLATE
+    slot: 16
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:COBBLED_DEEPSLATE%/64 Cobbled deesplates"
+    amount: 64    
+#Format
+  'back':
+      material: itemsadder-mcicons:icon_refresh
+      slot: 40
+      display_name: "&cReturn"
+      left_click_commands:
+      - '[openguimenu] ranks'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.32.154.224
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743606744518
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743607328295
+  login: 1743606661065
+money: '400'
+last-account-name: Ju4nML
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 2689.699999988079
+  y: 71.0
+  z: -1721.5818299667912
+  yaw: 131.1756134033203
+  pitch: 5.486436367034912
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 4827.300000011921
+  y: 71.0
+  z: -1601.8725831979675
+  yaw: -153.22750854492188
+  pitch: 71.63941192626953

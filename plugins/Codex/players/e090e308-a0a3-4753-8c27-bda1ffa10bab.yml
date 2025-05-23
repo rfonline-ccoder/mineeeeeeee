@@ -1,0 +1,14 @@
+name: 18kq
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - jobs;18/04/2025
+    - help;18/04/2025
+    - kits;18/04/2025
+    - emotes;18/04/2025
+    - skills;18/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;18/04/2025

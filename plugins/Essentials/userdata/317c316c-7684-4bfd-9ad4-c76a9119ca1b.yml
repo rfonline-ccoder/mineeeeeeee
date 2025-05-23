@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 171.251.29.160
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735015814823
+  login: 1735015335217
+money: '0'
+last-account-name: NotEnd3r
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -844.6886181283411
+  y: 92.1212968405392
+  z: 3278.1402753686784
+  yaw: -148.86383056640625
+  pitch: 26.47478675842285
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -2.525827106758832
+  y: 100.0
+  z: 16.77490004077316
+  yaw: 57.09103775024414
+  pitch: 6.340517997741699

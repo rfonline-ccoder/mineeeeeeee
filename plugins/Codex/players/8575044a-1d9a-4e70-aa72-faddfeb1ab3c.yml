@@ -1,0 +1,15 @@
+name: NatchaLatte
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - help;15/04/2025
+    - auctionhouse;15/04/2025
+    - shop;15/04/2025
+    - ranks;15/04/2025
+    - jobs;15/04/2025
+    - guide;15/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;15/04/2025

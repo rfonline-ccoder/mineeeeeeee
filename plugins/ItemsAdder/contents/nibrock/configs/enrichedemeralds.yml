@@ -1,0 +1,344 @@
+info:
+  namespace: "nibrock"
+categories:
+  armor:
+    enabled: true
+    name: Armor
+    icon: emerald_chestplate
+    items:
+      - "nibrock:emerald_helmet"
+      - "nibrock:emerald_chestplate"
+      - "nibrock:emerald_leggings"
+      - "nibrock:emerald_boots"
+  tools:
+    enabled: true
+    name: Tools
+    icon: emerald_pickaxe
+    items:
+      - "nibrock:emerald_sword"
+      - "nibrock:emerald_pickaxe"
+      - "nibrock:emerald_axe"
+      - "nibrock:emerald_shovel"
+      - "nibrock:emerald_hoe"
+armors_rendering:
+  emerald:
+    color: "#d10000"
+    layer_1: ee/armor/emerald_layer_1
+    layer_2: ee/armor/emerald_layer_2
+    use_color: false
+recipes:
+  crafting_table:
+    emerald_helmet:
+      permission: nibrock.ee.armor
+      enabled: true
+      pattern:
+      - EEE
+      - EXE
+      - XXX
+      ingredients:
+        E: EMERALD
+      result:
+        item: nibrock:emerald_helmet
+        amount: 1
+    emerald_chestplate:
+      permission: nibrock.ee.armor
+      enabled: true
+      pattern:
+      - EXE
+      - EEE
+      - EEE
+      ingredients:
+        E: EMERALD
+      result:
+        item: nibrock:emerald_chestplate
+        amount: 1
+    emerald_leggings:
+      permission: nibrock.ee.armor
+      enabled: true
+      pattern:
+      - EEE
+      - EXE
+      - EXE
+      ingredients:
+        E: EMERALD
+      result:
+        item: nibrock:emerald_leggings
+        amount: 1
+    emerald_boots:
+      permission: nibrock.ee.armor
+      enabled: true
+      pattern:
+      - XXX
+      - EXE
+      - EXE
+      pattern_2:
+      - EXE
+      - EXE
+      - XXX
+      ingredients:
+        E: EMERALD
+      result:
+        item: nibrock:emerald_boots
+        amount: 1
+    emerald_sword:
+      permission: nibrock.ee.tools
+      enabled: true
+      pattern:
+      - XEX
+      - XEX
+      - XSX
+      ingredients:
+        E: EMERALD
+        S: STICK
+      result:
+        item: nibrock:emerald_sword
+        amount: 1
+    emerald_pickaxe:
+      permission: nibrock.ee.tools
+      enabled: true
+      pattern:
+      - EEE
+      - XSX
+      - XSX
+      ingredients:
+        E: EMERALD
+        S: STICK
+      result:
+        item: nibrock:emerald_pickaxe
+        amount: 1
+    emerald_axe:
+      permission: nibrock.ee.tools
+      enabled: true
+      pattern:
+      - EEX
+      - ESX
+      - XSX
+      pattern_2:
+      - XEE
+      - XSE
+      - XSX
+      ingredients:
+        E: EMERALD
+        S: STICK
+      result:
+        item: nibrock:emerald_axe
+        amount: 1
+    emerald_shovel:
+      permission: nibrock.ee.tools
+      enabled: true
+      pattern:
+      - XEX
+      - XSX
+      - XSX
+      ingredients:
+        E: EMERALD
+        S: STICK
+      result:
+        item: nibrock:emerald_shovel
+        amount: 1
+    emerald_hoe:
+      permission: nibrock.ee.tools
+      enabled: true
+      pattern:
+      - EEX
+      - XSX
+      - XSX
+      pattern_2:
+      - XEE
+      - XSX
+      - XSX
+      ingredients:
+        E: EMERALD
+        S: STICK
+      result:
+        item: nibrock:emerald_hoe
+        amount: 1
+  anvil_repair:
+    emerald_helmet:
+      permission: nibrock.ee.armor
+      ingredient: EMERALD
+      item: nibrock:emerald_helmet
+    emerald_chestplate:
+      permission: nibrock.ee.armor
+      ingredient: EMERALD
+      item: nibrock:emerald_chestplate
+    emerald_leggings:
+      permission: nibrock.ee.armor
+      ingredient: EMERALD
+      item: nibrock:emerald_leggings
+    emerald_boots:
+      permission: nibrock.ee.armor
+      ingredient: EMERALD
+      item: nibrock:emerald_boots
+    emerald_sword:
+      permission: nibrock.ee.tools
+      ingredient: EMERALD
+      item: nibrock:emerald_sword
+    emerald_pickaxe:
+      permission: nibrock.ee.tools
+      ingredient: EMERALD
+      item: nibrock:emerald_pickaxe
+    emerald_axe:
+      permission: nibrock.ee.tools
+      ingredient: EMERALD
+      item: nibrock:emerald_axe
+    emerald_shovel:
+      permission: nibrock.ee.tools
+      ingredient: EMERALD
+      item: nibrock:emerald_shovel
+    emerald_hoe:
+      permission: nibrock.ee.tools
+      ingredient: EMERALD
+      item: nibrock:emerald_hoe
+items:
+  emerald_helmet:
+    display_name: "Emerald Helmet"
+    permission: nibrock.ee.armor
+    resource:
+      generate: true
+      textures:
+      - ee/item/emerald_helmet.png
+    durability:
+      max_custom_durability: 264
+    specific_properties:
+      armor:
+        slot: head
+        custom_armor: emerald
+    attribute_modifiers:
+      head:
+        armor: 3
+        armorToughness: 1
+  emerald_chestplate:
+    display_name: "Emerald Chestplate"
+    permission: nibrock.ee.armor
+    resource:
+      generate: true
+      textures:
+      - ee/item/emerald_chestplate.png
+    durability:
+      max_custom_durability: 384
+    specific_properties:
+      armor:
+        slot: chest
+        custom_armor: emerald
+    attribute_modifiers:
+      chest:
+        armor: 8
+        armorToughness: 1
+  emerald_leggings:
+    display_name: "Emerald Leggings"
+    permission: nibrock.ee.armor
+    resource:
+      generate: true
+      textures:
+      - ee/item/emerald_leggings.png
+    durability:
+      max_custom_durability: 360
+    specific_properties:
+      armor:
+        slot: legs
+        custom_armor: emerald
+    attribute_modifiers:
+      legs:
+        armor: 6
+        armorToughness: 1
+  emerald_boots:
+    display_name: "Emerald Boots"
+    permission: nibrock.ee.armor
+    resource:
+      generate: true
+      textures:
+      - ee/item/emerald_boots.png
+    durability:
+      max_custom_durability: 312
+    specific_properties:
+      armor:
+        slot: FEET
+        custom_armor: emerald
+    attribute_modifiers:
+      feet:
+        armor: 3
+        armorToughness: 1
+  emerald_sword:
+    enabled: true
+    display_name: Emerald Sword
+    durability:
+      max_custom_durability: 1000
+      disappear_when_broken: false
+      unbreakable: false
+    resource:
+      material: DIAMOND_SWORD
+      generate: true
+      textures:
+      - ee/item/emerald_sword.png
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 7
+        attackSpeed: 1.6
+  emerald_pickaxe:
+    enabled: true
+    display_name: Emerald Pickaxe
+    durability:
+      max_custom_durability: 1000
+      disappear_when_broken: false
+      unbreakable: false
+    resource:
+      material: DIAMOND_PICKAXE
+      generate: true
+      textures:
+      - ee/item/emerald_pickaxe.png
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 5
+        attackSpeed: 1.2
+  emerald_axe:
+    enabled: true
+    display_name: Emerald Axe
+    durability:
+      max_custom_durability: 1000
+      disappear_when_broken: false
+      unbreakable: false
+    resource:
+      material: DIAMOND_AXE
+      generate: true
+      textures:
+      - ee/item/emerald_axe.png
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 9
+        attackSpeed: 1
+  emerald_shovel:
+    enabled: true
+    display_name: Emerald Shovel
+    durability:
+      max_custom_durability: 1000
+      disappear_when_broken: false
+      unbreakable: false
+    resource:
+      material: DIAMOND_SHOVEL
+      generate: true
+      textures:
+      - ee/item/emerald_shovel.png
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 5.5
+        attackSpeed: 1
+  emerald_hoe:
+    enabled: true
+    display_name: Emerald Hoe
+    durability:
+      max_custom_durability: 1000
+      disappear_when_broken: false
+      unbreakable: false
+    resource:
+      material: DIAMOND_HOE
+      generate: true
+      textures:
+      - ee/item/emerald_hoe.png
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 1
+        attackSpeed: 4
+
+
+  

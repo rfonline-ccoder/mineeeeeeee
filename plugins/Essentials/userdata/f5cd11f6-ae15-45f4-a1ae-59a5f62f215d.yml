@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.81.119.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734460652833
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743602375893
+  login: 1743602210047
+money: '1.50'
+last-account-name: Kubaq
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -677.1916959958535
+  y: 0.0
+  z: 618.5449158131695
+  yaw: -178.20413208007812
+  pitch: 89.52442932128906
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.1826666498752447
+  y: 100.0
+  z: -9.020766139194203
+  yaw: 99.74935913085938
+  pitch: 10.029236793518066

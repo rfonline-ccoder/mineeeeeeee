@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.103.38.176
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1738202330554
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738202442146
+  login: 1738202261792
+money: '0'
+last-account-name: l2wisp
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -646.4532700705305
+  y: 86.5
+  z: 918.3122526375206
+  yaw: 70.00833129882812
+  pitch: 17.700109481811523
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -27.78176559376305
+  y: 112.0
+  z: -63.244600002343525
+  yaw: -163.24200439453125
+  pitch: 9.600138664245605

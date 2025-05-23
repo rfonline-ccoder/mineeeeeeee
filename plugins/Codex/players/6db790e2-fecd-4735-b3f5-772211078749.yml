@@ -1,0 +1,15 @@
+name: AvarisGG
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - emotes;22/02/2025
+    - quests;22/02/2025
+    - ranks;22/02/2025
+    - skills;22/02/2025
+    - auctionhouse;22/02/2025
+    - jobs;22/02/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;22/02/2025

@@ -1,0 +1,20 @@
+name: ezzy2k
+categories:
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;27/04/2025
+    - end;27/04/2025
+    - survival;27/04/2025
+  npc:
+    completed: false
+    discoveries:
+    - skills;27/04/2025
+    - shop;27/04/2025
+    - ranks;27/04/2025
+    - jobs;27/04/2025
+    - guide;27/04/2025
+    - help;27/04/2025
+    - kits;27/04/2025
+    - quests;27/04/2025
+    - emotes;27/04/2025

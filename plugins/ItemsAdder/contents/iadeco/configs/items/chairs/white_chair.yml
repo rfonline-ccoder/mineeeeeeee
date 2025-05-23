@@ -1,0 +1,16 @@
+info:
+  namespace: iadeco
+items:
+  white_chair:
+    enabled: true
+    display_name: White Chair
+    permission: iadeco.chairs.white_chair
+    resource:
+      material: PAPER
+      generate: false
+      model_path: white_chair
+    behaviours:
+      furniture:
+        small: true
+      furniture_sit:
+        sit_height: 0.5

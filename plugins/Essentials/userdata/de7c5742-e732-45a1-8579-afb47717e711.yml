@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 119.76.153.204
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730510050187
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730510239764
+  login: 1730509788199
+money: '20.1'
+last-account-name: xsamit
+lastlocation:
+  world: 9bb8c1dc-9fb2-464a-90ee-84bb1aa1b99e
+  world-name: resourceworld
+  x: 968.7997519873747
+  y: 64.0
+  z: -1714.0525824714466
+  yaw: -29.29218864440918
+  pitch: 3.150155782699585
+homes:
+  home:
+    world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+    world-name: survival
+    x: -4649.592266721118
+    y: 79.0
+    z: 1465.337207488457
+    yaw: -30.8077392578125
+    pitch: 6.59995174407959
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -0.6272644846052912
+  y: 99.5
+  z: 5.595512129094769
+  yaw: -32.1424560546875
+  pitch: 0.9001096487045288

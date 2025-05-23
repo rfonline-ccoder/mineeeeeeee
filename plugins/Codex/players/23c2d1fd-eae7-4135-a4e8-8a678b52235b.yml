@@ -1,0 +1,16 @@
+name: calamythe
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - jobs;27/04/2025
+    - ranks;27/04/2025
+    - auctionhouse;27/04/2025
+    - skills;27/04/2025
+    - emotes;27/04/2025
+    - quests;27/04/2025
+    - kits;27/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;27/04/2025

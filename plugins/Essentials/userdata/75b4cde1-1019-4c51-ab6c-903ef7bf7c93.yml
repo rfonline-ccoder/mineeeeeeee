@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 47.251.51.160
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743219512550
+  login: 1743219451170
+money: '0'
+last-account-name: PusssyCat_
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -0.4348889325871811
+  y: 101.0
+  z: 12.571404051352673
+  yaw: -36.495849609375
+  pitch: -7.799871444702148
+logoutlocation:
+  world: 876b0e4d-60b2-410c-ad36-47acf21c0c26
+  world-name: world
+  x: 138.09117015476352
+  y: 79.0
+  z: -46.676977572104484
+  yaw: -85.79891967773438
+  pitch: -3.5433735847473145

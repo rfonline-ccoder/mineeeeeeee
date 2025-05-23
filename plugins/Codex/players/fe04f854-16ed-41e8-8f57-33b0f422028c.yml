@@ -1,0 +1,11 @@
+name: LaidUp
+categories:
+  worlds:
+    completed: false
+    discoveries:
+    - survival;16/04/2025
+    - resourceworld;16/04/2025
+  npc:
+    completed: false
+    discoveries:
+    - help;16/04/2025

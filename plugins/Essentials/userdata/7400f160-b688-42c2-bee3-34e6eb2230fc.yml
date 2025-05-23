@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.174.115.206
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744288700834
+  login: 1744288640375
+money: '0'
+last-account-name: Joachim_ytb
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 7.6111829422964155
+  y: 99.5
+  z: -0.5020959281459271
+  yaw: -101.29226684570312
+  pitch: 11.850110054016113
+logoutlocation:
+  world: 876b0e4d-60b2-410c-ad36-47acf21c0c26
+  world-name: world
+  x: 7.5
+  y: 63.0
+  z: -8.5
+  yaw: -122.70002746582031
+  pitch: 31.950000762939453

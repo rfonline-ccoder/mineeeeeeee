@@ -1,0 +1,30 @@
+Events:
+  villager_3: #WALDA
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 29"
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.npc.interacting true"
+      - "message: "
+      - "message: %img_villager%  Such a sunny day huh?"
+      - "message:                     Perfect to explore and talk"
+      - "message:                     with the others, except for..."
+      - "message: &7(1/2)"
+      - "message: "
+      - "wait: 6"
+      - "message: "
+      - "message: %img_villager%  You know...that strange man at the"
+      - "message:                     caves. Everyone says that weird things"
+      - "message:                     happens there...scary weird things..."
+      - "message:                     I definitely don't want to enter there."
+      - "message: &7(2/3)"
+      - "wait: 10"
+      - "message: "
+      - "message: %img_villager%  Don't worry, you will be fine,"
+      - "message:                     unless you are planning to go there..."
+      - "message:                     Nah, you seem like a smart person."
+      - "message:                     Have a nice day!"
+      - "message: &7(3/3)"      
+      - "console_command: lp user %player% permission unset conditionalevents.npc.interacting"    

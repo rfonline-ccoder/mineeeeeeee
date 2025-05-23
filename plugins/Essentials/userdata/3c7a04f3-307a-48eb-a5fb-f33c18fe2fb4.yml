@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.67.66.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742675679591
+  login: 1742675395209
+money: '0'
+last-account-name: SiriHack
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -9.312240582382646
+  y: 100.0
+  z: 0.29547633752107494
+  yaw: 80.98748016357422
+  pitch: -20.340744018554688
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 2067.3837459143915
+  y: 67.0
+  z: 359.83441957058375
+  yaw: -102.41485595703125
+  pitch: 26.486343383789062

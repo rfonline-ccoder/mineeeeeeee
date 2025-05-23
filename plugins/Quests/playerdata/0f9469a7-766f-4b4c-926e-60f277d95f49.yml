@@ -1,0 +1,47 @@
+quest-progress:
+  woodcutting1:
+    started: false
+    started-date: 1739791846663
+    completed: true
+    completed-before: true
+    completion-date: 1739791846663
+    task-progress:
+      mining:
+        completed: false
+  miner2:
+    started: false
+    started-date: 1739790883266
+    completed: true
+    completed-before: true
+    completion-date: 1739790883266
+    task-progress:
+      mining:
+        completed: false
+  miner1:
+    started: false
+    started-date: 1739789905217
+    completed: true
+    completed-before: true
+    completion-date: 1739789905217
+    task-progress:
+      mining:
+        completed: false
+  miner3:
+    started: false
+    started-date: 1739791768614
+    completed: true
+    completed-before: true
+    completion-date: 1739791768614
+    task-progress:
+      mining:
+        completed: false
+  mobkilling1:
+    started: true
+    started-date: 1739791780981
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mobkilling:
+        completed: false
+        progress: 2

@@ -1,0 +1,12 @@
+location: Spawn:-103.498:151.500:10.533
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&#adb7c7&lJEREMY &f%img_talk_icon%'
+    height: 0.3
+  actions: {}

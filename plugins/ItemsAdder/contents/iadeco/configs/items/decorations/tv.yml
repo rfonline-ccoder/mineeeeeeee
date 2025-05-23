@@ -1,0 +1,14 @@
+info:
+  namespace: iadeco
+items:
+  tv:
+    enabled: true
+    display_name: Tv
+    permission: iadeco.decorations.tv
+    resource:
+      material: PAPER
+      generate: false
+      model_path: tv
+    behaviours:
+      furniture:
+        small: true

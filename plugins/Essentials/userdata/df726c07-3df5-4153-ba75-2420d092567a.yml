@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.178.149.2
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739048630532
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739048942430
+  login: 1739048168674
+money: '16.02'
+last-account-name: RATTED_ACCOUNT
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 1199.225654994236
+  y: 80.16610926093821
+  z: -3129.7887807604566
+  yaw: 140.8606414794922
+  pitch: 62.55000686645508
+homes:
+  home:
+    world: 733355ae-a633-4848-98f1-34580544aec0
+    world-name: survival
+    x: 1200.8151516010237
+    y: 80.0
+    z: -3130.548437159395
+    yaw: 1.51068115234375
+    pitch: 19.5000057220459
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -1483.570033684786
+  y: -50.0
+  z: 1107.4932888499745
+  yaw: 127.0506591796875
+  pitch: 29.680599212646484

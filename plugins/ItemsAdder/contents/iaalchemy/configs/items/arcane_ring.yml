@@ -1,0 +1,21 @@
+info:
+  namespace: iaalchemy
+items:
+  arcane_ring:
+    enabled: true
+    display_name: Arcane Ring
+    permission: iaalchemy.items.arcane_ring
+    resource:
+      material: TOTEM_OF_UNDYING
+      generate: true
+      textures:
+        - item/arcane_ring
+    attribute_modifiers:
+      mainhand:
+        movementSpeed:
+          value: 0.1
+          operation: multiply_base
+      offhand:
+        movementSpeed:
+          value: 0.1
+          operation: multiply_base

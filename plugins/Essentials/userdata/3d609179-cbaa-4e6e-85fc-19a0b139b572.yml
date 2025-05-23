@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.223.163.10
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733086806609
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733086814524
+  login: 1733086776692
+money: '0'
+last-account-name: Yiqu
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 3335.86844842151
+  y: 92.0
+  z: 1869.150475173094
+  yaw: 122.05290222167969
+  pitch: 16.499929428100586
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 3.7864118395865303
+  y: 99.5
+  z: -4.747664931815844
+  yaw: 177.55772399902344
+  pitch: -3.599891185760498

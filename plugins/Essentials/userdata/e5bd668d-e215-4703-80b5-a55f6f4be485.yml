@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 179.56.119.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1742256168369
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742256216537
+  login: 1742255950617
+money: '0'
+last-account-name: galombo
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: -405.5801772973952
+  y: 88.0
+  z: 2587.2869241941107
+  yaw: 102.7081298828125
+  pitch: 44.550201416015625
+homes:
+  home:
+    world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+    world-name: survival
+    x: -405.5801772973952
+    y: 88.0
+    z: 2587.2869241941107
+    yaw: 102.7081298828125
+    pitch: 44.550201416015625
+logoutlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: -371.5005572086373
+  y: 74.0
+  z: 2631.924174106211
+  yaw: 133.53289794921875
+  pitch: 26.550270080566406

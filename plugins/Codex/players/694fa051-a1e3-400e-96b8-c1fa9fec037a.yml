@@ -1,0 +1,11 @@
+name: Kardinel
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - help;24/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;24/04/2025
+    - survival;24/04/2025

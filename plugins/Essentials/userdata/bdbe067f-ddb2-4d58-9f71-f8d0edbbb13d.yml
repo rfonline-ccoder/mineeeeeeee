@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.233.86.38
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730214444886
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730214648756
+  login: 1730214358719
+money: '0'
+last-account-name: Ananau
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -10.20789103480041
+  y: 100.0
+  z: -7.994779698607771
+  yaw: -35.891693115234375
+  pitch: 13.20011043548584
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.2100158668910337
+  y: 100.0
+  z: -9.667319672528732
+  yaw: 7.9090576171875
+  pitch: 25.799795150756836
+homes:
+  test:
+    world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+    world-name: Spawn
+    x: -25.87526731537776
+    y: 103.0
+    z: -26.268938598250536
+    yaw: -52.99169921875
+    pitch: 15.300137519836426
+  teste:
+    world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+    world-name: Spawn
+    x: -35.276397235112405
+    y: 109.0
+    z: -52.42048236928739
+    yaw: -24.04144287109375
+    pitch: 19.800155639648438

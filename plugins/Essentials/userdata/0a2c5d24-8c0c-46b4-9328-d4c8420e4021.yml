@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 58.8.150.75
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732248668499
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732248720178
+  login: 1732248614215
+money: '23.46'
+last-account-name: KrIIzLey
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 4240.144562140304
+  y: 65.0
+  z: -4204.056857496557
+  yaw: 113.65962219238281
+  pitch: 7.049994945526123
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.6832128859602007
+  y: 99.5
+  z: -5.21301210550304
+  yaw: 157.30743408203125
+  pitch: 10.05012321472168

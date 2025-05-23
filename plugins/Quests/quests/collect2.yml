@@ -1,0 +1,35 @@
+tasks:
+  collect:
+    type: "inventory"
+    item: ARROW
+    remove-items-when-complete: true
+    amount: 16
+
+display:
+  name: "&aCollect II"
+  lore-normal:
+    - "&8Easy Quest"
+    - ""
+    - "&6&lQUEST"
+    - "&fCollect &a16&f arrows."
+    - ""
+    - "&6&lREWARDS"
+    - "&b$550"
+  lore-started:
+    - ""
+    - "&eProgress"
+    - "&a{collect:progress}/16"
+  type: "ARROW"
+
+rewards:
+  - "eco give {player} 550"
+
+options:
+  category: "collect"
+  repeatable: false
+  cooldown:
+    enabled: true
+    time: 1440
+  sort-order: 2
+  requires:
+   - "collect1"

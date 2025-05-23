@@ -1,0 +1,122 @@
+register_command: true
+size: 9
+menu_title: ':offset_-8::forge_menu2:'
+items:
+  '1':
+    material: itemsadder-elitefantasy:fire_sword
+    slot: 1
+    display_name: '&6Fire Sword'
+    lore:
+    - '&#FE5A00ᴍʏᴛʜɪᴄ ɪᴛᴇᴍ'
+    - '&#575757Burn your enemies until ashes'
+    - ' '
+    - '&#8c242fꜱᴘᴇᴄɪᴀʟ'
+    - '&#575757Insane Damage and Attack Speed'
+    - ' '
+    left_click_commands:    
+    - '[openguimenu] forge1'
+  '2':
+    material: itemsadder-elitefantasy:fire_bow
+    slot: 2
+    display_name: '&6Fire Bow'
+    lore:
+    - '&#FE5A00ᴍʏᴛʜɪᴄ ɪᴛᴇᴍ'
+    - '&#575757Burn your enemies until ashes'
+    - ''
+    - '&#8c242fꜱᴘᴇᴄɪᴀʟ'
+    - '&#575757Shot infinite arrows'
+    - ' '
+  '3':
+    material: itemsadder-elitefantasy:fire_pickaxe
+    slot: 3
+    display_name: '&6Fire Pickaxe'
+    lore:
+    - '&#FE5A00ᴍʏᴛʜɪᴄ ɪᴛᴇᴍ'
+    - '&#575757Melt your ores until ashes'
+    - ' '
+    - '&#8c242fꜱᴘᴇᴄɪᴀʟ'
+    - '&#575757Get x4 ores'
+    - ' '  
+    left_click_commands:
+    - '[openguimenu] forge3'
+  '4':
+    material: itemsadder-elitefantasy:fire_axe
+    slot: 4
+    display_name: '&6Fire Axe'
+    lore:
+    - '&#FE5A00ᴍʏᴛʜɪᴄ ɪᴛᴇᴍ'
+    - '&#575757Burn your enemies until ashes'
+    - ' '
+    - '&#8c242fꜱᴘᴇᴄɪᴀʟ'
+    - '&#575757Cut x3 fast'
+    left_click_commands:
+    - '[openguimenu] forge4'
+  '5':
+    material: itemsadder-elitefantasy:fire_shovel
+    slot: 5
+    display_name: '&6Fire Shovel'
+    lore:
+    - '&#FE5A00ᴍʏᴛʜɪᴄ ɪᴛᴇᴍ'
+    - '&#575757Burn your blocks until ashes'
+    - ' '
+    - '&#8c242fꜱᴘᴇᴄɪᴀʟ'
+    - '&#575757Break blocks x2 fast'
+    - ' ' 
+    left_click_commands:
+    - '[openguimenu] forge5'
+  '6':
+    material: itemsadder-elitefantasy:fire_hoe
+    slot: 6
+    display_name: '&6Fire Hoe'
+    lore:
+    - '&#FE5A00ᴍʏᴛʜɪᴄ ɪᴛᴇᴍ'
+    - '&#575757Burn your crops until ashes'
+    - ' '
+    - '&#8c242fꜱᴘᴇᴄɪᴀʟ'
+    - '&#575757Get x3 more crops'
+    - ' '  
+    left_click_commands:
+    - '[openguimenu] forge6'
+  'forge':
+    material: itemsadder-mcicons:icon_confirm
+    slot: 8
+    display_name: '&#FE5A00&lꜰᴏʀɢᴇ ᴛʜɪꜱ ɪᴛᴇᴍ'
+    lore:
+    - '&cʀᴇqᴜɪꜱɪᴛᴇꜱ:'
+    - ''
+    - '&b▇ &6$25.000 &f%img_coinicon%'
+    - '&b▇ &a50 Exp Levels &f%img_mc_experience_bottle%'
+    - '&b▇ &dx1 &7Bow &f%img_mc_bow%'
+    - '&b▇ &dx10 &7Netherite Ingots &f%img_mc_nether_brick%'
+    - ''
+    left_click_requirement:
+      requirements:
+        1:
+          type: has money
+          amount: 25000
+        2:
+          type: '>='
+          input: '%player_level%'
+          output: '50'
+        3:
+          type: '>='
+          input: '%checkitem_amount_mat:NETHERITE_INGOT%'
+          output: '10'
+        4:
+          type: '>='
+          input: '%checkitem_amount_mat:BOW%'
+          output: '1'
+      deny_commands:
+      - "[message] &cYou have not met all the requisites!"
+    left_click_commands:
+    #Money
+    - '[takemoney] 25000'
+    #Levels
+    - '[console] xp take %player_name% 50l'
+    #Items
+    - '[console] papi parse %player_name% %checkitem_remove_mat:BOW,amt:1%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:NETHERITE_INGOT,amt:10%'
+    #Reward
+    - '[console] iagive %player_name% elitefantasy:fire_bow'
+    #Close
+    - '[close]'

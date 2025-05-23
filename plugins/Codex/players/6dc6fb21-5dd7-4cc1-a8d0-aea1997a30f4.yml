@@ -1,0 +1,15 @@
+name: NDK_VN
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - auctionhouse;03/03/2025
+    - shop;03/03/2025
+    - ranks;03/03/2025
+    - kits;03/03/2025
+    - emotes;03/03/2025
+    - skills;03/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;03/03/2025

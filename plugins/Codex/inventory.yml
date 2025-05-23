@@ -1,0 +1,86 @@
+inventories:
+  main_inventory:
+    slots: 36
+    title: ":offset_-15::codex_menu:"
+    11:
+      type: "category: worlds"
+    13:
+      type: "category: ores"
+    15:
+      type: "category: npc"
+  category_npc:
+    slots: 36
+    title: ":offset_-15::codex_npc_menu:"
+    10:
+      type: "discovery: guide"
+    11:
+      type: "discovery: shop"
+    12:
+      type: "discovery: auctionhouse"
+    13:
+      type: "discovery: ranks"
+    14:
+      type: "discovery: quests"
+    15:
+      type: "discovery: jobs"
+    16:
+      type: "discovery: skills"
+    16:
+      type: "discovery: kits"
+    21:
+      type: "discovery: emotes"
+    23:
+      type: "discovery: help"
+    27:
+      item:
+        id: PAPER
+        custom_model_component_data:
+          floats: [10135.0f]
+        name: "&7Go Back"
+      open_inventory: main_inventory
+  category_ores:
+    slots: 36
+    title: ":offset_-15::codex_ores_menu:"
+    11:
+      type: "discovery: ruby"
+    12:
+      type: "discovery: spinel"
+    13:
+      type: "discovery: turquoise"
+    14:
+      type: "discovery: aqua_aura"
+    15:
+      type: "discovery: dark_amethyst"
+    19:
+      type: "discovery: cassiterite"
+    21:
+      type: "discovery: mysterious_ore"
+    23:
+      type: "discovery: nether_alchemy_ore"
+    25:
+      type: "discovery: end_ore"
+    27:
+      item:
+        id: PAPER
+        custom_model_component_data:
+          floats: [10135.0f]
+        name: "&7Go Back"
+      open_inventory: main_inventory
+  category_worlds:
+    slots: 36
+    title: ":offset_-15::codex_world_menu:"
+    10:
+      type: "discovery: survival"
+    12:
+      type: "discovery: resourceworld"
+    14:
+      type: "discovery: nether"
+    16:
+      type: "discovery: end"
+    27:
+      item:
+        id: PAPER
+        custom_model_component_data:
+          floats: [10135.0f]
+        name: "&7Go Back"
+      open_inventory: main_inventory

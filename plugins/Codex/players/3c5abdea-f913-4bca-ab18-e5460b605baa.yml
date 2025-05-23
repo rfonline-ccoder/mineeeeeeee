@@ -1,0 +1,11 @@
+name: kuchenboss05
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - auctionhouse;15/03/2025
+    - shop;15/03/2025
+    - ranks;15/03/2025
+    - jobs;15/03/2025
+    - guide;15/03/2025
+    - quests;15/03/2025

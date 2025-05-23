@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.135.188.169
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1729650421556
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729650450530
+  login: 1729649506406
+money: '0'
+last-account-name: CharonVI
+lastlocation:
+  world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+  world-name: survival
+  x: -1515.629842953994
+  y: 72.0
+  z: 1368.0562443051317
+  yaw: -150.5098876953125
+  pitch: 4.34995698928833
+homes:
+  test:
+    world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+    world-name: survival
+    x: -1517.6679850951455
+    y: 72.0
+    z: 1367.1833674574223
+    yaw: 27.54000473022461
+    pitch: 1.1999839544296265
+  test1:
+    world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+    world-name: survival
+    x: -1523.5492701220703
+    y: 72.0
+    z: 1367.2796167122324
+    yaw: 27.54000473022461
+    pitch: 1.1999839544296265
+  test3:
+    world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+    world-name: survival
+    x: -1526.884533057582
+    y: 73.0
+    z: 1367.8826409067456
+    yaw: 27.54000473022461
+    pitch: 1.1999839544296265
+logoutlocation:
+  world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+  world-name: survival
+  x: -1527.5921226444439
+  y: 72.0
+  z: 1367.1159933180459
+  yaw: -32.00999450683594
+  pitch: 1.9499834775924683

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.226.208.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731197456559
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731197568974
+  login: 1731197451472
+money: '0'
+last-account-name: MaikyYT_
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 2601.978719684419
+  y: 80.0
+  z: 737.8033420698179
+  yaw: 71.28707122802734
+  pitch: 27.909290313720703
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -3.6843706402403402
+  y: 100.0
+  z: -8.84066888383837
+  yaw: 159.86856079101562
+  pitch: -7.449227809906006

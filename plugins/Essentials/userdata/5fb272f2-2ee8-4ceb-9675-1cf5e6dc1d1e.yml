@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 193.226.62.149
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1742769541444
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742769617700
+  login: 1742769448753
+money: '0'
+last-account-name: Teddy511
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 7.859542048209336
+  y: 99.5
+  z: 0.1690778272448179
+  yaw: -89.44192504882812
+  pitch: 18.750110626220703
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -2594.9468497133253
+  y: 69.0
+  z: -2629.1460938422797
+  yaw: -93.19182586669922
+  pitch: 37.5001106262207

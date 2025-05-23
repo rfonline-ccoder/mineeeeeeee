@@ -1,0 +1,14 @@
+name: Neferite
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - guide;14/03/2025
+    - ranks;14/03/2025
+    - skills;16/03/2025
+    - auctionhouse;09/04/2025
+    - shop;09/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;27/03/2025

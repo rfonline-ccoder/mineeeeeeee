@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.114.163.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1742062796316
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742063117638
+  login: 1742062712657
+money: '0'
+last-account-name: autentificare
+lastlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: -3809.120517835763
+  y: 57.7967356006687
+  z: 2016.4657084237824
+  yaw: 53.83856201171875
+  pitch: -7.7753987312316895
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 5.049887529096378
+  y: 99.5
+  z: -6.540702859614715
+  yaw: -160.22508239746094
+  pitch: -2.104104518890381

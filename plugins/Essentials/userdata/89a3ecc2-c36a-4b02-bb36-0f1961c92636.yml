@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.237.123.76
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736005303100
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736017424588
+  login: 1736017102945
+money: '0'
+last-account-name: IamZyxZ
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -3608.894209515668
+  y: 75.0
+  z: 4898.9947340000535
+  yaw: -166.94920349121094
+  pitch: 56.86668395996094
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -13.699999988079071
+  y: 105.79673560066871
+  z: -38.758200303216114
+  yaw: 153.54306030273438
+  pitch: 27.791799545288086

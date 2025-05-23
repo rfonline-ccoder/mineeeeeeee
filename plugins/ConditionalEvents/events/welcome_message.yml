@@ -1,0 +1,39 @@
+Events:
+  welcome_message:
+    type: player_join
+    conditions:
+    - "%playtime_timesjoined% > 1 execute action1"
+    - "%playtime_timesjoined% == 1 execute action2"
+    actions:
+      action1:
+      - "to_all: message: &f%img_join_icon% &r%player_name% &7is now online"
+      - "message: "
+      - "message:                  &f%img_title_big%"
+      - "centered_message: "
+      - "centered_message: "
+      - "centered_message: &fʜᴇʏ &b%player_name%&f, ᴡᴇʟᴄᴏᴍᴇ ʙᴀᴄᴋ!"
+      - "centered_message: &fꜱᴛᴀʀᴛ ᴡɪᴛʜ /ᴡᴏʀʟᴅꜱ"
+      - "centered_message: "
+      - "centered_message: &fᴠɪꜱɪᴛ ᴏᴜʀ ꜱᴛᴏʀᴇ & ᴅɪꜱᴄᴏʀᴅ"
+      - "centered_message: &fᴜꜱᴇ &6/ꜱᴛᴏʀᴇ &f& &b/ᴅɪꜱᴄᴏʀᴅ"
+      - "playsound: ITEM_TRIDENT_RETURN;10;0.1"
+      action2:
+      - "to_all: message: &f%img_join_icon% &r%player_name% &7is now online"
+      - "teleport: Spawn;35.5;121;-60.5;110;1"
+      - "player_command: cm play 1"
+      - "wait: 10"
+      - "message:                  &f%img_title_big%"
+      - "centered_message: "
+      - "centered_message: "
+      - "centered_message: &fʜᴇʏ &b%player_name%&f, ᴡᴇʟᴄᴏᴍᴇ!"
+      - "centered_message: &fꜱᴛᴀʀᴛ ᴡɪᴛʜ /ᴡᴏʀʟᴅꜱ"
+      - "centered_message: "
+      - "centered_message: &f&lᴠɪꜱɪᴛ ᴏᴜʀ ꜱᴛᴏʀᴇ & ᴅɪꜱᴄᴏʀᴅ"
+      - "centered_message: &fᴜꜱᴇ &6/ꜱᴛᴏʀᴇ &f& &b/ᴅɪꜱᴄᴏʀᴅ"
+      - "playsound: ITEM_TRIDENT_RETURN;10;0.1"
+      
+  leave_message:
+    type: player_leave
+    actions:
+      default:
+      - "to_all: message: &f%img_leave_icon% &r%player_name% &7is now offline" 

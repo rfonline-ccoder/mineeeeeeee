@@ -1,0 +1,7 @@
+name: BusterIsValid
+categories:
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;14/04/2025
+    - survival;29/04/2025

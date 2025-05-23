@@ -1,0 +1,13 @@
+name: MikronYT
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - auctionhouse;08/03/2025
+    - shop;08/03/2025
+    - ranks;08/03/2025
+    - guide;08/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;08/03/2025

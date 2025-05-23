@@ -1,0 +1,76 @@
+#    _____        __ _       _ _                                                                            _
+#   |_   _|      / _(_)     (_) |         /\                                                               | |
+#     | |  _ __ | |_ _ _ __  _| |_ ___   /  \   _ __  _ __   ___  _   _ _ __   ___ ___ _ __ ___   ___ _ __ | |_ ___
+#     | | | '_ \|  _| | '_ \| | __/ _ \ / /\ \ | '_ \| '_ \ / _ \| | | | '_ \ / __/ _ \ '_ ` _ \ / _ \ '_ \| __/ __|
+#    _| |_| | | | | | | | | | | ||  __// ____ \| | | | | | | (_) | |_| | | | | (_|  __/ | | | | |  __/ | | | |_\__ \
+#   |_____|_| |_|_| |_|_| |_|_|\__\___/_/    \_\_| |_|_| |_|\___/ \__,_|_| |_|\___\___|_| |_| |_|\___|_| |_|\__|___/
+#
+# InfiniteAnnouncements - announcements.yml - Announcements configuration
+# Copyright 2020 Zach_FR | All Rights Reserved
+#
+#  Helpful Links:
+#   Support |   https://discord.zachfr.com
+#   Docs    |   https://docs.zachfr.com
+
+Announcements:
+  1:
+    interval: 180
+    sound: "ENTITY_EXPERIENCE_ORB_PICKUP"
+    lines:
+      - ""
+      - "<center>&#58F12B▶ &#47E718&lꜱᴇʀᴠᴇʀ ᴛɪᴘ ◀ </center>"
+      - "%img_guide%"
+      - "<center>&#EBEBEB◤ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ &#58F12Bʜᴇʟᴘ &#EBEBEBᴛᴏ ɢᴇᴛ</center>"
+      - "<center>&#EBEBEBɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴛʜᴇ ꜰᴇᴀᴛᴜʀᴇꜱ ᴏꜰ ᴛʜᴇ ꜱᴇʀᴠᴇʀ ◢</center>"
+      - ""
+      - "<center>%%help%%</center>"
+      - ""
+  2:
+    interval: 180
+    sound: "ENTITY_EXPERIENCE_ORB_PICKUP"
+    lines:
+      - ""
+      - "<center>&#f7E726▶ &#F0E017&lᴛʀᴀᴠᴇʟ ◀ </center>"
+      - "%img_guide%"
+      - "<center>&#EBEBEB◤ ᴜꜱᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ &#f7E726ᴛʏᴘᴇ /ᴡᴏʀʟᴅꜱ &#EBEBEBᴛᴏ</center>"
+      - "<center>&#EBEBEBᴛʀᴀᴠᴇʟ ᴀʀᴏᴜɴᴅ ᴏᴜʀ ᴍᴜʟᴛɪᴠᴇʀꜱᴇ ◢</center>"
+      - ""
+      - "<center>%%worlds%%</center>"
+      - ""
+  3:
+    interval: 180
+    sound: "ENTITY_EXPERIENCE_ORB_PICKUP"
+    lines:
+      - ""
+      - "<center>&#B75CE5▶ &#B24AE7&lꜱᴇʀᴠᴇʀ ꜱᴛᴏʀᴇ ◀ </center>"
+      - "%img_guide%"
+      - "<center>&#EBEBEB◤ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ &#B75CE5/ꜱᴛᴏʀᴇ &#EBEBEBᴛᴏ ᴏᴘᴇɴ</center>"
+      - "<center>&#EBEBEBᴛʜᴇ ꜱᴇʀᴠᴇʀ ꜱᴛᴏʀᴇ ᴡʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ</center>"
+      - "<center>&#EBEBEBʙᴜʏ ʀᴀɴᴋꜱ, ᴄᴏɪɴꜱ, ʙᴏᴏꜱᴛꜱ ᴀɴᴅ ᴍᴏʀᴇ ◢</center>"
+      - ""
+      - "<center>%%store%%</center>"
+      - ""
+  4:
+    interval: 180
+    sound: "ENTITY_EXPERIENCE_ORB_PICKUP"
+    lines:
+      - ""
+      - "<center>&#3EC2DF▶ &#32CAEC&lᴅɪꜱᴄᴏʀᴅ ◀ </center>"
+      - "%img_guide%"
+      - "<center>&#EBEBEB◤ ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ &#3EC2DFᴅɪꜱᴄᴏʀᴅ &#EBEBEBᴛᴏ</center>"
+      - "<center>&#EBEBEBɢᴏ ᴛᴏ ᴏᴜʀ ᴅɪꜱᴄᴏʀᴅ ꜱᴇʀᴠᴇʀ</center>"
+      - ""
+      - "<center>%%social_network%%</center>"
+      - ""
+  5:
+    interval: 180
+    sound: "ENTITY_EXPERIENCE_ORB_PICKUP"
+    lines:
+      - ""
+      - "<center>&#EC3232▶ &#EB1F1F&lQᴜᴇꜱᴛꜱ ◀ </center>"
+      - "%img_guide%"
+      - "<center>&#EBEBEB◤ ᴄᴏᴍᴘʟᴇᴛᴇ &#EC3232ᴍɪꜱꜱɪᴏɴꜱ &#EBEBEBᴀɴᴅ</center>"
+      - "<center>&#EBEBEBɢᴇᴛ ʀᴇᴡᴀʀᴅꜱ</center>"
+      - ""
+      - "<center>%%quests%%</center>"
+      - ""

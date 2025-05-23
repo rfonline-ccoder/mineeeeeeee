@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.97.64.171
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745510335621
+  login: 1745510209616
+money: '0'
+last-account-name: HerrFisch
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 8.805596171087272
+  y: 100.0
+  z: 0.19694491155471974
+  yaw: -103.54318237304688
+  pitch: 35.400081634521484
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -1109.9282882682141
+  y: 65.0
+  z: -3019.2862620456253
+  yaw: 43.60675048828125
+  pitch: 20.100046157836914

@@ -1,0 +1,9 @@
+Events:
+  spawn_particles:
+    type: repetitive
+    repetitive_time: 20
+    conditions:
+    - '%player_world% == Spawn'
+    actions:
+      default:
+      - 'particle: effect:CHERRY_LEAVES offset:7;7;7 speed:0.3 amount:40' 

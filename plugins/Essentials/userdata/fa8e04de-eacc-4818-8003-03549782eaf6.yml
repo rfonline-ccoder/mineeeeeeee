@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.1.9.36
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731652071985
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731652081359
+  login: 1731652049083
+money: '0'
+last-account-name: beberat
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -3047.078279162344
+  y: 68.0
+  z: 4859.261599963727
+  yaw: 158.916015625
+  pitch: 8.159863471984863
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -3058.3260275609086
+  y: 68.0
+  z: 4861.278045116117
+  yaw: 93.07975006103516
+  pitch: 4.749019622802734
+homes:
+  home:
+    world: 733355ae-a633-4848-98f1-34580544aec0
+    world-name: survival
+    x: -3043.2433755674897
+    y: 67.0
+    z: 4864.437470473393
+    yaw: 158.916015625
+    pitch: 8.159863471984863

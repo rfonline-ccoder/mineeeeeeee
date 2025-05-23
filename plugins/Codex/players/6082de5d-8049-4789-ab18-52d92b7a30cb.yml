@@ -1,0 +1,11 @@
+name: qauj
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - kits;21/02/2025
+    - quests;21/02/2025
+    - emotes;21/02/2025
+    - skills;21/02/2025
+    - help;21/02/2025
+    - shop;21/02/2025

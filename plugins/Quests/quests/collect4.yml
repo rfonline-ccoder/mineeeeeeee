@@ -1,0 +1,35 @@
+tasks:
+  collect:
+    type: "inventory"
+    item: ARROW
+    remove-items-when-complete: true
+    amount: 64
+
+display:
+  name: "&aCollect IV"
+  lore-normal:
+    - "&8Medium Quest"
+    - ""
+    - "&6&lQUEST"
+    - "&fCollect &a64&f arrows."
+    - ""
+    - "&6&lREWARDS"
+    - "&b$1000"
+  lore-started:
+    - ""
+    - "&eProgress"
+    - "&a{collect:progress}/64"
+  type: "ARROW"
+
+rewards:
+  - "eco give {player} 1000"
+
+options:
+  category: "collect"
+  repeatable: false
+  cooldown:
+    enabled: true
+    time: 1440
+  sort-order: 4
+  requires:
+   - "collect3"

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 220.120.147.189
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745413197653
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745413232066
+  login: 1745412531350
+money: '0'
+last-account-name: luckyson_
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.7844919859101926
+  y: 100.0
+  z: 9.709813566326533
+  yaw: 140.12545776367188
+  pitch: -1.1924095153808594
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 8.843763738401922
+  y: 101.0
+  z: -7.586703145157908
+  yaw: -153.00949096679688
+  pitch: 1.6898202896118164

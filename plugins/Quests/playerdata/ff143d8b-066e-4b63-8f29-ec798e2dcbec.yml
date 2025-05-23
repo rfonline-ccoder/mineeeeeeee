@@ -1,0 +1,100 @@
+quest-progress:
+  miner1:
+    started: false
+    started-date: 1731587287404
+    completed: true
+    completed-before: true
+    completion-date: 1731587287404
+    task-progress:
+      mining:
+        completed: false
+  miner2:
+    started: false
+    started-date: 1731690637807
+    completed: true
+    completed-before: true
+    completion-date: 1731690637807
+    task-progress:
+      mining:
+        completed: false
+  miner3:
+    started: false
+    started-date: 1731691113303
+    completed: true
+    completed-before: true
+    completion-date: 1731691113304
+    task-progress:
+      mining:
+        completed: false
+  miner5:
+    started: false
+    started-date: 1731694674058
+    completed: true
+    completed-before: true
+    completion-date: 1731694674058
+    task-progress:
+      mining:
+        completed: false
+  miner4:
+    started: false
+    started-date: 1731691397654
+    completed: true
+    completed-before: true
+    completion-date: 1731691397654
+    task-progress:
+      mining:
+        completed: false
+  miner6:
+    started: false
+    started-date: 1731695933303
+    completed: true
+    completed-before: true
+    completion-date: 1731695933303
+    task-progress:
+      mining:
+        completed: false
+  miner7:
+    started: false
+    started-date: 1732361948879
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+  milking1:
+    started: false
+    started-date: 1732362575204
+    completed: true
+    completed-before: true
+    completion-date: 1732362575204
+    task-progress:
+      milking:
+        completed: false
+  woodcutting1:
+    started: false
+    started-date: 1732362074965
+    completed: true
+    completed-before: true
+    completion-date: 1732362074965
+    task-progress:
+      mining:
+        completed: false
+  woodcutting2:
+    started: false
+    started-date: 1732362629605
+    completed: true
+    completed-before: true
+    completion-date: 1732362629605
+    task-progress:
+      mining:
+        completed: false
+  playtime1:
+    started: false
+    started-date: 1732361937179
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      playtime:
+        completed: false

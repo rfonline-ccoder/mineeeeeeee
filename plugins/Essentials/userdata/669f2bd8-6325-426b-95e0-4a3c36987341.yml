@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 191.55.191.96
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743899816353
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743899853753
+  login: 1743899803255
+money: '7.5'
+last-account-name: thelean12
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 4284.59238145843
+  y: 67.0
+  z: -4119.363190419232
+  yaw: -139.38990783691406
+  pitch: 28.950044631958008
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.4679228406645577
+  y: 99.5
+  z: 3.8392157172067973
+  yaw: 160.00747680664062
+  pitch: 8.550104141235352

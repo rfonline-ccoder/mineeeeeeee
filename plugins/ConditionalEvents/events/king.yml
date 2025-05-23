@@ -1,0 +1,59 @@
+Events:
+  king_0:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 20" 
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    - "%luckperms_has_permission_conditionalevents.npc.denim2% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.npc.interacting true"
+      - "message: "
+      - "message: %img_king%      Out of my sight little child!"
+      - "message: "
+      - "console_command: lp user %player% permission unset conditionalevents.npc.interacting"   
+  king_1:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 20" #CHANGE THIS
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    - "%luckperms_has_permission_conditionalevents.npc.denim2% == yes"  
+    - "%luckperms_has_permission_conditionalevents.npc.warrior1% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.npc.interacting true"
+      - "message: "
+      - "message: %img_king%    Hey, yes, &bDenim &ftold me about you. Anyways,"
+      - "message:                     I do not think that you are worth enough."
+      - "message:                     Talk to &bThe Warrior&f, gain his respect,"
+      - "message:                     and maybe we can work together."
+      - "message: "
+      - "message:                     &dComplete the Warrior Quest first"
+      - "message: "
+      - "message:  &7(1/1)"
+      - "console_command: lp user %player% permission unset conditionalevents.npc.interacting"            
+  king_2: #THIS DIALOGUE IS NOT DONE YET, DO NOT EDIT IT!!!
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 200" #CHANGE THIS 
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    - "%luckperms_has_permission_conditionalevents.npc.denim2% == yes" 
+    - "%luckperms_has_permission_conditionalevents.npc.warrior1% == yes"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.npc.interacting true"
+      - "message: "
+      - "message: %img_king%  Hmmm, welcome forager...they talked a lot about a"
+      - "message:                   mysterious new warrior in town. Let's see if you"
+      - "message:                   are good as everybody says..."
+      - "message: "
+      - "message:  &7(1/2)"
+      - "wait: 6"
+      - "message: "
+      - "message: %img_king%  I have a task that you must complete to prove"
+      - "message:                   that you are worth for our kingdom... You would"
+      - "message:                   have to obtain the &cPhilosopher Stone &fand bring"
+      - "message:                   it to me."
+      - "message: &7(2/2)"
+      - "message: "
+      - "console_command: lp user %player% permission unset conditionalevents.npc.interacting"      

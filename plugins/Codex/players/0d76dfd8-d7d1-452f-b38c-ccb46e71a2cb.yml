@@ -1,0 +1,17 @@
+name: vv0ta3fa9
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - skills;06/03/2025
+    - emotes;06/03/2025
+    - quests;06/03/2025
+    - kits;06/03/2025
+    - auctionhouse;06/03/2025
+    - help;06/03/2025
+    - ranks;06/03/2025
+    - shop;06/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;06/03/2025

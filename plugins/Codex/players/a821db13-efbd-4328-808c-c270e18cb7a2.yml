@@ -1,0 +1,19 @@
+name: LeonBugatti
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - help;08/04/2025
+    - shop;11/04/2025
+    - auctionhouse;11/04/2025
+    - ranks;11/04/2025
+    - jobs;11/04/2025
+    - guide;11/04/2025
+    - kits;11/04/2025
+    - quests;11/04/2025
+    - emotes;11/04/2025
+    - skills;11/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;08/04/2025

@@ -1,0 +1,20 @@
+name: z_Marques
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - guide;24/04/2025
+    - jobs;24/04/2025
+    - ranks;24/04/2025
+    - shop;24/04/2025
+    - auctionhouse;24/04/2025
+    - skills;24/04/2025
+    - emotes;24/04/2025
+    - quests;24/04/2025
+    - help;24/04/2025
+    - kits;24/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - end;24/04/2025
+    - resourceworld;24/04/2025

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.253.175.214
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743922274152
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746040189555
+  login: 1746040097207
+money: '0'
+last-account-name: ShockBladeZ
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -8.387780434673976
+  y: 100.0
+  z: -4.234419799959533
+  yaw: -27.342376708984375
+  pitch: 22.05013084411621
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 3621.7829328022035
+  y: 104.0
+  z: 2188.7514683580057
+  yaw: 43.757564544677734
+  pitch: 40.95014953613281

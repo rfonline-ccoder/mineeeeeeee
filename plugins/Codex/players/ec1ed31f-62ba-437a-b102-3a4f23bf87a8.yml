@@ -1,0 +1,22 @@
+name: SkinlessMaple
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - kits;23/04/2025
+    - help;23/04/2025
+    - ranks;23/04/2025
+    - shop;23/04/2025
+    - auctionhouse;23/04/2025
+    - emotes;23/04/2025
+    - skills;23/04/2025
+    - quests;02/05/2025
+    - jobs;02/05/2025
+    - guide;02/05/2025
+  worlds:
+    completed: true
+    discoveries:
+    - survival;23/04/2025
+    - nether;23/04/2025
+    - end;23/04/2025
+    - resourceworld;23/04/2025

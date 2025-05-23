@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.159.69.53
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735515670316
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735515971680
+  login: 1735515439255
+money: '0'
+last-account-name: iDazzah
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -2485.5761090968545
+  y: 71.0
+  z: 4251.300000011921
+  yaw: 78.85774993896484
+  pitch: -6.899907112121582
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.3785966522967193
+  y: 100.0
+  z: 17.512176964080126
+  yaw: -160.0922088623047
+  pitch: 1.3501181602478027

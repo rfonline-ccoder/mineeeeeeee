@@ -1,0 +1,92 @@
+config:
+  inventory_items:
+    category:
+      id: PAPER
+      custom_model_component_data:
+        floats: [10135.0f]
+      name: "&7Category: #6bcbfe&lOres"
+      lore:
+        - "#eeeeeeDifferent ores you've discovered will"
+        - "#eeeeeebe displayed here."
+        - ""
+        - "&7Unlocked: %unlocked% &8[%progress_bar%&8] &8(&7%percentage%&8)"
+    discovery_unlocked:
+      id: PAPER
+      custom_model_component_data:
+        floats: [10118.0f]
+      name: "%name%"
+      lore:
+        - "%description%"
+        - ""
+        - "&8Discovered on %date%"
+    discovery_blocked:
+      id: PAPER
+      custom_model_component_data:
+        floats: [10117.0f]
+      name: "&c??"
+      lore:
+        - "&7You haven't unlocked this discovery yet."
+  rewards:
+    per_discovery:
+      - "centered_message: #6bcbfe&m00                                                 00"
+      - "centered_message: "
+      - "centered_message: #eeeeee&lCODEX UPDATED"
+      - "centered_message: &7New Ore: %name%"
+      - "centered_message: "
+      - "centered_message: &7Check it now by using #eeeeee/codex"
+      - "centered_message: "
+      - "centered_message: &7Rewards: &a+50XP"
+      - "centered_message: "
+      - "centered_message: #6bcbfe&m00                                                 00"
+      - "title: 20;60;20;#eeeeee&lCODEX UPDATED;&7Ore: %name%"
+      - "playsound: BLOCK_GILDED_BLACKSTONE_STEP;10;0.1"
+      - "console_command: xp give %player% 50"
+    all_discoveries: []
+
+discoveries:
+  ruby:
+    name: "&aRuby"
+    description:
+      - "#eeeeeeThe shadow swamp is a dark place full of"
+      - "#eeeeeemagical creatures. It has been uninhabited"
+      - "#eeeeeefor several years."
+  spinel:
+    name: "&a&lSpinel Ore"
+    description:
+      - "&7You can find it at:"
+      - "&aResource World"
+  turquoise:
+    name: "&a&lTurquoise Ore"
+    description:
+      - "&7You can find it at:"
+      - "&aResource World"
+  aqua_aura:
+    name: "&a&lAqua Aura Ore"
+    description:
+      - "&7You can find it at:"
+      - "&aResource World"    
+  dark_amethyst:
+    name: "&a&lDark Amethyst Ore"
+    description:
+      - "&7You can find it at:"
+      - "&aResource World"
+  cassiterite:
+    name: "&a&lCassiterite Ore"
+    description:
+      - "&7You can find it at:"
+      - "&aResource World"
+  mysterious_ore:
+    name: "&a&lMysterious Ore"
+    description:
+      - "&7You can find it at:"
+      - "&aResource World"  
+  nether_alchemy_ore:
+    name: "&a&lNether Alchemy Ore"
+    description:
+      - "&7You can find it at:"
+      - "&cNether World"     
+  end_ore:
+    name: "&a&lEnd Ore"
+    description:
+      - "&7You can find it at:"
+      - "&5End World"

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.2.98.18
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1738097665703
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738097724853
+  login: 1738096793532
+money: '0'
+last-account-name: zSoyDreih_
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 8.166578691305451
+  y: 99.5
+  z: 0.06339267177564348
+  yaw: 37.796199798583984
+  pitch: 18.946203231811523
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -2335.699999988079
+  y: 78.0
+  z: -3787.193092641593
+  yaw: 111.50592803955078
+  pitch: 29.12656593322754

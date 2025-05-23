@@ -1,0 +1,13 @@
+name: Hurming
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - emotes;23/04/2025
+    - quests;23/04/2025
+    - kits;23/04/2025
+    - help;23/04/2025
+    - jobs;23/04/2025
+    - ranks;23/04/2025
+    - shop;23/04/2025
+    - auctionhouse;23/04/2025

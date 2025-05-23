@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 87.145.212.93
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744998777740
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744998992364
+  login: 1744998577614
+money: '0'
+last-account-name: Crossnite
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -9.827041533479528
+  y: 100.0
+  z: -0.699999988079071
+  yaw: 41.05754470825195
+  pitch: 14.250044822692871
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -1164.300000011921
+  y: 62.0
+  z: 2923.3297528712997
+  yaw: 126.84814453125
+  pitch: 15.450216293334961

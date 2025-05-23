@@ -1,0 +1,12 @@
+name: BanishedPixel132
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - shop;24/02/2025
+    - skills;24/02/2025
+    - quests;24/02/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;24/02/2025

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.122.189.77
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736760861371
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736761384989
+  login: 1736760758672
+money: '0'
+last-account-name: QuixUI
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 4543.452298737182
+  y: 14.0
+  z: -2610.300000011921
+  yaw: 57.80316162109375
+  pitch: 40.860496520996094
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -3.700627127570304
+  y: 99.5
+  z: 1.9282206546120273
+  yaw: -148.02931213378906
+  pitch: 6.972532749176025
+past-usernames:
+- VexQL

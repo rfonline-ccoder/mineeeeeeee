@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.222.215.231
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734640946652
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737572537228
+  login: 1737571671712
+money: '0'
+last-account-name: Kleynet
+lastlocation:
+  world: dd86ccf0-9e9a-455b-9b9a-bc532fb9d426
+  world-name: parkour
+  x: 11.30068426566021
+  y: 140.0
+  z: 4.996280402865448
+  yaw: -107.0985107421875
+  pitch: 4.349997043609619
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 2.473344971615616
+  y: 99.5
+  z: 7.19414394707506
+  yaw: -42.48951721191406
+  pitch: 5.549951076507568

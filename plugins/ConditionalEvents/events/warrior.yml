@@ -1,0 +1,51 @@
+Events:
+  warrior_0:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 26"
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    - "%quests_category:damage_completed% < 10"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.npc.interacting true"
+      - "message: "
+      - "message: %img_warrior%     Ahhh, nobody came here for a long"
+      - "message:                     time... What do you want from me?"
+      - "message: &7(1/2)"
+      - "message: "
+      - "wait: 7"
+      - "message: "
+      - "message: %img_warrior%     Hmm maybe, I have a mission"
+      - "message:                     for you. But first you need to"
+      - "message:                     prove that you are worth for it."
+      - "message: "
+      - "message:                     &dDeal Damage Completed Quests: &5%quests_category:damage_completed%&d/&5%quests_category:damage_all%"
+      - "message: &7(2/2)"
+      - "message: "
+      - "console_command: lp user %player% permission unset conditionalevents.npc.interacting"  
+  warrior_1:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 26"
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    - "%quests_category:damage_completed% == 10"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.npc.interacting true"
+      - "message: "
+      - "message: %img_warrior%     Well, you seem like a worth warrior..."
+      - "message: "
+      - "message: &7(1/2)"
+      - "message: "
+      - "wait: 7"
+      - "message: "
+      - "message: %img_warrior%     I see that you have no problem to fight for"
+      - "message:                     your objectives. Well, in that case take"
+      - "message:                     this, it might be helpful at your adventure."
+      - "message: "
+      - "message:                     &a(+) 1 Netherite Sword"
+      - "message: &7(2/2)"
+      - "message: "
+      - "console_command: give %player% netherite_sword 1"
+      - "console_command: lp user %player% permission set conditionalevents.npc.warrior1 true"
+      - "console_command: lp user %player% permission unset conditionalevents.npc.interacting" 

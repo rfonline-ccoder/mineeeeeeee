@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.214.167.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737655112706
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737655433733
+  login: 1737655067956
+money: '0'
+last-account-name: Jausxyz
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 4748.64664025069
+  y: 75.0
+  z: 2623.8915977871293
+  yaw: 32.73582458496094
+  pitch: 10.499966621398926
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 4.609424830122669
+  y: 99.5
+  z: 0.4854454183058606
+  yaw: -59.14222717285156
+  pitch: 6.900110244750977

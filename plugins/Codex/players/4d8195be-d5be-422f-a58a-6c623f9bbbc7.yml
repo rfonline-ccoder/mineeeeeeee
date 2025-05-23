@@ -1,0 +1,11 @@
+name: luaqenn
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - guide;14/04/2025
+    - jobs;14/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;14/04/2025

@@ -1,0 +1,10 @@
+quest-progress:
+  collect1:
+    started: true
+    started-date: 1740860198003
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      collect:
+        completed: false

@@ -1,0 +1,68 @@
+menu_title: 'Rank - :member:'
+open_command:
+size: 45
+items:
+  '1':
+    material: GOLD_INGOT
+    slot: 10
+    display_name: "&b&lMoney"
+    lore:
+    - "&7► %vault_eco_balance_fixed%$/100$"
+    nbt_int: CustomModelData:10000
+  '2':
+    material: EXPERIENCE_BOTTLE
+    slot: 12
+    display_name: "&b&lJobs level"
+    lore:
+    - "&7► %jobsr_user_totallevels%/5 levels"
+    nbt_int: CustomModelData:10001
+  '3':
+    material: EXPERIENCE_BOTTLE
+    slot: 13
+    display_name: "&b&lPlayer level"
+    lore:
+    - "&7► %player_level%/10 levels"
+    nbt_int: CustomModelData:10002
+  '4':
+    material: OAK_LOG
+    slot: 14
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:OAK_LOG%/64 Oak logs"
+    amount: 64
+  '5':
+    material: COAL
+    slot: 15
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:COAL%/64 Coals"
+    amount: 64
+  '6':
+    material: WHEAT
+    slot: 16
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:WHEAT%/64 Wheats"
+    amount: 64
+  '7':
+    material: COD
+    slot: 22
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:COD%/16 Cods"
+    amount: 16
+  '8':
+    material: ROTTEN_FLESH
+    slot: 11
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:ROTTEN_FLESH%/16 Rotten fleshes"
+    amount: 16
+  
+#Format
+  'back':
+      material: itemsadder-mcicons:icon_refresh
+      slot: 40
+      display_name: "&cReturn"
+      left_click_commands:
+      - '[openguimenu] ranks'

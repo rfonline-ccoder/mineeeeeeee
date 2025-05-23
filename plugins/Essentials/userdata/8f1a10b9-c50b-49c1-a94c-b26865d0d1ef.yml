@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.99.35.16
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733136297333
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733137431681
+  login: 1733135918174
+money: '0'
+last-account-name: Bypa2S
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 11.074184223996994
+  y: 104.0
+  z: 28.34780192379214
+  yaw: 148.1612548828125
+  pitch: 21.299922943115234
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 3736.508160350597
+  y: 65.0
+  z: -760.8449880462133
+  yaw: -134.2886962890625
+  pitch: 15.693770408630371
+homes:
+  home:
+    world: 5be272ee-638c-4e58-818c-62efb83411a5
+    world-name: resourceworld
+    x: 4347.044898730946
+    y: 19.0
+    z: 1774.0134110044216
+    yaw: -152.61721801757812
+    pitch: -1.8378981351852417

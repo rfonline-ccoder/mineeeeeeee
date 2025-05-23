@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.39.157.120
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1742141656073
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744737009900
+  login: 1744736954179
+money: '33.4400000000000005'
+last-account-name: _Jibz
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 4387.636255421899
+  y: 68.0
+  z: 173.28868130907762
+  yaw: -8.740612983703613
+  pitch: 5.400073051452637
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 10.496874641425304
+  y: 100.0
+  z: 12.704003012056312
+  yaw: -33.9420280456543
+  pitch: 10.350110054016113

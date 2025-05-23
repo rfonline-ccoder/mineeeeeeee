@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 211.210.244.108
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731259062037
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731259901018
+  login: 1731252658943
+money: '0.130000000000000'
+last-account-name: EVANS0813
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.3111961455497592
+  y: 99.5
+  z: 4.6973656269690345
+  yaw: 149.39132690429688
+  pitch: 42.221275329589844
+homes:
+  home:
+    world: 5be272ee-638c-4e58-818c-62efb83411a5
+    world-name: resourceworld
+    x: -2611.6442301694756
+    y: 123.0
+    z: -4637.167305128091
+    yaw: -3.2933349609375
+    pitch: 53.54176330566406
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 70.30000001192093
+  y: 62.0
+  z: -2628.925000011921
+  yaw: -14.106947898864746
+  pitch: 27.261327743530273

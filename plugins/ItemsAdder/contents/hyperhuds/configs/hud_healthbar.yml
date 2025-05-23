@@ -1,0 +1,42 @@
+info:
+  namespace: hyperhuds
+huds:
+  hp_hud:
+    enabled: true
+    show:
+      auto: true
+      creative: false
+    type: FRAMES
+    x_position_pixels: -190
+    value:
+      player_stat_name: hp
+      start: 20
+      min: 0
+      max: 20
+      triggers:
+        increment:
+          player_respawn:
+            amount: 20     
+    images:
+      frames:
+      - hyperhuds:hp_hud_0
+      - hyperhuds:hp_hud_1
+      - hyperhuds:hp_hud_2
+      - hyperhuds:hp_hud_3
+      - hyperhuds:hp_hud_4
+      - hyperhuds:hp_hud_5
+      - hyperhuds:hp_hud_6
+      - hyperhuds:hp_hud_7
+      - hyperhuds:hp_hud_8
+      - hyperhuds:hp_hud_9
+      - hyperhuds:hp_hud_10
+      - hyperhuds:hp_hud_11
+      - hyperhuds:hp_hud_12
+      - hyperhuds:hp_hud_13      
+      - hyperhuds:hp_hud_14
+      - hyperhuds:hp_hud_15
+      - hyperhuds:hp_hud_16
+      - hyperhuds:hp_hud_17
+      - hyperhuds:hp_hud_18
+      - hyperhuds:hp_hud_19
+      - hyperhuds:hp_hud_20            

@@ -1,0 +1,12 @@
+location: Spawn:-74.518:119.500:-7.481
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&#549bd6&lGUARD &f%img_talk_icon%'
+    height: 0.3
+  actions: {}

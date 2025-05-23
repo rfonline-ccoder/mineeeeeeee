@@ -1,0 +1,16 @@
+name: Elmejorgamerokno
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - ranks;24/02/2025
+    - shop;24/02/2025
+    - auctionhouse;24/02/2025
+    - guide;24/02/2025
+    - kits;24/02/2025
+    - skills;24/02/2025
+    - emotes;24/02/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;24/02/2025

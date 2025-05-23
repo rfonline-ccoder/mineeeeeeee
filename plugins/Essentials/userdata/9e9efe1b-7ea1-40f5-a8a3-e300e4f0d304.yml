@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 58.182.59.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1746060055765
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746060714054
+  login: 1746059934658
+money: '0'
+last-account-name: GodlyDinosaur20
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 3571.002603966025
+  y: 63.0
+  z: -2136.588631274362
+  yaw: 80.33673095703125
+  pitch: 12.831574440002441
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.9610281060479249
+  y: 100.0
+  z: -0.8175970366195519
+  yaw: 120.25778198242188
+  pitch: 7.8001179695129395

@@ -1,0 +1,18 @@
+location: Spawn:-9.520:104.000:-8.483
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&#00f7ba&lCLASSES &f%img_npc_tag%'
+    height: 0.3
+  - content: '&#EBEBEBꜱᴇʟᴇᴄᴛ ʏᴏᴜʀ ᴄʟᴀꜱꜱ'
+    height: 0.3
+  - content: '&f%img_rclick_icon% ᴛᴏ ᴏᴘᴇɴ'
+    height: 0.3
+  - content: ''
+    height: 0.3
+  actions: {}

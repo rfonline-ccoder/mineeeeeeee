@@ -1,0 +1,14 @@
+Events:
+  hp_bar:
+    type: repetitive
+    repetitive_time: 10
+    actions:
+      default:
+      - "console_command: iaplayerstat write %player% hp %player_health_rounded%"
+  feed_cmd:
+    type: player_command
+    conditions:
+    - '%command% equals /feed and %luckperms_has_permission_essentials.feed% == yes'    
+    actions:
+      default:
+      - 'console_command: iaplayerstat write %player% fp int 20'  

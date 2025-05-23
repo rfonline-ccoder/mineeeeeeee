@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.110.86.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745777901992
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745778020960
+  login: 1745777786408
+money: '0'
+last-account-name: Tieskuhh_
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 5.705532921881859
+  y: 99.5
+  z: 0.7086644584508897
+  yaw: -37.18560791015625
+  pitch: -2.3246538639068604
+logoutlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: -290.7106313616728
+  y: 66.0
+  z: -90.04918324745996
+  yaw: -116.86406707763672
+  pitch: 11.143747329711914

@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.98.184.75
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1746135207344
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746135689366
+  login: 1746134624107
+money: '2.31'
+last-account-name: ocsi1
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 2906.243151806593
+  y: 66.0
+  z: -17.255510591868052
+  yaw: -58.541168212890625
+  pitch: 13.799989700317383
+homes:
+  home:
+    world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+    world-name: survival
+    x: -2784.2381047393956
+    y: 103.0
+    z: 4287.401842343919
+    yaw: -101.892578125
+    pitch: 24.90005874633789
+  ocsi:
+    world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+    world-name: survival
+    x: -2781.808992766176
+    y: 104.0
+    z: 4286.665501154157
+    yaw: 113.50735473632812
+    pitch: 33.15007019042969
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -7.566695956591743
+  y: 100.0
+  z: -7.407352817610468
+  yaw: 118.00877380371094
+  pitch: -2.399989604949951

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 84.64.233.230
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737025041530
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737122243828
+  login: 1737122209838
+money: '0'
+last-account-name: fzm
+lastlocation:
+  world: 876b0e4d-60b2-410c-ad36-47acf21c0c26
+  world-name: world
+  x: 19.44631509162531
+  y: 63.0
+  z: -3.636963486662696
+  yaw: -6.788482666015625
+  pitch: 3.756377696990967
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -0.3882631403465603
+  y: 100.0
+  z: 1.508868738431456
+  yaw: -139.84698486328125
+  pitch: 13.438920021057129

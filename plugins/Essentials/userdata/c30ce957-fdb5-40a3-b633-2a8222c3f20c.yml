@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.201.192.49
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739735307450
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739736247382
+  login: 1739735025168
+money: '0'
+last-account-name: Nordenlights
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 36.27747284041028
+  y: 85.0
+  z: -23.671094252063646
+  yaw: -89.90847778320312
+  pitch: 47.14474868774414
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 9.137499988079071
+  y: 100.0
+  z: 1.2506550625065678
+  yaw: 36.258880615234375
+  pitch: -55.34995651245117

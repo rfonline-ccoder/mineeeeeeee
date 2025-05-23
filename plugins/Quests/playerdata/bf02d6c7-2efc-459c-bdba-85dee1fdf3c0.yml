@@ -1,0 +1,10 @@
+quest-progress:
+  expearn1:
+    started: true
+    started-date: 1739916622542
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      expearn:
+        completed: false

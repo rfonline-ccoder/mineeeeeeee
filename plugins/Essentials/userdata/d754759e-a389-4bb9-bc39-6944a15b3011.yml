@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.199.98.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743249641201
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743251224349
+  login: 1743249486255
+money: '0'
+last-account-name: ShotikCZ
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -4657.424358962607
+  y: 69.0
+  z: 4149.749075781737
+  yaw: -165.3416748046875
+  pitch: 16.650131225585938
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -54.39018047830325
+  y: 110.0
+  z: 24.65639765555369
+  yaw: 24.858043670654297
+  pitch: -7.0499043464660645

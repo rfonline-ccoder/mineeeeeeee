@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.202.191.45
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734124230287
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734124271171
+  login: 1734123875797
+money: '0'
+last-account-name: seraissues
+lastlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: -2766.6130935378396
+  y: 57.0
+  z: -3525.875342000452
+  yaw: -25.858154296875
+  pitch: 12.588095664978027
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -0.488147568371656
+  y: 100.0
+  z: -10.2388547190322
+  yaw: -122.4073257446289
+  pitch: -4.771482467651367

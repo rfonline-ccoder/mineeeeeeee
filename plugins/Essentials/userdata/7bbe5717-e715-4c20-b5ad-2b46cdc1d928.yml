@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.95.175.47
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745483489913
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745483600268
+  login: 1745483315004
+money: '0'
+last-account-name: flemshve
+lastlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: -969.0530566084601
+  y: 61.0
+  z: 1442.712597541965
+  yaw: 75.8707275390625
+  pitch: 17.82651710510254
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -17.25068631726475
+  y: 106.24918707874468
+  z: -29.30112110077674
+  yaw: -3.6397547721862793
+  pitch: 2.4001107215881348

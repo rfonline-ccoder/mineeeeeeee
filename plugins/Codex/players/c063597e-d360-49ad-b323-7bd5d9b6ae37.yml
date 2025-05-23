@@ -1,0 +1,19 @@
+name: yakurastype
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - help;12/04/2025
+    - kits;12/04/2025
+    - quests;12/04/2025
+    - emotes;12/04/2025
+    - skills;12/04/2025
+    - auctionhouse;12/04/2025
+    - shop;12/04/2025
+    - ranks;12/04/2025
+    - jobs;12/04/2025
+    - guide;12/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;12/04/2025

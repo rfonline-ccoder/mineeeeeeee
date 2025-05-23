@@ -1,0 +1,15 @@
+name: Driveen
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - help;27/03/2025
+    - guide;27/03/2025
+    - jobs;27/03/2025
+    - ranks;27/03/2025
+    - auctionhouse;27/03/2025
+    - emotes;27/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;27/03/2025

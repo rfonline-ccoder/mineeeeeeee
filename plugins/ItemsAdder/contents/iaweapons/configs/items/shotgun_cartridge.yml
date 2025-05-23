@@ -1,0 +1,12 @@
+info:
+  namespace: iaweapons
+items:
+  shotgun_cartridge:
+    enabled: true
+    display_name: Shotgun Cartridge
+    permission: iaweapons.items.shotgun_cartridge
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - shotgun_cartridge

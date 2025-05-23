@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 74.119.146.90
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743344350248
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743344403694
+  login: 1743343914874
+money: '0'
+last-account-name: 999NYX
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -21.845354258812563
+  y: 101.0
+  z: 15.56466868125506
+  yaw: 89.81266784667969
+  pitch: 5.850193500518799
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.7557545082807042
+  y: 101.0
+  z: 19.76249998807907
+  yaw: -52.86011505126953
+  pitch: 7.049985408782959

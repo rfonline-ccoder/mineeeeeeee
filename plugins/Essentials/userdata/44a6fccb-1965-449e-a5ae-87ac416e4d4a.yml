@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.38.128.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735786769063
+  login: 1735786328961
+money: '0'
+last-account-name: Kanjevac
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 6.7844803232424225
+  y: 99.5
+  z: 0.4793965586701546
+  yaw: 92.65776824951172
+  pitch: -3.599891185760498
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 2206.556538310111
+  y: 84.0
+  z: -2495.658749844029
+  yaw: 104.8056640625
+  pitch: 19.80050277709961

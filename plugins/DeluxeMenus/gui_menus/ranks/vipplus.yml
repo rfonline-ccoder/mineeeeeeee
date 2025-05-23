@@ -1,0 +1,130 @@
+menu_title: 'Rank - :vipplus:'
+open_command:
+size: 45
+items:
+  '1':
+    material: GOLD_INGOT
+    slot: 10
+    display_name: "&b&lMoney"
+    lore:
+    - "&7► %vault_eco_balance_fixed%/50.000$"
+    nbt_int: CustomModelData:10000
+  '2':
+    material: EXPERIENCE_BOTTLE
+    slot: 12
+    display_name: "&b&lJobs level"
+    lore:
+    - "&7► %jobsr_user_totallevels%/60 Jobs levels"
+    nbt_int: CustomModelData:10001
+  '3':
+    material: EXPERIENCE_BOTTLE
+    slot: 13
+    display_name: "&b&lPlayer level"
+    lore:
+    - "&7► %player_level%/60 Player levels"
+    nbt_int: CustomModelData:10002
+  '6':
+    material: DARK_OAK_LOG
+    slot: 15
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:DARK_OAK_LOG%/320 Dark oak logs"
+    amount: 64
+  '7':
+    material: DARK_OAK_LEAVES
+    slot: 16
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:DARK_OAK_LEAVES%/320 Dark oak leaves"
+    amount: 64
+  '8':
+    material: COAL_BLOCK
+    slot: 19
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:COAL_BLOCK%/128 Coal blocks"
+    amount: 64
+  '9':
+    material: IRON_BLOCK
+    slot: 20
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:IRON_BLOCK%/64 Iron blocks"
+    amount: 64
+  '10':
+    material: GOLD_BLOCK
+    slot: 21
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:GOLD_BLOCK%/64 Gold blocks"
+    amount: 64
+  '11':
+    material: REDSTONE_BLOCK
+    slot: 23
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:REDSTONE_BLOCK%/16 Redstone blocks"
+    amount: 16
+  '12':
+    material: LAPIS_BLOCK
+    slot: 22
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:LAPIS_BLOCK%/32 Lapis blocks"
+    amount: 64
+  '13':
+    material: GILDED_BLACKSTONE
+    slot: 24
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:GILDED_BLACKSTONE%/32 Gilded blackstones"
+    amount: 32
+  '17':
+    material: PUFFERFISH
+    slot: 29
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:PUFFERFISH%/64 Pufferfishes"
+    amount: 64
+  '18':
+    material: TROPICAL_FISH
+    slot: 30
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:TROPICAL_FISH%/32 Tropical fishes"
+    amount: 32
+  '19':
+    material: ENDER_PEARL
+    slot: 14
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:ENDER_PEARL%/64 Ender pearls"
+    amount: 64 
+  '20':
+    material: WEATHERED_COPPER
+    slot: 25
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:WEATHERED_COPPER%/64 Weathered coppers"
+    amount: 64   
+  '21':
+    material: GLOW_BERRIES
+    slot: 28
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:GLOW_BERRIES%/128 Glow berries"
+    amount: 64    
+  '22':
+    material: AMETHYST_SHARD
+    slot: 11
+    display_name: "&b&lItem"
+    lore:
+    - "&7► %checkitem_amount_mat:AMETHYST_SHARD%/128 Amethyst shards"
+    amount: 64    
+#Format
+  'back':
+      material: itemsadder-mcicons:icon_refresh
+      slot: 40
+      display_name: "&cReturn"
+      left_click_commands:
+      - '[openguimenu] ranks'

@@ -1,0 +1,15 @@
+name: HaLoGeK
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - jobs;26/03/2025
+    - ranks;26/03/2025
+    - shop;26/03/2025
+    - skills;26/03/2025
+    - emotes;26/03/2025
+    - quests;26/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;26/03/2025

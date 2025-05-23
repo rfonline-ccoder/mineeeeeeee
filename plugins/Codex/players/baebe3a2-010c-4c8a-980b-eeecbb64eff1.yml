@@ -1,0 +1,19 @@
+name: TheCrasySubs
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - help;14/03/2025
+    - guide;14/03/2025
+    - jobs;14/03/2025
+    - ranks;14/03/2025
+    - shop;14/03/2025
+    - auctionhouse;14/03/2025
+    - skills;14/03/2025
+    - emotes;14/03/2025
+    - quests;14/03/2025
+    - kits;14/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;14/03/2025

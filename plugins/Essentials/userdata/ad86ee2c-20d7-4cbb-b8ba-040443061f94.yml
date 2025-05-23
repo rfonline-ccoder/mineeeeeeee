@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.137.62.211
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730067099901
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730067602378
+  login: 1730066040161
+money: '0'
+last-account-name: FOFASTA
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 6.956591441326327
+  y: 99.5
+  z: -0.8877968624362776
+  yaw: 69.6494140625
+  pitch: 9.855358123779297
+logoutlocation:
+  world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+  world-name: survival
+  x: -1145.8570422104608
+  y: 74.0
+  z: 3934.8413889579047
+  yaw: 159.3955078125
+  pitch: 26.228912353515625

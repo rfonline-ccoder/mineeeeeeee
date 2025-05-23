@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.101.34.220
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735929325505
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735930279858
+  login: 1735930128989
+money: '0'
+last-account-name: Shyllinn
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 133.30000001192093
+  y: 67.0
+  z: 983.7494089837253
+  yaw: 80.08342742919922
+  pitch: 0.594287633895874
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -14.818249670856249
+  y: 100.0
+  z: 18.0119428845026
+  yaw: -97.08448791503906
+  pitch: -4.012951374053955

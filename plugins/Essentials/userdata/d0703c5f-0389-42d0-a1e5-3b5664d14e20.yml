@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.194.91.49
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1738097539893
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738097717917
+  login: 1738097014949
+money: '0'
+last-account-name: xEsneyderx
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -2616.02898103887
+  y: 82.0
+  z: 999.3501246882529
+  yaw: -10.846651077270508
+  pitch: -9.001161575317383
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 2238.499350159494
+  y: 73.0
+  z: -3450.953506900894
+  yaw: 92.77338409423828
+  pitch: 17.4924373626709

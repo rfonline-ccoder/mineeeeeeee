@@ -1,0 +1,19 @@
+quest-progress:
+  milking1:
+    started: true
+    started-date: 1728268768199
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      milking:
+        completed: false
+  woodcutting1:
+    started: true
+    started-date: 1728270237268
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false

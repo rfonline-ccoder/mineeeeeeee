@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 68.230.100.23
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730351095595
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745809611704
+  login: 1745809552501
+money: '0'
+last-account-name: lilujibeoteu
+lastlocation:
+  world: 0cc3f169-8b79-4ee7-b551-63565fb90a0e
+  world-name: world
+  x: 24.495096130772772
+  y: 91.0
+  z: -23.52882885160071
+  yaw: 0.4499977231025696
+  pitch: -1.6500009298324585
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.4111802233977313
+  y: 100.0
+  z: 17.365332187812058
+  yaw: -33.795135498046875
+  pitch: 1.1619925498962402E-4

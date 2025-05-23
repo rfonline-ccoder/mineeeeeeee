@@ -1,0 +1,10 @@
+name: fzm
+kits:
+  starter:
+    cooldown: 1735844068008
+    one_time: false
+    bought: false
+  galactic:
+    cooldown: 1737237713749
+    one_time: false
+    bought: false

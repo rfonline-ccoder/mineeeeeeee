@@ -1,0 +1,16 @@
+name: Frankeitor
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - shop;22/02/2025
+    - guide;22/02/2025
+    - help;22/02/2025
+    - kits;22/02/2025
+    - skills;28/04/2025
+    - quests;28/04/2025
+    - jobs;28/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;22/02/2025

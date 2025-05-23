@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.188.162.10
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745219661509
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745219723931
+  login: 1745219380683
+money: '0'
+last-account-name: PlantsvsCZE
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -2092.5698000290818
+  y: 85.0
+  z: 1874.9856936319445
+  yaw: -99.46337890625
+  pitch: 11.999947547912598
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -3991.7985695564116
+  y: 82.0
+  z: 3191.1349186415873
+  yaw: -77.86341094970703
+  pitch: 11.849955558776855

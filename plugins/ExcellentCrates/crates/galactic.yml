@@ -1,0 +1,526 @@
+Name: Galactic Crate
+Description: []
+ItemProvider:
+  Type: VANILLA
+  ItemTag: '{components:{"minecraft:custom_name":''{"extra":[{"color":"white","italic":false,"text":"Galactic Crate"}],"text":""}'',"minecraft:hide_additional_tooltip":{},"minecraft:profile":{id:[I;-850160402,1534147744,-2009838519,1945945916],name:"1ff041976a09dd05",properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWZmMDQxOTc2YTA5ZGQwNTNlM2QxZDRlNjExYWFjMDk1OTRkNzRmYzcxYTBlYzRkYTAxMTA0MTZkMzE3ZGJhOCJ9fX0="}]}},count:1,id:"minecraft:player_head"}'
+Permission_Required: false
+Preview:
+  Enabled: true
+  Id: default
+Animation:
+  Enabled: true
+  Id: csgo
+Opening:
+  Cooldown: 0
+Key:
+  Required: true
+  Ids:
+  - galactic
+Block:
+  Positions:
+  - 0,101,20,Spawn
+  Pushback:
+    Enabled: true
+  Hologram:
+    Enabled: true
+    Template: galactic
+    Y_Offset: 0.0
+  Effect:
+    Model: helix
+    Particle:
+      Name: CHERRY_LEAVES
+Milestones:
+  Repeatable: false
+_dataver: 600
+Rewards:
+  List:
+    netherite_pickaxe:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"amethyst_netherite_pickaxe",namespace:"bettermobs"}},"minecraft:custom_model_data":{floats:[10000.0f]},"minecraft:custom_name":''{"bold":true,"color":"light_purple","italic":false,"text":"Netherite Pickaxe"}'',"minecraft:lore":[''{"color":"dark_purple","italic":true,"text":"Infused with Amethyst"}''],"minecraft:max_damage":1000},count:1,id:"minecraft:netherite_pickaxe"}'
+    deadmau5_hat:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"deadmau5_hat",namespace:"iawearables"}},"minecraft:custom_model_data":{floats:[10007.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Deadmau5 Hat"}''},count:1,id:"minecraft:feather"}'
+    netherite_sword:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"amethyst_netherite_sword",namespace:"bettermobs"}},"minecraft:custom_model_data":{floats:[10000.0f]},"minecraft:custom_name":''{"bold":true,"color":"light_purple","italic":false,"text":"Netherite Sword"}'',"minecraft:lore":[''{"color":"dark_purple","italic":true,"text":"Infused with Amethyst"}''],"minecraft:max_damage":1500},count:1,id:"minecraft:netherite_sword"}'
+    mysterious_sword:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:12.5d,id:"minecraft:a4ad8fac-f2b8-3269-bba4-a641fa73338b",operation:"add_value",slot:"mainhand",type:"minecraft:attack_damage"},{amount:-3.0d,id:"minecraft:8e4085fc-36bb-3344-a6b5-30f5a0f01615",operation:"add_value",slot:"mainhand",type:"minecraft:attack_speed"}],show_in_tooltip:0b},"minecraft:custom_data":{itemsadder:{id:"mysterious_sword",namespace:"iaalchemy"}},"minecraft:custom_model_data":{floats:[10015.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Mysterious
+            Sword"}'',"minecraft:lore":[''{"color":"dark_red","italic":false,"text":"Blocked Enchants:"}'',''{"color":"gray","italic":false,"text":"All"}'',''""'',''{"color":"gray","italic":false,"translate":"item.modifiers.mainhand"}'',''{"color":"dark_green","extra":[{"translate":"attribute.name.attack_damage"}],"italic":false,"text":" 13.5 "}'',''{"color":"dark_green","extra":[{"translate":"attribute.name.attack_speed"}],"italic":false,"text":" 1 "}''],"minecraft:max_damage":1945},count:1,id:"minecraft:diamond_sword"}'
+    netherite_boots:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:4.0d,id:"minecraft:250c2ed4-3a20-3890-8ba5-054226cafce5",operation:"add_value",slot:"feet",type:"minecraft:max_health"},{amount:4.0d,id:"minecraft:8c572fd6-05a9-3d55-b84f-f9459450be0a",operation:"add_value",slot:"feet",type:"minecraft:armor"},{amount:4.0d,id:"minecraft:4640660e-47cd-35cb-991c-f3bb1e4a12ae",operation:"add_value",slot:"feet",type:"minecraft:armor_toughness"}]},"minecraft:custom_data":{itemsadder:{id:"amethyst_netherite_boots",namespace:"bettermobs"}},"minecraft:custom_model_data":{floats:[10002.0f]},"minecraft:custom_name":''{"bold":true,"color":"light_purple","italic":false,"text":"Netherite
+            Boots"}'',"minecraft:dyed_color":{rgb:1,show_in_tooltip:0b},"minecraft:lore":[''{"color":"dark_purple","italic":true,"text":"Infused with Amethyst"}''],"minecraft:max_damage":250},count:1,id:"minecraft:leather_boots"}'
+    biker_helmet:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"biker_helmet",namespace:"iawearables"}},"minecraft:custom_model_data":{floats:[10017.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Biker Helmet"}''},count:1,id:"minecraft:feather"}'
+    netherite_axe:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"amethyst_netherite_axe",namespace:"bettermobs"}},"minecraft:custom_model_data":{floats:[10000.0f]},"minecraft:custom_name":''{"bold":true,"color":"light_purple","italic":false,"text":"Netherite Axe"}'',"minecraft:lore":[''{"color":"dark_purple","italic":true,"text":"Infused with Amethyst"}''],"minecraft:max_damage":1500},count:1,id:"minecraft:netherite_axe"}'
+    cat_ears:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"cat_ears",namespace:"iawearables"}},"minecraft:custom_model_data":{floats:[10018.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Cat Ears"}''},count:1,id:"minecraft:feather"}'
+    diamond_hammer:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"diamond_hammer",namespace:"iasurvival"}},"minecraft:custom_model_data":{floats:[10006.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Diamond Hammer"}'',"minecraft:lore":[''{"color":"dark_red","italic":false,"text":"Blocked Enchants:"}'',''{"color":"gray","italic":false,"text":"Mending"}'']},count:1,id:"minecraft:diamond_pickaxe"}'
+    netherite_leggings:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:4.0d,id:"minecraft:ebbc0670-bb4e-39a5-801d-2140149a0c44",operation:"add_value",slot:"legs",type:"minecraft:max_health"},{amount:7.0d,id:"minecraft:0f648081-3952-378c-8b22-40f08fbe1be3",operation:"add_value",slot:"legs",type:"minecraft:armor"},{amount:7.0d,id:"minecraft:d935f1e7-2487-37a7-9fe0-821892dd7d01",operation:"add_value",slot:"legs",type:"minecraft:armor_toughness"}]},"minecraft:custom_data":{itemsadder:{id:"amethyst_netherite_leggings",namespace:"bettermobs"}},"minecraft:custom_model_data":{floats:[10002.0f]},"minecraft:custom_name":''{"bold":true,"color":"light_purple","italic":false,"text":"Netherite
+            Leggings"}'',"minecraft:dyed_color":{rgb:1,show_in_tooltip:0b},"minecraft:lore":[''{"color":"dark_purple","italic":true,"text":"Infused with Amethyst"}''],"minecraft:max_damage":350},count:1,id:"minecraft:leather_leggings"}'
+    ufo:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"ufo",namespace:"iavehicles"}},"minecraft:custom_model_data":{floats:[10037.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"UFO"}''},count:1,id:"minecraft:paper"}'
+    firesword_sword:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:3.5d,id:"minecraft:85125ea3-4bcc-3c62-8d7a-88b6422e908f",operation:"add_value",slot:"mainhand",type:"minecraft:attack_damage"}],show_in_tooltip:0b},"minecraft:custom_data":{itemsadder:{id:"firesword_sword",namespace:"iasurvival"}},"minecraft:custom_model_data":{floats:[10005.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Firesword Sword"}'',"minecraft:enchantments":{levels:{"minecraft:fire_aspect":1}},"minecraft:lore":[''""'',''{"color":"gray","italic":false,"translate":"item.modifiers.mainhand"}'',''{"color":"dark_green","extra":[{"translate":"attribute.name.attack_damage"}],"italic":false,"text":"
+            4.5 "}'',''{"color":"dark_green","extra":[{"translate":"attribute.name.attack_speed"}],"italic":false,"text":" 1.6 "}''],"minecraft:max_damage":131},count:1,id:"minecraft:diamond_sword"}'
+    netherite_chestplate:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:4.0d,id:"minecraft:71e196f8-50e1-314a-8c8b-b67732ca6f1c",operation:"add_value",slot:"chest",type:"minecraft:max_health"},{amount:9.0d,id:"minecraft:b4e42d12-90d5-3b04-80f1-ba7dce2d6764",operation:"add_value",slot:"chest",type:"minecraft:armor"},{amount:9.0d,id:"minecraft:cd939065-5f48-3557-93f5-7d12e2a3edc6",operation:"add_value",slot:"chest",type:"minecraft:armor_toughness"}]},"minecraft:custom_data":{itemsadder:{id:"amethyst_netherite_chestplate",namespace:"bettermobs"}},"minecraft:custom_model_data":{floats:[10002.0f]},"minecraft:custom_name":''{"bold":true,"color":"light_purple","italic":false,"text":"Netherite
+            Chestplate"}'',"minecraft:dyed_color":{rgb:1,show_in_tooltip:0b},"minecraft:lore":[''{"color":"dark_purple","italic":true,"text":"Infused with Amethyst"}''],"minecraft:max_damage":400},count:1,id:"minecraft:leather_chestplate"}'
+    dark_amethyst_prism:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"dark_amethyst_prism",namespace:"iasurvival"}},"minecraft:custom_model_data":{floats:[10014.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Dark Amethyst Prism"}''},count:32,id:"minecraft:iron_ingot"}'
+    dog_mask_1:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"dog_mask",namespace:"iawearables"}},"minecraft:custom_model_data":{floats:[10011.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Dog Mask"}''},count:1,id:"minecraft:feather"}'
+    turquoise_wings:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"demoniac_turquoise_wings",namespace:"iawearables"}},"minecraft:custom_model_data":{floats:[10020.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Turquoise Wings"}''},count:1,id:"minecraft:feather"}'
+    netherite_helmet:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:4.0d,id:"minecraft:ab61b9ce-a7f6-3e33-aa79-99f2646419b1",operation:"add_value",slot:"head",type:"minecraft:max_health"},{amount:4.0d,id:"minecraft:73c21737-b992-3f4d-a84d-46acd91292f6",operation:"add_value",slot:"head",type:"minecraft:armor"},{amount:4.0d,id:"minecraft:0521173b-7910-3ada-95a3-a78a19126e1e",operation:"add_value",slot:"head",type:"minecraft:armor_toughness"}]},"minecraft:custom_data":{itemsadder:{id:"amethyst_netherite_helmet",namespace:"bettermobs"}},"minecraft:custom_model_data":{floats:[10002.0f]},"minecraft:custom_name":''{"bold":true,"color":"light_purple","italic":false,"text":"Netherite
+            Helmet"}'',"minecraft:dyed_color":{rgb:1,show_in_tooltip:0b},"minecraft:lore":[''{"color":"dark_purple","italic":true,"text":"Infused with Amethyst"}''],"minecraft:max_damage":250},count:1,id:"minecraft:leather_helmet"}'
+    birch_wood_plane:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"birch_wood_plane",namespace:"iavehicles"}},"minecraft:custom_model_data":{floats:[10044.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Birch Wood Plane"}''},count:1,id:"minecraft:paper"}'
+    dark_oak_wood_plane:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"dark_oak_wood_plane",namespace:"iavehicles"}},"minecraft:custom_model_data":{floats:[10047.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Dark Oak Wood Plane"}''},count:1,id:"minecraft:paper"}'
+    ender_dragon_wings:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"ender_dragon_wings",namespace:"iawearables"}},"minecraft:custom_model_data":{floats:[10027.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Ender Dragon Wings"}''},count:1,id:"minecraft:feather"}'
+    end_sword:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:5.0d,id:"minecraft:581f320d-1433-3b47-bf4d-0ff1533e8ce8",operation:"add_value",slot:"mainhand",type:"minecraft:attack_damage"},{amount:-2.9d,id:"minecraft:b6bbeb91-cc59-3b90-89a5-327bef3fc596",operation:"add_value",slot:"mainhand",type:"minecraft:attack_speed"}],show_in_tooltip:0b},"minecraft:custom_data":{itemsadder:{id:"end_sword",namespace:"iasurvival"}},"minecraft:custom_model_data":{floats:[10006.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"End
+            Sword"}'',"minecraft:lore":[''""'',''{"color":"gray","italic":false,"translate":"item.modifiers.mainhand"}'',''{"color":"dark_green","extra":[{"translate":"attribute.name.attack_damage"}],"italic":false,"text":" 6 "}'',''{"color":"dark_green","extra":[{"translate":"attribute.name.attack_speed"}],"italic":false,"text":" 1.1 "}''],"minecraft:max_damage":300},count:1,id:"minecraft:diamond_sword"}'

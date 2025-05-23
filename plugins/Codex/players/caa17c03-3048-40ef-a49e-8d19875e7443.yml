@@ -1,0 +1,12 @@
+name: DimeTimeFc
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - ranks;19/03/2025
+    - kits;19/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;19/03/2025
+    - survival;19/03/2025

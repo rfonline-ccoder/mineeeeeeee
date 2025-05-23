@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.124.14.115
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742185786983
+  login: 1742185560500
+money: '0'
+last-account-name: iSevin
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 3377.8825748617173
+  y: 71.0
+  z: 17.576814262051126
+  yaw: 76.87539672851562
+  pitch: 37.35087966918945
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -4.513866821081261
+  y: 99.5
+  z: 4.353015986660105
+  yaw: -28.988983154296875
+  pitch: 3.1501097679138184

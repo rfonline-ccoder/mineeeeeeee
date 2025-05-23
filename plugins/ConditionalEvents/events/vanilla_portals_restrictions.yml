@@ -1,0 +1,17 @@
+Events:
+  portal_restrictions1:
+    type: player_teleport
+    conditions:
+    - "%cause% == NETHER_PORTAL"
+    actions:
+      default:
+      - "cancel_event: true"
+      - "message: &f:important: Use &a/worlds"      
+  portal_restrictions2:
+    type: player_teleport
+    conditions:
+    - "%cause% == END_PORTAL"
+    actions:
+      default:
+      - "cancel_event: true"
+      - "message: &f:important: Use &a/worlds"         

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.209.125.90
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736281246794
+  login: 1736281151472
+money: '0'
+last-account-name: RotBauer
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -3.956360230109718
+  y: 101.52442408821369
+  z: 19.283099805196763
+  yaw: 34.61676025390625
+  pitch: 16.915382385253906
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 3453.4497159593234
+  y: 94.0
+  z: 2762.677544528876
+  yaw: 6.6460747718811035
+  pitch: 22.922529220581055

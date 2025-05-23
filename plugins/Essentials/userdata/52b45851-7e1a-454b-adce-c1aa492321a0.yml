@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.67.64.74
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744647064703
+  login: 1744646566671
+money: '0'
+last-account-name: zekkho
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -4.736977643722566
+  y: 99.5
+  z: -0.5273595837340928
+  yaw: -130.30735778808594
+  pitch: 4.509642124176025
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -3042.900845361779
+  y: 7.0
+  z: -924.3000000119209
+  yaw: 147.2579345703125
+  pitch: 49.2455940246582

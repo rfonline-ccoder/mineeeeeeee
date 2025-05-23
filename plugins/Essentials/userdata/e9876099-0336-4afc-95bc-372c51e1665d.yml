@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.219.104.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737103276205
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737103574448
+  login: 1737102965735
+money: '0'
+last-account-name: A3ANI
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -2048.0585903076494
+  y: 93.0
+  z: 3550.2594285121154
+  yaw: -92.2874755859375
+  pitch: 3.000157594680786
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 2.5548007344067796
+  y: 100.0
+  z: 0.6746629094786236
+  yaw: -98.74385070800781
+  pitch: 8.250436782836914

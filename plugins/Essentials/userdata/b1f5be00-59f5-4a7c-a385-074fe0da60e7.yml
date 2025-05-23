@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 51.179.122.136
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733266002023
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733266133607
+  login: 1733265735402
+money: '0'
+last-account-name: Kxsee
+lastlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: -2672.901384640064
+  y: 62.0
+  z: -1431.8347383497319
+  yaw: -144.7894287109375
+  pitch: 25.294519424438477
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -14.691081633406801
+  y: 105.162141421027
+  z: 43.10163122116846
+  yaw: 156.5576171875
+  pitch: 29.250104904174805

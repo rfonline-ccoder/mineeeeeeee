@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.195.222.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735431050171
+  login: 1735430904645
+money: '0'
+last-account-name: Sykho__
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -7.448644751660496
+  y: 99.5
+  z: 0.49762112075185394
+  yaw: -164.469482421875
+  pitch: -3.75022554397583
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -426.897858641088
+  y: 70.0
+  z: -3818.081145836284
+  yaw: -149.0201873779297
+  pitch: 5.8497843742370605

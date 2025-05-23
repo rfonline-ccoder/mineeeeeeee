@@ -1,0 +1,19 @@
+name: kakadou
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - ranks;30/03/2025
+    - jobs;30/03/2025
+    - skills;30/03/2025
+    - emotes;30/03/2025
+    - kits;30/03/2025
+    - help;19/04/2025
+    - quests;19/04/2025
+    - auctionhouse;19/04/2025
+    - guide;19/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - end;30/03/2025
+    - resourceworld;19/04/2025

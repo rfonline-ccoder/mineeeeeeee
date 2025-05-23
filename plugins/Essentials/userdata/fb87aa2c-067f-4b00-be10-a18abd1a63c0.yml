@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.28.117.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735899927988
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735902122885
+  login: 1735899340283
+money: '0'
+last-account-name: nEpos_Solo
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 3106.8308601372228
+  y: 66.41999998688698
+  z: 1487.52230422637
+  yaw: -24.64306640625
+  pitch: 15.900140762329102
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -5.726738880032039
+  y: 100.0
+  z: 9.752690669200396
+  yaw: -91.39141845703125
+  pitch: 5.399956703186035

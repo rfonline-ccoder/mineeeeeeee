@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 24.66.19.193
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743481340049
+  login: 1743481266380
+money: '0'
+last-account-name: Bulxcy
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 3.845109695625263
+  y: 99.5
+  z: -3.9748777434745723
+  yaw: -109.99337768554688
+  pitch: -0.44992440938949585
+logoutlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 1057.866275417196
+  y: 102.0
+  z: 3289.612395722548
+  yaw: -60.635986328125
+  pitch: 22.95005226135254

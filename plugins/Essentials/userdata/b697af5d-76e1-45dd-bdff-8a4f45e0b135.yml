@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.24.160.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740140209042
+  login: 1740137286714
+money: '0'
+last-account-name: Serposter
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -1984.4197068425865
+  y: 97.0
+  z: -2393.300000011921
+  yaw: 173.35772705078125
+  pitch: 23.1000919342041
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -2.4690838924584884
+  y: 100.0
+  z: -13.21207048867572
+  yaw: 154.457763671875
+  pitch: 6.000125885009766

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 104.28.206.253
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744925287507
+  login: 1744925275915
+money: '0'
+last-account-name: Gh0stIdentity
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 8.096296868025176
+  y: 99.5
+  z: 0.47673398157486346
+  yaw: 67.90823364257812
+  pitch: 3.9001271724700928
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -4521.284112454324
+  y: 86.0
+  z: -830.233303519952
+  yaw: 66.40821075439453
+  pitch: -3.1499855518341064

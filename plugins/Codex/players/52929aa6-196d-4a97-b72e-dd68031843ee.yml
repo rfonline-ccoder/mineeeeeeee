@@ -1,0 +1,17 @@
+name: Crossnite
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - auctionhouse;09/04/2025
+    - shop;09/04/2025
+    - ranks;09/04/2025
+    - jobs;09/04/2025
+    - guide;09/04/2025
+    - skills;18/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;09/04/2025
+    - end;18/04/2025
+    - resourceworld;18/04/2025

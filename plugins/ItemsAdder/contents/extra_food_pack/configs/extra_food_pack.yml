@@ -1,0 +1,572 @@
+info:
+  namespace: extra_food_pack
+items:
+  acorn:
+    display_name: Acorn
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:acorn
+    events:
+      eat:
+        feed:
+          amount: 1
+          saturation: 1
+  bacon:
+    display_name: Bacon
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:bacon
+    events:
+      eat:
+        feed:
+          amount: 8
+          saturation: 8
+  banana:
+    display_name: Banana
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:banana
+    events:
+      eat:
+        feed:
+          amount: 4
+          saturation: 4
+  beer:
+    display_name: Beer
+    resource:
+      material: POTION
+      generate: true
+      textures:
+        - extra_food_pack:beer
+    events:
+      drink:
+        potion_effect:
+          type: SLOWNESS
+          amplifier: 1
+          duration: 150
+  boba:
+    display_name: Boba
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:boba
+    events:
+      eat:
+        feed:
+          amount: 10
+          saturation: 10
+  bread:
+    display_name: Bread
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:bread
+    events:
+      eat:
+        feed:
+          amount: 5
+          saturation: 5
+  broccoli:
+    display_name: Broccoli
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:broccoli
+    events:
+      eat:
+        feed:
+          amount: 3
+          saturation: 3
+  burrito:
+    display_name: Burrito
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:burrito
+    events:
+      eat:
+        feed:
+          amount: 13
+          saturation: 13
+  pie:
+    display_name: Pie
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:pie
+    events:
+      eat:
+        feed:
+          amount: 15
+          saturation: 15
+  pie:
+    display_name: Pie
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:pie
+    events:
+      eat:
+        feed:
+          amount: 15
+          saturation: 15
+  cheese:
+    display_name: Cheese
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:cheese
+    events:
+      eat:
+        feed:
+          amount: 4
+          saturation: 4
+  cookie-donut:
+    display_name: Cookie Donut
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:cookie-donut
+    events:
+      eat:
+        feed:
+          amount: 8
+          saturation: 8
+  coca-cola:
+    display_name: Coca Cola
+    resource:
+      material: POTION
+      generate: true
+      textures:
+        - extra_food_pack:coca-cola
+    events:
+      drink:
+        potion_effect:
+          type: REGENERATION
+          amplifier: 1
+          duration: 150
+  coconut:
+    display_name: Coconut
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:coconut
+    events:
+      eat:
+        feed:
+          amount: 2
+          saturation: 2
+  cotton-candy:
+    display_name: Cotton Candy
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:cotton-candy
+    events:
+      eat:
+        feed:
+          amount: 4
+          saturation: 4
+  donut:
+    display_name: Donut
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:donut
+    events:
+      eat:
+        feed:
+          amount: 8
+          saturation: 8
+  fanta:
+    display_name: Fanta
+    resource:
+      material: POTION
+      generate: true
+      textures:
+        - extra_food_pack:fanta
+    events:
+      drink:
+        potion_effect:
+          type: REGENERATION
+          amplifier: 1
+          duration: 150
+  fry-egg:
+    display_name: Fry Egg
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:fry-egg
+    events:
+      eat:
+        feed:
+          amount: 7
+          saturation: 7
+  hamburger:
+    display_name: Hamburger
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:hamburger
+    events:
+      eat:
+        feed:
+          amount: 15
+          saturation: 15
+  ham:
+    display_name: Ham
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:ham
+    events:
+      eat:
+        feed:
+          amount: 6
+          saturation: 6
+  honey:
+    display_name: Honey
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:honey
+    events:
+      eat:
+        feed:
+          amount: 4
+          saturation: 4
+  hotdog:
+    display_name: Hotdog
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:hotdog
+    events:
+      eat:
+        feed:
+          amount: 15
+          saturation: 15
+  icecream:
+    display_name: Icecream
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:ice-cream1
+    events:
+      eat:
+        feed:
+          amount: 4
+          saturation: 4
+  jelly-candy:
+    display_name: Jelly Candy
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:jelly
+    events:
+      eat:
+        feed:
+          amount: 8
+          saturation: 8
+  mango:
+    display_name: Mango
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:mango
+    events:
+      eat:
+        feed:
+          amount: 5
+          saturation: 5
+  muffin:
+    display_name: Muffin
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:muffin
+    events:
+      eat:
+        feed:
+          amount: 6
+          saturation: 6
+  nutella:
+    display_name: Nutella
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:nutella
+    events:
+      eat:
+        feed:
+          amount: 6
+          saturation: 6
+  onion:
+    display_name: Onion
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:onion
+    events:
+      eat:
+        feed:
+          amount: 4
+          saturation: 4
+  oreo:
+    display_name: Oreo
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:oreo
+    events:
+      eat:
+        feed:
+          amount: 8
+          saturation: 8
+  peach:
+    display_name: Peach
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:peach
+    events:
+      eat:
+        feed:
+          amount: 8
+          saturation: 8
+  pear:
+    display_name: Pear
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:pear
+    events:
+      eat:
+        feed:
+          amount: 8
+          saturation: 8
+  pepsi-cola:
+    display_name: Pepsi Cola
+    resource:
+      material: POTION
+      generate: true
+      textures:
+        - extra_food_pack:pepsi-cola
+    events:
+      drink:
+        potion_effect:
+          type: REGENERATION
+          amplifier: 1
+          duration: 150
+  pie-slice:
+    display_name: Pie Slice
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:pie-slice
+    events:
+      eat:
+        feed:
+          amount: 15
+          saturation: 15
+  pizza:
+    display_name: Pizza
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:pizza
+    events:
+      eat:
+        feed:
+          amount: 10
+          saturation: 10
+  plumet:
+    display_name: Plumet
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:plum
+    events:
+      eat:
+        feed:
+          amount: 4
+          saturation: 4
+  popcorn:
+    display_name: Popcorn
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:popcorn
+    events:
+      eat:
+        feed:
+          amount: 5
+          saturation: 5
+  pumpkin:
+    display_name: Pumpkin
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:pumpkin
+    events:
+      eat:
+        feed:
+          amount: 8
+          saturation: 8
+  schokolade:
+    display_name: Schokolade
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:chocolate
+    events:
+      eat:
+        feed:
+          amount: 15
+          saturation: 15
+  sprite:
+    display_name: Sprite
+    resource:
+      material: POTION
+      generate: true
+      textures:
+        - extra_food_pack:sprite
+    events:
+      drink:
+        potion_effect:
+          type: REGENERATION
+          amplifier: 1
+          duration: 150
+  strawberry-icecream:
+    display_name: Strawberry Icecream
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:ice-cream2
+    events:
+      eat:
+        feed:
+          amount: 2
+          saturation: 2
+  strawberry-jam:
+    display_name: Strawberry Jam
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:strawberry-jam
+    events:
+      eat:
+        feed:
+          amount: 4
+          saturation: 4
+  strawberry:
+    display_name: Strawberry
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:strawberry
+    events:
+      eat:
+        feed:
+          amount: 5
+          saturation: 5
+  taco:
+    display_name: Taco
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:taco
+    events:
+      eat:
+        feed:
+          amount: 18
+          saturation: 18 
+  toast:
+    display_name: Toast
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:toast
+    events:
+      eat:
+        feed:
+          amount: 5
+          saturation: 5
+  tofu:
+    display_name: Tofu
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:tofu
+    events:
+      eat:
+        feed:
+          amount: 10
+          saturation: 10
+  tomato:
+    display_name: Tomato
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:tomato
+    events:
+      eat:
+        feed:
+          amount: 8
+          saturation: 8
+  waffle:
+    display_name: Waffle
+    resource:
+      material: COOKED_BEEF
+      generate: true
+      textures:
+        - extra_food_pack:waffle
+    events:
+      eat:
+        feed:
+          amount: 15
+          saturation: 15          

@@ -1,0 +1,13 @@
+name: Mussued
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - help;13/04/2025
+    - quests;13/04/2025
+    - emotes;13/04/2025
+    - auctionhouse;13/04/2025
+    - ranks;13/04/2025
+    - jobs;13/04/2025
+    - guide;13/04/2025
+    - shop;13/04/2025

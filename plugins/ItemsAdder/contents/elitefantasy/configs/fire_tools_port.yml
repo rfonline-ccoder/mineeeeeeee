@@ -1,0 +1,148 @@
+info:
+  namespace: elitefantasy
+items:
+  fire_bow:
+    display_name: '<r Fire Bow>'
+    lore:
+    - '<#FE5A00>ᴍʏᴛʜɪᴄ ɪᴛᴇᴍ'
+    - '<#575757>Burn your enemies until ashes'
+    - ''
+    - '<#8c242f>ꜱᴘᴇᴄɪᴀʟ'
+    - '<#575757>Shot infinite arrows'
+    - ' '
+    resource:
+      generate: true
+      material: BOW
+      textures:
+      - custom/items/fire_bow
+    durability:
+      max_custom_durability: 3000
+      custom_durability: 3000
+      disappear_when_broken: false
+    enchants:
+    - FLAME:3
+    - INFINITY:1
+    item_flags:
+    - HIDE_ENCHANTS      
+  fire_axe:
+    display_name: '<r Fire Axe>'
+    lore:
+    - '<#FE5A00>ᴍʏᴛʜɪᴄ ɪᴛᴇᴍ'
+    - '<#575757>Burn your enemies until ashes'
+    - ' '
+    - '<#8c242f>ꜱᴘᴇᴄɪᴀʟ'
+    - '<#575757>Cut x3 fast'
+    - ' '    
+    resource:
+      generate: true
+      material: NETHERITE_AXE
+      textures:
+      - custom/items/fire_axe
+    durability:
+      max_custom_durability: 3000
+      custom_durability: 3000
+      disappear_when_broken: false      
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 18
+        attackSpeed: 0.7
+    enchants:
+    - FIRE_ASPECT:2
+    item_flags:
+    - HIDE_ENCHANTS           
+  fire_hoe:
+    display_name: '<r Fire Hoe>'
+    lore:
+    - '<#FE5A00>ᴍʏᴛʜɪᴄ ɪᴛᴇᴍ'
+    - '<#575757>Burn your crops until ashes'
+    - ' '
+    - '<#8c242f>ꜱᴘᴇᴄɪᴀʟ'
+    - '<#575757>Get x3 more crops'
+    - ' '
+    resource:
+      generate: true
+      material: NETHERITE_HOE
+      textures:
+      - custom/items/fire_hoe
+    durability:
+      max_custom_durability: 3000
+      custom_durability: 3000
+      disappear_when_broken: false      
+    enchants:
+    - FIRE_ASPECT:2
+    - FORTUNE:4
+    item_flags:
+    - HIDE_ENCHANTS        
+  fire_pickaxe:
+    display_name: '<r Fire Pickaxe>'
+    lore:
+    - '<#FE5A00>ᴍʏᴛʜɪᴄ ɪᴛᴇᴍ'
+    - '<#575757>Melt your ores until ashes'
+    - ' '
+    - '<#8c242f>ꜱᴘᴇᴄɪᴀʟ'
+    - '<#575757>Get x4 ores'
+    - ' '
+    resource:
+      generate: true
+      material: NETHERITE_PICKAXE
+      textures:
+      - custom/items/fire_pickaxe
+    durability:
+      max_custom_durability: 3000
+      custom_durability: 3000
+      disappear_when_broken: false      
+    enchants:
+    - FIRE_ASPECT:2
+    - EFFICIENCY:5
+    - FORTUNE:4
+    item_flags:
+    - HIDE_ENCHANTS        
+  fire_shovel:
+    display_name: '<r Fire Shovel>'
+    lore:
+    - '<#FE5A00>ᴍʏᴛʜɪᴄ ɪᴛᴇᴍ'
+    - '<#575757>Burn your blocks until ashes'
+    - ' '
+    - '<#8c242f>ꜱᴘᴇᴄɪᴀʟ'
+    - '<#575757>Break blocks x2 fast'
+    - ' '
+    resource:
+      generate: true
+      material: NETHERITE_SHOVEL
+      textures:
+      - custom/items/fire_shovel
+    durability:
+      max_custom_durability: 3000
+      custom_durability: 3000
+      disappear_when_broken: false      
+    enchants:
+    - FIRE_ASPECT:2
+    - EFFICIENCY:4
+    item_flags:
+    - HIDE_ENCHANTS        
+  fire_sword:
+    display_name: '<r Fire Sword>'
+    lore:
+    - '<#FE5A00>ᴍʏᴛʜɪᴄ ɪᴛᴇᴍ'
+    - '<#575757>Burn your enemies until ashes'
+    - ' '
+    - '<#8c242f>ꜱᴘᴇᴄɪᴀʟ'
+    - '<#575757>Insane Damage and Attack Speed'
+    - ' '
+    resource:
+      generate: true
+      material: NETHERITE_SWORD
+      textures:
+      - custom/items/fire_sword
+    durability:
+      max_custom_durability: 3000
+      custom_durability: 3000
+      disappear_when_broken: false      
+    attribute_modifiers:
+      mainhand:
+        attackDamage: 17
+        attackSpeed: 1.7
+    enchants:
+    - FIRE_ASPECT:2
+    item_flags:
+    - HIDE_ENCHANTS    

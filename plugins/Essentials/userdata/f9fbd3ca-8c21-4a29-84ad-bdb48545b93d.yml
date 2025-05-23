@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.151.217.163
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745777900422
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745778023200
+  login: 1745777771763
+money: '0'
+last-account-name: Malltix
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -4621.480651296446
+  y: 64.0
+  z: 3953.7930429388193
+  yaw: -132.3385009765625
+  pitch: 8.700138092041016
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 4.800163193685374
+  y: 101.0
+  z: 11.921659466412423
+  yaw: 52.7576904296875
+  pitch: 19.200237274169922

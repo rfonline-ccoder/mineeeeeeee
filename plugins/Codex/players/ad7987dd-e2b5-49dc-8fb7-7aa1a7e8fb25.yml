@@ -1,0 +1,19 @@
+name: MrPixis
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - emotes;17/03/2025
+    - guide;17/03/2025
+    - jobs;22/03/2025
+    - ranks;22/03/2025
+    - shop;22/03/2025
+    - auctionhouse;22/03/2025
+    - quests;22/03/2025
+    - skills;22/03/2025
+    - help;22/03/2025
+    - kits;22/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;22/03/2025

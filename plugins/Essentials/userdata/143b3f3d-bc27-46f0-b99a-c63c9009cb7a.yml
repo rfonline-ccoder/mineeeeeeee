@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.216.113.46
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1740916029467
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740923379429
+  login: 1740915567622
+money: '0'
+last-account-name: PlatinumPurge
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 3510.5715971446407
+  y: 76.0
+  z: 743.1998620658848
+  yaw: -157.84222412109375
+  pitch: 15.30009937286377
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -3.4742301790644645
+  y: 100.0
+  z: -7.930760192805007
+  yaw: -54.94225311279297
+  pitch: 4.350118160247803

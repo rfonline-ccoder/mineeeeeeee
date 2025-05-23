@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 79.208.193.182
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739215757930
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739215863153
+  login: 1739215500708
+money: '0'
+last-account-name: LegitBlock
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -1537.4289862712774
+  y: 91.0
+  z: -2049.06359542726
+  yaw: 60.41070556640625
+  pitch: -4.050049304962158
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.481681957480609
+  y: 101.0
+  z: 19.6724969292087
+  yaw: -78.3423843383789
+  pitch: 14.25008773803711

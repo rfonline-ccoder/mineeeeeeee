@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.12.208.66
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1738508393068
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743855432344
+  login: 1743855098724
+money: '0'
+last-account-name: itermitas
+lastlocation:
+  world: ebbea3ca-f758-4f6c-b528-077c36b9914e
+  world-name: world_nether
+  x: -1848.5773849107456
+  y: 24.054929195140936
+  z: 775.3262582546556
+  yaw: -17.291656494140625
+  pitch: 10.949996948242188
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 3.846549421079952
+  y: 99.5
+  z: 3.425944049601485
+  yaw: 157.30929565429688
+  pitch: 12.75017261505127

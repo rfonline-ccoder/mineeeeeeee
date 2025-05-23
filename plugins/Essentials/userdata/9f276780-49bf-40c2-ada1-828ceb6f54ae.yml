@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 168.195.231.95
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730067029154
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730067611767
+  login: 1730066025464
+money: '0'
+last-account-name: KOGHTZ
+lastlocation:
+  world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+  world-name: survival
+  x: 3753.3208901534126
+  y: 157.0
+  z: 4571.795985220214
+  yaw: 7.464874267578125
+  pitch: 26.250778198242188
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.1641495988260552
+  y: 113.0
+  z: 46.69999998807907
+  yaw: 41.05810546875
+  pitch: 15.000136375427246

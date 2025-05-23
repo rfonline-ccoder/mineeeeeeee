@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 120.228.77.133
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730028186608
+  login: 1730027923837
+money: '0'
+last-account-name: CeydOuO
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 7.935237204120174
+  y: 99.5
+  z: 0.41265772286808744
+  yaw: -98.82135009765625
+  pitch: 9.137958526611328
+logoutlocation:
+  world: c0bae7f2-27c9-41e8-9a69-3fc40e39d56a
+  world-name: world_the_end
+  x: 3297.933555419661
+  y: 62.0
+  z: 1968.9303844722615
+  yaw: -171.71246337890625
+  pitch: 15.670119285583496

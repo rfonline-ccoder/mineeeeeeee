@@ -1,0 +1,57 @@
+info:
+  namespace: iasurvival
+items:
+  black_shears:
+    enabled: true
+    display_name: Black Shears
+    permission: iasurvival.items.colored_shears.black_shears
+    resource:
+      material: SHEARS
+      generate: true
+      textures:
+        - item/tools/black_shears
+  red_shears:
+    enabled: true
+    display_name: Red Shears
+    permission: iasurvival.items.colored_shears.red_shears
+    resource:
+      material: SHEARS
+      generate: true
+      textures:
+        - item/tools/red_shears
+  green_shears:
+    enabled: true
+    display_name: Green Shears
+    permission: iasurvival.items.colored_shears.green_shears
+    resource:
+      material: SHEARS
+      generate: true
+      textures:
+        - item/tools/green_shears
+  blue_shears:
+    enabled: true
+    display_name: Blue Shears
+    permission: iasurvival.items.colored_shears.blue_shears
+    resource:
+      material: SHEARS
+      generate: true
+      textures:
+        - item/tools/blue_shears
+  purple_shears:
+    enabled: true
+    display_name: Purple Shears
+    permission: iasurvival.items.colored_shears.purple_shears
+    resource:
+      material: SHEARS
+      generate: true
+      textures:
+        - item/tools/purple_shears
+  cyan_shears:
+    enabled: true
+    display_name: Cyan Shears
+    permission: iasurvival.items.colored_shears.cyan_shears
+    resource:
+      material: SHEARS
+      generate: true
+      textures:
+        - item/tools/cyan_shears

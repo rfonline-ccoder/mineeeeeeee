@@ -1,0 +1,18 @@
+name: Toqyy
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - help;11/04/2025
+    - kits;11/04/2025
+    - quests;11/04/2025
+    - emotes;11/04/2025
+    - shop;11/04/2025
+    - auctionhouse;11/04/2025
+    - ranks;11/04/2025
+    - jobs;11/04/2025
+    - guide;11/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;11/04/2025

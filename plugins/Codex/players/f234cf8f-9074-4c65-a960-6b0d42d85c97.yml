@@ -1,0 +1,12 @@
+name: Dobrich
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - kits;14/03/2025
+    - guide;14/03/2025
+    - quests;14/03/2025
+    - emotes;14/03/2025
+    - skills;14/03/2025
+    - shop;14/03/2025
+    - jobs;14/03/2025

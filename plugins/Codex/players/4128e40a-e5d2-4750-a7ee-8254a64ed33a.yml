@@ -1,0 +1,19 @@
+name: hypist
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - emotes;09/03/2025
+    - skills;09/03/2025
+    - guide;09/03/2025
+    - help;09/03/2025
+    - kits;09/03/2025
+    - auctionhouse;09/03/2025
+    - jobs;09/03/2025
+    - ranks;09/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - nether;09/03/2025
+    - end;09/03/2025
+    - resourceworld;09/03/2025

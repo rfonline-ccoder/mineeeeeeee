@@ -1,0 +1,270 @@
+# "bf" refers to "blood frenzy"
+# "as" refers to "aqua surge"
+# "fr" refers to "fire rage"
+# "sc" refers to "soul crush"
+# 'sb' refers to "blizzard" || "snow blizzard"
+# 'ls' refers to "lightning storm"
+
+# You can configure this however you like, please don't change any of the variables before the ":" as the
+# plugin will just throw errors when you try and enable it on start. If there are any issues with the plugin
+# you can contact me through my discord server, posted on the SpigotMC resource page.
+
+# Join the community discord for support, roles and other: https://discord.gg/4cV7Tu7ESu
+
+# In regards to the loot chests spawn frequency and amount during spawn, I would not recommend spawning a lot
+# at a quick frequency to maintain server performance.
+
+Settings:
+  SpawnFrequencySeconds: 30 # How often loot chests spawn around the map.
+  MaxChestsPerSpawn: 3 # How many chests spawn every time.
+  SpawnRadius: 500
+  SpawnWorld: resourceworld # Change this to the name of the world you want them to spawn in.
+
+messages:
+  classGiven: "&5&lCLASSES &8→ &7You have gave the player %player% the %class% class."
+  wrongClassName: "&5&lCLASSES &8→ &7Incorrect class name specified."
+  usageSet: "&5&lCLASSES &8→ &7The correct usage is: /class-set (player) (class)"
+  alreadyInClass: "&c&lERROR! &7You are already in the &5&n%class%&7 class."
+  cannotSelectMore: "&c&lERROR! &7You cannot select more than one class."
+  classSelected: "&5&lCLASSES &8→ &7You have selected the &5&n%class%&7 class."
+  classRemoved: "&5&lCLASSES &8→ &7You have removed &5&n%player%'s&7 class."
+  noClassFound: "&c&lERROR! &7No class found for the specified player."
+  playerNotFound: "&c&lERROR! &7Player not found!"
+  classRemovedByOther: "&5&lCLASSES &8→ &7You have removed &5&n%player%'s &7class [&5&n%class%&7]"
+  reload-success: "&5&lCLASSES &8→ &7Configuration reloaded successfully!"
+  player-not-found: "&c&lERROR! &7Player is not online."
+  class-info: "&5&lCLASSES &8→ &c%player%&7 is in the &5&n%class%&7 class."
+  class-usage: "&5&lCLASSES &8→ &7Usage: /class <player>."
+  no-class: "&5&lCLASSES &8→ &c%player%&7 is not in a class."
+  notInClass: "&c&lERROR! &7Incorrect class."
+  noPermission: "&c&lERROR! &7No permission."
+  incorrectUsage: "&c&lERROR! &7Incorrect usage. Use /pointsmultiplier add/view/remove."
+  amountAndDurationInvalid: "&c&lERROR! &7Invalid amount/duration found."
+  invalidAmountRange: "&c&lERROR! &7Invalid amount range found."
+  multiplierAdded: "&5&lCLASSES &8→ &7Added a &c%amount%x &7multiplier for &c%player% &7in class &c%class% &7for &c%duration% &7seconds."
+  multiplierExpired: "&5&lCLASSES &8→ &7Multiplier for &c%player%&7 in class &c%class% &7has expired."
+  unknownSubcommand: "&c&lERROR! &7Unknown subcommand. Use: /pointsmultiplier add (player) (class) (amount) (duration)"
+  noActiveMultiplier: "&5&lCLASSES &8→ &c%player%&7 has no active multiplier for the &c%class%&7 class."
+  activeMultiplier: "&5&lCLASSES &8→ &c%player%&7 has an active multiplier of &c%multiplier%&7 for the &c%class%&7 class, expiring in &c%timeRemaining%&7."
+  multiplierRemoved: "&5&lCLASSES &8→ &7The multiplier for player &c%player%&7 and class &c%class%&7 has been removed."
+  noMultiplierFound: "&5&lCLASSES &8→ &7No active multiplier found for player &c%player%&7 with class &c%class%&7."
+
+  fireClassRestriction: "&5&lCLASSES &8→ &7You must be in the &4Fire&7 class to use this ability."
+  bloodClassRestriction: "&5&lCLASSES &8→ &7You must be in the &cBlood&7 class to use this ability."
+  waterClassRestriction: "&5&lCLASSES &8→ &7You must be in the &bWater&7 class to use this ability."
+  soulClassRestriction: "&5&lCLASSES &8→ &7You must be in the &8Soul&7 class to use this ability."
+  snowClassRestriction: "&5&lCLASSES &8→ &7You must be in the &fSnow&7 class to use this ability."
+  lightningClassRestriction: "&5&lCLASSES &8→ &7You must be in the &eLightning&7 class to use this ability."
+
+  commandOnlyPlayer: "&c&lERROR! &7This command can only be executed by a player."
+  usage: "&5&lCLASSES &8→ &7Usage: /points <add/remove> <player> <class> <amount>"
+  amountMustBeNumber: "&c&lERROR! &7The amount provided must be a number."
+  unknownAction: "&c&lERROR! &7Unknown action. Use add or remove."
+  bloodPointsAdded: "&5&lCLASSES &8→ &7Added &c%amount%&7 blood points to &c%player%&7."
+  bloodPointsRemoved: "&5&lCLASSES &8→ &7Removed &c%amount%&7 blood points from &c%player%&7."
+  waterPointsAdded: "&5&lCLASSES &8→ &7Added &c%amount%&7 water points to &c%player%&7."
+  waterPointsRemoved: "&5&lCLASSES &8→ &7Removed &c%amount%&7 water points from &c%player%&7."
+  firePointsAdded: "&5&lCLASSES &8→ &7Added &c%amount%&7 fire points to &c%player%&7."
+  firePointsRemoved: "&5&lCLASSES &8→ &7Removed &c%amount%&7 fire points from &c%player%&7."
+  soulPointsAdded: "&5&lCLASSES &8→ &7Added &c%amount%&7 soul points to &c%player%&7."
+  soulPointsRemoved: "&5&lCLASSES &8→ &7Removed &c%amount%&7 soul points from &c%player%&7."
+  snowPointsAdded: "&5&lCLASSES &8→ &7Added &c%amount%&7 snow points to &c%player%&7."
+  snowPointsRemoved: "&5&lCLASSES &8→ &7Removed &c%amount%&7 snow points from &c%player%&7."
+  lightningPointsAdded: "&5&lCLASSES &8→ &7Added &c%amount%&7 lightning points to &c%player%&7."
+  lightningPointsRemoved: "&5&lCLASSES &8→ &7Removed &c%amount%&7 lightning points from &c%player%&7."
+
+  unknownClass: "&c&lERROR! &7Player is not in a class."
+  pointsViewusage: "&5&lCLASSES &8→ &7Usage: /pointsview <player> <class>"
+  playerNotOnline: "&c&lERROR! &7The player &c%player%&7 is not online."
+  
+  bfactivated: "&5&lCLASSES &8→ &7You activated blood frenzy!"
+  bfneedPoints: "&5&lCLASSES &8→ &7You need &c%points%&7 blood points to activate blood frenzy."
+  bloodPointsView: "&5&lCLASSES &8→ &c%player%&7 has &c%points%&7 blood points."
+
+  asneedPoints: "&5&lCLASSES &8→ &7You need &c%points%&7 water points to activate aqua surge."
+  asactivated: "&5&lCLASSES &8→ &7You activated aqua surge!"
+  waterPointsView: "&5&lCLASSES &8→ &c%player%&7 has &c%points%&7 water points."
+
+  frneedPoints: "&5&lCLASSES &8→ &7You need &c%points%&7 fire points to activate fire rage."
+  fractivated: "&5&lCLASSES &8→ &7You activated fire rage!"
+  firePointsView: "&5&lCLASSES &8→ &c%player%&7 has &c%points%&7 fire points."
+
+  notInClassMessage: "&c&lERROR! &7You must be in the &5&n%class%&7 class to use this artifact."
+  bloodLiftCooldown: "&5&lCLASSES &8→ &7You must wait &5&n%time%&7 before trying to use the blood lift!"
+  bloodSwordCooldown: "&5&lCLASSES &8→ &7You must wait &5&n%time%&7 before trying to use the blood swipe again!"
+  bloodLiftEnabled: "&5&lCLASSES &8→ &7Bloodlift has been &a&nenabled&7."
+  bloodLiftDisabled: "&5&lCLASSES &8→ &7Bloodlift has been &c&ndisabled&7."
+  bloodShieldActivated: "&5&lCLASSES &8→ &7You have activated your &c&nblood&7 shield."
+  bloodShieldDeactivated: "&5&lCLASSES &8→ &7Your &c&nblood&7 shield has deactivated."
+  bloodShieldCooldown: "&5&lCLASSES &8→ &7You must wait &5&n%time%&7 seconds before trying to use the blood shield again!"
+
+  waterTridentCooldown: "&5&lCLASSES &8→ &7You must wait &5&n%time%&7 seconds before trying to use the water blast again!"
+  waterShieldActivated: "&5&lCLASSES &8→ &7You have activated your &b&nwater&7 shield."
+  waterShieldDeactivated: "&5&lCLASSES &8→ &7Your &b&nwater&7 shield has deactivated."
+  waterShieldCooldown: "&5&lCLASSES &8→ &7You must wait &5&n%time%&7 seconds before trying to use the water shield again!"
+  hydroDashEnabled: "&5&lCLASSES &8→ &7HydroDash has been &a&nenabled&7."
+  hydroDashDisabled: "&5&lCLASSES &8→ &7HydroDash has been &c&ndisabled&7."
+  hydroDashActivated: "&5&lCLASSES &8→ &7HydroDash activated!"
+  hydroDashCooldown: "&5&lCLASSES &8→ &7You must wait &5&n%time%&7 minutes before trying to use the hydro dash again!"
+
+  fireAxeCooldown: "&5&lCLASSES &8→ &7You must wait &5&n%time%&7 seconds before trying to use the fireball again!"
+  fireShieldCooldown: "&5&lCLASSES &8→ &7You must wait &5&n%time%&7 seconds before trying to use the fire shield again!"
+  fireShieldActivated: "&5&lCLASSES &8→ &7You have activated your &4&nfire&7 shield."
+  fireShieldDeactivated: "&5&lCLASSES &8→ &7Your &4&nfire&7 shield has deactivated."
+  scorchedEarthActivated: "&5&lCLASSES &8→ &7You have activated your scorch earth ability! Let the flames roar!"
+  scorchedEarthCooldown: "&5&lCLASSES &8→ &7You must wait &5&n%time%&7 minutes before trying to use the scorch earth ability again!"
+  scorched-earth-enabled: "&5&lCLASSES &8→ &7Scorched earth ability has been &a&nenabled&7."
+  scorched-earth-disabled: "&5&lCLASSES &8→ &7Scorched earth ability has been &c&ndisabled&7."
+
+  soulScytheCooldown: "&5&lCLASSES &8→ &7You must wait &5&n%time%&7 seconds before trying to use soul stab again."
+  soulShieldCooldown: "&5&lCLASSES &8→ &7You must wait &5&n%time%&7 seconds before trying to use the soul shield again!"
+  soulShieldActivated: "&5&lCLASSES &8→ &7You have activated your &8&nsoul&7 shield."
+  soulShieldDeactivated: "&5&lCLASSES &8→ &7Your &8&nsoul&7 shield has deactivated."
+  soulStealEnabled: "&5&lCLASSES &8→ &7Soul steal ability &a&nenabled&7."
+  soulStealDisabled: "&5&lCLASSES &8→ &8Soul steal ability &c&ndisabled&7."
+  soulStealActivated: "&5&lCLASSES &8→ &7Soul steal unleashed!"
+  soulStealOnCooldown: "&5&lCLASSES &8→ &7Soul steal is on cooldown! Please wait %time% seconds."
+  scneedPoints: "&5&lCLASSES &8→ &7You need &c%points%&7 soul points to activate soul crush."
+  scactivated: "&5&lCLASSES &8→ &7You activated soul crush!"
+  soulPointsView: "&5&lCLASSES &8→ &c%player%&7 has &c%points%&7 soul points."
+
+  snowPointsView: "&5&lCLASSES &8→ &c%player%&7 has &c%points%&7 snow points."
+  sbneedPoints: "&5&lCLASSES &8→ &7You need &c%points%&7 snow points to activate snow blizzard."
+  sbactivated: "&5&lCLASSES &8→ &7You activated snow blizzard!"
+  snowShieldActivated: "&5&lCLASSES &8→ &7You have activated your &f&nsnow&7 shield."
+  snowShieldDeactivated: "&5&lCLASSES &8→ &7Your &f&nsnow&7 shield has deactivated."
+  icePickCooldown: "&5&lCLASSES &8→ &7You must wait &5&n%time%&7 seconds before trying to use ick pick again."
+  snowShieldCooldown: "&5&lCLASSES &8→ &7You must wait &5&n%time%&7 seconds before trying to use the snow shield again!"
+  proximityFreezeEnabled: "&5&lCLASSES &8→ &7Proximity freeze enabled!"
+  proximityFreezeDisabled: "&5&lCLASSES &8→ &7Proximity freeze disabled!"
+  proximityFreezeCooldown: "&5&lCLASSES &8→ &7You must wait &f&n%time%&7 seconds before using proximity freeze again!"
+  proximityFreezeActivated: "&5&lCLASSES &8→ &7Proximity freeze activated! Snowflakes are falling!"
+
+  lightningPointsView: "&5&lCLASSES &8→ &c%player%&7 has &c%points%&7 lightning points."
+  lightningStrikeCooldown: "&5&lCLASSES &8→ &7You must wait &5&n%time%&7 seconds before trying to use lightning strike again."
+  electricShieldActivated: "&5&lCLASSES &8→ &7You have activated your &e&nelectric&7 shield."
+  electricShieldDeactivated: "&5&lCLASSES &8→ &7Your &e&nelectric&7 shield has deactivated."
+  electricShieldCooldown: "&5&lCLASSES &8→ &7You must wait &5&n%time%&7 seconds before trying to use the electric shield again!"
+  lightningDashEnabled: "&5&lCLASSES &8→ &7LightningDash has been &a&nenabled&7."
+  lightningDashDisabled: "&5&lCLASSES &8→ &7LightningDash has been &c&ndisabled&7."
+  lightningDashCooldown: "&5&lCLASSES &8→ &7You must wait &5&n%time%&7 minutes before trying to use the lightning dash again!"
+  lightningDashActivated: "&5&lCLASSES &8→ &7LightningDash activated!"
+  lsneedPoints: "&5&lCLASSES &8→ &7You need &c%points%&7 lightning points to activate lightning storm."
+  lsactivated: "&5&lCLASSES &8→ &7You activated lightning storm!"
+
+levelsmessages:
+  level-up: "&5&lCLASSES &8→ &7You leveled up to level &e{level}&7!"
+  action-bar: "&e&lEXPERIENCE: &7{exp}&8/&7{max-exp}&7 ({percentage}%)"
+  max-level: "&5&lCLASSES &8→ &7You have reached the maximum level of &e{level}&7 and cannot level up further."
+
+shopMessages:
+  insufficientPoints: "&5&lCLASSES &8→ &7You don't have enough points to purchase this item!"
+  purchaseSuccess: "&5&lCLASSES &8→ &7You purchased &c%item%&7 for &c%cost%&7 points!"
+  pointsDeducted: "&5&lCLASSES &8→ &7Points successfully deducted."
+  noItemsInShop: "&c&lERROR! &7No items found in the shop configuration."
+  invalidItem: "&c&lERROR! &7Item not found or invalid."
+
+partyMessages:
+  createSuccess: "&5&lCLASSES &8→ &7Party &6%partyName%&7 created successfully."
+  joinSuccess: "&5&lCLASSES &8→ &7Joined party &6%partyName%&7."
+  playerAlreadyInParty: "&5&lCLASSES &8→ &7You are already in a party. Leave it first to join another."
+  partyNotExist: "&5&lCLASSES &8→ &7Party &6%partyName%&7 does not exist."
+  partyExists: "&c&lERROR! &7Party &6%partyName%&7 already exists."
+  leaveSuccess: "&5&lCLASSES &8→ &7You have left the party &6%partyName%&7."
+  partyDisbanded: "&5&lCLASSES &8→ &7Party &6%partyName%&7 has been disbanded as you were the last member."
+  kickSuccess: "&5&lCLASSES &8→ &7You kicked &6%playerName%&7 from the party."
+  kickedFromParty: "&5&lCLASSES &8→ &7You have been kicked from the party &6%partyName%&7."
+  notInParty: "&c&lERROR! &7You are not in a party."
+  noPermission: "&c&lERROR! &7You do not have permission to use these commands. Contact your leader."
+  playerNotInParty: "&c&lERROR! &7Player &6%playerName%&7 not found in your party."
+  chatFormat: "&6[Party] %sender% &8→ &7%message%"
+  adminPartyChatFormat: "&c[Admin]&6 [Party] %sender% &8→ &7%message%"
+  adminChatDisabled: "&5&lCLASSES &8→ &7You have disabled admin spy chat."
+  adminChatEnabled: "&5&lCLASSES &8→ &7You have enabled admin spy chat."
+  notInAnyParty: "&5&lCLASSES &8→ &6%playerName%&7 is not in any party."
+  unknownCommand: "&c&lERROR! &7Unknown subcommand."
+  viewPartyMessage: "&5&lCLASSES &8→ &6%playerName%&7 is in the party &6%partyName%&7."
+
+  membersHeader: "&8[&5&lCLASSES&8] &7Showing members for the party &6%partyName%&7:"
+  leaderLabel: "&8[&6Leader&8] "
+  noMembers: "&c&lERROR! &7This party has no members."
+
+  listHeader: "&8[&5&lCLASSES&8] &7Showing all parties:"
+  partyItem: "&7- &6%partyName%"
+  leaderHover: "&8[&6Leader&8] &6%leaderName%"
+
+  inviteSent: "&5&lCLASSES &8→ &7You have sent the invitation to &6%playerName%&7."
+  inviteReceived: "&5&lCLASSES &8→ &7You have been invited to join the party &6%partyName%&7. Type /party accept to join, or /party decline to decline."
+  inviteAccepted: "&5&lCLASSES &8→ &7You have successfully joined the party &6%partyName%&7."
+  inviteDeclined: "&5&lCLASSES &8→ &7You have declined the invitation to join the party &6%partyName%&7."
+  noInvite: "&c&lERROR! &7You have no pending invitations."
+  friendlyFire: "&5&lCLASSES &8→ &7You cannot attack members of your own party!"
+  warpNotExist: "&5&lCLASSES &8→ &7Warp does not exist."
+  warpSuccess: "&5&lCLASSES &8→ &7Teleporting..."
+  maxWarpsReached: "&5&lCLASSES &8→ &7Maximum amount of warps has been reached."
+  setWarpSuccess: "&5&lCLASSES &8→ &7Successfully set the warp to your location."
+  deleteWarpSuccess: "&5&lCLASSES &8→ &7Successfully deleted the warp."
+  homeTeleportSuccess: "&5&lCLASSES &8→ &7Teleporting..."
+  setHomeSuccess: "&5&lCLASSES &8→ &7Set the party home to your location."
+  homeNotSet: "&5&lCLASSES &8→ &7There is no party home set."
+  homeNotExist: "&5&lCLASSES &8→ &7Home does not exist."
+  deleteHomeSuccess: "&5&lCLASSEs &8→ &7Deleted the party home."
+  noPartiesExist: "&5&lCLASSES &8→ &7No parties exist."
+  leaderCannotLeave: "&5&lCLASSES &8→ &7Please promote another player to leader before trying to leave."
+  newLeader: "&5&lCLASSES &8→ &6%playerName%&7 is the new leader of the party."
+  targetMessageNewLeader: "&5&lCLASSES &8→ &7You have been promoted to the leader of the party."
+  usage:
+    create: "&5&lCLASSES &8→ &7Usage: /party create (party name)"
+    kick: "&5&lCLASSES &8→ &7Usage: /party kick (player)"
+    chat: "&5&lCLASSES &8→ &7Usage: /party chat (message)"
+    view: "&5&lCLASSES &8→ &7Usage: /party view (player)"
+    members: "&5&lCLASSES &8→ &7Usage: /party members (party name)"
+    warp: "&5&lCLASSES &8→ &7Usage: /party warp (name)"
+    setwarp: "&5&lCLASSES &8→ &7Usage: /party setwarp (name)"
+    delwarp: "&5&lCLASSES &8→ &7Usage: /party delwarp (name)"
+    invite: "&5&lCLASSES &8→ &7Usage: /party invite (player)"
+    leader: "&5&lCLASSES &8→ &7Usage: /party leader (player)"
+  maxWarps: 3
+
+# All cooldowns are measured in milliseconds.
+# 10000 = 10 seconds in milliseconds.
+# 600000 = 10 minutes in milliseconds.
+
+cooldowns:
+  bloodSwordCooldown: 10000
+  bloodLiftCooldown: 10000
+  bloodShieldCooldown: 10000
+  waterTridentCooldown: 10000
+  waterShieldCooldown: 10000
+  hydroDashCooldown: 600000
+  fireAxeCooldown: 10000
+  fireShieldCooldown: 10000
+  scorchedEarthCooldown: 600000
+  soulScytheCooldown: 10000
+  soulShieldCooldown: 10000
+  soulStealCooldown: 10000
+  icePickCooldown: 10000
+  snowShieldCooldown: 10000
+  proximityFreezeCooldown: 10000
+  lightningStrikeCooldown: 10000
+  electricShieldCooldown: 10000
+  lightningDashCooldown: 10000
+
+# All durations are stored in seconds.
+
+durations:
+  hydroDash: 6
+  lightningDash: 6
+
+blood-frenzy:
+  required-points: 2000
+aquasurge:
+  required-points: 2000
+firerage:
+  required-points: 2000
+soulcrush:
+  required-points: 2000
+snowblizzard:
+  required-points: 2000
+lightningstorm:
+  required-points: 2000

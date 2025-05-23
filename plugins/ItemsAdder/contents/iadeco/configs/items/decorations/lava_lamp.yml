@@ -1,0 +1,15 @@
+info:
+  namespace: iadeco
+items:
+  lava_lamp:
+    enabled: true
+    display_name: Lava Lamp
+    permission: iadeco.decorations.lava_lamp
+    resource:
+      material: PAPER
+      generate: false
+      model_path: lava_lamp
+    behaviours:
+      furniture:
+        small: true
+        light_level: 7

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 72.17.89.214
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736696996357
+  login: 1736696502419
+money: '0'
+last-account-name: Arsonolace
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 6.691227873148069
+  y: 99.5
+  z: 0.44564218106312187
+  yaw: -88.2471923828125
+  pitch: -1.049910306930542
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -3245.6671658049777
+  y: 87.0
+  z: -4941.316463600474
+  yaw: 19.6025390625
+  pitch: 6.450115203857422

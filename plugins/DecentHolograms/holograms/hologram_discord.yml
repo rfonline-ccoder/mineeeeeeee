@@ -1,0 +1,18 @@
+location: Spawn:6.476:103.000:4.495
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&#0094f7&lDISCORD &f%img_important%'
+    height: 0.3
+  - content: '&#EBEBEBᴊᴏɪɴ ᴏᴜʀ ᴅɪꜱᴄᴏʀᴅ ꜱᴇʀᴠᴇʀ'
+    height: 0.3
+  - content: '&f%img_rclick_icon% ᴛᴏ ᴏᴘᴇɴ'
+    height: 0.3
+  - content: ''
+    height: 0.3
+  actions: {}

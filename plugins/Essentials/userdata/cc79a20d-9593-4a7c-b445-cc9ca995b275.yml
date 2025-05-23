@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 24.133.28.199
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743218230145
+  login: 1743218160859
+money: '0'
+last-account-name: Solzte
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -2.6586966626325643
+  y: 101.0
+  z: 29.527534240863623
+  yaw: 8.391998291015625
+  pitch: 12.679457664489746
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -2.699455872590132
+  y: 101.0
+  z: 29.853585944594816
+  yaw: 8.49481201171875
+  pitch: 12.987890243530273

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.111.155.42
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1729499313208
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729499451974
+  login: 1729498835022
+money: '0'
+last-account-name: Am2d
+lastlocation:
+  world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+  world-name: survival
+  x: 4482.9222022799295
+  y: 63.0
+  z: -2675.9779364791702
+  yaw: 159.99009704589844
+  pitch: 10.949994087219238
+logoutlocation:
+  world: c3d8b3e2-8f08-49d0-acac-12ef4ea51630
+  world-name: parkour
+  x: 9.5
+  y: 140.0
+  z: 5.5
+  yaw: -90.0
+  pitch: 0.0

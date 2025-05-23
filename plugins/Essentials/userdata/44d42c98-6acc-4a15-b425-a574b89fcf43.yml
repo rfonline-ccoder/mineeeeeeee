@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.119.40.136
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1738422807445
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738423083573
+  login: 1738422672621
+money: '0'
+last-account-name: mrsk1d
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -27.710209917051078
+  y: 101.0
+  z: 14.202248319327381
+  yaw: -97.0386962890625
+  pitch: 11.397031784057617
+logoutlocation:
+  world: 7d95fa49-a0a1-4c15-94ad-f9e83493784a
+  world-name: parkour
+  x: 15.691889385050455
+  y: 139.162141421027
+  z: 5.635591106119205
+  yaw: -87.29997253417969
+  pitch: 15.449984550476074

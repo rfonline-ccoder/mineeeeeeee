@@ -1,0 +1,9 @@
+name: Solzte
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - shop;29/03/2025
+    - auctionhouse;29/03/2025
+    - ranks;29/03/2025
+    - jobs;29/03/2025

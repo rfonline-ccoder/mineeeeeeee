@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 217.178.57.90
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1741465254576
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1741466030970
+  login: 1741464886506
+money: '0'
+last-account-name: LeiConrad
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -23.961102695412663
+  y: 115.0
+  z: 34.662538175656174
+  yaw: -143.75439453125
+  pitch: 25.70848274230957
+logoutlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 4119.6497855962525
+  y: 69.0
+  z: 2922.0111615742
+  yaw: -175.53302001953125
+  pitch: 3.0764520168304443

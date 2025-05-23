@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.130.239.93
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739451235542
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739451734389
+  login: 1739450905344
+money: '0'
+last-account-name: TVGames10
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 8.199999988079071
+  y: 99.5
+  z: 1.0353419820015481
+  yaw: -98.14196014404297
+  pitch: 15.150129318237305
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 4809.203018529759
+  y: 167.0
+  z: -1921.8482065605801
+  yaw: -100.09349822998047
+  pitch: 38.99979782104492

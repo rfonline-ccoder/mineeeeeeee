@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.222.188.141
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745101039456
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745242456660
+  login: 1745242170134
+money: '0'
+last-account-name: Maven_
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -696.989003054849
+  y: 65.0
+  z: 1919.5523091274683
+  yaw: 156.43736267089844
+  pitch: 7.241529941558838
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -8.659594691627941
+  y: 101.0
+  z: -7.510552376246178
+  yaw: 139.15780639648438
+  pitch: -0.5998839735984802

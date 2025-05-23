@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.195.11.202
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736183567683
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736183660522
+  login: 1736183515068
+money: '0'
+last-account-name: Yuurichii
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 3543.81038541679
+  y: 69.0
+  z: 62.96875234603789
+  yaw: -152.786865234375
+  pitch: 21.41860008239746
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -21.05466697721708
+  y: 101.0
+  z: 14.039525460806955
+  yaw: 98.26402282714844
+  pitch: 5.92982816696167

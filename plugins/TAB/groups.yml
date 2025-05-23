@@ -1,0 +1,98 @@
+#Owner:
+#  tabprefix: "&0&l[&a&lOwner&0&l] &a"
+#  tagprefix: "&2&lOwner &a"
+Player:
+  tabprefix: "&0&l[&7&lPlayer&0&l] &3"
+  tagprefix: "&2&lPlayer &3"
+example_group:
+  header:
+    - "This is an example of per-group header/footer"
+  footer:
+    - "applied to a group"
+
+ # default settings for all groups, all groups will take properties from this section unless player's primary group overrides a specific setting
+_DEFAULT_:
+  tabprefix: "%img_newbie_icon%%img_newbie% "
+  tagprefix: "%img_newbie_icon%%img_newbie% "
+  customtabname: "&7%player% &f%essentials_afk%"
+  tabsuffix: "%luckperms-suffix%"
+  tagsuffix: "%luckperms-suffix%"
+owner:
+  tabprefix: "%img_owner_icon%%img_owner% "
+  tagprefix: "%img_owner_icon%%img_owner% "
+  customtabname: "&#686cac%player% &f%essentials_afk%"
+  tabsuffix: "%luckperms-suffix%"
+  tagsuffix: "%luckperms-suffix%"
+manager:
+  tabprefix: "%img_manager_icon%%img_manager% "
+  tagprefix: "%img_manager_icon%%img_manager% "
+  customtabname: "&#00a388%player% &f%essentials_afk%"
+  tabsuffix: "%luckperms-suffix%"
+  tagsuffix: "%luckperms-suffix%"  
+admin:
+  tabprefix: "%img_admin_icon%%img_admin% "
+  tagprefix: "%img_admin_icon%%img_admin% "
+  customtabname: "&#e5383b%player% &f%essentials_afk%"
+  tabsuffix: "%luckperms-suffix%"
+  tagsuffix: "%luckperms-suffix%"    
+mod:
+  tabprefix: "%img_mod_icon%%img_mod% "
+  tagprefix: "%img_mod_icon%%img_mod% "
+  customtabname: "&#6100b0%player% &f%essentials_afk%"
+  tabsuffix: "%luckperms-suffix%"
+  tagsuffix: "%luckperms-suffix%"    
+helper:
+  tabprefix: "%img_helper_icon%%img_helper% "
+  tagprefix: "%img_helper_icon%%img_helper% "
+  customtabname: "&#369400%player% &f%essentials_afk%"
+  tabsuffix: "%luckperms-suffix%"
+  tagsuffix: "%luckperms-suffix%"    
+galactic:
+  tabprefix: "%img_galactic_icon%%img_galactic% "
+  tagprefix: "%img_galactic_icon%%img_galactic% "
+  customtabname: "&#ff0d6a%player% &f%essentials_afk%"
+  tabsuffix: "%luckperms-suffix%"
+  tagsuffix: "%luckperms-suffix%"    
+legendary:
+  tabprefix: "%img_legendary_icon%%img_legendary% "
+  tagprefix: "%img_legendary_icon%%img_legendary% "
+  customtabname: "&#e8b600%player% &f%essentials_afk%"
+  tabsuffix: "%luckperms-suffix%"
+  tagsuffix: "%luckperms-suffix%"    
+vipplus:
+  tabprefix: "%img_vipplus_icon%%img_vipplus% "
+  tagprefix: "%img_vipplus_icon%%img_vipplus% "
+  customtabname: "&#3061ff%player% &f%essentials_afk%"
+  tabsuffix: "%luckperms-suffix%"
+  tagsuffix: "%luckperms-suffix%"    
+vip:
+  tabprefix: "%img_vip_icon%%img_vip% "
+  tagprefix: "%img_vip_icon%%img_vip% "
+  customtabname: "&#5eff00%player% &f%essentials_afk%"
+  tabsuffix: "%luckperms-suffix%"
+  tagsuffix: "%luckperms-suffix%"    
+veteran:
+  tabprefix: "%img_veteran_icon%%img_veteran% "
+  tagprefix: "%img_veteran_icon%%img_veteran% "
+  customtabname: "&#ff4000%player% &f%essentials_afk%"
+  tabsuffix: "%luckperms-suffix%"
+  tagsuffix: "%luckperms-suffix%"    
+experienced:
+  tabprefix: "%img_experienced_icon%%img_experienced% "
+  tagprefix: "%img_experienced_icon%%img_experienced% "
+  customtabname: "&#2d2592%player% &f%essentials_afk%" 
+  tabsuffix: "%luckperms-suffix%"
+  tagsuffix: "%luckperms-suffix%"    
+member:
+  tabprefix: "%img_member_icon%%img_member% "
+  tagprefix: "%img_member_icon%%img_member% "
+  customtabname: "&#2c6900%player% &f%essentials_afk%"
+  tabsuffix: "%luckperms-suffix%"
+  tagsuffix: "%luckperms-suffix%"    
+  
+
+per-world:
+  world1:
+    Owner:
+      tabprefix: "&0&l[&a&lOwner&0&l] &a"
+      tagprefix: "&2&lOwner &a"

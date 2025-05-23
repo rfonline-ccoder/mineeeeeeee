@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 95.249.59.190
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733172547678
+  login: 1733172111155
+money: '0'
+last-account-name: Z3TASAX
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -4719.138940628752
+  y: 76.0
+  z: -761.5909631819857
+  yaw: 136.90908813476562
+  pitch: 33.2999267578125
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -0.39340149772587896
+  y: 99.5
+  z: 4.285843947693497
+  yaw: -62.74224090576172
+  pitch: 1.0697543621063232E-4

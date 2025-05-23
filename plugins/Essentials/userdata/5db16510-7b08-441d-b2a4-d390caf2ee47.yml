@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 124.246.74.169
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739364488204
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739364631664
+  login: 1739364090051
+money: '0'
+last-account-name: m3xr
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -3734.930903551842
+  y: 56.0
+  z: 3080.1104967001434
+  yaw: 138.45355224609375
+  pitch: 22.000789642333984
+homes:
+  home:
+    world: 5be272ee-638c-4e58-818c-62efb83411a5
+    world-name: resourceworld
+    x: -3755.638587855579
+    y: 72.0
+    z: 3139.7730071908672
+    yaw: 82.8856201171875
+    pitch: 51.59747314453125
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 5.880279194154057
+  y: 100.5
+  z: -9.947386521968234
+  yaw: 136.5152587890625
+  pitch: -30.641483306884766

@@ -1,0 +1,17 @@
+name: toilatiba
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - jobs;18/04/2025
+    - guide;18/04/2025
+    - help;18/04/2025
+    - kits;18/04/2025
+    - quests;18/04/2025
+    - emotes;18/04/2025
+    - skills;18/04/2025
+    - shop;18/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;21/04/2025

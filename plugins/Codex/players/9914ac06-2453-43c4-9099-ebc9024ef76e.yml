@@ -1,0 +1,20 @@
+name: Maven_
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - jobs;19/04/2025
+    - ranks;19/04/2025
+    - shop;19/04/2025
+    - auctionhouse;19/04/2025
+    - guide;19/04/2025
+    - help;19/04/2025
+    - kits;19/04/2025
+    - quests;19/04/2025
+    - emotes;19/04/2025
+    - skills;19/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - end;19/04/2025
+    - resourceworld;21/04/2025

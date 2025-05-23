@@ -1,0 +1,69 @@
+menu_title: 'Miner'
+size: 45
+items:
+    '1':
+        material: hdb-23055
+        slot: 20
+        display_name: "&#0098e3&lM&#0083d2&li&#006ec0&ln&#0059af&le&#00449e&lr"
+        lore: 
+        - "&fYou are currently level &b%jobsr_user_jlevel_Miner% &8(%jobsr_user_jexp_Miner%/%jobsr_user_jmaxexp_Miner%xp)"
+        - ""
+        - "&a► Left click ▪ Join this job"
+        - "&e► Right click ▪ Leave this job"
+        left_click_commands:
+        - '[player] jobs:jobs join Miner'
+        - '[close]'
+        right_click_commands:
+        - '[player] jobs:jobs leave Miner'
+        - '[close]'
+    '2':
+        material: map
+        slot: 21
+        display_name: "&#00aef5&lP&#00a2eb&la&#0096e1&li&#008ad8&ld &#0073c4&lt&#0067bb&la&#005bb1&ls&#004fa7&lk&#00449e&ls"
+        lore: 
+        - "&a► Left click ▪ Paid tasks list"
+        left_click_commands:
+        - '[player] jobs:jobs info Miner'
+        - '[close]'
+    '3':
+        material: nether_star
+        slot: 23
+        display_name: "&5&lRewards"
+        lore: 
+        - "&6Coming Soon..."
+    '4':
+        material: diamond
+        slot: 24
+        display_name: "&#00aff6&lL&#00a4ed&le&#0099e4&la&#008fdb&ld&#0084d2&le&#0079ca&lr&#006ec1&lb&#0064b8&lo&#0059af&la&#004ea6&lr&#00439d&ld"
+        lore: 
+        - "&a► Left click ▪ leaderboard"
+        left_click_commands:
+        - '[player] jobs:jobs top Miner'
+        - '[close]'
+    #Format
+    'back':
+        material: arrow
+        slot: 40
+        display_name: "&cReturn"
+        left_click_commands:
+        - '[openguimenu] jobs'
+    'vide-0':
+        material: green_stained_glass_pane
+        slots: 
+        - 0
+        - 8
+        - 36
+        - 44
+        display_name: " "
+    'vide-1':
+        material: lime_stained_glass_pane
+        slots: 
+        - 1
+        - 7
+        - 9
+        - 17
+        - 27
+        - 35
+        - 37
+        - 43
+        display_name: " "

@@ -1,0 +1,528 @@
+Name: Vote Crate
+Description: []
+ItemProvider:
+  Type: VANILLA
+  ItemTag: '{components:{"minecraft:custom_name":''{"extra":[{"color":"white","italic":false,"text":"Vote Crate"}],"text":""}'',"minecraft:hide_additional_tooltip":{},"minecraft:profile":{id:[I;-850160402,1534147744,-2009838519,1945945916],name:"1ff041976a09dd05",properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWZmMDQxOTc2YTA5ZGQwNTNlM2QxZDRlNjExYWFjMDk1OTRkNzRmYzcxYTBlYzRkYTAxMTA0MTZkMzE3ZGJhOCJ9fX0="}]}},count:1,id:"minecraft:player_head"}'
+Permission_Required: false
+Preview:
+  Enabled: true
+  Id: default
+Animation:
+  Enabled: true
+  Id: csgo
+Opening:
+  Cooldown: 0
+Key:
+  Required: true
+  Ids:
+  - vote
+Block:
+  Positions:
+  - 6,101,18,Spawn
+  Pushback:
+    Enabled: true
+  Hologram:
+    Enabled: true
+    Template: vote
+    Y_Offset: 0.0
+  Effect:
+    Model: helix
+    Particle:
+      Name: CRIT
+Milestones:
+  Repeatable: false
+_dataver: 600
+Rewards:
+  List:
+    turquoise_backpack:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"turquoise_backpack",namespace:"iawearables"}},"minecraft:custom_model_data":{floats:[10029.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Turquoise Backpack"}''},count:1,id:"minecraft:feather"}'
+    brown_backpack:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"brown_backpack",namespace:"iawearables"}},"minecraft:custom_model_data":{floats:[10033.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Brown Backpack"}''},count:1,id:"minecraft:feather"}'
+    diamonds_finder_potion:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"diamonds_finder_potion",namespace:"iaalchemy"}},"minecraft:custom_model_data":{floats:[10003.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Diamonds Finder Potion"}'',"minecraft:hide_additional_tooltip":{},"minecraft:potion_contents":{custom_color:16777215,potion:"minecraft:water"}},count:1,id:"minecraft:potion"}'
+    emerald_helmet:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:3.0d,id:"minecraft:caa1263a-7f51-3aa2-bbaf-e075ec010b84",operation:"add_value",slot:"head",type:"minecraft:armor"},{amount:1.0d,id:"minecraft:7f2ac0b3-e1af-3fa4-b17b-70260aa419a7",operation:"add_value",slot:"head",type:"minecraft:armor_toughness"}]},"minecraft:custom_data":{itemsadder:{id:"emerald_helmet",namespace:"nibrock"}},"minecraft:custom_model_data":{floats:[10006.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Emerald
+            Helmet"}'',"minecraft:dyed_color":{rgb:13697024,show_in_tooltip:0b},"minecraft:max_damage":264},count:1,id:"minecraft:leather_helmet"}'
+    emeralds_finder_potion:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"emeralds_finder_potion",namespace:"iaalchemy"}},"minecraft:custom_model_data":{floats:[10004.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Emeralds Finder Potion"}'',"minecraft:hide_additional_tooltip":{},"minecraft:potion_contents":{custom_color:16777215,potion:"minecraft:water"}},count:1,id:"minecraft:potion"}'
+    emerald_chestplate:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:8.0d,id:"minecraft:3a4cacc6-02e9-33d9-9df9-e60a04309160",operation:"add_value",slot:"chest",type:"minecraft:armor"},{amount:1.0d,id:"minecraft:11c76f71-f48e-3d64-b20b-9b5ef7444695",operation:"add_value",slot:"chest",type:"minecraft:armor_toughness"}]},"minecraft:custom_data":{itemsadder:{id:"emerald_chestplate",namespace:"nibrock"}},"minecraft:custom_model_data":{floats:[10007.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Emerald
+            Chestplate"}'',"minecraft:dyed_color":{rgb:13697024,show_in_tooltip:0b},"minecraft:max_damage":384},count:1,id:"minecraft:leather_chestplate"}'
+    emerald_leggings:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:6.0d,id:"minecraft:3def4594-0aef-3b15-87a4-c14599faeb3b",operation:"add_value",slot:"legs",type:"minecraft:armor"},{amount:1.0d,id:"minecraft:698c3779-d2b9-3a0b-a692-87a8ba45ffd6",operation:"add_value",slot:"legs",type:"minecraft:armor_toughness"}]},"minecraft:custom_data":{itemsadder:{id:"emerald_leggings",namespace:"nibrock"}},"minecraft:custom_model_data":{floats:[10007.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Emerald
+            Leggings"}'',"minecraft:dyed_color":{rgb:13697024,show_in_tooltip:0b},"minecraft:max_damage":360},count:1,id:"minecraft:leather_leggings"}'
+    emerald_boots:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:3.0d,id:"minecraft:8a377b4d-bf39-3dc2-a84f-32cef3243c79",operation:"add_value",slot:"feet",type:"minecraft:armor"},{amount:1.0d,id:"minecraft:7598cf5b-d5e7-3c7f-8617-91f0a6b5b5b5",operation:"add_value",slot:"feet",type:"minecraft:armor_toughness"}]},"minecraft:custom_data":{itemsadder:{id:"emerald_boots",namespace:"nibrock"}},"minecraft:custom_model_data":{floats:[10007.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Emerald
+            Boots"}'',"minecraft:dyed_color":{rgb:13697024,show_in_tooltip:0b},"minecraft:max_damage":312},count:1,id:"minecraft:leather_boots"}'
+    ruby_shield:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"ruby_shield",namespace:"iasurvival"}},"minecraft:custom_model_data":{floats:[10000.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Ruby Shield"}''},count:1,id:"minecraft:shield"}'
+    welding_mask:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"welding_mask",namespace:"iawearables"}},"minecraft:custom_model_data":{floats:[10009.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Welding Mask"}''},count:1,id:"minecraft:feather"}'
+    cool_sunglasses:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"cool_sunglasses",namespace:"iawearables"}},"minecraft:custom_model_data":{floats:[10014.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Cool Sunglasses"}''},count:1,id:"minecraft:feather"}'
+    green_bow:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"green_bow",namespace:"iasurvival"}},"minecraft:custom_model_data":{floats:[10002.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Green Bow"}''},count:1,id:"minecraft:bow"}'
+    bronze_axe:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"bronze_axe",namespace:"iasurvival"}},"minecraft:custom_model_data":{floats:[10000.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Bronze Axe"}''},count:1,id:"minecraft:diamond_axe"}'
+    ruby_axe:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:8.0d,id:"minecraft:fea58556-feda-3908-a028-c7b845ec35b1",operation:"add_value",slot:"mainhand",type:"minecraft:attack_damage"},{amount:-2.7d,id:"minecraft:c2e03d65-f173-3c34-98ba-2e8c232f6764",operation:"add_value",slot:"mainhand",type:"minecraft:attack_speed"}],show_in_tooltip:0b},"minecraft:custom_data":{itemsadder:{id:"ruby_axe",namespace:"iasurvival"}},"minecraft:custom_model_data":{floats:[10002.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Ruby
+            Axe"}'',"minecraft:lore":[''{"color":"dark_red","italic":false,"text":"Blocked Enchants:"}'',''{"color":"gray","italic":false,"text":"Mending"}'',''""'',''{"color":"gray","italic":false,"translate":"item.modifiers.mainhand"}'',''{"color":"dark_green","extra":[{"translate":"attribute.name.attack_damage"}],"italic":false,"text":" 9 "}'',''{"color":"dark_green","extra":[{"translate":"attribute.name.attack_speed"}],"italic":false,"text":" 1.3 "}''],"minecraft:max_damage":180},count:1,id:"minecraft:diamond_axe"}'
+    ruby_pickaxe:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:3.0d,id:"minecraft:1fe1dd93-f43b-39e1-adcc-d75e3be85aaf",operation:"add_value",slot:"mainhand",type:"minecraft:attack_damage"},{amount:-2.8d,id:"minecraft:96966ad6-f278-39d1-bfd5-a93912d7e415",operation:"add_value",slot:"mainhand",type:"minecraft:attack_speed"}],show_in_tooltip:0b},"minecraft:custom_data":{itemsadder:{id:"ruby_pickaxe",namespace:"iasurvival"}},"minecraft:custom_model_data":{floats:[10000.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Ruby
+            Pickaxe"}'',"minecraft:lore":[''{"color":"dark_red","italic":false,"text":"Blocked Enchants:"}'',''{"color":"gray","italic":false,"text":"Mending"}'',''""'',''{"color":"gray","italic":false,"translate":"item.modifiers.mainhand"}'',''{"color":"dark_green","extra":[{"translate":"attribute.name.attack_damage"}],"italic":false,"text":" 4 "}'',''{"color":"dark_green","extra":[{"translate":"attribute.name.attack_speed"}],"italic":false,"text":" 1.2 "}''],"minecraft:max_damage":180},count:1,id:"minecraft:iron_pickaxe"}'
+    ruby_sword:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:5.0d,id:"minecraft:581f320d-1433-3b47-bf4d-0ff1533e8ce8",operation:"add_value",slot:"mainhand",type:"minecraft:attack_damage"},{amount:-2.1d,id:"minecraft:c754f0d4-e344-3d44-b484-bf0465e6e0ed",operation:"add_value",slot:"mainhand",type:"minecraft:attack_speed"}],show_in_tooltip:0b},"minecraft:custom_data":{itemsadder:{id:"ruby_sword",namespace:"iasurvival"}},"minecraft:custom_model_data":{floats:[10000.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Ruby
+            Sword"}'',"minecraft:lore":[''{"color":"dark_red","italic":false,"text":"Blocked Enchants:"}'',''{"color":"gray","italic":false,"text":"Mending"}'',''""'',''{"color":"gray","italic":false,"translate":"item.modifiers.mainhand"}'',''{"color":"dark_green","extra":[{"translate":"attribute.name.attack_damage"}],"italic":false,"text":" 6 "}'',''{"color":"dark_green","extra":[{"translate":"attribute.name.attack_speed"}],"italic":false,"text":" 1.9 "}''],"minecraft:max_damage":180},count:1,id:"minecraft:diamond_sword"}'
+    bronze_sword:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:5.5d,id:"minecraft:114ff37d-28d8-3bf0-84cb-5380d1efe18b",operation:"add_value",slot:"mainhand",type:"minecraft:attack_damage"},{amount:-0.03d,id:"minecraft:dc5167d5-fe1a-30b0-b1c7-da2194b1fce9",operation:"add_multiplied_base",slot:"mainhand",type:"minecraft:movement_speed"}],show_in_tooltip:0b},"minecraft:custom_data":{itemsadder:{id:"bronze_sword",namespace:"iasurvival"}},"minecraft:custom_model_data":{floats:[10017.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Bronze
+            Sword"}'',"minecraft:lore":[''""'',''{"color":"gray","italic":false,"translate":"item.modifiers.mainhand"}'',''{"color":"dark_green","extra":[{"translate":"attribute.name.attack_damage"}],"italic":false,"text":" 6.5 "}'',''{"color":"dark_green","extra":[{"translate":"attribute.name.attack_speed"}],"italic":false,"text":" 1.6 "}''],"minecraft:max_damage":1862},count:1,id:"minecraft:diamond_sword"}'
+    cassiterite_fragment:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"cassiterite_fragment",namespace:"iasurvival"}},"minecraft:custom_model_data":{floats:[10001.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Cassiterite Fragment"}''},count:16,id:"minecraft:iron_ingot"}'
+    dark_amethyst_prism:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"dark_amethyst_prism",namespace:"iasurvival"}},"minecraft:custom_model_data":{floats:[10014.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Dark Amethyst Prism"}''},count:4,id:"minecraft:iron_ingot"}'
+    bronze_shield:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:-0.07d,id:"minecraft:f305d2ee-7647-362e-a07e-54ae84ebae6b",operation:"add_multiplied_base",slot:"mainhand",type:"minecraft:movement_speed"},{amount:-0.07d,id:"minecraft:d9f7e2a9-02a0-34dc-a821-ace13d1a4490",operation:"add_multiplied_base",slot:"offhand",type:"minecraft:movement_speed"}]},"minecraft:custom_data":{itemsadder:{id:"bronze_shield",namespace:"iasurvival"}},"minecraft:custom_model_data":{floats:[10003.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Bronze
+            Shield"}'',"minecraft:max_damage":512},count:1,id:"minecraft:shield"}'
+    turquoise:
+      Type: ITEM
+      Weight: 10.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      ItemsData:
+        '0':
+          Type: VANILLA
+          ItemTag: '{components:{"minecraft:custom_data":{itemsadder:{id:"turquoise",namespace:"iasurvival"}},"minecraft:custom_model_data":{floats:[10005.0f]},"minecraft:custom_name":''{"color":"white","italic":false,"text":"Turquoise"}''},count:8,id:"minecraft:iron_ingot"}'

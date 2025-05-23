@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.24.61.45
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740944236943
+  login: 1740943803772
+money: '414.589'
+last-account-name: Froncia
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -23.41600749051543
+  y: 100.5
+  z: 17.32702671575587
+  yaw: -126.0096206665039
+  pitch: 8.215900421142578
+logoutlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 438.6128973536484
+  y: 72.0
+  z: 4294.483290158593
+  yaw: 0.288482666015625
+  pitch: 17.738014221191406

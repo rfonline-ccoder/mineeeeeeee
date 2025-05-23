@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.92.117.107
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732149262817
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732149762359
+  login: 1732148906539
+money: '0'
+last-account-name: Caricuao
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -9.699999988079071
+  y: 100.0
+  z: 0.1317835083035732
+  yaw: 93.24982452392578
+  pitch: -60.702430725097656
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 9.586548369040594
+  y: 103.0
+  z: 25.278570901993163
+  yaw: -45.710205078125
+  pitch: 11.000157356262207

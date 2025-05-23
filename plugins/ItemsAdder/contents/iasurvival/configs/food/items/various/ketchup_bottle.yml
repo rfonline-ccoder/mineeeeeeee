@@ -1,0 +1,12 @@
+info:
+  namespace: iasurvival
+items:
+  ketchup_bottle:
+    enabled: true
+    display_name: Ketchup Bottle
+    permission: iasurvival.various.ketchup_bottle
+    resource:
+      material: STICK
+      generate: true
+      textures:
+        - item/food/various/ketchup_bottle

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 143.109.116.153
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737061209950
+  login: 1737061121691
+money: '0'
+last-account-name: sockman21
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -823.7073228983875
+  y: 68.0
+  z: 338.0733248656922
+  yaw: 15.542724609375
+  pitch: 0.042774349451065063
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -76.94077180958529
+  y: 107.0
+  z: 22.028408069517546
+  yaw: 57.85662841796875
+  pitch: 37.5001106262207

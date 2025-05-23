@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.106.101.188
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736389078938
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736655129183
+  login: 1736655121718
+money: '0'
+last-account-name: berkveth
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 4618.357312429482
+  y: 80.0
+  z: -1731.8097157698232
+  yaw: -55.15080642700195
+  pitch: 32.88420486450195
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.5819320022743713
+  y: 100.1212968405392
+  z: 5.563970108223431
+  yaw: 26.407407760620117
+  pitch: 33.749759674072266

@@ -1,0 +1,11 @@
+name: sharkblind
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - jobs;22/02/2025
+    - kits;22/02/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;22/02/2025

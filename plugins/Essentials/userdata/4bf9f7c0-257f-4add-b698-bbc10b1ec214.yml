@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.165.190.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745270575215
+  login: 1745270383549
+money: '0'
+last-account-name: Chronosia
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 8.057892799190494
+  y: 99.5
+  z: -0.34217220540912513
+  yaw: -63.64281463623047
+  pitch: 3.7501773834228516
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 3919.0345594307123
+  y: 85.0
+  z: 3850.114764134856
+  yaw: 8.057133674621582
+  pitch: 9.000068664550781

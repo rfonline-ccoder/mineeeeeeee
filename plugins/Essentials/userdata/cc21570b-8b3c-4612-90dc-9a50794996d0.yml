@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.100.93.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1730062356083
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730064712772
+  login: 1730062164594
+money: '0'
+last-account-name: powergamingx
+lastlocation:
+  world: 9bb8c1dc-9fb2-464a-90ee-84bb1aa1b99e
+  world-name: resourceworld
+  x: -4494.274264327315
+  y: 71.0
+  z: -3660.7653364897433
+  yaw: 108.32858276367188
+  pitch: 36.2320442199707
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -10.068966971293232
+  y: 100.0
+  z: -4.422275363262514
+  yaw: 92.35994720458984
+  pitch: 4.950122356414795

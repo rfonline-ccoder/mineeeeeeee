@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 84.115.232.102
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735166439424
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735166531414
+  login: 1735166314524
+money: '0'
+last-account-name: BabbelDud
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 7.200093785671702
+  y: 99.5
+  z: 0.5094515446347125
+  yaw: 62.957767486572266
+  pitch: 4.5001091957092285
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 3856.728185830762
+  y: 65.0
+  z: -3746.923286863392
+  yaw: 32.807456970214844
+  pitch: 4.200200080871582

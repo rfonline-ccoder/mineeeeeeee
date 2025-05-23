@@ -1,0 +1,13 @@
+name: Brigitte2
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - kits;26/03/2025
+    - emotes;26/03/2025
+    - skills;26/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;26/03/2025
+    - end;26/03/2025

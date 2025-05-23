@@ -1,0 +1,47 @@
+quest-progress:
+  miner1:
+    started: false
+    started-date: 1735202854433
+    completed: true
+    completed-before: true
+    completion-date: 1735202854433
+    task-progress:
+      mining:
+        completed: false
+  miner2:
+    started: false
+    started-date: 1735203073228
+    completed: true
+    completed-before: true
+    completion-date: 1735203073228
+    task-progress:
+      mining:
+        completed: false
+  miner3:
+    started: false
+    started-date: 1735203449978
+    completed: true
+    completed-before: true
+    completion-date: 1735203449979
+    task-progress:
+      mining:
+        completed: false
+  miner4:
+    started: false
+    started-date: 1736860264925
+    completed: true
+    completed-before: true
+    completion-date: 1736860264925
+    task-progress:
+      mining:
+        completed: false
+  playtime1:
+    started: true
+    started-date: 1740491846301
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      playtime:
+        completed: false
+        progress: 41

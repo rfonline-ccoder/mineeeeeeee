@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.253.33.40
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734151699344
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734151858345
+  login: 1734151450849
+money: '0'
+last-account-name: Veroon
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -1429.6419053814839
+  y: 82.0
+  z: 2347.5607483811245
+  yaw: 148.60374450683594
+  pitch: 6.899864196777344
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -47.13363218711561
+  y: 107.5
+  z: 27.808897398397217
+  yaw: -121.2410888671875
+  pitch: -14.399881362915039

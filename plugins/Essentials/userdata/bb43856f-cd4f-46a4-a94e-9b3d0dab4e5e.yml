@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.176.125.174
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1729438813657
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1732795921660
+  login: 1732795754256
+money: '0'
+last-account-name: zrzskys
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -8.193098776741932
+  y: 99.5
+  z: 1.1555240546917307
+  yaw: 112.15835571289062
+  pitch: -20.774497985839844
+logoutlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: 1711.116428076255
+  y: -17.166791556335426
+  z: 1860.8852632389692
+  yaw: 150.5224151611328
+  pitch: 6.194561004638672

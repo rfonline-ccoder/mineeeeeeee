@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.65.157.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1740505451511
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740505741207
+  login: 1740505104109
+money: '0'
+last-account-name: Vasst
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 9.137499988079071
+  y: 100.0
+  z: 0.16154521627448978
+  yaw: 83.95742797851562
+  pitch: 32.099952697753906
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -3923.327403097832
+  y: 77.0
+  z: 4758.488898370323
+  yaw: -30.641632080078125
+  pitch: -22.35000228881836

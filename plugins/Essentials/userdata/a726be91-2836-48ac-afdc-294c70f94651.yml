@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.67.199.162
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745971914028
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745973046005
+  login: 1745970443769
+money: '0'
+last-account-name: vernat
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: -2483.699999988079
+  y: 64.0
+  z: 2131.2389116904205
+  yaw: 80.9580078125
+  pitch: 12.900135040283203
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 4.113685027478338
+  y: 99.5
+  z: -2.523874176825044
+  yaw: -112.99227142333984
+  pitch: -2.549891948699951

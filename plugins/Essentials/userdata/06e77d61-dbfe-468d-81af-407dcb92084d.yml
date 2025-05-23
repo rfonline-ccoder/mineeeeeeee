@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.192.55.41
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1738414833507
+  login: 1738414641278
+money: '0'
+last-account-name: Voltavas
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 6.3965246604568735
+  y: 99.5
+  z: 0.8811202174952878
+  yaw: 47.568359375
+  pitch: 5.4578986167907715
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -996.7177760582002
+  y: 72.0
+  z: -893.1429324415119
+  yaw: -65.107421875
+  pitch: 11.951308250427246

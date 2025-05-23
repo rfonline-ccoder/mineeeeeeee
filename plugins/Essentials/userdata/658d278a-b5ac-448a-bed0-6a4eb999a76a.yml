@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 202.162.195.182
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1740713047767
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740713057036
+  login: 1740713041448
+money: '0'
+last-account-name: bablah
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: -3439.809360650009
+  y: 65.0
+  z: -2724.699999988079
+  yaw: 8.507452011108398
+  pitch: 22.799943923950195
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.6570281364773197
+  y: 100.0
+  z: 0.7592366256010682
+  yaw: -178.2422332763672
+  pitch: 13.200113296508789

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 217.84.4.198
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743609286392
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743609590545
+  login: 1743608293791
+money: '1200'
+last-account-name: Bennybetr
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -8.606958762946281
+  y: 99.5
+  z: 0.4799432327191916
+  yaw: -68.11444091796875
+  pitch: -89.599609375
+logoutlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: -1299.5719813510384
+  y: 64.0
+  z: -4326.815907941163
+  yaw: -48.857391357421875
+  pitch: 4.494819641113281

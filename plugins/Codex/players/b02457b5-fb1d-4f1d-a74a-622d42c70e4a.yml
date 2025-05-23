@@ -1,0 +1,12 @@
+name: PlantsvsCZE
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - skills;21/04/2025
+    - ranks;21/04/2025
+    - kits;21/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;21/04/2025

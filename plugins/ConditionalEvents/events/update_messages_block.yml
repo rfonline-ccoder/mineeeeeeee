@@ -1,0 +1,15 @@
+Events:
+  codex_update_block_message:
+    type: protocollib_receive_message
+    conditions:
+    - "%normal_message% contains a new version available"
+    actions:
+      default:
+      - "cancel_event: true"     
+  codex_update_block_message2:
+    type: protocollib_receive_message
+    conditions:
+    - "%normal_message% contains download it at"
+    actions:
+      default:
+      - "cancel_event: true" 

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 72.211.220.163
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745375600985
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745376254960
+  login: 1745375596969
+money: '0'
+last-account-name: Marcpoet
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 3389.2852689966403
+  y: 68.0
+  z: -1913.2527412614095
+  yaw: -97.87106323242188
+  pitch: 21.20934295654297
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -3.4378673898096856
+  y: 100.0
+  z: -8.407928559329584
+  yaw: -135.32188415527344
+  pitch: -1.507874608039856

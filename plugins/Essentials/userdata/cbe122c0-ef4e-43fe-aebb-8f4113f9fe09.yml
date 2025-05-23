@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.78.212.126
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1729041794213
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729041893598
+  login: 1729041647915
+money: '0'
+last-account-name: Kweena
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 8.951377943339722
+  y: 100.0
+  z: 1.1040816126222142
+  yaw: 98.30108642578125
+  pitch: 5.849675178527832
+logoutlocation:
+  world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+  world-name: survival
+  x: 861.3163173960888
+  y: 95.0
+  z: -4231.5536823293805
+  yaw: -140.94923400878906
+  pitch: 10.050012588500977

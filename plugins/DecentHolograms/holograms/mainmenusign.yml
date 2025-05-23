@@ -1,0 +1,16 @@
+location: Spawn:-9.700:102.500:0.518
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '%img_main_menu_sign%'
+    height: 0.3
+  - content: ' '
+    height: 0.3
+  - content: '&f%img_rclick_icon% ᴛᴏ ᴏᴘᴇɴ'
+    height: 0.3
+  actions: {}

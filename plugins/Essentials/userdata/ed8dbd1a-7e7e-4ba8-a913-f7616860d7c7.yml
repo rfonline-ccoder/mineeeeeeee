@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.219.254.217
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736941952962
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736942025398
+  login: 1736941684752
+money: '0'
+last-account-name: AlphaMatou
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -1296.2440961514756
+  y: 79.0
+  z: -373.0734717880305
+  yaw: 80.24024200439453
+  pitch: 30.601795196533203
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 3.065889933300534
+  y: 100.0
+  z: 0.5791481764443814
+  yaw: 118.01597595214844
+  pitch: 9.737226486206055

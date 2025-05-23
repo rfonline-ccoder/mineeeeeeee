@@ -1,0 +1,20 @@
+name: mertimm
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - skills;25/03/2025
+    - emotes;25/03/2025
+    - auctionhouse;25/03/2025
+    - shop;25/03/2025
+    - help;25/03/2025
+    - jobs;26/03/2025
+    - guide;26/03/2025
+    - kits;02/04/2025
+    - quests;23/04/2025
+    - ranks;28/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;25/03/2025
+    - survival;25/03/2025

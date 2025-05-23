@@ -1,0 +1,9 @@
+name: BabyMsp2k
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - help;30/03/2025
+    - ranks;30/03/2025
+    - shop;30/03/2025
+    - auctionhouse;30/03/2025

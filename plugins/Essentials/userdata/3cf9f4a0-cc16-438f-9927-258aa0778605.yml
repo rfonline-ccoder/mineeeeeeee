@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 104.28.207.109
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1729447264544
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729447269232
+  login: 1729447172456
+money: '0'
+last-account-name: Incbom
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 5.057316670492512
+  y: 100.0
+  z: 10.23643371019833
+  yaw: 135.70155334472656
+  pitch: 28.323406219482422
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 2.477762124462082
+  y: 99.5
+  z: 9.22301642921177
+  yaw: 126.8532485961914
+  pitch: -5.404952049255371

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.135.179.129
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733264644579
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739206544682
+  login: 1739206510747
+money: '0'
+last-account-name: EinPallux
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 35.650612347079736
+  y: -272.00126724844546
+  z: -34.087212880697656
+  yaw: 22.93524169921875
+  pitch: -1.200019359588623
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -6.709286627927779
+  y: 99.5
+  z: 0.9035070598233226
+  yaw: -75.04156494140625
+  pitch: 1.2001161575317383

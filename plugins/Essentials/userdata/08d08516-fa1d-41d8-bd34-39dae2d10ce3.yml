@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.144.7.3
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743012497406
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743013289146
+  login: 1743012488292
+money: '0'
+last-account-name: BitFlash_
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.11729970416708599
+  y: 99.5
+  z: -7.958922398695719
+  yaw: -99.20465087890625
+  pitch: -1.5600383281707764
+logoutlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 3195.4968450207803
+  y: 65.0
+  z: 2883.8017031661157
+  yaw: 72.12783813476562
+  pitch: -1.5600035190582275

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 98.58.15.91
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739497985470
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743116876050
+  login: 1743116350200
+money: '0'
+last-account-name: vxcn
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -2.3642551528924227
+  y: 100.0
+  z: 0.5009339257791494
+  yaw: -90.04224395751953
+  pitch: -1.1998910903930664
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -18.390035358571406
+  y: 103.0
+  z: -26.818512902150232
+  yaw: -50.235076904296875
+  pitch: 13.21413803100586

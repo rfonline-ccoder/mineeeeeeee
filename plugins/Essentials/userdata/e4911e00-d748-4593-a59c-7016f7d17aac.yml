@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.1.103.206
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739922393362
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739922494398
+  login: 1739922229378
+money: '0'
+last-account-name: RigerCrows
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 6.721182238497213
+  y: 99.5
+  z: 0.4123793186190002
+  yaw: -91.69227600097656
+  pitch: -8.249893188476562
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 3787.8841968330266
+  y: 145.4952008770059
+  z: 3335.3850082193053
+  yaw: 98.6549072265625
+  pitch: 26.400131225585938

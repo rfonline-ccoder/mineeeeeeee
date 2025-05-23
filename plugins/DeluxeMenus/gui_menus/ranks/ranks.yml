@@ -1,0 +1,1174 @@
+open_command:
+- rank
+- ranks
+size: 54
+register_command: true
+menu_title: ":offset_-16::ranks_menu:"
+items:
+  "RankDefaultYes":
+    material: itemsadder-mcicons:icon_newbie
+    slot: 10
+    display_name: "&a&lRank &f&l◆ %img_Newbie%"
+    lore:
+    - "&7"
+    - "&fStatus: &aUnlocked"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to create &e1 Player Warp"
+    - "&f► Access to &e1 Vault"
+    - "&f► Access to &ekit starter"
+    - "&f► Access to &e/emote celebrate"       
+    - "&f► Access to %img_newbie_icon%%img_newbie% prefix"
+
+  "RankMemberActual":
+    material: itemsadder-mcicons:icon_member
+    slot: 12
+    display_name: "&a&lRank &f&l◆ %img_member%"
+    lore:
+    - "&7"
+    - "&fStatus: &cUnobtained"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to create &e1 Player Warp"
+    - "&f► Access to &e1 Vault"
+    - "&f► Access to &ekit starter"
+    - "&f► Access to &e/emote celebrate"         
+    - "&f► Access to %img_member_icon%%img_member% prefix"
+    - "&7"
+    - "&e► Left-click to see the prerequisites"
+    - "&a► Right-click to get Member Rank"
+    priority: 1
+    view_requirement:
+      requirements:
+        complete:
+          type: has permission
+          permission: "group.default"
+    left_click_commands:
+    - '[openguimenu] member'
+    right_click_requirement:
+      requirements:
+        1:
+          type: has money
+          amount: 100
+        2:
+          type: '>='
+          input: '%jobsr_user_totallevels%'
+          output: '5'
+        3:
+          type: '>='
+          input: '%player_level%'
+          output: '10'
+        4:
+          type: '>='
+          input: '%checkitem_amount_mat:OAK_LOG%'
+          output: '64'
+        5:
+          type: '>='
+          input: '%checkitem_amount_mat:COAL%'
+          output: '64'
+        6:
+          type: '>='
+          input: '%checkitem_amount_mat:WHEAT%'
+          output: '64'
+        7:
+          type: '>='
+          input: '%checkitem_amount_mat:COD%'
+          output: '16'
+        8:
+          type: '>='
+          input: '%checkitem_amount_mat:ROTTEN_FLESH%'
+          output: '16'
+      deny_commands:
+      - "[message] &cYou have not met all the prerequisites!"
+    right_click_commands:
+    #Argent
+    - '[takemoney] 100'
+    #Level
+    - '[console] xp take %player_name% 10l'
+    #Rankup
+    - '[console] lp user %player_name% parent set member'
+    #Objet
+    - '[console] papi parse %player_name% %checkitem_remove_mat:OAK_LOG,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:COAL,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:WHEAT,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:COD,amt:16%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:ROTTEN_FLESH,amt:16%'
+    #Message
+    - '[console] bc &b&l%player_name% &fhas just moved to Rank :member: &8(/Ranks)'
+    #Close
+    - '[close]'
+  "RankMemberYes":
+    material: itemsadder-mcicons:icon_member
+    slot: 12
+    display_name: "&a&lRank &f&l◆ %img_Member%"
+    lore:
+    - "&7"
+    - "&fStatus: &aUnlocked"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to create &e1 Player Warp"
+    - "&f► Access to &e1 Vault"
+    - "&f► Access to &ekit starter"
+    - "&f► Access to &e/emote celebrate"         
+    - "&f► Access to %img_member_icon%%img_member% prefix"
+    priority: 0
+    view_requirement:
+      requirements:
+        complete:
+          type: has permission
+          permission: "group.member"
+    left_click_commands:
+    - '[openguimenu] member'
+
+  "RankExperiencedNo":
+    material: itemsadder-mcicons:icon_experienced
+    slot: 14
+    display_name: "&a&lRank &f&l◆ %img_experienced%"
+    lore:
+    - "&7"
+    - "&fStatus: &cLocked - Get the previous ranks first"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"    
+    - "&f► Access to create &e1 Player Warp"
+    - "&f► Access to &e1 Vault"
+    - "&f► Access to &ekit starter"
+    - "&f► Access to &e/emote celebrate"         
+    - "&f► Access to %img_experienced_icon%%img_experienced% prefix" 
+    priority: 2
+  "RankExperiencedActual":
+    material: itemsadder-mcicons:icon_experienced
+    slot: 14
+    display_name: "&a&lRank &f&l◆ %img_experienced%"
+    lore:
+    - "&7"
+    - "&fStatus: &cUnobtained"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"    
+    - "&f► Access to create &e1 Player Warp"
+    - "&f► Access to &e1 Vault"
+    - "&f► Access to &ekit starter"
+    - "&f► Access to &e/emote celebrate"         
+    - "&f► Access to %img_experienced_icon%%img_experienced% prefix"
+    - "&7"
+    - "&e► Left-click to see the prerequisites"
+    - "&a► Right-click to get Experienced Rank"
+    priority: 1
+    view_requirement:
+      requirements:
+        complete:
+          type: has permission
+          permission: "group.member"
+    left_click_commands:
+    - '[openguimenu] experienced'
+    right_click_requirement:
+      requirements:
+        1:
+          type: has money
+          amount: 500
+        2:
+          type: '>='
+          input: '%jobsr_user_totallevels%'
+          output: '10'
+        3:
+          type: '>='
+          input: '%player_level%'
+          output: '20'
+        4:
+          type: '>='
+          input: '%checkitem_amount_mat:OAK_LOG%'
+          output: '64'
+        5:
+          type: '>='
+          input: '%checkitem_amount_mat:BIRCH_LOG%'
+          output: '64'
+        6:
+          type: '>='
+          input: '%checkitem_amount_mat:COAL_BLOCK%'
+          output: '16'
+        7:
+          type: '>='
+          input: '%checkitem_amount_mat:IRON_INGOT%'
+          output: '64'
+        8:
+          type: '>='
+          input: '%checkitem_amount_mat:HAY_BLOCK%'
+          output: '64'
+        9:
+          type: '>='
+          input: '%checkitem_amount_mat:COD%'
+          output: '32'
+        10:
+          type: '>='
+          input: '%checkitem_amount_mat:SALMON%'
+          output: '16'
+        11:
+          type: '>='
+          input: '%checkitem_amount_mat:ROTTEN_FLESH%'
+          output: '64'
+        12:
+          type: '>='
+          input: '%checkitem_amount_mat:SPIDER_EYE%'
+          output: '32'
+        13: 
+          type: '>='
+          input: '%checkitem_amount_mat:COBBLED_DEEPSLATE%'
+          output: '64'
+    right_click_commands:
+    #Argent
+    - '[takemoney] 500'
+    #Level
+    - '[console] xp take %player_name% 20l'
+    #Rankup
+    - '[console] lp user %player_name% parent set experienced'
+    #Objet
+    - '[console] papi parse %player_name% %checkitem_remove_mat:OAK_LOG,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:BIRCH_LOG,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:COAL_BLOCK,amt:16%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:IRON_INGOT,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:HAY_BLOCK,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:COD,amt:32%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:SALMON,amt:16%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:ROTTEN_FLESH,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:SPIDER_EYE,amt:32%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:COBBLED_DEEPSLATE,amt:64%'    
+    #Message
+    - '[console] bc &b&l%player_name% &fhas just moved to rank :experienced: &8(/Ranks)'
+    #Close
+    - '[close]'
+  "RankExperiencedYes":
+    material: itemsadder-mcicons:icon_experienced
+    slot: 14
+    display_name: "&a&lRank &f&l◆ %img_experienced%"
+    lore:
+    - "&7"
+    - "&fStatus: &aUnlocked"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"    
+    - "&f► Access to create &e1 Player Warp"
+    - "&f► Access to &e1 Vault"
+    - "&f► Access to &ekit starter"
+    - "&f► Access to &e/emote celebrate"         
+    - "&f► Access to %img_experienced_icon%%img_experienced% prefix"
+    priority: 0
+    view_requirement:
+      requirements:
+        complete:
+          type: has permission
+          permission: "group.experienced"
+    left_click_commands:
+    - '[openguimenu] experienced'
+ #Ranks4
+  "RankVeteranNo":
+    material: itemsadder-mcicons:icon_veteran
+    slot: 16
+    display_name: "&a&lRank &f&l◆ %img_veteran%"
+    lore:
+    - "&7"
+    - "&fStatus: &cLocked - Get the previous ranks first"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"    
+    - "&f► Access to create &e1 Player Warp"
+    - "&f► Access to &e1 Vault"
+    - "&f► Access to &ekit starter"
+    - "&f► Access to &e/emote celebrate"         
+    - "&f► Access to %img_veteran_icon%%img_veteran% prefix"
+    priority: 2
+  "RankVeteranActual":
+    material: itemsadder-mcicons:icon_veteran
+    slot: 16
+    display_name: "&a&lRank &f&l◆ %img_veteran%"
+    lore:
+    - "&7"
+    - "&fStatus: &cUnobtained"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"    
+    - "&f► Access to create &e1 Player Warp"
+    - "&f► Access to &e1 Vault"
+    - "&f► Access to &ekit starter"
+    - "&f► Access to &e/emote celebrate"         
+    - "&f► Access to %img_veteran_icon%%img_veteran% prefix"
+    - "&7"
+    - "&e► Left-click to see the prerequisites"
+    - "&a► Right-click to get Veteran Rank"
+    priority: 1
+    view_requirement:
+      requirements:
+        complete:
+          type: has permission
+          permission: "group.experienced"
+    left_click_commands:
+    - '[openguimenu] veteran'
+    right_click_requirement:
+      requirements:
+        1:
+          type: has money
+          amount: 2500
+        2:
+          type: '>='
+          input: '%jobsr_user_totallevels%'
+          output: '35'
+        3:
+          type: '>='
+          input: '%player_level%'
+          output: '30'
+        4:
+          type: '>='
+          input: '%checkitem_amount_mat:OAK_LOG%'
+          output: '64'
+        5:
+          type: '>='
+          input: '%checkitem_amount_mat:BIRCH_LOG%'
+          output: '64'
+        6:
+          type: '>='
+          input: '%checkitem_amount_mat:SPRUCE_LOG%'
+          output: '64'
+        7:
+          type: '>='
+          input: '%checkitem_amount_mat:COAL_BLOCK%'
+          output: '32'
+        8:
+          type: '>='
+          input: '%checkitem_amount_mat:IRON_BLOCK%'
+          output: '16'
+        9:
+          type: '>='
+          input: '%checkitem_amount_mat:GOLD_INGOT%'
+          output: '64'
+        10:
+          type: '>='
+          input: '%checkitem_amount_mat:BASALT%'
+          output: '32'
+        11:
+          type: '>='
+          input: '%checkitem_amount_mat:POTATO%'
+          output: '64'
+        12:
+          type: '>='
+          input: '%checkitem_amount_mat:CARROT%'
+          output: '64'
+        13:
+          type: '>='
+          input: '%checkitem_amount_mat:BEETROOT%'
+          output: '64'
+        14:
+          type: '>='
+          input: '%checkitem_amount_mat:COD%'
+          output: '64'
+        15:
+          type: '>='
+          input: '%checkitem_amount_mat:SALMON%'
+          output: '32'
+        16:
+          type: '>='
+          input: '%checkitem_amount_mat:PUFFERFISH%'
+          output: '16'
+        17:
+          type: '>='
+          input: '%checkitem_amount_mat:BONE%'
+          output: '64'
+        18:
+          type: '>='
+          input: '%checkitem_amount_mat:RAW_COPPER%'
+          output: '64'
+    right_click_commands:
+    #Argent
+    - '[takemoney] 2500'
+    #Level
+    - '[console] xp take %player_name% 30l'
+    #Rankup
+    - '[console] lp user %player_name% parent set veteran'
+    #Objet
+    - '[console] papi parse %player_name% %checkitem_remove_mat:OAK_LOG,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:BIRCH_LOG,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:SPRUCE_LOG,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:COAL_BLOCK,amt:32%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:IRON_BLOCK,amt:16%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:GOLD_INGOT,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:BASALT,amt:32%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:POTATO,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:CARROT,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:BEETROOT,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:COD,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:SALMON,amt:32%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:PUFFERFISH,amt:16%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:BONE,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:RAW_COPPER,amt:64%'    
+    #Message
+    - '[console] bc &b&l%player_name% &fhas just moved to Rank :veteran: &8(/Ranks)'
+    #Close
+    - '[close]'
+  "RankVeteranYes":
+    material: itemsadder-mcicons:icon_veteran
+    slot: 16
+    display_name: "&a&lRank &f&l◆ %img_veteran%"
+    lore:
+    - "&7"
+    - "&fStatus: &aUnlocked"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"    
+    - "&f► Access to create &e1 Player Warp"
+    - "&f► Access to &e1 Vault"
+    - "&f► Access to &ekit starter"
+    - "&f► Access to &e/emote celebrate"         
+    - "&f► Access to %img_veteran_icon%%img_veteran% prefix"
+    priority: 0
+    view_requirement:
+      requirements:
+        complete:
+          type: has permission
+          permission: "group.veteran"
+    left_click_commands:
+    - '[openguimenu] veteran'
+ #Ranks5
+  "RankVipNo":
+    material: itemsadder-mcicons:icon_vip
+    slot: 28
+    display_name: "&a&lRank &f&l◆ %img_vip%"
+    lore:
+    - "&7"
+    - "&fStatus: &cLocked - Get the previous ranks first"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"
+    - "&f► Access to &e/enderchest"
+    - "&f► Access to &e/hat"
+    - "&f► Access to create &e2 Player Warp"
+    - "&f► Access to &e2 Vaults"
+    - "&f► Access to &ekit vip"
+    - "&f► Access to &eAll /emotes"    
+    - "&f► Access to %img_vip_icon%%img_vip% prefix"
+    priority: 2
+  "RankVipActual":
+    material: itemsadder-mcicons:icon_vip
+    slot: 28
+    display_name: "&a&lRank &f&l◆ %img_vip%"
+    lore:
+    - "&7"
+    - "&fStatus: &cUnobtained"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"
+    - "&f► Access to &e/enderchest"
+    - "&f► Access to &e/hat"
+    - "&f► Access to create &e2 Player Warp"
+    - "&f► Access to &e2 Vaults"
+    - "&f► Access to &ekit vip"
+    - "&f► Access to &eAll /emotes"    
+    - "&f► Access to %img_vip_icon%%img_vip% prefix"
+    - "&7"
+    - "&e► Left-click to see the prerequisites"
+    - "&a► Right-click to get Vip Rank"
+    priority: 1
+    view_requirement:
+      requirements:
+        complete:
+          type: has permission
+          permission: "group.veteran"
+    left_click_commands:
+    - '[openguimenu] vip'
+    right_click_requirement:
+      requirements:
+        1:
+          type: has money
+          amount: 30000
+        2:
+          type: '>='
+          input: '%jobsr_user_totallevels%'
+          output: '50'
+        3:
+          type: '>='
+          input: '%player_level%'
+          output: '50'
+        4:
+          type: '>='
+          input: '%checkitem_amount_mat:SPRUCE_LOG%'
+          output: '320'
+        5:
+          type: '>='
+          input: '%checkitem_amount_mat:SPRUCE_LEAVES%'
+          output: '320'
+        6:
+          type: '>='
+          input: '%checkitem_amount_mat:COAL_BLOCK%'
+          output: '64'
+        7:
+          type: '>='
+          input: '%checkitem_amount_mat:IRON_BLOCK%'
+          output: '48'
+        8:
+          type: '>='
+          input: '%checkitem_amount_mat:GOLD_BLOCK%'
+          output: '32'
+        9:
+          type: '>='
+          input: '%checkitem_amount_mat:DEEPSLATE_REDSTONE_ORE%'
+          output: '64'
+        10:
+          type: '>='
+          input: '%checkitem_amount_mat:BASALT%'
+          output: '64'
+        11:
+          type: '>='
+          input: '%checkitem_amount_mat:EXPOSED_COPPER%'
+          output: '64'
+        12:
+          type: '>='
+          input: '%checkitem_amount_mat:APPLE%'
+          output: '64'
+        13:
+          type: '>='
+          input: '%checkitem_amount_mat:PUFFERFISH%'
+          output: '32'
+        14:
+          type: '>='
+          input: '%checkitem_amount_mat:SALMON%'
+          output: '64'
+        15:
+          type: '>='
+          input: '%checkitem_amount_mat:TROPICAL_FISH%'
+          output: '16'
+        16:
+          type: '>='
+          input: '%checkitem_amount_mat:GUNPOWDER%'
+          output: '64'  
+        20:
+          type: '>='
+          input: '%checkitem_amount_mat:GLOW_INK_SAC%'
+          output: '64'      
+    right_click_commands:
+    #Argent
+    - '[takemoney] 30000'
+    #Level
+    - '[console] xp take %player_name% 50l'
+    #Rankup
+    - '[console] lp user %player_name% parent set vip'
+    #Objet
+    - '[console] papi parse %player_name% %checkitem_remove_mat:SPRUCE_LOG,amt:320%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:SPRUCE_LEAVES,amt:320%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:COAL_BLOCK,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:IRON_BLOCK,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:GOLD_BLOCK,amt:32%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:DEEPSLATE_REDSTONE_ORE,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:BASALT,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:EXPOSED_COPPER,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:APPLE,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:PUFFERFISH,amt:32%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:SALMON,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:TROPICAL_FISH,amt:16%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:GUNPOWDER,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:GLOW_INK_SAC,amt:64%'    
+    #Message
+    - '[console] bc &b&l%player_name% &fhas just moved to Rank :vip: &8(/Ranks)'
+    #Close
+    - '[close]'
+  "RankVipYes":
+    material: itemsadder-mcicons:icon_vip
+    slot: 28
+    display_name: "&a&lRank &f&l◆ %img_vip%"
+    lore:
+    - "&7"
+    - "&fStatus: &aUnlocked"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"
+    - "&f► Access to &e/enderchest"
+    - "&f► Access to &e/hat"
+    - "&f► Access to create &e2 Player Warp"
+    - "&f► Access to &e2 Vaults"
+    - "&f► Access to &ekit vip"
+    - "&f► Access to &eAll /emotes"        
+    - "&f► Access to %img_vip_icon%%img_vip% prefix"
+    priority: 0
+    view_requirement:
+      requirements:
+        complete:
+          type: has permission
+          permission: "group.vip"
+    left_click_commands:
+    - '[openguimenu] vip'
+ #Ranks6
+  "RankVipplusNo":
+    material: itemsadder-mcicons:icon_vipplus
+    slot: 30
+    display_name: "&a&lRank &f&l◆ %img_vipplus%"
+    lore:
+    - "&7"
+    - "&fStatus: &cLocked - Get the previous ranks first"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"
+    - "&f► Access to &e/enderchest"
+    - "&f► Access to &e/hat"
+    - "&f► Access to create &e3 Player Warp"
+    - "&f► Access to &e3 Vaults"
+    - "&f► Access to &ekit vip+"
+    - "&f► Access to &eAll /emotes"        
+    - "&f► Access to %img_vipplus_icon%%img_vipplus% prefix"
+    priority: 2
+  "RankVipplusActual":
+    material: itemsadder-mcicons:icon_vipplus
+    slot: 30
+    display_name: "&a&lRank &f&l◆ %img_vipplus%"
+    lore:
+    - "&7"
+    - "&fStatus: &cUnobtained"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"
+    - "&f► Access to &e/enderchest"
+    - "&f► Access to &e/hat"
+    - "&f► Access to create &e3 Player Warp"
+    - "&f► Access to &e3 Vaults"
+    - "&f► Access to &ekit vip+"
+    - "&f► Access to &eAll /emotes"        
+    - "&f► Access to %img_vipplus_icon%%img_vipplus% prefix"
+    - "&7"
+    - "&e► Left-click to see the prerequisites"
+    - "&a► Right-click to get Vip+ Rank"
+    priority: 1
+    view_requirement:
+      requirements:
+        complete:
+          type: has permission
+          permission: "group.vip"
+    left_click_commands:
+    - '[openguimenu] vipplus'
+    right_click_requirement:
+      requirements:
+        1:
+          type: has money
+          amount: 50000
+        2:
+          type: '>='
+          input: '%jobsr_user_totallevels%'
+          output: '60'
+        3:
+          type: '>='
+          input: '%player_level%'
+          output: '60'
+        4:
+          type: '>='
+          input: '%checkitem_amount_mat:DARK_OAK_LOG%'
+          output: '320'
+        5:
+          type: '>='
+          input: '%checkitem_amount_mat:DARK_OAK_LEAVES%'
+          output: '320'
+        6:
+          type: '>='
+          input: '%checkitem_amount_mat:COAL_BLOCK%'
+          output: '128'
+        7:
+          type: '>='
+          input: '%checkitem_amount_mat:IRON_BLOCK%'
+          output: '64'
+        8:
+          type: '>='
+          input: '%checkitem_amount_mat:GOLD_BLOCK%'
+          output: '64'
+        9:
+          type: '>='
+          input: '%checkitem_amount_mat:LAPIS_BLOCK%'
+          output: '64'
+        10:
+          type: '>='
+          input: '%checkitem_amount_mat:REDSTONE_BLOCK%'
+          output: '32'
+        11:
+          type: '>='
+          input: '%checkitem_amount_mat:GILDED_BLACKSTONE%'
+          output: '32'
+        12:
+          type: '>='
+          input: '%checkitem_amount_mat:WEATHERED_COPPER%'
+          output: '64'
+        14:
+          type: '>='
+          input: '%checkitem_amount_mat:GLOW_BERRIES%'
+          output: '128'
+        15:
+          type: '>='
+          input: '%checkitem_amount_mat:PUFFERFISH%'
+          output: '64'
+        16:
+          type: '>='
+          input: '%checkitem_amount_mat:TROPICAL_FISH%'
+          output: '32'
+        17:
+          type: '>='
+          input: '%checkitem_amount_mat:ENDER_PEARL%'
+          output: '64'
+        18:
+          type: '>='
+          input: '%checkitem_amount_mat:TROPICAL_FISH%'
+          output: '32'
+        19:
+          type: '>='
+          input: '%checkitem_amount_mat:ENDER_PEARL%'
+          output: '64'
+        20:
+          type: '>='
+          input: '%checkitem_amount_mat:AMETHYST_SHARD%'
+          output: '128'   
+    right_click_commands:
+    #Argent
+    - '[takemoney] 50000'
+    #Level
+    - '[console] xp take %player_name% 60l'
+    #Rankup
+    - '[console] lp user %player_name% parent set vipplus'
+    #Objet
+    - '[console] papi parse %player_name% %checkitem_remove_mat:DARK_OAK_LOG,amt:320%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:DARK_OAK_LEAVES,amt:320%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:COAL_BLOCK,amt:128%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:IRON_BLOCK,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:GOLD_BLOCK,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:LAPIS_BLOCK,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:REDSTONE_BLOCK,amt:16%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:GILDED_BLACKSTONE,amt:32%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:WEATHERED_COPPER,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:GLOW_BERRIES,amt:128%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:PUFFERFISH,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:TROPICAL_FISH,amt:32%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:ENDER_PEARL,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:AMETHYST_SHARD,amt:128%'    
+    #Message
+    - '[console] bc &b&l%player_name% &fhas just moved to the Rank :vipplus: &8(/Ranks)'
+    #Close
+    - '[close]'
+  "RankVipplusYes":
+    material: itemsadder-mcicons:icon_vipplus
+    slot: 30
+    display_name: "&a&lRank &f&l◆ %img_vipplus%"
+    lore:
+    - "&7"
+    - "&fStatus: &aUnlocked"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"
+    - "&f► Access to &e/enderchest"
+    - "&f► Access to &e/hat"
+    - "&f► Access to create &e3 Player Warp"
+    - "&f► Access to &e3 Vaults"
+    - "&f► Access to &ekit vip+"
+    - "&f► Access to &eAll /emotes"        
+    - "&f► Access to %img_vipplus_icon%%img_vipplus% prefix"
+    priority: 0
+    view_requirement:
+      requirements:
+        complete:
+          type: has permission
+          permission: "group.vipplus"
+    left_click_commands:
+    - '[openguimenu] vipplus'
+        
+ #Ranks9
+  "RankLegendaryNo":
+    material: itemsadder-mcicons:icon_legendary
+    slot: 32
+    display_name: "&a&lRank &f&l◆ %img_legendary%"
+    lore:
+    - "&7"
+    - "&fStatus: &cLocked - Get the previous ranks first"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"
+    - "&f► Access to &e/enderchest"
+    - "&f► Access to &e/hat"
+    - "&f► Access to &e/fly"    
+    - "&f► Access to create &e4 Player Warp"
+    - "&f► Access to &e3 Vaults"
+    - "&f► Access to &ekit legendary"
+    - "&f► Access to &eAll /emotes"        
+    - "&f► Access to %img_legendary_icon%%img_legendary% prefix"
+    priority: 2
+  "RankLegendaryActual":
+    material: itemsadder-mcicons:icon_legendary
+    slot: 32
+    display_name: "&a&lRank &f&l◆ %img_legendary%"
+    lore:
+    - "&7"
+    - "&fStatus: &cUnobtained"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"
+    - "&f► Access to &e/enderchest"
+    - "&f► Access to &e/hat"
+    - "&f► Access to &e/fly"    
+    - "&f► Access to create &e4 Player Warp"
+    - "&f► Access to &e3 Vaults"
+    - "&f► Access to &ekit legendary"
+    - "&f► Access to &eAll /emotes"        
+    - "&f► Access to %img_legendary_icon%%img_legendary% prefix"
+    - "&7"
+    - "&e► Left-click to see the prerequisites"
+    - "&a► Right-click to get Legendary Rank"
+    priority: 1
+    view_requirement:
+      requirements:
+        complete:
+          type: has permission
+          permission: "group.vipplus"
+    left_click_commands:
+    - '[openguimenu] legendary'
+    right_click_requirement:
+      requirements:
+        1:
+          type: has money
+          amount: 100000
+        2:
+          type: '>='
+          input: '%jobsr_user_totallevels%'
+          output: '75'
+        3:
+          type: '>='
+          input: '%player_level%'
+          output: '65'
+        4:
+          type: '>='
+          input: '%checkitem_amount_mat:WARPED_STEM%'
+          output: '320'
+        5:
+          type: '>='
+          input: '%checkitem_amount_mat:WARPED_WART_BLOCK%'
+          output: '320'
+        6:
+          type: '>='
+          input: '%checkitem_amount_mat:QUARTZ_BLOCK%'
+          output: '320'
+        7:
+          type: '>='
+          input: '%checkitem_amount_mat:DIAMOND_BLOCK%'
+          output: '32'
+        8:
+          type: '>='
+          input: '%checkitem_amount_mat:EMERALD_BLOCK%'
+          output: '16'
+        9:
+          type: '>='
+          input: '%checkitem_amount_mat:WAXED_COPPER_BLOCK%'
+          output: '64'
+        10:
+          type: '>='
+          input: '%checkitem_amount_mat:AMETHYST_CLUSTER%'
+          output: '128'
+        11:
+          type: '>='
+          input: '%checkitem_amount_mat:SEA_LANTERN%'
+          output: '32'
+        12:
+          type: '>='
+          input: '%checkitem_amount_mat:SPONGE%'
+          output: '16'
+        13:
+          type: '>='
+          input: '%checkitem_amount_mat:SALMON%'
+          output: '128'
+        14:
+          type: '>='
+          input: '%checkitem_amount_mat:PUFFERFISH%'
+          output: '128'
+        15:
+          type: '>='
+          input: '%checkitem_amount_mat:GLOW_INK_SAC%'
+          output: '128'
+        16:
+          type: '>='
+          input: '%checkitem_amount_mat:GHAST_TEAR%'
+          output: '64'
+        17:
+          type: '>='
+          input: '%checkitem_amount_mat:PHANTOM_MEMBRANE%'
+          output: '32'        
+    right_click_commands:
+    #Argent
+    - '[takemoney] 100000'
+    #Level
+    - '[console] xp take %player_name% 65l'
+    #Rankup
+    - '[console] lp user %player_name% parent set legendary'
+    #Objet
+    - '[console] papi parse %player_name% %checkitem_remove_mat:WARPED_STEM,amt:320%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:WARPED_WART_BLOCK,amt:320%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:QUARTZ_BLOCK,amt:320%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:DIAMOND_BLOCK,amt:32%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:EMERAL_BLOCK,amt:16%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:WAXED_COPPER_BLOCK,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:AMETHYST_CLUSTER,amt:128%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:SEA_LANTERN,amt:32%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:SALMON,amt:128%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:PUFFERFISH,amt:128%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:GHAST_TEAR,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:PHANTOM_MEMBRANE,amt:32%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:SPONGE,amt:16%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:GLOW_INK_SAC,amt:128%'    
+    #Message
+    - '[console] bc &b&l%player_name% &fhas just moved to the Rank :legendary: &8(/Ranks)'
+    #Close
+    - '[close]'
+  "RankLegendaryYes":
+    material: itemsadder-mcicons:icon_legendary
+    slot: 32
+    display_name: "&a&lRank &f&l◆ %img_legendary%"
+    lore:
+    - "&7"
+    - "&fStatus: &aUnlocked"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"
+    - "&f► Access to &e/enderchest"
+    - "&f► Access to &e/hat"
+    - "&f► Access to &e/fly"    
+    - "&f► Access to create &e4 Player Warp"
+    - "&f► Access to &e3 Vaults"
+    - "&f► Access to &ekit legendary"
+    - "&f► Access to &eAll /emotes"        
+    - "&f► Access to %img_legendary_icon%%img_legendary% prefix"
+    priority: 0
+    view_requirement:
+      requirements:
+        complete:
+          type: has permission
+          permission: "group.legendary"
+    left_click_commands:
+    - '[openguimenu] legendary'
+
+ #Ranks11
+  "RankGalacticNo":
+    material: itemsadder-mcicons:icon_galactic
+    slot: 34
+    display_name: "&a&lRank &f&l◆ %img_galactic%"
+    lore:
+    - "&7"
+    - "&fStatus: &cLocked - Get the previous ranks first"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"
+    - "&f► Access to &e/enderchest"
+    - "&f► Access to &e/hat"
+    - "&f► Access to &e/fly"    
+    - "&f► Access to create &e5 Player Warp"
+    - "&f► Access to &e5 Vaults"
+    - "&f► Access to &ekit galactic"
+    - "&f► Access to &eAll /emotes"        
+    - "&f► Access to %img_galactic_icon%%img_galactic% prefix"
+    priority: 2
+  "RankGalacticActual":
+    material: itemsadder-mcicons:icon_galactic
+    slot: 34
+    display_name: "&a&lRank &f&l◆ %img_galactic%"
+    lore:
+    - "&7"
+    - "&fStatus: &cUnobtained"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"
+    - "&f► Access to &e/enderchest"
+    - "&f► Access to &e/hat"
+    - "&f► Access to &e/fly"    
+    - "&f► Access to create &e5 Player Warp"
+    - "&f► Access to &e5 Vaults"
+    - "&f► Access to &ekit galactic"
+    - "&f► Access to &eAll /emotes"        
+    - "&f► Access to %img_galactic_icon%%img_galactic% prefix"
+    - "&7"
+    - "&e► Left-click to see the prerequisites"
+    - "&a► Right-click to get Galactic Rank"
+    priority: 1
+    view_requirement:
+      requirements:
+        complete:
+          type: has permission
+          permission: "group.legendary"
+    left_click_commands:
+    - '[openguimenu] galactic'
+    right_click_requirement:
+      requirements:
+        1:
+          type: has money
+          amount: 150000
+        2:
+          type: '>='
+          input: '%jobsr_user_totallevels%'
+          output: '80'
+        3:
+          type: '>='
+          input: '%player_level%'
+          output: '70'
+        4:
+          type: '>='
+          input: '%checkitem_amount_mat:JUNGLE_LOG%'
+          output: '384'
+        5:
+          type: '>='
+          input: '%checkitem_amount_mat:JUNGLE_LEAVES%'
+          output: '384'
+        6:
+          type: '>='
+          input: '%checkitem_amount_mat:NETHER_QUARTZ_ORE%'
+          output: '128'
+        7:
+          type: '>='
+          input: '%checkitem_amount_mat:DIAMOND_BLOCK%'
+          output: '64'
+        8:
+          type: '>='
+          input: '%checkitem_amount_mat:EMERALD_BLOCK%'
+          output: '32'
+        9:
+          type: '>='
+          input: '%checkitem_amount_mat:WAXED_WEATHERED_COPPER%'
+          output: '64'
+        10:
+          type: '>='
+          input: '%checkitem_amount_mat:CALCITE%'
+          output: '128'
+        11:
+          type: '>='
+          input: '%checkitem_amount_mat:TINTED_GLASS%'
+          output: '128'
+        12:
+          type: '>='
+          input: '%checkitem_amount_mat:DARK_PRISMARINE%'
+          output: '128'
+        13:
+          type: '>='
+          input: '%checkitem_amount_mat:SPONGE%'
+          output: '64'
+        14:
+          type: '>='
+          input: '%checkitem_amount_mat:SHULKER_SHELL%'
+          output: '64'
+        15:
+          type: '>='
+          input: '%checkitem_amount_mat:COD%'
+          output: '256'
+        16:
+          type: '>='
+          input: '%checkitem_amount_mat:TROPICAL_FISH%'
+          output: '128'
+        17:
+          type: '>='
+          input: '%checkitem_amount_mat:NAUTILUS_SHELL%'
+          output: '32'
+        18:
+          type: '>='
+          input: '%checkitem_amount_mat:SHULKER_SHELL%'
+          output: '64'
+        19:
+          type: '>='
+          input: '%checkitem_amount_mat:WITHER_SKELETON_SKULL%'
+          output: '32'
+        20:
+          type: '>='
+          input: '%checkitem_amount_mat:HEART_OF_THE_SEA%'
+          output: '2'     
+    right_click_commands:
+    #Argent
+    - '[takemoney] 150000'
+    #Level
+    - '[console] xp take %player_name% 70l'
+    #Rankup
+    - '[console] lp user %player_name% parent set galactic'
+    #Objet
+    - '[console] papi parse %player_name% %checkitem_remove_mat:JUNGLE_LOG,amt:384%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:JUNGLE_LEAVES,amt:384%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:NETHER_QUARTZ_ORE,amt:128%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:DIAMOND_BLOCK,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:EMERALD_BLOCK,amt:32%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:WAXED_WEATHERED_COPPER,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:CALCITE,amt:128%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:COD,amt:256%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:TROPICAL_FISH,amt:128%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:NAUTILUS_SHELL,amt:32%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:SHULKER_SHELL,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:WITHER_SKELETON_SKULL,amt:32%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:HEART_OF_THE_SEA,amt:2%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:SPONGE,amt:64%'
+    - '[console] papi parse %player_name% %checkitem_remove_mat:DARK_PRISMARINE,amt:128%'    
+    #Message
+    - '[console] bc &b&l%player_name% &fhas just moved to the Rank :galactic: &8(/Ranks)'
+    #Close
+    - '[close]'
+  "RankGalacticYes":
+    material: itemsadder-mcicons:icon_galactic
+    slot: 34
+    display_name: "&a&lRank &f&l◆ %img_galactic%"
+    lore:
+    - "&7"
+    - "&fStatus: &aUnlocked"
+    - "&7"
+    - "&9Advantages:"
+    - "&f► Access to &e/craft"
+    - "&f► Access to &e/back"
+    - "&f► Access to &e/disposal"
+    - "&f► Access to &e/enderchest"
+    - "&f► Access to &e/hat"
+    - "&f► Access to &e/fly"    
+    - "&f► Access to create &e5 Player Warp"
+    - "&f► Access to &e5 Vaults"
+    - "&f► Access to &ekit galactic"
+    - "&f► Access to &eAll /emotes"        
+    - "&f► Access to %img_galactic_icon%%img_galactic% prefix"
+    priority: 0
+    view_requirement:
+      requirements:
+        complete:
+          type: has permission
+          permission: "group.galactic"
+    left_click_commands:
+    - '[openguimenu] galactic'
+
+#Format
+  'back':
+      material: itemsadder-mcicons:icon_cancel
+      slot: 49
+      display_name: "&cClose"
+      left_click_commands:
+      - '[close]'

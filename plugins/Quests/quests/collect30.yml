@@ -1,0 +1,35 @@
+tasks:
+  collect:
+    type: "inventory"
+    item: STRING
+    remove-items-when-complete: true
+    amount: 256
+
+display:
+  name: "&aCollect XXV"
+  lore-normal:
+    - "&8Hard Quest"
+    - ""
+    - "&6&lQUEST"
+    - "&fCollect &a256&f strings."
+    - ""
+    - "&6&lREWARDS"
+    - "&b$1850"
+  lore-started:
+    - ""
+    - "&eProgress"
+    - "&a{collect:progress}/256"
+  type: "STRING"
+
+rewards:
+  - "eco give {player} 1850"
+
+options:
+  category: "collect"
+  repeatable: false
+  cooldown:
+    enabled: true
+    time: 1440
+  sort-order: 30
+  requires:
+   - "collect29"

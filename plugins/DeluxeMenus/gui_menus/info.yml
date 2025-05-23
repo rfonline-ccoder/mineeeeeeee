@@ -1,0 +1,106 @@
+open_command: help
+size: 54
+menu_title: ':offset_-16::help_menu:'
+items: 
+  'info':
+    material: itemsadder-mcicons:icon_bp
+    slot: 4
+    display_name: '&2&lINFORMATION'
+    lore:
+    - "&8Info ▪ &fGeneral Information"
+    - ""
+    - "&#AAAAAACheck in this menu the"
+    - "&#AAAAAAbasics to know where to"
+    - "&#AAAAAAstart, and how the main"
+    - "&2features &#AAAAAAworks."
+    - ""
+    
+  'jobs':
+    material: itemsadder-mcicons:icon_sk1
+    slot: 18
+    display_name: "&e&lJOBS"
+    lore:
+    - "&8Info ▪ &fJobs"
+    - ""
+    - "&#AAAAAASelect a job, complete it"
+    - "&#AAAAAAtasks and &elevel up&f."
+    - ""
+    - "&#AAAAAAYou will need jobs level to"
+    - "&#AAAAAArank up, also you can always"
+    - "&#AAAAAAcheck each job &eleaderboard&f."
+    - ""
+    - "   &e&l| &f/jobs"
+    - "   &e&l| &f/jobs leave"
+    - "" 
+    
+  'worlds':
+    material: itemsadder-mcicons:icon_worlds
+    slot: 20
+    display_name: "&b&lWORLDS"
+    lore:
+    - "&8Info ▪ &fWorlds"
+    - ""
+    - "&#AAAAAAChoose the place where"
+    - "&#AAAAAAyou want to start your"
+    - "&#AAAAAAadventure."
+    - ""
+    - "   &b&l| &f/worlds"
+    - "" 
+    left_click_commands:
+    - '[openguimenu] world'
+    
+  'warps':
+    material: itemsadder-mcicons:icon_warps
+    slot: 22
+    display_name: '&6&lWARPS'
+    lore:
+    - "&8Info ▪ &fWarps"
+    - ""
+    - "&#AAAAAARelevant points from"
+    - "&#AAAAAAthe server to explore."
+    - ""
+    - "   &6&l| &f/warps"
+    - ""  
+    left_click_commands:
+    - '[openguimenu] warps'    
+    
+  'land':
+    material: itemsadder-mcicons:icon_home
+    slot: 24
+    display_name: "&c&lYOUR LAND"
+    lore:
+    - "&8Info ▪ &fLand"
+    - ""
+    - "&#AAAAAAA place to build, store your"
+    - "&#AAAAAAitems, and much more."
+    - "&#AAAAAAYou can &cedit &#AAAAAAalmost all"
+    - "&#AAAAAAparameters from your land,"
+    -  "&#AAAAAAeven invite &cmembers&#AAAAAA."
+    - ""
+    - "   &c&l| &f/claim"
+    - "   &c&l| &f/claim see"
+    - "   &c&l| &f/unclaim"
+    - "   &c&l| &f/claims"
+    - "   &c&l| &f/claim settings"
+    - "   &c&l| &f/claim chat"
+    - ""
+
+  'commands':
+    material: itemsadder-mcicons:icon_plus
+    slot: 26
+    display_name: "&a&lCOMMANDS"
+    lore:
+    - "&8Info ▪ &fCommands"
+    - ""
+    - "&#AAAAAAA set of relevant &acommands"
+    - "&#AAAAAAthat you can use."
+    - ""
+    - "   &a&l| &f/discord"
+    - "   &a&l| &f/store"
+    - "   &a&l| &f/ranks"
+    - "   &a&l| &f/skills"
+    - "   &a&l| &f/homes"
+    - "   &a&l| &f/tpa (player)"
+    - "   &a&l| &f/pay (player) (amount)"
+    - "" 
+    

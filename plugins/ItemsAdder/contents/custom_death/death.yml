@@ -1,0 +1,8 @@
+info:
+  namespace: death_lang
+minecraft_lang_overwrite:
+  esc_menu_texts:
+    entries:
+      "deathScreen.title": ":offset_4::you_died:"
+    languages:
+      - ALL

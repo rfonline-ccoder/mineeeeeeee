@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 193.77.186.228
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1742503527813
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742503614989
+  login: 1742503227258
+money: '0'
+last-account-name: Zelenik
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 2377.01276796232
+  y: 72.0
+  z: 3281.41931694691
+  yaw: -16.991455078125
+  pitch: 0.8999913930892944
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -54.264035607059725
+  y: 113.76636799395752
+  z: 42.89316114277348
+  yaw: 170.50816345214844
+  pitch: 42.60000991821289

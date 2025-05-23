@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.210.92.9
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739112768923
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739113877371
+  login: 1739113873205
+money: '300'
+last-account-name: McPingerLick
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 1503.300000011921
+  y: 146.0
+  z: -1721.3908256476723
+  yaw: 80.50762939453125
+  pitch: -18.00004005432129
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 1503.300000011921
+  y: 146.0
+  z: -1721.3908256476723
+  yaw: 80.50762939453125
+  pitch: -18.00004005432129

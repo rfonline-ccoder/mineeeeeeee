@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 76.65.133.162
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745248918908
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745248930865
+  login: 1745248700926
+money: '0'
+last-account-name: toilatiba
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 1842.4166942960467
+  y: 78.0
+  z: -1919.0045433744858
+  yaw: 1.334228515625
+  pitch: 13.039847373962402
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 3.9818510778041634
+  y: 99.5
+  z: -3.2125818435008178
+  yaw: -92.16011810302734
+  pitch: 1.7999838590621948

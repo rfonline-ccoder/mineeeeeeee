@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.186.212.166
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737986934384
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737987413941
+  login: 1737986496059
+money: '734.20'
+last-account-name: GhostDogDK
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: 501.78851656154393
+  y: 66.0
+  z: -3728.57688156711
+  yaw: 136.6126708984375
+  pitch: 14.100132942199707
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -26.439566877164804
+  y: 101.0
+  z: 15.744780755028641
+  yaw: -88.84814453125
+  pitch: 7.350158214569092

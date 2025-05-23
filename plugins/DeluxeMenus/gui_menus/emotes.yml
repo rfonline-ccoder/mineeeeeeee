@@ -1,0 +1,108 @@
+open_command: 
+- emotes
+- emote
+register_command: true
+size: 54
+menu_title: ':offset_-16::emotes_menu:'
+items:
+  '1':
+    material: itemsadder-mcicons:icon_emote
+    slot: 1
+    display_name: '&aᴍᴀɢɪᴄ ᴛʀɪᴄᴋ ᴇᴍᴏᴛᴇ'
+    lore:
+    - "&7&m                      "
+    - "&d➤ Click to Use"
+    - "&7&m                      "
+    left_click_commands:
+    - '[close]'
+    - '[player] emote magic_trick_head' 
+  '2':
+    material: itemsadder-mcicons:icon_emote
+    slot: 4
+    display_name: '&aʀᴏʟʟ ᴇᴍᴏᴛᴇ'
+    lore:
+    - "&7&m                      "
+    - "&d➤ Click to Use"
+    - "&7&m                      "
+    left_click_commands:
+    - '[close]'
+    - '[player] emote roll'    
+  '3':
+    material: itemsadder-mcicons:icon_emote
+    slot: 7
+    display_name: '&aꜰᴏʀɴɪᴛᴇ ᴅᴀɴᴄᴇ ᴇᴍᴏᴛᴇ'
+    lore:
+    - "&7&m                      "
+    - "&d➤ Click to Use"
+    - "&7&m                      "
+    left_click_commands:
+    - '[close]'
+    - '[player] emote fortinayt'    
+  '4':
+    material: itemsadder-mcicons:icon_emote
+    slot: 19
+    display_name: '&aᴅᴇᴀᴛʜ ᴇᴍᴏᴛᴇ'
+    lore:
+    - "&7&m                      "
+    - "&d➤ Click to Use"
+    - "&7&m                      "
+    left_click_commands:
+    - '[close]'
+    - '[player] emote death_3'    
+  '5':
+    material: itemsadder-mcicons:icon_emote
+    slot: 22
+    display_name: '&aᴛ-ᴘᴏꜱᴇ ᴇᴍᴏᴛᴇ'
+    lore:
+    - "&7&m                      "
+    - "&d➤ Click to Use"
+    - "&7&m                      "
+    left_click_commands:
+    - '[close]'
+    - '[player] emote tpose'    
+  '6':
+    material: itemsadder-mcicons:icon_emote
+    slot: 25
+    display_name: '&aꜱʜᴏᴡ ʏᴏᴜʀ ɪᴛᴇᴍ ᴇᴍᴏᴛᴇ'
+    lore:
+    - "&7&m                      "
+    - "&d➤ Click to Use"
+    - "&7&m                      "
+    left_click_commands:
+    - '[close]'
+    - '[player] emote show_item'    
+  '7':
+    material: itemsadder-mcicons:icon_emote
+    slot: 37
+    display_name: '&aʜɪ ᴇᴍᴏᴛᴇ'
+    lore:
+    - "&7&m                      "
+    - "&d➤ Click to Use"
+    - "&7&m                      "
+    left_click_commands:
+    - '[close]'
+    - '[player] emote wave'    
+  '8':
+    material: itemsadder-mcicons:icon_emote
+    slot: 40
+    display_name: '&aʏᴇꜱ ᴇᴍᴏᴛᴇ'
+    lore:
+    - "&7&m                      "
+    - "&d➤ Click to Use"
+    - "&7&m                      "
+    left_click_commands:
+    - '[close]'
+    - '[player] emote yes'    
+  '9':
+    material: itemsadder-mcicons:icon_emote
+    slot: 43
+    display_name: '&aɴᴏ ᴇᴍᴏᴛᴇ'
+    lore:
+    - "&7&m                      "
+    - "&d➤ Click to Use"
+    - "&7&m                      "
+    left_click_commands:
+    - '[close]'
+    - '[player] emote no'    
+ #Format
+sweet: true

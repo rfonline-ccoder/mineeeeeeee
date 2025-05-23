@@ -1,0 +1,29 @@
+Events:
+  villager_2: #JEREMY
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 28"
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.npc.interacting true"
+      - "message: "
+      - "message: %img_villager%  Ahh, yeah, what do you want?"
+      - "message:                     Lost yourself, don't waste my time."
+      - "message: &7(1/3)"
+      - "message: "
+      - "wait: 6"
+      - "message: "
+      - "message: %img_villager%  What? &bLoyd &ftalked about me?"
+      - "message:                     I don't know what are he talking about..."
+      - "message: &7(2/3)"
+      - "message: "
+      - "wait: 6"
+      - "message: "
+      - "message: %img_villager%  Well... Yes, I took his axe, but"
+      - "message:                     I don't have it anymore, I lost it"
+      - "message:                     somewhere in the woods. If you find"
+      - "message:                     it, please bring it back to my brother."  
+      - "message: &7(3/3)"
+      - "message: "      
+      - "console_command: lp user %player% permission unset conditionalevents.npc.interacting"     

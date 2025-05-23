@@ -1,0 +1,21 @@
+name: Jirwexis
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - kits;21/02/2025
+    - quests;21/02/2025
+    - emotes;21/02/2025
+    - ranks;21/02/2025
+    - jobs;02/03/2025
+    - skills;02/03/2025
+    - help;07/03/2025
+    - guide;08/03/2025
+    - shop;08/03/2025
+    - auctionhouse;08/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;21/02/2025
+    - survival;21/02/2025
+    - nether;02/03/2025

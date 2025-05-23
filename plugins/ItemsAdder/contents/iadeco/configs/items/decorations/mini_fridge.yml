@@ -1,0 +1,16 @@
+info:
+  namespace: iadeco
+items:
+  mini_fridge:
+    enabled: true
+    display_name: Mini Fridge
+    permission: iadeco.decorations.mini_fridge
+    resource:
+      material: PAPER
+      generate: false
+      model_path: mini_fridge
+    behaviours:
+      furniture:
+        gravity: false
+        small: true
+        solid: true

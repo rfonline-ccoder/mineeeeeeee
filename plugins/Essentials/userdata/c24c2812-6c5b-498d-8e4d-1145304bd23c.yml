@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.255.168.164
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1728406690763
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1728406740308
+  login: 1728406477018
+money: '0'
+last-account-name: Kukysek
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 5.611165196560755
+  y: 103.0
+  z: -25.046784499004012
+  yaw: 5.030903339385986
+  pitch: 22.711246490478516
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.6623290558213712
+  y: 107.0
+  z: 40.47194929151194
+  yaw: 131.66334533691406
+  pitch: 21.937271118164062

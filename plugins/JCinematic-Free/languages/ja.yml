@@ -1,0 +1,48 @@
+prefix: §6[JCinematic] §r
+recording:
+  started: 録画開始！
+  finished: 録画完了！
+  save_prompt: §6/cinematic save <名前> §rを使用して映像を保存してください。
+  already_recording: すでに映像を録画中です。
+  duration_invalid: 録画時間は0秒より大きくなければなりません。
+  countdown: 録画準備中...
+  paused: 録画が一時停止されました。
+  resuming: 再開まで...
+  resumed: 録画が再開されました。
+save:
+  no_recording: 保存する録画された映像がありません。
+  exists: その名前の映像はすでに存在します。
+  success: '映像を保存しました: §e%name%'
+  error: '映像の保存中にエラーが発生しました: %error%'
+play:
+  not_found: '映像が見つかりません: §e%name%'
+  already_playing: すでに映像を視聴中です。
+  started: '映像再生中: §e%name%'
+  finished: 映像再生完了。
+  time_remaining: '残り時間: §a%seconds% 秒'
+stop:
+  none_active: 停止する映像がありません。
+  stopped: 映像を停止しました。
+  recording_stopped: 録画を停止しました。
+  all_stopped: すべての映像が停止されました。
+reload:
+  success: 設定を正常に再読み込みしました！
+  no_permission: プラグインを再読み込みする権限がありません。
+error:
+  player_only: このコマンドはプレイヤーのみが使用できます。
+  no_permission: このコマンドを使用する権限がありません。
+  no_permission_all: すべてのプレイヤーに映像を再生する権限がありません。
+  no_permission_stop_all: 他のプレイヤーの映像を停止する権限がありません。
+  general: 'エラーが発生しました: %error%'
+help:
+  title: === シネマティックコマンド ===
+  rec: §e/cinematic rec <時間> §7- 映像の録画を開始
+  save: §e/cinematic save <名前> §7- 録画した映像を保存
+  play: §e/cinematic play <名前> [all] §7- 映像を再生
+  stop: §e/cinematic stop [all] §7- 現在の映像を停止
+  lang: §e/cinematic lang <言語> §7- 言語を変更
+  reload: §e/cinematic reload §7- プラグイン設定を再読み込み
+  footer: ===========================
+lang:
+  changed: 言語が日本語に変更されました。
+  not_found: '言語が見つかりません。利用可能な言語: %languages%'

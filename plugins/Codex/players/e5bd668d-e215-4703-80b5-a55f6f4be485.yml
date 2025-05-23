@@ -1,0 +1,16 @@
+name: galombo
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - ranks;17/03/2025
+    - jobs;18/03/2025
+    - shop;18/03/2025
+    - skills;18/03/2025
+    - emotes;18/03/2025
+    - quests;18/03/2025
+    - kits;18/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;18/03/2025

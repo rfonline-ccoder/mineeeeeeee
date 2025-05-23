@@ -1,0 +1,16 @@
+name: OrminPL
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - jobs;15/04/2025
+    - ranks;15/04/2025
+    - shop;15/04/2025
+    - auctionhouse;15/04/2025
+    - skills;15/04/2025
+    - quests;15/04/2025
+    - help;15/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;15/04/2025

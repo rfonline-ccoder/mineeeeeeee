@@ -1,0 +1,19 @@
+name: Ninjas_Dynasty
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - skills;06/04/2025
+    - emotes;06/04/2025
+    - quests;06/04/2025
+    - kits;06/04/2025
+    - help;06/04/2025
+    - guide;06/04/2025
+    - jobs;06/04/2025
+    - ranks;06/04/2025
+    - shop;06/04/2025
+    - auctionhouse;06/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;06/04/2025

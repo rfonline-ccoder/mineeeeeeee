@@ -1,0 +1,10 @@
+quest-progress:
+  consume1:
+    started: true
+    started-date: 1743681940495
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      consume:
+        completed: false

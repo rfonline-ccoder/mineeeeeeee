@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.59.0.4
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739048308417
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739048666654
+  login: 1739047698083
+money: '0'
+last-account-name: Ucnobi_
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -78.21873904785161
+  y: 107.0
+  z: 20.596030531603883
+  yaw: 55.8133544921875
+  pitch: -13.161480903625488
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -1482.1276060479906
+  y: 88.0
+  z: 1000.8942815660836
+  yaw: 34.4801139831543
+  pitch: 59.32598114013672

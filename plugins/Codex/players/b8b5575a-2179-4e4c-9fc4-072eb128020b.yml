@@ -1,0 +1,12 @@
+name: UnMecRiche
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - help;30/03/2025
+    - kits;30/03/2025
+    - ranks;30/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;30/03/2025

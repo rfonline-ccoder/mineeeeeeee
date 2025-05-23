@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 75.174.58.217
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1729749794566
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729749806618
+  login: 1729747743183
+money: '0'
+last-account-name: DarkCxbe
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -12.359267012862466
+  y: 100.0
+  z: 12.920928169225153
+  yaw: 36.707767486572266
+  pitch: 15.45010757446289
+logoutlocation:
+  world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+  world-name: survival
+  x: 3716.088858892081
+  y: 88.0
+  z: 4823.8711164265105
+  yaw: -106.38671875
+  pitch: 8.400944709777832

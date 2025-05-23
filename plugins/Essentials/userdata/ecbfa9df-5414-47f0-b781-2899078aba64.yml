@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 101.109.88.183
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1743325802103
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743325881645
+  login: 1743325779942
+money: '0'
+last-account-name: ChaQzz
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 1.2515143813012213
+  y: 99.5
+  z: -8.534012614401012
+  yaw: 97.0077896118164
+  pitch: 7.650114059448242
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -8.33112312510443
+  y: 99.5
+  z: 0.1981537831739103
+  yaw: 97.6082992553711
+  pitch: -19.94987678527832

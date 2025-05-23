@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 95.99.0.25
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1740148169194
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740150422301
+  login: 1740150368923
+money: '0'
+last-account-name: Jamesr_21
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 378.248953571941
+  y: 29.0
+  z: -4279.54578738698
+  yaw: -178.39068603515625
+  pitch: 50.8504524230957
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -8.628128255013914
+  y: 100.0
+  z: 8.970029674055889
+  yaw: -17.14349365234375
+  pitch: 24.4501895904541

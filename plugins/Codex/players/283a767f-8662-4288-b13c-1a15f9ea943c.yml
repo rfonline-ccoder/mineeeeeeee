@@ -1,0 +1,16 @@
+name: FREY1JA
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - jobs;24/04/2025
+    - auctionhouse;24/04/2025
+    - shop;24/04/2025
+    - skills;24/04/2025
+    - emotes;24/04/2025
+    - quests;24/04/2025
+    - kits;24/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;24/04/2025

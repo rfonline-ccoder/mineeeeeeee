@@ -1,0 +1,19 @@
+quest-progress:
+  woodcutting1:
+    started: true
+    started-date: 1735490197565
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mining:
+        completed: false
+  consume1:
+    started: true
+    started-date: 1735490200864
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      consume:
+        completed: false

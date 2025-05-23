@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 87.6.182.156
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1728676766049
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730461514351
+  login: 1730461504089
+money: '0'
+last-account-name: giugamer324
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -4.943187566068425
+  y: 100.0
+  z: -16.914334951260933
+  yaw: 145.751953125
+  pitch: 6.449901103973389
+logoutlocation:
+  world: 5164a2ad-2b23-420d-82c0-eb4babe977e4
+  world-name: survival
+  x: 3063.3933962828432
+  y: 70.0
+  z: 2761.1380845317713
+  yaw: -102.54580688476562
+  pitch: -15.150311470031738

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 189.203.131.170
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732011065387
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740607986188
+  login: 1740607965349
+money: '0'
+last-account-name: SamanthaGL_
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -1788.8581302093892
+  y: 68.0
+  z: 2696.5439363133783
+  yaw: -43.692867279052734
+  pitch: 14.55008316040039
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.30136685505589184
+  y: 100.0
+  z: 0.3812232457704876
+  yaw: -90.04202270507812
+  pitch: 3.749992609024048
+past-usernames:
+- SrAstaley

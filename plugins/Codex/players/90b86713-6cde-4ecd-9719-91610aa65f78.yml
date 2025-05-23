@@ -1,0 +1,14 @@
+name: silverking83
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - jobs;06/04/2025
+    - ranks;06/04/2025
+    - shop;06/04/2025
+    - emotes;06/04/2025
+    - skills;06/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;06/04/2025

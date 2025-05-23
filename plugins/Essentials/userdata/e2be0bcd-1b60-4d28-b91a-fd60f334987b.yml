@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.245.180.147
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744826994350
+  login: 1744826844119
+money: '0'
+last-account-name: DerDuvid
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 586.3137490085262
+  y: 71.0
+  z: 2667.1886734915724
+  yaw: 116.0523681640625
+  pitch: 4.500173568725586
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.44212381235660764
+  y: 100.0
+  z: 18.280325557783424
+  yaw: -165.79220581054688
+  pitch: 29.85005760192871

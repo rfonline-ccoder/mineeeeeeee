@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.73.213.66
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734608428502
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744548281007
+  login: 1744548236365
+money: '0'
+last-account-name: tiao_piao
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 8.31510923471228
+  y: 100.0
+  z: 0.38447515584400704
+  yaw: -64.24737548828125
+  pitch: -1.3498677015304565
+logoutlocation:
+  world: 876b0e4d-60b2-410c-ad36-47acf21c0c26
+  world-name: world
+  x: 6.5
+  y: 63.025
+  z: -3.5
+  yaw: 52.50004577636719
+  pitch: 22.64996910095215

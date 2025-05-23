@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.218.161.30
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745451667419
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745452635435
+  login: 1745451273034
+money: '400'
+last-account-name: XER0GRAVITY
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: -3953.5347538052874
+  y: 67.22149363870948
+  z: 1363.0732370521525
+  yaw: 165.79763793945312
+  pitch: 12.810612678527832
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -88.24003857819378
+  y: 110.5
+  z: 11.531355518638671
+  yaw: -114.04811096191406
+  pitch: 7.127821922302246

@@ -1,0 +1,42 @@
+Events:
+  class_command:
+    type: player_command
+    conditions:
+    - "%command% equals /class"
+    actions:
+      default:
+      - "cancel_event: true"
+      - "console_command: dm open class %player%"
+      
+  classes_command:
+    type: player_command
+    conditions:
+    - "%command% equals /classes"
+    actions:
+      default:
+      - "cancel_event: true"
+      - "console_command: dm open class %player%"
+      
+  levels_command:
+    type: player_command
+    conditions:
+    - "%command% equals /levels"
+    actions:
+      default:
+      - "cancel_event: true"
+      
+  pointsshop_command:
+    type: player_command
+    conditions:
+    - "%command% equals /pointsshop"
+    actions:
+      default:
+      - "cancel_event: true"
+      
+  points_command:
+    type: player_command
+    conditions:
+    - "%command% equals /points"
+    actions:
+      default:
+      - "cancel_event: true"

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.58.0.46
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745123244655
+  login: 1745123180602
+money: '0'
+last-account-name: 44a_msmc_tt1
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 9.137499988079071
+  y: 102.0
+  z: -0.001822275435520826
+  yaw: 136.7957763671875
+  pitch: 53.04222106933594
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 6.554756774100412
+  y: 100.0
+  z: -13.775554216808915
+  yaw: -83.114013671875
+  pitch: -57.8707275390625

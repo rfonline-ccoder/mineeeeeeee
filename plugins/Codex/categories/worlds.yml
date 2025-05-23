@@ -1,0 +1,76 @@
+config:
+  inventory_items:
+    category:
+      id: PAPER
+      custom_model_component_data:
+        floats: [10135.0f]
+      name: "&7Category: #a36bfe&lWorlds"
+      lore:
+        - "#eeeeeeInformation about different worlds you've"
+        - "#eeeeeediscovered."
+        - ""
+        - "&7Unlocked: %unlocked% &8[%progress_bar%&8] &8(&7%percentage%&8)"
+    discovery_unlocked:
+      id: PAPER
+      custom_model_component_data:
+        floats: [10118.0f]
+      name: "%name%"
+      lore:
+        - "%description%"
+        - ""
+        - "&8Discovered on %date%"
+    discovery_blocked:
+      id: PAPER
+      custom_model_component_data:
+        floats: [10117.0f]
+      name: "&c??"
+      lore:
+        - "&7You haven't unlocked this discovery yet."
+  rewards:
+    per_discovery:
+      - "centered_message: #a36bfe&m00                                                 00"
+      - "centered_message: "
+      - "centered_message: #eeeeee&lCODEX UPDATED"
+      - "centered_message: &7World: %name%"
+      - "centered_message: "
+      - "centered_message: &7Check it now by using #eeeeee/codex"
+      - "centered_message: "
+      - "centered_message: &7Rewards: &a+50XP"
+      - "centered_message: "
+      - "centered_message: #a36bfe&m00                                                 00"
+      - "title: 20;60;20;#eeeeee&lCODEX UPDATED;&7World: %name%"
+      - "playsound: BLOCK_GILDED_BLACKSTONE_STEP;10;0.1"
+      - "console_command: xp give %player% 50"
+    all_discoveries: []
+
+discoveries:
+  survival:
+    name: "#a36bfe&lSurvival"
+    description:
+      - "&7A world to explore and build"
+      - "&7your own base."
+      - ""
+      - "&7PvP is &cdisabled &7here."
+  resourceworld:
+    name: "#a36bfe&lResource World"
+    description:
+      - "&7A dangerous place where mobs"
+      - "&7are strong and warriors lurk."
+      - "&7Great new minerals are"
+      - "&7generated here."
+      - ""
+      - "&7PvP is &aenabled &7here."
+  nether:
+    name: "#a36bfe&lNether"
+    description:
+      - "&7A great place to get"
+      - "&7some infernal resources."
+      - ""
+      - "&7PvP is &cdisabled &7here."
+  end:
+    name: "#a36bfe&lThe End"
+    description:
+      - "&7The Dragon's home, guarded"
+      - "&7by the endermans."
+      - ""
+      - "&7PvP is &cdisabled &7here."

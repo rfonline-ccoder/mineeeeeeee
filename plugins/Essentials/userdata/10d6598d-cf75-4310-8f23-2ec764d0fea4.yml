@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.212.16.65
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730747324564
+  login: 1730745466240
+money: '0'
+last-account-name: Yamiru
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -2192.293151749114
+  y: 65.0
+  z: -3759.011792701916
+  yaw: 92.2069091796875
+  pitch: -2.700031042098999
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -0.15662850891552002
+  y: 99.5
+  z: 8.28531580564663
+  yaw: -144.79083251953125
+  pitch: 15.600110054016113

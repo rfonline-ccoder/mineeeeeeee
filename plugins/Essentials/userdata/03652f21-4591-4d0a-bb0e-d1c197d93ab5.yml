@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.110.157.55
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733074548656
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733074695700
+  login: 1733074378598
+money: '0'
+last-account-name: Vernesta
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -19.866012251752053
+  y: 101.0
+  z: 30.61998589417227
+  yaw: 67.75811767578125
+  pitch: -25.19985008239746
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -24.730316585609664
+  y: 110.0
+  z: -55.62147800997799
+  yaw: 5.04022216796875
+  pitch: 18.29997444152832

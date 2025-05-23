@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 45.189.57.45
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1732255350797
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733374477706
+  login: 1733374422229
+money: '0'
+last-account-name: ITzInvictorGT
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -4114.699999988079
+  y: 37.0
+  z: 4477.979329614761
+  yaw: -2.231292724609375
+  pitch: 34.397579193115234
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -16.067880272646335
+  y: 100.5
+  z: 16.3012479875499
+  yaw: -118.75873565673828
+  pitch: 25.127155303955078

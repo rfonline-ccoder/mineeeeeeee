@@ -1,0 +1,19 @@
+name: bablah
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - skills;27/02/2025
+    - emotes;27/02/2025
+    - quests;27/02/2025
+    - kits;27/02/2025
+    - help;27/02/2025
+    - guide;27/02/2025
+    - jobs;27/02/2025
+    - ranks;27/02/2025
+    - shop;27/02/2025
+    - auctionhouse;27/02/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;27/02/2025

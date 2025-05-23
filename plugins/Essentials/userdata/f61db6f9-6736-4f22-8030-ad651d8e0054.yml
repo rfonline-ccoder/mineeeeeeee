@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.105.192
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1743332767448
+  login: 1743332652930
+money: '0'
+last-account-name: crazymarty1
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 8.199999988079071
+  y: 99.5
+  z: 0.5081644679360028
+  yaw: -177.051025390625
+  pitch: -2.5499963760375977
+logoutlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: -298.484388650465
+  y: 77.0
+  z: 1994.2763482486303
+  yaw: 17.406402587890625
+  pitch: 1.1998138427734375

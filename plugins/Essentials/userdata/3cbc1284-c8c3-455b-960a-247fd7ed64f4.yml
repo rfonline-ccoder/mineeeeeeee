@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.31.241.158
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739370612184
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739371476692
+  login: 1739370367477
+money: '0'
+last-account-name: liebesschwur2
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 2.864400588065283
+  y: 101.79673560066871
+  z: 12.76692743725512
+  yaw: -126.65603637695312
+  pitch: 14.54991626739502
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 1589.7498495523087
+  y: 77.0
+  z: 4368.167230867291
+  yaw: 35.16943359375
+  pitch: 20.999935150146484

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.213.155.231
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734880350565
+  login: 1734880229637
+money: '0'
+last-account-name: Felitendo
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -1.9280652008322916
+  y: 99.5
+  z: 6.468355664923302
+  yaw: 107.80780029296875
+  pitch: 9.300137519836426
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -1404.699999988079
+  y: 98.0
+  z: 2398.899377616601
+  yaw: 153.40725708007812
+  pitch: 14.400175094604492

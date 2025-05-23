@@ -1,0 +1,15 @@
+name: iStacee
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - guide;14/04/2025
+    - jobs;14/04/2025
+    - ranks;14/04/2025
+    - shop;14/04/2025
+    - auctionhouse;14/04/2025
+    - skills;14/04/2025
+    - emotes;14/04/2025
+    - quests;14/04/2025
+    - kits;14/04/2025
+    - help;14/04/2025

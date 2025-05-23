@@ -1,0 +1,19 @@
+name: TheKaiserJeremy
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - guide;26/03/2025
+    - kits;26/03/2025
+    - quests;26/03/2025
+    - emotes;26/03/2025
+    - skills;26/03/2025
+    - auctionhouse;26/03/2025
+    - shop;26/03/2025
+    - ranks;26/03/2025
+    - jobs;26/03/2025
+    - help;26/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;26/03/2025

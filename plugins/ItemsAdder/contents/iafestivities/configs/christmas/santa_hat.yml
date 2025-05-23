@@ -1,0 +1,13 @@
+info:
+  namespace: iafestivities
+items:
+  santa_hat:
+    enabled: true
+    display_name: Santa Hat
+    permission: iafestivities.christmas.santa_hat
+    resource:
+      material: FEATHER
+      generate: false
+      model_path: christmas/santa_hat
+    behaviours:
+      hat: true

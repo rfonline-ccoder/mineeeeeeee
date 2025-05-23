@@ -1,0 +1,19 @@
+name: Nebulink
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - guide;15/03/2025
+    - help;15/03/2025
+    - kits;15/03/2025
+    - quests;15/03/2025
+    - auctionhouse;15/03/2025
+    - shop;15/03/2025
+    - ranks;15/03/2025
+    - jobs;15/03/2025
+    - skills;15/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;15/03/2025
+    - resourceworld;15/03/2025

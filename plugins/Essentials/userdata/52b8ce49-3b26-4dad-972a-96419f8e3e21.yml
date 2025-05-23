@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.217.14.162
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734110009330
+  login: 1734109174215
+money: '0'
+last-account-name: TribeSoul
+lastlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 4076.532995150612
+  y: 91.0
+  z: 2281.2816350780113
+  yaw: -111.49468994140625
+  pitch: 10.049514770507812
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 4076.532995150612
+  y: 91.0
+  z: 2281.2816350780113
+  yaw: -111.49468994140625
+  pitch: 10.049514770507812

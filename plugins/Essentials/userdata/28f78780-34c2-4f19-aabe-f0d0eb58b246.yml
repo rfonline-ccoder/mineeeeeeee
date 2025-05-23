@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.227.32.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736794645984
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736794767208
+  login: 1736793812880
+money: '0.45'
+last-account-name: Alpedal
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -20.12866011019166
+  y: 101.0
+  z: 18.77291702561177
+  yaw: 104.82470703125
+  pitch: 21.803916931152344
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: -3453.7781379432968
+  y: 99.0
+  z: 4817.31555922952
+  yaw: 15.71966552734375
+  pitch: 45.52519607543945

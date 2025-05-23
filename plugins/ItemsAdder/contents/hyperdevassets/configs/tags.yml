@@ -1,0 +1,649 @@
+info:
+  namespace: hyperdevassets
+font_images:
+#RANK TAGS
+  newbie:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/newbie.png"
+    scale_ratio: 9
+    y_position: 8
+  member:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/member.png"
+    scale_ratio: 9
+    y_position: 8
+  experienced:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/experienced.png"
+    scale_ratio: 9
+    y_position: 8
+  veteran:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/veteran.png"
+    scale_ratio: 9
+    y_position: 8
+  vip:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/vip.png"
+    scale_ratio: 9
+    y_position: 8
+  vipplus:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/vipplus.png"
+    scale_ratio: 9
+    y_position: 8
+  legendary:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/legendary.png"
+    scale_ratio: 9
+    y_position: 8
+  galactic:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/galactic.png"
+    scale_ratio: 9
+    y_position: 8    
+  helper:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/helper.png"
+    scale_ratio: 9
+    y_position: 8
+  mod:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/mod.png"
+    scale_ratio: 9
+    y_position: 8
+  manager:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/manager.png"
+    scale_ratio: 9
+    y_position: 8
+  admin:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/admin.png"
+    scale_ratio: 9
+    y_position: 8    
+  owner:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/owner.png"
+    scale_ratio: 9
+    y_position: 8   
+#EXTRA TAGS
+  afk_tag:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/afk_tag.png"
+    scale_ratio: 9
+    y_position: 8    
+#LOGOS
+  title:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/title.png"
+    scale_ratio: 12
+    y_position: 8    
+  title_big:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/title_big.png"
+    scale_ratio: 22
+    y_position: 8      
+#MENUS      
+  guide:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/guide.png"
+    scale_ratio: 52
+    y_position: 8
+  worlds_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/worlds_menu.png"
+    y_position: 25
+  jobs_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/jobs_menu.png"
+    y_position: 25
+  shop_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/shop_menu.png"
+    y_position: 25
+  ah:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/ah.png"
+    y_position: 25
+  warps_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/warps_menu.png"
+    y_position: 25  
+  ranks_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/ranks_menu.png"
+    y_position: 25     
+  skills_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/skills_menu.png"
+    y_position: 25 
+  kits_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/kits_menu.png"
+    y_position: 25
+  quests_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/quests_menu.png"
+    y_position: 25
+  quests_categories_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/quests_categories_menu.png"
+    y_position: 25
+  main_menu1:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/main_menu1.png"
+    y_position: 25
+  main_menu2:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/main_menu2.png"
+    y_position: 25
+  main_menu3:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/main_menu3.png"
+    y_position: 25
+  help_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/help_menu.png"
+    y_position: 25
+  emotes_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/emotes_menu.png"
+    y_position: 25
+  parkour_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/parkour_menu.png"
+    y_position: 25    
+  guide_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/guide_menu.png"
+    y_position: 79
+  class_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/class_menu.png"
+    y_position: 25
+#CODEX MENU
+  codex_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/codex_menu.png"
+    scale_ratio: 90
+    y_position: 14
+  codex_world_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/codex_world_menu.png"
+    scale_ratio: 90
+    y_position: 14
+  codex_ores_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/codex_ores_menu.png"
+    scale_ratio: 90
+    y_position: 14
+  codex_npc_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/codex_npc_menu.png"
+    scale_ratio: 90
+    y_position: 14
+#FORGE MENU
+  forge_menu:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/forge_menu.png"
+    scale_ratio: 256
+    y_position: 15
+  forge_menu1:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/forge_menu1.png"
+    scale_ratio: 256
+    y_position: 15
+  forge_menu2:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/forge_menu2.png"
+    scale_ratio: 256
+    y_position: 15
+  forge_menu3:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/forge_menu3.png"
+    scale_ratio: 256
+    y_position: 15
+  forge_menu4:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/forge_menu4.png"
+    scale_ratio: 256
+    y_position: 15
+  forge_menu5:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/forge_menu5.png"
+    scale_ratio: 256
+    y_position: 15
+  forge_menu6:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/forge_menu6.png"
+    scale_ratio: 256
+    y_position: 15
+#ICONS    
+  quest_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/quest_icon.png"
+    scale_ratio: 9
+    y_position: 8    
+  coinicon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/coinicon.png"
+    scale_ratio: 9
+    y_position: 8
+  armoricon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/armoricon.png"
+    scale_ratio: 9
+    y_position: 8
+  worldicon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/worldicon.png"
+    scale_ratio: 9
+    y_position: 8   
+  peopleicon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/peopleicon.png"
+    scale_ratio: 9
+    y_position: 8  
+  rclick_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/rclick_icon.png"
+    scale_ratio: 11
+    y_position: 8
+  join_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/join_icon.png"
+    scale_ratio: 11
+    y_position: 8
+  leave_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/leave_icon.png"
+    scale_ratio: 11
+    y_position: 8
+#RANK ICONS    
+  owner_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/owner_icon.png"
+    scale_ratio: 10
+    y_position: 8      
+  manager_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/manager_icon.png"
+    scale_ratio: 10
+    y_position: 8     
+  admin_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/admin_icon.png"
+    scale_ratio: 10
+    y_position: 8     
+  mod_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/mod_icon.png"
+    scale_ratio: 10
+    y_position: 8
+  helper_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/helper_icon.png"
+    scale_ratio: 10
+    y_position: 8     
+  galactic_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/galactic_icon.png"
+    scale_ratio: 10
+    y_position: 8      
+  legendary_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/legendary_icon.png"
+    scale_ratio: 10
+    y_position: 8            
+  vipplus_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/vipplus_icon.png"
+    scale_ratio: 10
+    y_position: 8           
+  vip_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/vip_icon.png"
+    scale_ratio: 10
+    y_position: 8       
+  veteran_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/veteran_icon.png"
+    scale_ratio: 10
+    y_position: 8            
+  experienced_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/experienced_icon.png"
+    scale_ratio: 10
+    y_position: 8
+  member_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/member_icon.png"
+    scale_ratio: 10
+    y_position: 8          
+  newbie_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/newbie_icon.png"
+    scale_ratio: 10
+    y_position: 8
+#SKILLS ICONS    
+  power_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/power_icon.png"
+    scale_ratio: 10
+    y_position: 8  
+  strength_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/strength_icon.png"
+    scale_ratio: 10
+    y_position: 8      
+  regeneration_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/regeneration_icon.png"
+    scale_ratio: 10
+    y_position: 8      
+  health_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/health_icon.png"
+    scale_ratio: 10
+    y_position: 8      
+  luck_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/luck_icon.png"
+    scale_ratio: 10
+    y_position: 8      
+  toughness_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/toughness_icon.png"
+    scale_ratio: 10
+    y_position: 8  
+  wisdom_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/wisdom_icon.png"
+    scale_ratio: 10
+    y_position: 8   
+#CODEX ICONS    
+  fill_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/fill_icon.png"
+    scale_ratio: 10
+    y_position: 8  
+  empty_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/empty_icon.png"
+    scale_ratio: 10
+    y_position: 8    
+#MORE ICONS
+  trophy_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/trophy_icon.png"
+    scale_ratio: 10
+    y_position: 8 
+  question_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/question_icon.png"
+    scale_ratio: 10
+    y_position: 8    
+  star_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/star_icon.png"
+    scale_ratio: 10
+    y_position: 8     
+  social_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/social_icon.png"
+    scale_ratio: 10
+    y_position: 8     
+  talk_icon:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/talk_icon.png"
+    scale_ratio: 10
+    y_position: 8     
+#OTHER TAGS    
+  npc_tag:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/npc_tag.png"
+    scale_ratio: 9
+    y_position: 8  
+  info:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/info.png"
+    scale_ratio: 9
+    y_position: 8     
+  important:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/important.png"
+    scale_ratio: 9
+    y_position: 8     
+  main_menu_sign:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/main_menu_sign.png"
+    scale_ratio: 19
+    y_position: 8
+  worlds_menu_sign:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/worlds_menu_sign.png"
+    scale_ratio: 19
+    y_position: 8    
+#NPC TAGS
+  king:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/king.png"
+    scale_ratio: 10
+    y_position: 8
+  guard:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/guard.png"
+    scale_ratio: 10
+    y_position: 8
+  forger:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/forger.png"
+    scale_ratio: 10
+    y_position: 8
+  miner:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/miner.png"
+    scale_ratio: 10
+    y_position: 8
+  villager:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/villager.png"
+    scale_ratio: 10
+    y_position: 8
+  warrior:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/warrior.png"
+    scale_ratio: 10
+    y_position: 8    
+  shipper:
+    permission: "hyperdevtags.admin"
+    show_in_gui: false
+    suggest_in_command: false
+    path: "font/tags/shipper.png"
+    scale_ratio: 10
+    y_position: 8 

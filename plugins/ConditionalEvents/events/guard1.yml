@@ -1,0 +1,106 @@
+Events:   
+  denim0: #DENIM
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 21"
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    - "%luckperms_has_permission_conditionalevents.npc.denim0% == no"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.npc.interacting true"
+      - "message: "
+      - "message: %img_guard%        Who are you boy? or girl? Whatever..."
+      - "message: "
+      - "message: &7(1/3)"
+      - "message: "
+      - "wait: 5"
+      - "message: "
+      - "message: %img_guard%        %player%? What a strange name. I don't"
+      - "message:                     know what are you looking for here,"
+      - "message:                     but &6The King &fis very busy leading"
+      - "message:                     the town."
+      - "message: &7(2/3)"
+      - "message: "
+      - "wait: 8"    
+      - "message: "      
+      - "message: %img_guard%        Well, anyways... Between me and you..."
+      - "message:                     I would like a new weapon, you know?"
+      - "message:                     Maybe you can bring me something useful."
+      - "message: "
+      - "message:                     &bBring a Netherite Sword to Denim"
+      - "message: "
+      - "message: &7(3/3)"
+      - "message: "      
+      - "console_command: lp user %player% permission unset conditionalevents.npc.interacting"    
+      - "console_command: lp user %player% permission set conditionalevents.npc.denim0 true"
+  denim1:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 21"
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    - "%luckperms_has_permission_conditionalevents.npc.denim0% == yes"
+    - "%luckperms_has_permission_conditionalevents.npc.denim2% == no"
+    - "%checkitem_amount_mat:NETHERITE_SWORD% < 1"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.npc.interacting true"
+      - "message: "
+      - "message: %img_guard%        I do not see any useful weapon for me..."
+      - "message: "
+      - "message: &7(1/2)"
+      - "message: "
+      - "wait: 5"
+      - "message: "
+      - "message: %img_guard%        A netherite sword would fit me so well."
+      - "message: "
+      - "message:                     &bBring a Netherite Sword to Denim"
+      - "message: "
+      - "message: &7(2/2)"
+      - "message: "
+      - "console_command: lp user %player% permission unset conditionalevents.npc.interacting"          
+  denim2:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 21"
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    - "%luckperms_has_permission_conditionalevents.npc.denim0% == yes"
+    - "%luckperms_has_permission_conditionalevents.npc.denim2% == no"
+    - "%checkitem_amount_mat:NETHERITE_SWORD% >= 1"  #ACTION: papi parse %player_name% %checkitem_remove_mat:NETHERITE_SWORD,amt:1%
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.npc.interacting true"
+      - "console_command: papi parse %player_name% %checkitem_remove_mat:NETHERITE_SWORD,amt:1%"
+      - "message: "
+      - "message: %img_guard%        Ohh this is what I was talking about!"
+      - "message:                     It will be very useful to defend the kingdom."
+      - "message: "
+      - "message:                    &c(-) 1 Netherite Sword"
+      - "message: &7(1/2)"
+      - "message: "
+      - "wait: 7"
+      - "message: "
+      - "message: %img_guard%        What? Ahh, do you want to see The King? Hummm"
+      - "message:                     Maybe I can introduce you to him. Go ahead and"
+      - "message:                     talk with him."
+      - "message: "
+      - "message: &7(2/2)"
+      - "message: "
+      - "console_command: papi parse %player_name% %checkitem_remove_mat:NETHERITE_SWORD,amt:1%" 
+      - "console_command: lp user %player% permission unset conditionalevents.npc.interacting"
+      - "console_command: lp user %player% permission set conditionalevents.npc.denim2 true"      
+  denim3:
+    type: citizens_right_click_npc
+    conditions:
+    - "%npc_id% == 21"
+    - "%luckperms_has_permission_conditionalevents.npc.interacting% == no"
+    - "%luckperms_has_permission_conditionalevents.npc.denim0% == yes"
+    - "%luckperms_has_permission_conditionalevents.npc.denim2% == yes"
+    actions:
+      default:  
+      - "console_command: lp user %player% permission set conditionalevents.npc.interacting true"
+      - "message: "
+      - "message: %img_guard%        Nothing else to say..."
+      - "message: "
+      - "message: &7(1/1)"
+      - "message: "
+      - "console_command: lp user %player% permission unset conditionalevents.npc.interacting"      

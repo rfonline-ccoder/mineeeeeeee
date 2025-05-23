@@ -1,0 +1,20 @@
+name: MiguelFierro
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - emotes;11/03/2025
+    - skills;11/03/2025
+    - quests;11/03/2025
+    - kits;11/03/2025
+    - jobs;11/03/2025
+    - ranks;11/03/2025
+    - shop;11/03/2025
+    - auctionhouse;11/03/2025
+    - guide;13/03/2025
+    - help;13/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;13/03/2025
+    - resourceworld;13/03/2025

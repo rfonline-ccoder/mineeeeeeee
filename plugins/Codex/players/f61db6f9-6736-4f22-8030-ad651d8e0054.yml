@@ -1,0 +1,14 @@
+name: crazymarty1
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - auctionhouse;28/03/2025
+    - shop;28/03/2025
+    - ranks;28/03/2025
+    - guide;28/03/2025
+    - help;28/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;28/03/2025

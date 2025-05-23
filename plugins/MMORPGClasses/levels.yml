@@ -1,0 +1,39 @@
+# Passive-experience is the experience gained every 30 minutes
+# for playing on the server. You can edit the value gained.
+
+# Experience to level is the experience required to finish the level.
+# So 1:1000 means 1000exp to level up to level 2 and so on.
+
+# You can add any and all mobs, currently in the game, to the experience-mobs
+# section of this configuration file. Please follow the format below, to ensure
+# it always works. The value after the mob is how much exp is gained for
+# killing the mob.
+
+# Please set the max-level to the same amount of levels you have. If you have 50 levels,
+# please set the max level to 50. This just makes all the code work better and enhances
+# your experience with the levelling system.
+
+# Join the community discord for support, roles and other: https://discord.gg/4cV7Tu7ESu
+
+max-level: 3
+
+passive-experience: 1
+experience-to-level:
+  1: 1000
+  2: 3000
+  3: 5000
+rewards:
+  1:
+    - "give {player} iron_ingot 8"
+  2:
+    - "give {player} diamond 4"
+  3:
+    - "give {player} netherite_ingot 2"
+experience-mobs:
+  ZOMBIE: 10
+  SKELETON: 10
+  CREEPER: 10
+  SPIDER: 10
+  COW: 10
+  PIG: 10
+  SHEEP: 10

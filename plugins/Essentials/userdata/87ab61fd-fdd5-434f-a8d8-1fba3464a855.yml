@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 220.118.248.131
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731259492624
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731259899810
+  login: 1731252653224
+money: '2311.4750000000000121'
+last-account-name: HCKeal
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 6.730550205698201
+  y: 99.5
+  z: 1.3607943034005132
+  yaw: 170.06036376953125
+  pitch: 5.1001505851745605
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 68.69999998807907
+  y: 63.5
+  z: -2611.0900789250786
+  yaw: -23.906005859375
+  pitch: 61.34991455078125
+homes:
+  home:
+    world: 5be272ee-638c-4e58-818c-62efb83411a5
+    world-name: resourceworld
+    x: -2610.7855503865776
+    y: 123.0
+    z: -4637.6793313992175
+    yaw: 82.68781280517578
+    pitch: 23.850011825561523

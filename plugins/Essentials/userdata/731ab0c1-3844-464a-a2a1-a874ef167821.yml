@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 136.34.98.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734295876378
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736017771480
+  login: 1736016644954
+money: '0'
+last-account-name: CKCentral
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -8.020287758434861
+  y: 99.5
+  z: -0.017284789409699422
+  yaw: 77.95777893066406
+  pitch: -16.34989356994629
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -0.14060034029046029
+  y: 99.5
+  z: -2.7353333804998727
+  yaw: -173.44183349609375
+  pitch: -8.400004386901855

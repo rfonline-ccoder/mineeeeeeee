@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.2.245.55
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737964663293
+  login: 1737964182686
+money: '0'
+last-account-name: Bulze
+logoutlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -3970.65655493271
+  y: 71.0
+  z: -4941.300000011921
+  yaw: 21.898345947265625
+  pitch: 18.15019416809082
+lastlocation:
+  world: 876b0e4d-60b2-410c-ad36-47acf21c0c26
+  world-name: world
+  x: 63.724928595745254
+  y: 81.0
+  z: -32.39922743018775
+  yaw: -38.39981460571289
+  pitch: 22.650012969970703

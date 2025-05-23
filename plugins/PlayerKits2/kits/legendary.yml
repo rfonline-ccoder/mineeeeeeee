@@ -1,0 +1,171 @@
+cooldown: 604800
+one_time: false
+auto_armor: false
+permission_required: true
+display:
+  default:
+    id: PAPER
+    name: '&f&r &6Kit'
+    amount: 1
+    lore:
+    - '&f&r &bClick to claim'
+    custom_model_data: 10180
+    nbt:
+    - itemsadder|{id:"icon_legendary",namespace:"mcicons"}|compound
+  no_permission:
+    id: PAPER
+    name: '&f&r &6Kit'
+    amount: 1
+    lore:
+    - '&f&r &cYou need &f&r &crank'
+    - '&cto claim this kit'
+    custom_model_data: 10180
+    nbt:
+    - itemsadder|{id:"icon_legendary",namespace:"mcicons"}|compound
+  cooldown:
+    id: PAPER
+    name: '&f&r &6Kit'
+    amount: 1
+    lore:
+    - '&f&r &eYou need to wait %time%'
+    - '&eto claim this kit again'
+    custom_model_data: 10180
+    nbt:
+    - itemsadder|{id:"icon_legendary",namespace:"mcicons"}|compound
+items:
+  '1':
+    id: DIAMOND_SWORD
+    name: '&f&r &6Sword'
+    amount: 1
+    enchants:
+    - LOOT_BONUS_MOBS;2
+    - DAMAGE_ALL;3
+    - SWEEPING_EDGE;1
+    - DURABILITY;2
+  '2':
+    id: DIAMOND_PICKAXE
+    name: '&f&r &6Pickaxe'
+    amount: 1
+    enchants:
+    - DIG_SPEED;3
+    - LOOT_BONUS_BLOCKS;2
+    - DURABILITY;2
+  '3':
+    id: DIAMOND_AXE
+    name: '&f&r &6Axe'
+    amount: 1
+    enchants:
+    - DIG_SPEED;3
+    - DURABILITY;2
+  '4':
+    id: DIAMOND_SHOVEL
+    name: '&f&r &6Shovel'
+    amount: 1
+    enchants:
+    - DIG_SPEED;3
+    - DURABILITY;2
+  '5':
+    id: BOW
+    name: '&f&r &6Bow'
+    amount: 1
+    lore:
+    - '&7Durability: 384 / 384'
+    enchants:
+    - ARROW_FIRE;1
+    - ARROW_DAMAGE;4
+    - DURABILITY;3
+    custom_model_data: 10001
+    nbt:
+    - itemsadder|{custom_durability:384,fake_durability:384.0d,id:"red_bow",max_custom_durability:384,namespace:"iasurvival"}|compound
+  '6':
+    id: LEATHER_HELMET
+    name: '&f&r &6Helmet'
+    amount: 1
+    lore:
+    - '&5&oInfused with Amethyst'
+    - '&7Durability: 200 / 200'
+    item_flags:
+    - HIDE_DESTROYS
+    - HIDE_DYE
+    custom_model_data: 10003
+    color: 2
+    nbt:
+    - itemsadder|{custom_durability:200,fake_durability:55.0d,id:"amethyst_diamond_helmet",max_custom_durability:200,namespace:"bettermobs"}|compound
+    attributes:
+    - GENERIC_MAX_HEALTH;ADD_NUMBER;3.0;12ab7b97-a1f1-3a5f-915f-02ac57c78e0c;HEAD;custom_name:itemsadder
+    - GENERIC_ARMOR;ADD_NUMBER;4.0;6a63cdae-ea06-3b7b-8b0f-9756aa9ce4ea;HEAD;custom_name:itemsadder
+    - GENERIC_ARMOR_TOUGHNESS;ADD_NUMBER;4.0;b68d0ad1-65ad-3b1a-baa4-48abba7aaabd;HEAD;custom_name:itemsadder
+  '7':
+    id: LEATHER_CHESTPLATE
+    name: '&f&r &6Chestplate'
+    amount: 1
+    lore:
+    - '&5&oInfused with Amethyst'
+    - '&7Durability: 350 / 350'
+    item_flags:
+    - HIDE_DESTROYS
+    - HIDE_DYE
+    custom_model_data: 10003
+    color: 2
+    nbt:
+    - itemsadder|{custom_durability:350,fake_durability:80.0d,id:"amethyst_diamond_chestplate",max_custom_durability:350,namespace:"bettermobs"}|compound
+    attributes:
+    - GENERIC_MAX_HEALTH;ADD_NUMBER;3.0;dd6cc453-df12-3391-a634-7489e02a19bb;CHEST;custom_name:itemsadder
+    - GENERIC_ARMOR;ADD_NUMBER;9.0;18bd5a03-405a-355c-a96d-0ee39309c023;CHEST;custom_name:itemsadder
+    - GENERIC_ARMOR_TOUGHNESS;ADD_NUMBER;9.0;e24fea4e-ef2d-351b-b7e4-1624c012d0a8;CHEST;custom_name:itemsadder
+  '8':
+    id: LEATHER_LEGGINGS
+    name: '&f&r &6Leggings'
+    amount: 1
+    lore:
+    - '&5&oInfused with Amethyst'
+    - '&7Durability: 250 / 250'
+    item_flags:
+    - HIDE_DESTROYS
+    - HIDE_DYE
+    custom_model_data: 10003
+    color: 2
+    nbt:
+    - itemsadder|{custom_durability:250,fake_durability:75.0d,id:"amethyst_diamond_leggings",max_custom_durability:250,namespace:"bettermobs"}|compound
+    attributes:
+    - GENERIC_MAX_HEALTH;ADD_NUMBER;3.0;272d3eb2-e620-31eb-899f-95374dc87c6d;LEGS;custom_name:itemsadder
+    - GENERIC_ARMOR;ADD_NUMBER;7.0;9fe7704b-dec4-3be4-8b57-387f57f0b804;LEGS;custom_name:itemsadder
+    - GENERIC_ARMOR_TOUGHNESS;ADD_NUMBER;7.0;f8cdbec5-0f83-3031-8d72-b99f08d570a1;LEGS;custom_name:itemsadder
+  '9':
+    id: LEATHER_BOOTS
+    name: '&f&r &6Boots'
+    amount: 1
+    lore:
+    - '&5&oInfused with Amethyst'
+    - '&7Durability: 200 / 200'
+    item_flags:
+    - HIDE_DESTROYS
+    - HIDE_DYE
+    custom_model_data: 10003
+    color: 2
+    nbt:
+    - itemsadder|{custom_durability:200,fake_durability:65.0d,id:"amethyst_diamond_boots",max_custom_durability:200,namespace:"bettermobs"}|compound
+    attributes:
+    - GENERIC_MAX_HEALTH;ADD_NUMBER;3.0;4c4436f4-8d58-3c42-891b-ebaaac0a3860;FEET;custom_name:itemsadder
+    - GENERIC_ARMOR;ADD_NUMBER;4.0;83278ed8-4800-3f04-8c86-0bf8d548e47a;FEET;custom_name:itemsadder
+    - GENERIC_ARMOR_TOUGHNESS;ADD_NUMBER;4.0;70feaf94-6c34-33e0-92c1-4db99e6afcb4;FEET;custom_name:itemsadder
+  '10':
+    id: ARROW
+    amount: 64
+  '11':
+    id: ENCHANTED_GOLDEN_APPLE
+    amount: 2
+  '12':
+    id: COOKED_BEEF
+    amount: 32
+actions:
+  claim:
+    '1':
+      action: 'playsound: BLOCK_NOTE_BLOCK_PLING;10;2'
+      execute_before_items: false
+      count_as_item: false
+  error:
+    '1':
+      action: 'playsound: BLOCK_NOTE_BLOCK_PLING;10;0.1'
+      execute_before_items: false
+      count_as_item: false

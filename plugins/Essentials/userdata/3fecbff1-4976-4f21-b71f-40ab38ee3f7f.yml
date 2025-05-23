@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 173.31.165.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745853836866
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745854050054
+  login: 1745853640067
+money: '0'
+last-account-name: Criting
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: -486.28456099511465
+  y: 77.0
+  z: 4445.306002781371
+  yaw: 42.520687103271484
+  pitch: 23.974014282226562
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -16.38282658453118
+  y: 101.0
+  z: 15.112348178269814
+  yaw: -60.17218017578125
+  pitch: 20.305233001708984

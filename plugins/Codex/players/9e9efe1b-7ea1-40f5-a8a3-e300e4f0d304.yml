@@ -1,0 +1,11 @@
+name: GodlyDinosaur20
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - kits;01/05/2025
+    - jobs;01/05/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;01/05/2025

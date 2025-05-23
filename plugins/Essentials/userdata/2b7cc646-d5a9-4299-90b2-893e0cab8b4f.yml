@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.76.53.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744647902305
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744648032950
+  login: 1744647214900
+money: '1.50'
+last-account-name: M1rcELoRO
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 2.1370511771019816
+  y: 100.0
+  z: -0.1450251568110463
+  yaw: -79.5516357421875
+  pitch: -0.14897415041923523
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 2633.9026365454474
+  y: 63.0
+  z: -2604.575472802715
+  yaw: -115.665283203125
+  pitch: -0.4371769428253174

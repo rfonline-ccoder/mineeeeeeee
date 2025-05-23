@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.100.152.201
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1746119350292
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746119473018
+  login: 1746118565676
+money: '0'
+last-account-name: viomezoh
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 4209.914083690844
+  y: 95.17675927506424
+  z: 2107.0096260069004
+  yaw: 19.215063095092773
+  pitch: 24.60017204284668
+logoutlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 4030.0941494553176
+  y: 139.0
+  z: 4728.4638809310045
+  yaw: 176.4952392578125
+  pitch: 50.08026885986328

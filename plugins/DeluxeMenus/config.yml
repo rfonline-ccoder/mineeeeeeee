@@ -1,0 +1,79 @@
+# DeluxeMenus 1.14.0-Release main configuration file
+#
+# A full wiki on how to use this plugin can be found at:
+# https://wiki.helpch.at/clips-plugins/deluxemenus
+
+debug: false
+check_updates: true
+gui_menus:
+  warps:
+    file: warps.yml
+  quests:
+    file: quests.yml
+  emotes:
+    file: emotes.yml
+  world:
+    file: world.yml
+  parkour:
+    file: parkour.yml
+  guide:
+    file: guide.yml
+  class:
+    file: class.yml
+  # MAIN MENU
+  mainmenu1:
+    file: mainmenu/main_menu1.yml
+  mainmenu2:
+    file: mainmenu/main_menu2.yml
+  mainmenu3:
+    file: mainmenu/main_menu3.yml
+  # FORGE
+  forge0:
+    file: forge/forge0.yml
+  forge1:
+    file: forge/forge1.yml
+  forge2:
+    file: forge/forge2.yml
+  forge3:
+    file: forge/forge3.yml
+  forge4:
+    file: forge/forge4.yml
+  forge5:
+    file: forge/forge5.yml
+  forge6:
+    file: forge/forge6.yml
+  # RANKS    
+  ranks:
+    file: ranks/ranks.yml
+  member:
+    file: ranks/member.yml
+  experienced:
+    file: ranks/experienced.yml
+  veteran:
+    file: ranks/veteran.yml
+  vip:
+    file: ranks/vip.yml
+  vipplus:
+    file: ranks/vipplus.yml
+  legendary:
+    file: ranks/legendary.yml
+  galactic:
+    file: ranks/galactic.yml
+  info:
+    file: info.yml
+  # JOBS    
+  jobs:
+    file: jobs/jobs.yml
+  jobs_lumberjack:
+    file: jobs/jobs_lumberjack.yml
+  jobs_hunter:
+    file: jobs/jobs_hunter.yml
+  jobs_farmer:
+    file: jobs/jobs_farmer.yml
+  jobs_enchanter:
+    file: jobs/jobs_enchanter.yml
+  jobs_miner:
+    file: jobs/jobs_miner.yml
+  jobs_fisherman:
+    file: jobs/jobs_fisherman.yml
+

@@ -1,0 +1,12 @@
+name: nwsebln
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - guide;12/04/2025
+    - skills;12/04/2025
+    - kits;12/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;12/04/2025

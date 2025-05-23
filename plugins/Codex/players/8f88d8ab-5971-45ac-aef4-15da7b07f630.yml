@@ -1,0 +1,12 @@
+name: viomezoh
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - ranks;01/05/2025
+    - kits;01/05/2025
+    - skills;01/05/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;01/05/2025

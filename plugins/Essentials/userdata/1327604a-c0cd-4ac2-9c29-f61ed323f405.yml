@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.193.66.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1738527146258
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1742655821189
+  login: 1742655792039
+money: '14.0'
+last-account-name: IsThat_A_Supra
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -1459.0366629432883
+  y: 68.0
+  z: -2496.699999988079
+  yaw: -177.64208984375
+  pitch: -16.500028610229492
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -41.811268086301
+  y: 104.0
+  z: 19.608136300163903
+  yaw: 44.954833984375
+  pitch: -18.300060272216797

@@ -1,0 +1,10 @@
+quest-progress:
+  miner1:
+    started: false
+    started-date: 1738519184911
+    completed: true
+    completed-before: true
+    completion-date: 1738519184911
+    task-progress:
+      mining:
+        completed: false

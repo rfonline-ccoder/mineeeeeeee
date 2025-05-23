@@ -1,0 +1,13 @@
+name: Nymenaria
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - quests;28/02/2025
+    - kits;28/02/2025
+    - help;28/02/2025
+    - guide;28/02/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;28/02/2025

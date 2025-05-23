@@ -1,0 +1,20 @@
+name: Bludemond
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - skills;29/04/2025
+    - emotes;29/04/2025
+    - quests;29/04/2025
+    - kits;29/04/2025
+    - help;29/04/2025
+    - guide;29/04/2025
+    - jobs;29/04/2025
+    - ranks;29/04/2025
+    - shop;29/04/2025
+    - auctionhouse;29/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;29/04/2025
+    - nether;29/04/2025

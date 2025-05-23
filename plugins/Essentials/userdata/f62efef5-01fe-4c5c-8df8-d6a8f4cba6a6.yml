@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 95.247.233.122
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733266055901
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733266162170
+  login: 1733265844997
+money: '0'
+last-account-name: Moldina
+lastlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: -2648.6112865710816
+  y: 61.0
+  z: -1460.8651144346513
+  yaw: 125.66090393066406
+  pitch: 21.394636154174805
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 7.570521550395348
+  y: 118.0
+  z: 53.69999998807907
+  yaw: -60.276092529296875
+  pitch: 24.644800186157227

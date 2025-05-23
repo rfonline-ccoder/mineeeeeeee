@@ -1,0 +1,15 @@
+name: iSevin
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - ranks;17/03/2025
+    - shop;17/03/2025
+    - auctionhouse;17/03/2025
+    - jobs;17/03/2025
+    - guide;17/03/2025
+    - help;17/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;17/03/2025

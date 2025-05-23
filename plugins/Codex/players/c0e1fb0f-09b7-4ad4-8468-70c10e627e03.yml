@@ -1,0 +1,20 @@
+name: cody_raves
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - guide;02/03/2025
+    - jobs;02/03/2025
+    - ranks;02/03/2025
+    - shop;02/03/2025
+    - auctionhouse;02/03/2025
+    - skills;02/03/2025
+    - emotes;02/03/2025
+    - quests;02/03/2025
+    - kits;02/03/2025
+    - help;03/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;02/03/2025
+    - survival;02/03/2025

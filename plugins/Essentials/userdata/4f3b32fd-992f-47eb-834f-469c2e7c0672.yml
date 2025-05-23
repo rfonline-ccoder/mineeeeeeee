@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.138.97.196
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1739995058959
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1739995128769
+  login: 1739994695172
+money: '0'
+last-account-name: Marley_R
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 6.067517602886016
+  y: 99.5
+  z: -0.08661297431408445
+  yaw: -75.9422607421875
+  pitch: -9.4498929977417
+logoutlocation:
+  world: 4ad6798b-48c7-44d2-a948-2aba3d79eb94
+  world-name: world_the_end
+  x: 3674.8960319495627
+  y: 62.0
+  z: -1227.1508139353107
+  yaw: 7.457800388336182
+  pitch: 22.500112533569336

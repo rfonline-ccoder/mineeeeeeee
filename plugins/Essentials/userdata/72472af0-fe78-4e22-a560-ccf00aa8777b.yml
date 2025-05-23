@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 69.231.67.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1740185449476
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740286791033
+  login: 1740286574223
+money: '3.8'
+last-account-name: Cheesy_CT
+lastlocation:
+  world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+  world-name: resourceworld
+  x: 2196.1228158017966
+  y: 88.0
+  z: 3459.469121316981
+  yaw: -0.21156729757785797
+  pitch: 6.750055313110352
+homes:
+  home:
+    world: 1b31ecda-b6a0-4354-b31f-861ddc7a99ec
+    world-name: resourceworld
+    x: 2203.6362923509837
+    y: 87.0
+    z: 3492.1749709353567
+    yaw: -156.66168212890625
+    pitch: 21.150060653686523
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 1.1915081124011078
+  y: 100.0
+  z: 1.9685613868023009
+  yaw: -15.49440860748291
+  pitch: 1.7999789714813232

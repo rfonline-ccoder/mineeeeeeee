@@ -1,0 +1,17 @@
+name: Marcpoet
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - emotes;22/04/2025
+    - skills;22/04/2025
+    - auctionhouse;22/04/2025
+    - shop;22/04/2025
+    - ranks;22/04/2025
+    - guide;22/04/2025
+    - help;23/04/2025
+    - quests;23/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - resourceworld;23/04/2025

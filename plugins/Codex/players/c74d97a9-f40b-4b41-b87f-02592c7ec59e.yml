@@ -1,0 +1,13 @@
+name: Tieskuhh_
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - emotes;27/04/2025
+    - quests;27/04/2025
+    - kits;27/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - end;27/04/2025
+    - survival;27/04/2025

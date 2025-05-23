@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 68.105.165.164
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1733436473523
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1733437708903
+  login: 1733436468634
+money: '0'
+last-account-name: zMythos
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -27.374067313394413
+  y: 100.5
+  z: 13.614347295887052
+  yaw: -67.82952880859375
+  pitch: 9.749627113342285
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -8.651724529815366
+  y: 100.0
+  z: 5.965382690209082
+  yaw: -101.0478515625
+  pitch: -29.850221633911133

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 149.62.205.113
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1745850639454
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746102352304
+  login: 1746102337152
+money: '0'
+last-account-name: mertimm
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 588.135050215898
+  y: 65.0
+  z: -2465.627953240654
+  yaw: -11.892108917236328
+  pitch: 4.199965476989746
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: 0.26664488911184153
+  y: 99.5
+  z: 9.516946696942664
+  yaw: 71.95777130126953
+  pitch: 16.050111770629883

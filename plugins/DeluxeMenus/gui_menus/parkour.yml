@@ -1,0 +1,48 @@
+open_command: 
+- parkour
+register_command: true
+size: 54
+menu_title: ':offset_-16::parkour_menu:'
+items:
+  '1':
+    material: itemsadder-mcicons:icon_parkour
+    slot: 4
+    display_name: '&aInformation'
+    lore:
+    - "&8&m                                "
+    - "&fShow your &ajump-skills &fby"
+    - "&fjoining a &aparkour session!"
+    - "&8&m                                "
+  'Play':
+    material: itemsadder-mcicons:icon_confirm
+    slot: 19
+    display_name: '&aStart a parkour session'
+    lore:
+    - "&8&m                              "
+    - "      &fClick to &astart"
+    - "&8&m                              "
+    left_click_commands:
+    - '[player] ip play'    
+  'Leaderboards':
+    material: BOOKSHELF
+    slot: 22
+    display_name: '&bParkour Leaderboard'
+    lore:
+    - "&8&m                            "
+    - "    &fClick to check"
+    - "   &fthe &bleaderboard"    
+    - "&8&m                            "
+    left_click_commands:
+    - '[player] ip leaderboard'    
+  'Leave':
+    material: itemsadder-mcicons:icon_cancel
+    slot: 25
+    display_name: '&cLeave your parkour session'
+    lore:
+    - "&8&m                                  "
+    - "         &fClick to &cleave"
+    - "&8&m                                  "
+    left_click_commands:
+    - '[player] ip leave'    
+ #Format
+sweet: true

@@ -1,0 +1,20 @@
+name: thyla99
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - kits;08/03/2025
+    - quests;08/03/2025
+    - emotes;08/03/2025
+    - skills;08/03/2025
+    - auctionhouse;08/03/2025
+    - shop;08/03/2025
+    - ranks;08/03/2025
+    - jobs;08/03/2025
+    - guide;08/03/2025
+    - help;08/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - end;08/03/2025
+    - nether;12/03/2025

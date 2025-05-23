@@ -1,0 +1,56 @@
+# The name of this file is the quest ID. It must be alphanumeric and unique.
+
+# Everything inside of this section defines tasks the player must complete to progress.
+tasks:
+  # This is the task ID ("mining"). This can share the same name as the quest ID but MUST be unique with all other task IDs in the same quest.
+  fishing:
+    # This defines what type of task this is. In this instance, it is "blockbreak" (breaking blocks)
+    # NOTE: guides to set up each type of task is on the wiki (see README)!
+    type: "fishingcertain"
+    item: TROPICAL_FISH
+    # This defines the amount of blocks which need to be broken
+    amount: 16
+  # You can have multiple tasks for each quest (example further down).
+
+# Everything inside of this section defines the display item.
+display:
+  # This is the name of the item. This allows color codes.
+  name: "&aFishing XVII"
+  # This is the lore of the item if the player has not started the quest. This allows color codes and task/player placeholders.
+  lore-normal:
+    - "&8Easy Quest"
+    - ""
+    - "&6&lQUEST"
+    - "&fFish &a16&f Tropical fishes."
+    - ""
+    - "&6&lREWARDS"
+    - "&b$800"
+  # This lore will be appended to the bottom of the above lore when the player starts their quest.
+  # To get the players progress through a task, use {TASKID:progress}  and replace TASKID with the ID of the task.
+  lore-started:
+    - ""
+    - "&eProgress"
+    - "&a{fishing:progress}/16"
+  # This is the material of the item. It is recommended to stick to bukkit names.
+  type: "TROPICAL_FISH"
+
+# List all commands to be executed by the server when the player completes the quest. Use {player} to get the players name.
+rewards:
+  - "eco give {player} 800"
+
+# Everything inside this section define quest-specific options
+options:
+  # This is the category for the quest, it will appear under the "examples" category. Categories can be disabled.
+  category: "fishing"
+  # Set if the quest can be repeated after being completed for the first time.
+  repeatable: false
+  # Define the cooldown on quests. The above (repeatable) must be true for this to take effect.
+  cooldown:
+    # If true, players will have to wait between repeating quests.
+    enabled: true
+    # Time (in minutes)
+    time: 1440
+  # This is the relative position in the GUI
+  sort-order: 17
+  requires:
+   - "fishing16"

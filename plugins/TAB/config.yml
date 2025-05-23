@@ -1,0 +1,231 @@
+header-footer:
+  enabled: true
+  header:
+  - <#7542F5>&m&l                                                                                                                             </#FF0048>
+  - ''
+  - '&f%img_title_big%'
+  - ''
+  - ''
+  - '&f%img_mc_written_book% &#8f34ebNeed help? Do &#ff85f9/help&#8f34eb, still need
+    help? &#ff85f9Contact Support &f%img_mc_written_book%'
+  - ''
+  - '&#8f34ebVisit our &#ff85f9/ꜱᴛᴏʀᴇ&r &#8f34ebfor &#ff85f9&nranks&r &#8f34eb&
+    &#ff85f9&nperks&r&#8f34eb!'
+  - ''
+  footer:
+  - ''
+  - <#FF0048>&m&l                                                                                                                             </#7542F5>
+  disable-condition: '%world%=disabledworld'
+  per-world:
+    world1:
+      header:
+      - an example of world with custom
+      footer:
+      - header/footer and prefix/suffix
+    world2;world3:
+      header:
+      - This is a shared header for
+      - world2 and world3
+  per-server:
+    server1:
+      header:
+      - an example of server with custom header
+tablist-name-formatting:
+  enabled: true
+  anti-override: true
+  disable-condition: '%world%=disabledworld'
+scoreboard-teams:
+  enabled: true
+  enable-collision: true
+  invisible-nametags: false
+  anti-override: true
+  sorting-types:
+  - GROUPS:owner,admin,manager,mod,helper,galactic,legendary,vipplus,vip,veteran,experienced,member,default
+  - PLACEHOLDER_A_TO_Z:%player%
+  case-sensitive-sorting: false
+  can-see-friendly-invisibles: false
+  disable-condition: '%world%=disabledworld'
+belowname-objective:
+  enabled: false
+  disable-condition: '%world%=disabledworld'
+  fancy-value-default: NPC
+  fancy-value: '&c%health%'
+  value: '%health%'
+  title: '&cHealth'
+prevent-spectator-effect:
+  enabled: false
+bossbar:
+  enabled: true
+  toggle-command: /bossbar
+  remember-toggle-choice: false
+  hidden-by-default: false
+  bars:
+    ServerInfo:
+      style: PROGRESS
+      color: YELLOW
+      progress: '100'
+      text: '&f%img_worldicon% %multiverse_world_alias%      &f%img_mc_filled_map%
+        %scs_claim_owner%''s Land          &f%img_mc_clock% %multiverse_world_time%'
+scoreboard:
+  enabled: true
+  toggle-command: /sb
+  remember-toggle-choice: true
+  hidden-by-default: false
+  use-numbers: false
+  static-number: 0
+  delay-on-join-milliseconds: 0
+  scoreboards:
+    default:
+      title: '%img_title%'
+      lines:
+      - '&#084CFB&l&m-&#1256FB&l&m-&#1B60FB&l&m-&#2569FB&l&m-&#2F73FB&l&m-&#397DFC&l&m-&#4287FC&l&m-&#4C91FC&l&m-&#569BFC&l&m-&#5FA4FC&l&m-&#69AEFC&l&m-&#73B8FC&l&m-&#7CC2FC&l&m-&#86CCFD&l&m-&#90D6FD&l&m-&#9ADFFD&l&m-&#A3E9FD&l&m-'
+      - '&f%img_armoricon% &aɴᴀᴍᴇ: &f%essentials_nickname%'
+      - '&f%img_coinicon% &aʙᴀʟᴀɴᴄᴇ: &f$%vault_eco_balance_fixed%'
+      - '&f%img_worldicon% &aᴡᴏʀʟᴅ: &f%multiverse_world_alias%'
+      - '&#ADF3FD&l&m-&#A3E9FD&l&m-&#98DEFD&l&m-&#8ED4FD&l&m-&#84C9FD&l&m-&#79BFFC&l&m-&#6FB4FC&l&m-&#65AAFC&l&m-&#5BA0FC&l&m-&#5095FC&l&m-&#468BFC&l&m-&#3C80FC&l&m-&#3176FC&l&m-&#276BFB&l&m-&#1D61FB&l&m-&#1256FB&l&m-&#084CFB&l&m-'
+      - '&f%img_peopleicon% &bᴏɴʟɪɴᴇ ᴘʟᴀʏᴇʀꜱ: &f%server_online%'
+      - '&f%img_quest_icon% &dQᴜᴇꜱᴛ ᴛʀᴀᴄᴋᴇᴅ:'
+      - '   &b%quests_tracked%'
+      - '&#084CFB&l&m-&#1256FB&l&m-&#1B60FB&l&m-&#2569FB&l&m-&#2F73FB&l&m-&#397DFC&l&m-&#4287FC&l&m-&#4C91FC&l&m-&#569BFC&l&m-&#5FA4FC&l&m-&#69AEFC&l&m-&#73B8FC&l&m-&#7CC2FC&l&m-&#86CCFD&l&m-&#90D6FD&l&m-&#9ADFFD&l&m-&#A3E9FD&l&m-'
+      - '&f%img_mc_emerald% &#ADF3FD/ꜱᴛᴏʀᴇ ꜰᴏʀ ʀᴀɴᴋꜱ! &f%img_mc_emerald%'
+layout:
+  enabled: true
+  direction: COLUMNS
+  default-skin: mineskin:1753261242
+  enable-remaining-players-text: true
+  remaining-players-text: '... and %s more'
+  empty-slot-ping-value: 1000
+  layouts:
+    default:
+      fixed-slots:
+      - '41| '
+      - 42|<#7542F5>&lɪɴꜰᴏʀᴍᴀᴛɪᴏɴ</#7542F5>
+      - '43|&f%img_armoricon% &aʀᴀɴᴋ: &f%luckperms_prefix%'
+      - '44|&f%img_coinicon% &aʙᴀʟᴀɴᴄᴇ: &f%vault_eco_balance_formatted%'
+      - '45|&f%img_worldicon% &aᴡᴏʀʟᴅ: &f%multiverse_world_alias%'
+      - '46| '
+      - 47|<#7542F5>&lᴍɪꜱꜱɪᴏɴꜱ</#7542F5>
+      - '48|&f%img_quest_icon% &dQᴜᴇꜱᴛ ᴄᴏᴍᴘʟᴇᴛᴇᴅ: &a%quests_completed%/%quests_all%'
+      - '49|&f%img_quest_icon% &dQᴜᴇꜱᴛ ᴛʀᴀᴄᴋᴇᴅ:'
+      - 50|%quests_tracked%
+      - '51| '
+      - 52|<#7542F5>&lꜱᴛᴀᴛꜱ</#7542F5>
+      - '53|&f%img_power_icon%&fᴘᴏᴡᴇʀ: &b%aureliumskills_power%'
+      - '54|&f%img_strength_icon%&fꜱᴛʀᴇɴɢᴛʜ: &6%aureliumskills_strength%'
+      - '55|&f%img_health_icon%&fʜᴇᴀʟᴛʜ: &4%player_health_rounded%&8/&4%player_max_health_rounded%'
+      - '56|&f%img_regeneration_icon%&fʀᴇɢᴇɴᴇʀᴀᴛɪᴏɴ: &c%aureliumskills_regeneration%'
+      - '57|&f%img_luck_icon%&fʟᴜᴄᴋ: &a%aureliumskills_luck%'
+      - '58|&f%img_wisdom_icon%&fᴡɪꜱᴅᴏᴍ: &e%aureliumskills_wisdom%'
+      - '59|&f%img_toughness_icon%&fᴛᴏᴜɢʜɴᴇꜱꜱ: &8%aureliumskills_toughness%'
+      - '60| '
+      groups:
+        players:
+          slots:
+          - 1-52
+placeholders:
+  date-format: dd.MM.yyyy
+  time-format: '[HH:mm:ss / h:mm a]'
+  time-offset: 0
+  register-tab-expansion: true
+placeholder-output-replacements:
+  '%essentials_vanished%':
+    'yes': '&7| Vanished'
+    'no': ''
+  '%essentials_afk%':
+    'no': ''
+    'yes': '%img_afk_tag%'
+  '%essentials_nickname%':
+    '%essentials_nickname%': '%player%'
+  '%luckperms_prefix%':
+    ':owner:': '&f%img_owner_icon%%img_owner%'
+    ':manager:': '&f%img_manager_icon%%img_manager%'
+    ':admin:': '&f%img_admin_icon%%img_admin%'
+    ':mod:': '&f%img_mod_icon%%img_mod%'
+    ':helper:': '&f%img_helper_icon%%img_helper%'
+    ':galactic:': '&f%img_galactic_icon%%img_galactic%'
+    ':legendary:': '&f%img_legendary_icon%%img_legendary%'
+    ':vipplus:': '&f%img_vipplus_icon%%img_vipplus%'
+    ':vip:': '&f%img_vip_icon%%img_vip%'
+    ':veteran:': '&f%img_veteran_icon%%img_veteran%'
+    ':experienced:': '&f%img_experienced_icon%%img_experienced%'
+    ':member:': '&f%img_member_icon%%img_member%'
+    ':newbie:': '&f%img_newbie_icon%%img_newbie%'
+conditions:
+  nick:
+    conditions:
+    - '%player%=%essentials_nickname%'
+    true: '%player%'
+    false: ~%essentials_nickname%
+placeholderapi-refresh-intervals:
+  default-refresh-interval: 500
+  '%server_uptime%': 1000
+  '%server_tps_1_colored%': 1000
+  '%server_unique_joins%': 5000
+  '%player_health%': 200
+  '%player_ping%': 1000
+  '%vault_prefix%': 1000
+  '%rel_factionsuuid_relation_color%': 1000
+assign-groups-by-permissions: false
+primary-group-finding-list:
+- owner
+- manager
+- admin
+- mod
+- helper
+- galactic
+- legendary
+- vipplus
+- vip
+- veteran
+- experienced
+- member
+- default
+debug: false
+mysql:
+  enabled: false
+  host: 127.0.0.1
+  port: 3306
+  database: tab
+  username: user
+  password: password
+per-world-playerlist:
+  enabled: false
+  allow-bypass-permission: false
+  ignore-effect-in-worlds:
+  - ignoredworld
+  - build
+  shared-playerlist-world-groups:
+    lobby:
+    - lobby1
+    - lobby2
+    minigames:
+    - paintball
+    - bedwars
+global-playerlist:
+  enabled: false
+  display-others-as-spectators: false
+  display-vanished-players-as-spectators: true
+  isolate-unlisted-servers: false
+  spy-servers:
+  - spyserver1
+  - spyserver2
+  server-groups:
+    lobbies:
+    - lobby1
+    - lobby2
+    group2:
+    - server1
+    - server2
+  update-latency: false
+use-bukkit-permissions-manager: false
+use-online-uuid-in-tablist: true
+playerlist-objective:
+  enabled: false
+  value: '%ping%'
+  disable-condition: '%world%=disabledworld'
+  fancy-value: '&7Ping: %ping%'
+ping-spoof:
+  enabled: false
+permission-refresh-interval: 1000
+enable-redisbungee-support: true
+compensate-for-packetevents-bug: false

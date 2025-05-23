@@ -1,0 +1,35 @@
+# ################################################################################################
+#
+#    ██╗████████╗███████╗███╗   ███╗██╗   ██╗ ██████╗ ██████╗ ███╗   ██╗███████╗██╗ ██████╗
+#    ██║╚══██╔══╝██╔════╝████╗ ████║╚██╗ ██╔╝██╔════╝██╔═══██╗████╗  ██║██╔════╝██║██╔════╝
+#    ██║   ██║   ███████╗██╔████╔██║ ╚████╔╝ ██║     ██║   ██║██╔██╗ ██║█████╗  ██║██║  ███╗
+#    ██║   ██║   ╚════██║██║╚██╔╝██║  ╚██╔╝  ██║     ██║   ██║██║╚██╗██║██╔══╝  ██║██║   ██║
+#    ██║   ██║   ███████║██║ ╚═╝ ██║   ██║   ╚██████╗╚██████╔╝██║ ╚████║██║     ██║╚██████╔╝
+#    ╚═╝   ╚═╝   ╚══════╝╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝     ╚═╝ ╚═════╝
+#
+#      Contact: @itsme-to
+#      Support: https://discord.gg/itsme-to
+#      Documentation: https://docs.itsme.to/itsmyconfig
+#
+# ################################################################################################
+
+debug: false
+symbol-prefix: $
+
+messages:
+  invalid-use:
+    - "<red><bold>ERROR</bold></red> <white>┃ Invalid use"
+    - "  <yellow>/<usage>"
+  reload:
+    - "<green><bold>SUCCES</bold></green> <white>┃ ItsmyConfig reloaded !"
+  no-permission:
+    - "<red><bold>ERROR</bold></red> <white>┃ You don't have permission"
+  message-sent:
+    - "<green><bold>SUCCES</bold></green> <white>┃ Message Sent !"
+
+formatting:
+  thousands: k
+  millions: M
+  billions: B
+  trillions: T
+  quadrillions: Q

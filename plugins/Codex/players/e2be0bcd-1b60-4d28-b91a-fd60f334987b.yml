@@ -1,0 +1,12 @@
+name: DerDuvid
+categories:
+  npc:
+    completed: false
+    discoveries:
+    - jobs;16/04/2025
+    - auctionhouse;16/04/2025
+    - shop;16/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;16/04/2025

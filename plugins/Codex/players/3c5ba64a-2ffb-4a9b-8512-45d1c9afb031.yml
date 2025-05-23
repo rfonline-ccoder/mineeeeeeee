@@ -1,0 +1,21 @@
+name: iSantos
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - guide;01/03/2025
+    - quests;01/03/2025
+    - kits;01/03/2025
+    - jobs;01/03/2025
+    - shop;01/03/2025
+    - skills;01/03/2025
+    - emotes;01/03/2025
+    - help;01/03/2025
+    - ranks;19/03/2025
+    - auctionhouse;19/03/2025
+  worlds:
+    completed: false
+    discoveries:
+    - survival;01/03/2025
+    - end;01/03/2025
+    - resourceworld;30/03/2025

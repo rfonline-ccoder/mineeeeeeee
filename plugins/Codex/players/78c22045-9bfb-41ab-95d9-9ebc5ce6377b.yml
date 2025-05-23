@@ -1,0 +1,20 @@
+name: Rcc69
+categories:
+  npc:
+    completed: true
+    discoveries:
+    - help;18/04/2025
+    - kits;18/04/2025
+    - quests;18/04/2025
+    - emotes;18/04/2025
+    - skills;18/04/2025
+    - auctionhouse;18/04/2025
+    - shop;18/04/2025
+    - ranks;18/04/2025
+    - jobs;18/04/2025
+    - guide;18/04/2025
+  worlds:
+    completed: false
+    discoveries:
+    - end;18/04/2025
+    - resourceworld;18/04/2025

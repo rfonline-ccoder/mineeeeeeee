@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 84.174.134.227
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1731003900411
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735309207294
+  login: 1735309045906
+money: '0'
+last-account-name: Cr4zyclownTV
+lastlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -9.255419270573924
+  y: 100.0
+  z: -0.03845681627343983
+  yaw: -165.29611206054688
+  pitch: 11.14445686340332
+logoutlocation:
+  world: 733355ae-a633-4848-98f1-34580544aec0
+  world-name: survival
+  x: 819.6999999880791
+  y: 79.0
+  z: -3158.47099873838
+  yaw: -4.1386871337890625
+  pitch: 25.172834396362305

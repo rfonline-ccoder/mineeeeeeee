@@ -1,0 +1,19 @@
+quest-progress:
+  mobkilling1:
+    started: true
+    started-date: 1734460331086
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      mobkilling:
+        completed: false
+  shearing1:
+    started: true
+    started-date: 1734460326007
+    completed: false
+    completed-before: false
+    completion-date: 0
+    task-progress:
+      shearing:
+        completed: false

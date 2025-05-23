@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 1.0.141.228
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744690769135
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744912862655
+  login: 1744912842996
+money: '0'
+last-account-name: NatchaLatte
+lastlocation:
+  world: 92b09415-2f1a-4af4-84b9-394fe5a7f15a
+  world-name: survival
+  x: 1785.5
+  y: 63.0
+  z: -2664.5
+  yaw: -161.59222412109375
+  pitch: 8.700127601623535
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -50.487185308812855
+  y: 106.0
+  z: 11.296603378409143
+  yaw: -18.492605209350586
+  pitch: -6.149855136871338

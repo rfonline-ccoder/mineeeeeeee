@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 95.7.2.141
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735047219742
+  login: 1735047049120
+money: '0'
+last-account-name: Sradee
+lastlocation:
+  world: 5be272ee-638c-4e58-818c-62efb83411a5
+  world-name: resourceworld
+  x: -4528.146317261233
+  y: 71.0
+  z: -3876.512270380853
+  yaw: 157.35897827148438
+  pitch: 45.090885162353516
+logoutlocation:
+  world: a94391b7-0beb-4828-abb1-930a2bf4ac31
+  world-name: Spawn
+  x: -21.45038566400202
+  y: 101.0
+  z: 14.061992452322219
+  yaw: -106.21768951416016
+  pitch: 11.468340873718262
